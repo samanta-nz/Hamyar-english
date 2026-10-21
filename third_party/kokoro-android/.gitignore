@@ -1,0 +1,18 @@
+.gradle/
+build/
+*.iml
+.idea/
+local.properties
+.DS_Store
+.cxx/
+
+# Models & large binaries — never commit (dev downloads them)
+*.onnx
+*.gguf
+*.bin
+!library/src/main/assets/voices/*.bin
+
+# espeak-ng-data is staged at build time (see scripts/fetch-espeak-data.sh);
+# keep the placeholder README, ignore the actual data files.
+library/src/main/assets/espeak-ng-data/*
+!library/src/main/assets/espeak-ng-data/README.md
