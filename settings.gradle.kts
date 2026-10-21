@@ -11,9 +11,15 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url = uri("https://jitpack.io") }
     }
 }
 
 rootProject.name = "HamyarEnglish"
 include(":app")
+
+includeBuild("third_party/kokoro-android") {
+    dependencySubstitution {
+        substitute(module("dev.ffmpegkit-maintained:kokoro-android"))
+            .using(project(":library"))
+    }
+}
