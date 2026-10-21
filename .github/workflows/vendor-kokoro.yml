@@ -39,7 +39,7 @@ jobs:
           mkdir -p third_party
           cp -a /tmp/kokoro-android "$DEST"
           rm -rf "$DEST/.git" "$DEST/.github" "$DEST/sample" "$DEST/docs" "$DEST/gradle/wrapper"
-          rm -f "$DEST/gradlew" "$DEST/gradlew.bat" "$DEST/.gitmodules"
+          rm -f "$DEST/espeak-ng/.git" "$DEST/gradlew" "$DEST/gradlew.bat" "$DEST/.gitmodules"
 
           cat > "$DEST/settings.gradle.kts" <<'EOF'
           pluginManagement {
@@ -120,7 +120,7 @@ jobs:
 
           printf '%s\n' "$COMMIT" > "$DEST/UPSTREAM_COMMIT.txt"
 
-          test -f "$DEST/library/src/main/assets/voices/af_heart.bin"
+          test -s "$DEST/library/src/main/assets/voices/af_heart.bin"
           test -f "$DEST/library/src/main/assets/espeak-ng-data/en_dict"
           test -f "$DEST/espeak-ng/CMakeLists.txt"
           test "$(cat "$DEST/UPSTREAM_COMMIT.txt")" = "$COMMIT"
@@ -131,10 +131,10 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add third_party/kokoro-android
+          git add -f third_party/kokoro-android
           if git diff --cached --quiet; then
             echo "Vendored Kokoro source is already current."
             exit 0
           fi
-          git commit -m "vendor: add pinned Kokoro Android source"
+          git commit -m "vendor: add complete pinned Kokoro Android source"
           git push origin HEAD:main
