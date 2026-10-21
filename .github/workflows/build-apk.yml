@@ -64,3 +64,5 @@ jobs:
           path: app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           compression-level: 0
+
+# Trigger a clean APK build after refreshing vendored Kokoro sources.
