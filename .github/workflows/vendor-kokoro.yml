@@ -15,9 +15,7 @@ jobs:
 
     steps:
       - name: Checkout Hamyar English
-        uses: actions/checkout@v4
-        with:
-          lfs: true
+        uses: actions/checkout@v5
 
       - name: Fetch pinned Kokoro Android source
         shell: bash
@@ -123,8 +121,9 @@ jobs:
           printf '%s\n' "$COMMIT" > "$DEST/UPSTREAM_COMMIT.txt"
 
           test -f "$DEST/library/src/main/assets/voices/af_heart.bin"
-          test -d "$DEST/library/src/main/assets/espeak-ng-data/en_dict"
+          test -f "$DEST/library/src/main/assets/espeak-ng-data/en_dict"
           test -f "$DEST/espeak-ng/CMakeLists.txt"
+          test "$(cat "$DEST/UPSTREAM_COMMIT.txt")" = "$COMMIT"
 
       - name: Commit vendored Kokoro source
         shell: bash
