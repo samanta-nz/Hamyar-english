@@ -58,5 +58,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("org.nanohttpd:nanohttpd:2.3.1")
-    implementation("dev.ffmpegkit-maintained:kokoro-android:0.1.0")
+
+    // Kokoro Android is not released to Maven Central yet. Pin the exact upstream
+    // commit through JitPack so CI is reproducible and does not follow master.
+    implementation("com.github.ffmpegkit-maintained.kokoro-android:library:593e2353954498b667e3bf3489a61723e6ba6b59")
 }
