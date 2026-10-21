@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Hamyar English Local Test</title>
+  <style>
+    body{font-family:sans-serif;max-width:720px;margin:40px auto;padding:16px;line-height:1.8}
+    textarea,button,input{width:100%;box-sizing:border-box;margin:8px 0;padding:12px;font-size:16px}
+    #status{white-space:pre-wrap;background:#f4f4f4;padding:12px;border-radius:8px}
+  </style>
+</head>
+<body>
+  <h1>تست Kokoro Local</h1>
+  <textarea id="text" rows="4">Are they at the office?</textarea>
+  <label>Speed <input id="speed" type="number" min="0.5" max="2" step="0.1" value="1.0"></label>
+  <button id="health">Health</button>
+  <button id="speak">ساخت و پخش صدا</button>
+  <audio id="audio" controls></audio>
+  <div id="status">آماده</div>
+<script>
+const base='http://127.0.0.1:8766';
+const status=document.getElementById('status');
+document.getElementById('health').onclick=async()=>{
+  try{const r=await fetch(base+'/health'); status.textContent=r.status+' '+await r.text();}
+  catch(e){status.textContent='ERROR: '+e;}
+};
+document.getElementById('speak').onclick=async()=>{
+  status.textContent='در حال ساخت...';
+  try{
+    const r=await fetch(base+'/v1/audio/speech',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({input:document.getElementById('text').value,voice:'af_heart',speed:Number(document.getElementById('speed').value),response_format:'wav'})
+    });
+    if(!r.ok) throw new Error(r.status+' '+await r.text());
+    const blob=await r.blob();
+    const u=URL.createObjectURL(blob);
+    const a=document.getElementById('audio'); a.src=u; await a.play();
+    status.textContent='OK - '+blob.size+' bytes';
+  }catch(e){status.textContent='ERROR: '+e;}
+};
+</script>
+</body>
+</html>
