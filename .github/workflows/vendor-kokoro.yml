@@ -32,11 +32,11 @@ jobs:
 
           sudo apt-get update
           sudo apt-get install -y espeak-ng-data
-          /tmp/kokoro-android/scripts/fetch-espeak-data.sh
+          bash /tmp/kokoro-android/scripts/fetch-espeak-data.sh
 
           python3 -m pip install --quiet --disable-pip-version-check numpy huggingface_hub
           python3 -m pip install --quiet --disable-pip-version-check torch --index-url https://download.pytorch.org/whl/cpu
-          /tmp/kokoro-android/scripts/fetch-voice-free.sh
+          bash /tmp/kokoro-android/scripts/fetch-voice-free.sh
 
           mkdir -p third_party
           cp -a /tmp/kokoro-android "$DEST"
