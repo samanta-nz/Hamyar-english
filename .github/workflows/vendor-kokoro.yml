@@ -1,0 +1,141 @@
+name: Vendor Kokoro Android
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/vendor-kokoro.yml'
+  workflow_dispatch:
+
+jobs:
+  vendor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Hamyar English
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Fetch pinned Kokoro Android source
+        shell: bash
+        run: |
+          set -euo pipefail
+          DEST='third_party/kokoro-android'
+          COMMIT='593e2353954498b667e3bf3489a61723e6ba6b59'
+          rm -rf "$DEST" /tmp/kokoro-android
+          git clone --recursive https://github.com/ffmpegkit-maintained/kokoro-android.git /tmp/kokoro-android
+          git -C /tmp/kokoro-android checkout "$COMMIT"
+          git -C /tmp/kokoro-android submodule update --init --recursive
+
+          sudo apt-get update
+          sudo apt-get install -y espeak-ng-data
+          /tmp/kokoro-android/scripts/fetch-espeak-data.sh
+
+          python3 -m pip install --quiet --disable-pip-version-check numpy huggingface_hub
+          python3 -m pip install --quiet --disable-pip-version-check torch --index-url https://download.pytorch.org/whl/cpu
+          /tmp/kokoro-android/scripts/fetch-voice-free.sh
+
+          mkdir -p third_party
+          cp -a /tmp/kokoro-android "$DEST"
+          rm -rf "$DEST/.git" "$DEST/.github" "$DEST/sample" "$DEST/docs" "$DEST/gradle/wrapper"
+          rm -f "$DEST/gradlew" "$DEST/gradlew.bat" "$DEST/.gitmodules"
+
+          cat > "$DEST/settings.gradle.kts" <<'EOF'
+          pluginManagement {
+              repositories { google(); mavenCentral(); gradlePluginPortal() }
+          }
+          dependencyResolutionManagement {
+              repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+              repositories { google(); mavenCentral() }
+          }
+          rootProject.name = "kokoro-android-vendored"
+          include(":library")
+          EOF
+
+          cat > "$DEST/build.gradle.kts" <<'EOF'
+          plugins {
+              alias(libs.plugins.android.library) apply false
+              alias(libs.plugins.kotlin.android) apply false
+          }
+          EOF
+
+          cat > "$DEST/library/build.gradle.kts" <<'EOF'
+          plugins {
+              alias(libs.plugins.android.library)
+              alias(libs.plugins.kotlin.android)
+          }
+
+          android {
+              namespace = "dev.ffmpegkit.kokoro"
+              compileSdk = 35
+              ndkVersion = "27.2.12479018"
+
+              defaultConfig {
+                  minSdk = 24
+                  consumerProguardFiles("consumer-proguard-rules.pro")
+                  ndk { abiFilters += "arm64-v8a" }
+                  externalNativeBuild {
+                      cmake {
+                          arguments += listOf(
+                              "-DANDROID_STL=c++_shared",
+                              "-DUSE_ASYNC=OFF",
+                              "-DUSE_MBROLA=OFF",
+                              "-DUSE_LIBSONIC=OFF",
+                              "-DUSE_LIBPCAUDIO=OFF",
+                              "-DUSE_KLATT=OFF",
+                              "-DUSE_SPEECHPLAYER=OFF",
+                              "-DESPEAK_BUILD_TESTS=OFF",
+                              "-DBUILD_SHARED_LIBS=ON",
+                          )
+                          cppFlags += "-O3"
+                          targets += "kokoro_jni"
+                      }
+                  }
+              }
+
+              externalNativeBuild {
+                  cmake {
+                      path = file("src/main/jni/CMakeLists.txt")
+                      version = "3.22.1"
+                  }
+              }
+
+              buildTypes { release { isMinifyEnabled = false } }
+              packaging { jniLibs { useLegacyPackaging = false } }
+              buildFeatures { buildConfig = true }
+              compileOptions {
+                  sourceCompatibility = JavaVersion.VERSION_11
+                  targetCompatibility = JavaVersion.VERSION_11
+              }
+              kotlinOptions { jvmTarget = "11" }
+          }
+
+          dependencies {
+              api(libs.onnxruntime.android)
+              implementation(libs.kotlinx.coroutines.android)
+              implementation(libs.androidx.core.ktx)
+          }
+          EOF
+
+          printf '%s\n' "$COMMIT" > "$DEST/UPSTREAM_COMMIT.txt"
+
+          test -f "$DEST/library/src/main/assets/voices/af_heart.bin"
+          test -d "$DEST/library/src/main/assets/espeak-ng-data/en_dict"
+          test -f "$DEST/espeak-ng/CMakeLists.txt"
+
+      - name: Commit vendored Kokoro source
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add third_party/kokoro-android
+          if git diff --cached --quiet; then
+            echo "Vendored Kokoro source is already current."
+            exit 0
+          fi
+          git commit -m "vendor: add pinned Kokoro Android source"
+          git push origin HEAD:main
