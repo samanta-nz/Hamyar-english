@@ -12805,5 +12805,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "3c4d2dcb565262e240e8da0c3ad95a5eaf277f7d69fa0a4e6c206cdf34ca632e"
+  },
+  "3) They  ...  playing football.": {
+    "file": "audio/962cc1f834b397fdfa5013d6c4b44f7a2347cb6d180cb3a569fb339983c5b363.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9f5ecc40b680e405a14c05a8fbe2335d5c09264beae166b6930a2c38f242a811"
+  },
+  "4) He is  ...  now. (run)": {
+    "file": "audio/8675ad7a5e0c95a28f183149cbc446dd27892706028b3440d2f439c13a66147b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "271457aba78e0e7029d103b5bfb02b6d37cbffba23a36ee217ed32c967a13b67"
+  },
+  "5) She is  ...  dinner. (make)": {
+    "file": "audio/9a56d95931ead0a058a0530093ff98d7ba25b7dd0f2d5e9b78fcb190e2d31bbe.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7ac42225c172f23f54ca5f063bbf260a91f4ad2205ce9d72f2b896536fb7bc53"
+  },
+  "6) The baby is  ...  down. (lie)": {
+    "file": "audio/dd8ec8017dd4cdffdb4c01bdf7076ede593044416ecf948a2fd1581bac72b78f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "5c29d6a8d7127fed948e777d3867fe228c8b44294ef0b54ae8098bf0e08cb9ab"
+  },
+  "7)  ...  he crying?": {
+    "file": "audio/d6fddaaefebbc835917b7c61270904d18542d585204b37e95f41d447592496c8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6b6eac70c121784c32984635f0929b76c3d498f91e47b299d1cbc62a7401c444"
+  },
+  "8) What  ...  you doing?": {
+    "file": "audio/5ffcc16096a4ab2065eaaeb95d9b3e133adefaa9a6eb60e81687dad9d32afbf1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f59776443900d3c1fe33341ab22287b8263fd69fdfeb67428fe2a155ca8f22b6"
+  },
+  "9) He  ...  crying.": {
+    "file": "audio/2713a2ea8c2c1ec9747eb37c1841faf65ef1d359caf8188f7f1068363e8ba643.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6ac9027f52a1a7e640a61d176a4a321717637439c04414be395ee3ed22d60c31"
+  },
+  "13) The weather  ...  colder.": {
+    "file": "audio/9c1cfd6dbf07aae6e2f3002d8ee5bdc9b8eb4f612a0db82e4b1c3e464237d432.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c4c3c46d5014b8f2513d75b7cac8dbecfcb880ed5bda5774498faeea8e551609"
+  },
+  "14) I'm  ...  Ali tomorrow.": {
+    "file": "audio/af159a30bcaadd4b3fb67e62313abe9bb427716ac8cfdbfde6753969944b79e5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c5e8d3e34c1e000c5197af475b16bdacde1855d38c779577d897fdb6fa8f04df"
+  },
+  "15) He is always  ...  his keys.": {
+    "file": "audio/a8433d553f4ee4310e47fc36dec502570f739ef4ca4e3c8558580b4814b960f9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-043",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a5abfa632af3f9b6741bff7ee072b30a6839c4bcb9883ade3900a92109138d10"
   }
 }

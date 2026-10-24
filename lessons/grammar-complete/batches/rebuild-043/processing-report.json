@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-043",
+  "accepted": [
+    {
+      "id": "present_continuous_quiz_03",
+      "text": "3) They  ...  playing football.",
+      "recording": "962cc1f834b397fdfa5013d6c4b44f7a2347cb6d180cb3a569fb339983c5b363"
+    },
+    {
+      "id": "present_continuous_quiz_04",
+      "text": "4) He is  ...  now. (run)",
+      "recording": "8675ad7a5e0c95a28f183149cbc446dd27892706028b3440d2f439c13a66147b"
+    },
+    {
+      "id": "present_continuous_quiz_05",
+      "text": "5) She is  ...  dinner. (make)",
+      "recording": "9a56d95931ead0a058a0530093ff98d7ba25b7dd0f2d5e9b78fcb190e2d31bbe"
+    },
+    {
+      "id": "present_continuous_quiz_06",
+      "text": "6) The baby is  ...  down. (lie)",
+      "recording": "dd8ec8017dd4cdffdb4c01bdf7076ede593044416ecf948a2fd1581bac72b78f"
+    },
+    {
+      "id": "present_continuous_quiz_07",
+      "text": "7)  ...  he crying?",
+      "recording": "d6fddaaefebbc835917b7c61270904d18542d585204b37e95f41d447592496c8"
+    },
+    {
+      "id": "present_continuous_quiz_08",
+      "text": "8) What  ...  you doing?",
+      "recording": "5ffcc16096a4ab2065eaaeb95d9b3e133adefaa9a6eb60e81687dad9d32afbf1"
+    },
+    {
+      "id": "present_continuous_quiz_09",
+      "text": "9) He  ...  crying.",
+      "recording": "2713a2ea8c2c1ec9747eb37c1841faf65ef1d359caf8188f7f1068363e8ba643"
+    },
+    {
+      "id": "present_continuous_quiz_13",
+      "text": "13) The weather  ...  colder.",
+      "recording": "9c1cfd6dbf07aae6e2f3002d8ee5bdc9b8eb4f612a0db82e4b1c3e464237d432"
+    },
+    {
+      "id": "present_continuous_quiz_14",
+      "text": "14) I'm  ...  Ali tomorrow.",
+      "recording": "af159a30bcaadd4b3fb67e62313abe9bb427716ac8cfdbfde6753969944b79e5"
+    },
+    {
+      "id": "present_continuous_quiz_15",
+      "text": "15) He is always  ...  his keys.",
+      "recording": "a8433d553f4ee4310e47fc36dec502570f739ef4ca4e3c8558580b4814b960f9"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

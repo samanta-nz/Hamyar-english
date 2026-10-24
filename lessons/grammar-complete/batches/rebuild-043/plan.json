@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "present_continuous_quiz_03",
+      "ttsText": "3) They  ...  playing football.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_03.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_03",
+      "audioSelector": "#audio_present_continuous_quiz_03",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_04",
+      "ttsText": "4) He is  ...  now. (run)",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_04.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_04",
+      "audioSelector": "#audio_present_continuous_quiz_04",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_05",
+      "ttsText": "5) She is  ...  dinner. (make)",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_05.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_05",
+      "audioSelector": "#audio_present_continuous_quiz_05",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_06",
+      "ttsText": "6) The baby is  ...  down. (lie)",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_06.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_06",
+      "audioSelector": "#audio_present_continuous_quiz_06",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_07",
+      "ttsText": "7)  ...  he crying?",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_07.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_07",
+      "audioSelector": "#audio_present_continuous_quiz_07",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_08",
+      "ttsText": "8) What  ...  you doing?",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_08.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_08",
+      "audioSelector": "#audio_present_continuous_quiz_08",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_09",
+      "ttsText": "9) He  ...  crying.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_09.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_09",
+      "audioSelector": "#audio_present_continuous_quiz_09",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_13",
+      "ttsText": "13) The weather  ...  colder.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_13.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_13",
+      "audioSelector": "#audio_present_continuous_quiz_13",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_14",
+      "ttsText": "14) I'm  ...  Ali tomorrow.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_14.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_14",
+      "audioSelector": "#audio_present_continuous_quiz_14",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_15",
+      "ttsText": "15) He is always  ...  his keys.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_15.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_15",
+      "audioSelector": "#audio_present_continuous_quiz_15",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ]
+]
