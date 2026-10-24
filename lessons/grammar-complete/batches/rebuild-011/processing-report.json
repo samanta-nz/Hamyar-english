@@ -1,0 +1,320 @@
+{
+  "batch": "rebuild-011",
+  "accepted": [
+    {
+      "id": "new_present_perfect_0104",
+      "text": "She is proud because the group has made a place that the whole neighborhood can use.",
+      "recording": "6bccf8f5fae66e76c75eff47097ae2851010e58c87b80cde5598af6ac3addea3"
+    },
+    {
+      "id": "new_present_perfect_0136",
+      "text": "Has he finished the report yet?",
+      "recording": "a1d5e9a139e165e808b035c5bbc6aa6017e668b7155f71de87df3d33ce58f1d0"
+    },
+    {
+      "id": "new_present_perfect_0137",
+      "text": "They have lived here since June.",
+      "recording": "c85d0bfe14f4784f64a70a8ea8d893e2d3402395d0ee4a66a8a23c54cc9c830a"
+    },
+    {
+      "id": "new_present_perfect_0138",
+      "text": "Sara has gone to the station.",
+      "recording": "5e63bdfd4bbc64b4a09cb33310dd67f02d6e20a78281550990bdfb7818a70343"
+    },
+    {
+      "id": "word_accept",
+      "text": "accept",
+      "recording": "c125d0397b605657bc89340953f5f2897a7e00a9b7d3474fa53720c8ccbbb3e3"
+    },
+    {
+      "id": "word_accepted",
+      "text": "accepted",
+      "recording": "070c160a6299c5438070b1aa737b14fc2992ed49579c14264884886a5876f971"
+    },
+    {
+      "id": "word_act",
+      "text": "act",
+      "recording": "f83f07be16e270186d35b876916c461995ebc3af5b1798f898c33285a1847dbc"
+    },
+    {
+      "id": "word_acted",
+      "text": "acted",
+      "recording": "94f27031fad001fcc75f856eccc680d5d2ea2fa1cc5efbf0442044959fd2640e"
+    },
+    {
+      "id": "word_add",
+      "text": "add",
+      "recording": "7e9e5ac30f2216fd0fd6f5faed316f2d5983361a4203c3330cfa46ef65bb4767"
+    },
+    {
+      "id": "word_added",
+      "text": "added",
+      "recording": "279b8a60f444fa8b6275687ce7e44363d97f72f88e4a3285baf0d9ed812e4061"
+    },
+    {
+      "id": "word_admire",
+      "text": "admire",
+      "recording": "13f31855069f273d8fb40a94154e4d5be5f6dc29eaf55e698fefd5f535d27260"
+    },
+    {
+      "id": "word_admired",
+      "text": "admired",
+      "recording": "083953bb494b4a908a287af48c420dc0489f7ca8070a1e3f1270a2c592f14016"
+    },
+    {
+      "id": "word_admit",
+      "text": "admit",
+      "recording": "358970fc5c749bdd282113419cba4f22c2eeb4523a9d4445d721a5b86c7113ca"
+    },
+    {
+      "id": "word_admitted",
+      "text": "admitted",
+      "recording": "52563f898870e6ce7817b3ffbd430df2104719a74fc408cbe24eb9f481078ce4"
+    },
+    {
+      "id": "word_advise",
+      "text": "advise",
+      "recording": "bac8ab1286b879dca5039beba1a4c5ac7828b703e2fc4ea42284b93af2dfbf8b"
+    },
+    {
+      "id": "word_advised",
+      "text": "advised",
+      "recording": "eb381108d0d8c070b8f8bcf094f67bc67d3a36b7528150b993b47e1b0e99a10d"
+    },
+    {
+      "id": "word_agree",
+      "text": "agree",
+      "recording": "94d5c9d96025716090f176f76e07c45b1296250fe9bfe1823f77f53881548690"
+    },
+    {
+      "id": "word_agreed",
+      "text": "agreed",
+      "recording": "9eace41237dcecc2fd793cf88494b80062add70fac8358316003ac38866257da"
+    },
+    {
+      "id": "word_allow",
+      "text": "allow",
+      "recording": "410083735735a10e658a19edd1704e606c9dd112e225825b63fafeded766c8b9"
+    },
+    {
+      "id": "word_allowed",
+      "text": "allowed",
+      "recording": "eabc01f12ec3e7cb6db0ada0f8f37323b0cfe6d08a2a73479e7d5b62d7e63529"
+    },
+    {
+      "id": "word_answered",
+      "text": "answered",
+      "recording": "68c780cd132a0299c7cd3fa8649783cbc2872a98d90cd4ed6b9696e3c61c4c68"
+    },
+    {
+      "id": "word_appear",
+      "text": "appear",
+      "recording": "adf5a890f0aec8298377b12d60151946eae14edc97a4e8843f0bf16152c7fb49"
+    },
+    {
+      "id": "word_appeared",
+      "text": "appeared",
+      "recording": "79159126c7f037a1b22bce34e5463bbf729b3930bd6c73afd8bfc58fcea25a87"
+    },
+    {
+      "id": "word_applied",
+      "text": "applied",
+      "recording": "b4267ce93cbba4e415504feb895f662dcced5d7aa406f27e8447c8fd5f0d48c8"
+    },
+    {
+      "id": "word_apply",
+      "text": "apply",
+      "recording": "97a5e41b45ddd2b2381046e77ccfa5c45d3553b81b66aeba7ed5c460c660f93f"
+    },
+    {
+      "id": "word_argue",
+      "text": "argue",
+      "recording": "92a4753ceb578fa01c0b0a14f08028b4b33d77c5ecab37d5442f818824754975"
+    },
+    {
+      "id": "word_argued",
+      "text": "argued",
+      "recording": "166a154ba9735cc7e6c94d97d4fe42dfb075518981707209a1ea54a97ca8c4ca"
+    },
+    {
+      "id": "word_arise",
+      "text": "arise",
+      "recording": "877d41bc540c57e06ac1f4d3edfd59e5d3651402500a4336e26f50572fcb9389"
+    },
+    {
+      "id": "word_arisen",
+      "text": "arisen",
+      "recording": "33c93d7f7628ab6965d4f7931a8790620d82a28fac2cdbaf29f6868ef5b18eb4"
+    },
+    {
+      "id": "word_arose",
+      "text": "arose",
+      "recording": "93504e2b434174c5dd6ce15a658367b91b6034b277ee10e797fdf80e0da702ce"
+    },
+    {
+      "id": "word_arrange",
+      "text": "arrange",
+      "recording": "3c1f2776b86f209e6a0f3a58c5393102c7f66ac9729d0b6ae46b27437f713b83"
+    },
+    {
+      "id": "word_arranged",
+      "text": "arranged",
+      "recording": "902c3bb54fddd43effe81edacaf9397b4d8ad4ba2045e4d5428e7ac505e5f936"
+    },
+    {
+      "id": "word_asked",
+      "text": "asked",
+      "recording": "c66790da5943c4466dd80634deb63f4e19f07e7f81624f222b86fecf9fff6445"
+    },
+    {
+      "id": "word_attach",
+      "text": "attach",
+      "recording": "a919007637abd504f123db0cbc8f290ab16db93adf24b1fc03c50e6131d2b98e"
+    },
+    {
+      "id": "word_attached",
+      "text": "attached",
+      "recording": "55d9067ef2bfacd4dc38ef7294695794ff61bba45f11b2f4d9b70515c57b2187"
+    },
+    {
+      "id": "word_attack",
+      "text": "attack",
+      "recording": "fca30679635be3bbce1ca7d8a9ceb8f0daceaaa80e4cf645584db5ccc0dbf0b2"
+    },
+    {
+      "id": "word_attacked",
+      "text": "attacked",
+      "recording": "64e591a71896718d9fd5ff53157eddf151ab51dbd33ecdd1d9f0b9ab24da04c2"
+    },
+    {
+      "id": "word_attempt",
+      "text": "attempt",
+      "recording": "c7ce66d0fb14e3c2d4d920918cc6cc7e488668b08dddeb7b85e44de3b9f3eb01"
+    },
+    {
+      "id": "word_attempted",
+      "text": "attempted",
+      "recording": "6436fecfc458363a95a10a7c96654c3e6b4488b9d7ef3fde32cca949b7185a10"
+    },
+    {
+      "id": "word_avoid",
+      "text": "avoid",
+      "recording": "3270f7fe8acead1d13ab1302994ea2732f3bd98081995e5a454dea82501197e4"
+    },
+    {
+      "id": "word_avoided",
+      "text": "avoided",
+      "recording": "8b24a46e8ef2c6adc6be89b44283a33076228878a30ffa12a3d5583a2be6c2d2"
+    },
+    {
+      "id": "word_awake",
+      "text": "awake",
+      "recording": "f245940166d1611d76b3def5535433a738cd431035a42a245fa921bb37d9ec02"
+    },
+    {
+      "id": "word_awoke",
+      "text": "awoke",
+      "recording": "6a7e85351d11544d9f20f459e5c6ca29760c2c77ba7b729003d172be6e11267a"
+    },
+    {
+      "id": "word_awoken",
+      "text": "awoken",
+      "recording": "6293d30f5fbf2b48bd94212a5b5b845cdfae26c3264d587c1ea03c87ba73a347"
+    },
+    {
+      "id": "word_bake",
+      "text": "bake",
+      "recording": "3c8c082e47323c2858b0898b39c045b39b6f5874133f77d89f9fe9c8034b2e1d"
+    },
+    {
+      "id": "word_baked",
+      "text": "baked",
+      "recording": "0c49b4dd29afbbf600e87958576b1c7bf5bc45f015442d31c2590a70179b7c44"
+    },
+    {
+      "id": "word_balance",
+      "text": "balance",
+      "recording": "5751e048eb6fee3eb9bb4ea70f107f19c35863766bee5100044e52ab60d9edcf"
+    },
+    {
+      "id": "word_balanced",
+      "text": "balanced",
+      "recording": "c0905088ba5b80677849d4824f21b8b075ab49c6a7f58b5b84815ccd69f3b0a5"
+    },
+    {
+      "id": "word_bear",
+      "text": "bear",
+      "recording": "bc98bb50e8094b2ac3ceb90ba2512587c0513cd294a07efcfdcf467198da6266"
+    },
+    {
+      "id": "word_beat",
+      "text": "beat",
+      "recording": "f9eeb63bf773f4b0854dae2f22b7c57a8cd129443f1712c46e7344e3b05f1149"
+    },
+    {
+      "id": "word_beaten",
+      "text": "beaten",
+      "recording": "55ff05b1ce1b14b49a89ab953d26800529fb45713a1f9a8634fa33837d026f2a"
+    },
+    {
+      "id": "word_became",
+      "text": "became",
+      "recording": "3f5c81b45da7f1f27fbcfc7cd9563b04b8449463aec53ddd2616b2161bd68c54"
+    },
+    {
+      "id": "word_began",
+      "text": "began",
+      "recording": "b3cebf40b6c091af81c9751816cfe974debf2a19974cfb6ce3adf3019300031d"
+    },
+    {
+      "id": "word_begun",
+      "text": "begun",
+      "recording": "7bc6220d36ab0e425eecd5e1b916c44e62c71f9379f650ea0d843fdbf8ff2e27"
+    }
+  ],
+  "held": [
+    {
+      "group": 0,
+      "pauses": [
+        [
+          3.427574,
+          0.505079
+        ],
+        [
+          5.746508,
+          0.380363
+        ],
+        [
+          7.826893,
+          0.277438
+        ],
+        [
+          10.103741,
+          0.284082
+        ],
+        [
+          14.015828,
+          0.519433
+        ],
+        [
+          15.654694,
+          0.438413
+        ],
+        [
+          17.202358,
+          0.220476
+        ],
+        [
+          19.770113,
+          0.452177
+        ],
+        [
+          22.360816,
+          0.227007
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
