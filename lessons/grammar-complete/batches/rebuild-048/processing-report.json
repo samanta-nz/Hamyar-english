@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-048",
+  "accepted": [
+    {
+      "id": "new_to_be_0009",
+      "text": "Ali is Iranian.",
+      "recording": "a9d37a267384b1152727ada6ddd2085051adf7cb36323582f00003a2654aa06e"
+    },
+    {
+      "id": "new_to_be_0010",
+      "text": "Mina is a doctor.",
+      "recording": "ed0816fb536e3eae1d0d2ec6a1b4dfbbd1e311c98482eefd52267859f9d06686"
+    },
+    {
+      "id": "new_to_be_0011",
+      "text": "We are happy today.",
+      "recording": "2b82936115b9d8af9ef2217f02b4271558cae8d1a0e6b056be613f20c04c0f00"
+    },
+    {
+      "id": "new_to_be_0012",
+      "text": "They are tired after work.",
+      "recording": "2000dfe2f96087c04d81d5ac9bb3b98458a42071a268219a26a491bde5fd558a"
+    },
+    {
+      "id": "new_to_be_0009",
+      "text": "Is Emma in the garden?",
+      "recording": "795f2c21485ed428cb9af7bbeee02f6a2f09b4ae128c372df5f7e04ea3a49e36"
+    },
+    {
+      "id": "new_to_be_0010",
+      "text": "There is a clock above the door.",
+      "recording": "7bf18bb8bf74ed4ce26980cccaf60847025538359ac0bb658042f09b722ea600"
+    },
+    {
+      "id": "new_to_be_0011",
+      "text": "We are ready for the lesson.",
+      "recording": "453e807e98c54a0600acc8941ae1e9cff87dcb4bccfcbac057896172d9b8f987"
+    },
+    {
+      "id": "new_to_be_0012",
+      "text": "Those are our science books.",
+      "recording": "1d9c2335a67a10651aaab6addab4a02b7f49ba3bf354bb345beb7bdcc1738c0d"
+    },
+    {
+      "id": "new_present_simple_0009",
+      "text": "Sara studies at home.",
+      "recording": "e3df5d07491d7a24a9de4cab36646c27589e2e1324b51787d9caa2cf8cafa786"
+    },
+    {
+      "id": "new_present_simple_0010",
+      "text": "The bus passes our street.",
+      "recording": "4ce332134dd3af8da78c3c4da61d283b751fc11f76921dad6a0969274c72d4e7"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

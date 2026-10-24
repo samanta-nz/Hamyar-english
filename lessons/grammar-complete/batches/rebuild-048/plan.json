@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0009",
+      "ttsText": "Ali is Iranian.",
+      "sourceFilePath": "audio/to-be/new_to_be_0009.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0009",
+      "audioSelector": "#audio_new_to_be_0009",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0010",
+      "ttsText": "Mina is a doctor.",
+      "sourceFilePath": "audio/to-be/new_to_be_0010.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0010",
+      "audioSelector": "#audio_new_to_be_0010",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0011",
+      "ttsText": "We are happy today.",
+      "sourceFilePath": "audio/to-be/new_to_be_0011.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0011",
+      "audioSelector": "#audio_new_to_be_0011",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0012",
+      "ttsText": "They are tired after work.",
+      "sourceFilePath": "audio/to-be/new_to_be_0012.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0012",
+      "audioSelector": "#audio_new_to_be_0012",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0009",
+      "ttsText": "Is Emma in the garden?",
+      "sourceFilePath": "audio/to-be/new_to_be_0009.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0009",
+      "audioSelector": "#audio_new_to_be_0009",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0010",
+      "ttsText": "There is a clock above the door.",
+      "sourceFilePath": "audio/to-be/new_to_be_0010.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0010",
+      "audioSelector": "#audio_new_to_be_0010",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0011",
+      "ttsText": "We are ready for the lesson.",
+      "sourceFilePath": "audio/to-be/new_to_be_0011.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0011",
+      "audioSelector": "#audio_new_to_be_0011",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0012",
+      "ttsText": "Those are our science books.",
+      "sourceFilePath": "audio/to-be/new_to_be_0012.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0012",
+      "audioSelector": "#audio_new_to_be_0012",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0009",
+      "ttsText": "Sara studies at home.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0009.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0009",
+      "audioSelector": "#audio_new_present_simple_0009",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0010",
+      "ttsText": "The bus passes our street.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0010.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0010",
+      "audioSelector": "#audio_new_present_simple_0010",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ]
+]

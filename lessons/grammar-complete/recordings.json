@@ -13237,5 +13237,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "8e9c76707d9eb73ebafa9eff5c072947890962c8c15e8db9cc454e723d222835"
+  },
+  "Ali is Iranian.": {
+    "file": "audio/a9d37a267384b1152727ada6ddd2085051adf7cb36323582f00003a2654aa06e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a7afbc6eeb46de71c95638bceb4704f0cc80504603d9123ff287f7b300b0a223"
+  },
+  "Mina is a doctor.": {
+    "file": "audio/ed0816fb536e3eae1d0d2ec6a1b4dfbbd1e311c98482eefd52267859f9d06686.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ed5d5b5813b7e291d269eee44d74c40edd19279154912624beb541dd1de7f806"
+  },
+  "We are happy today.": {
+    "file": "audio/2b82936115b9d8af9ef2217f02b4271558cae8d1a0e6b056be613f20c04c0f00.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bf8f4d025b01bfb147b6843b54650a8039a79a802983e6352ff4d9322c5dff30"
+  },
+  "They are tired after work.": {
+    "file": "audio/2000dfe2f96087c04d81d5ac9bb3b98458a42071a268219a26a491bde5fd558a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "36ea29edb150276143512fba093098119172d95cacecc3c05ac708bb5e664377"
+  },
+  "Is Emma in the garden?": {
+    "file": "audio/795f2c21485ed428cb9af7bbeee02f6a2f09b4ae128c372df5f7e04ea3a49e36.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2402c8574be7e80223ae61970f384cb342814aefb399058cbab24de22fe87567"
+  },
+  "There is a clock above the door.": {
+    "file": "audio/7bf18bb8bf74ed4ce26980cccaf60847025538359ac0bb658042f09b722ea600.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "09e04b3e9c8e54e7319e6ec7eb7a612befe075c25c1d890bb547525c7bb2b119"
+  },
+  "We are ready for the lesson.": {
+    "file": "audio/453e807e98c54a0600acc8941ae1e9cff87dcb4bccfcbac057896172d9b8f987.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7e8f8ca6ff037ce04bd71b1c1fa023803865f70d00d8b0940ad27ec39893bf53"
+  },
+  "Those are our science books.": {
+    "file": "audio/1d9c2335a67a10651aaab6addab4a02b7f49ba3bf354bb345beb7bdcc1738c0d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "729ddcfa6c183aac99a9a0214af6a419227d8cdcda4010d2ac8a4b35269eb242"
+  },
+  "Sara studies at home.": {
+    "file": "audio/e3df5d07491d7a24a9de4cab36646c27589e2e1324b51787d9caa2cf8cafa786.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "72bc249b7ed2d90022f98e9cd90f6e41cc527ab8fc7462e5065a49ec84f2eea5"
+  },
+  "The bus passes our street.": {
+    "file": "audio/4ce332134dd3af8da78c3c4da61d283b751fc11f76921dad6a0969274c72d4e7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-048",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "76f0e084d5784542cd4d9e8460b93fc337dc79d91a1216efd2a9ef14e2b4db43"
   }
 }
