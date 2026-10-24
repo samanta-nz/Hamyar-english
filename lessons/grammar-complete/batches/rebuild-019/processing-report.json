@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-019",
+  "accepted": [
+    {
+      "id": "word_sleep",
+      "text": "sleep",
+      "recording": "0afa5bb5d5f1787945e555e91474675beb6f34dd9a490423c4d0460e4d454885"
+    },
+    {
+      "id": "word_slid",
+      "text": "slid",
+      "recording": "293814dcd807807818b5dd981e67688e785c5e918cc8d413bbbb65465ef97ff3"
+    },
+    {
+      "id": "word_slide",
+      "text": "slide",
+      "recording": "b8a7e24e95497806eafbe1b4a897b70ecf6e57f4bfca8c770091e1f075304006"
+    },
+    {
+      "id": "word_smell",
+      "text": "smell",
+      "recording": "8fca2d48e1ee96c1193ac41b8baff2f8b83738e79d99cd4e8ce86df1a712be97"
+    },
+    {
+      "id": "word_smelled",
+      "text": "smelled",
+      "recording": "654f039ae5897b203ee4e2ef8cbd57fa99f18bab9426c11c3a4f464d623d1737"
+    },
+    {
+      "id": "word_smelt",
+      "text": "smelt",
+      "recording": "16e3d5166cf6f51f20d1a954fbbf69fbe7e7f84d9f879c4e08a86313c614c098"
+    },
+    {
+      "id": "word_smiled",
+      "text": "smiled",
+      "recording": "04b1639a196cd4b744b0d5e3aa3414d6c95b1e70dc6fb4840f8595d8e3dd6f23"
+    },
+    {
+      "id": "word_sold",
+      "text": "sold",
+      "recording": "a6fffccf2d95e20b779be56876f174076586fed6b6ecef72b0eba0ce87233754"
+    },
+    {
+      "id": "word_solve",
+      "text": "solve",
+      "recording": "c14cdb19563cb1644772f5c3e7709845fb82e5be43348cd6d529d50c6050763e"
+    },
+    {
+      "id": "word_solved",
+      "text": "solved",
+      "recording": "ca7b7333032bd3997d54309f7ec80433afa74d2b8ad4cd27ff3f2ed87311aa83"
+    },
+    {
+      "id": "word_sought",
+      "text": "sought",
+      "recording": "f7270c25ce02da400d219cf7df22e04b46c7df21b664f45868bd07a786011c34"
+    },
+    {
+      "id": "word_spat",
+      "text": "spat",
+      "recording": "c9e949c0039a95d182a61944964878ed1e11db480b8b12981ecc5b5bc34f34ff"
+    },
+    {
+      "id": "word_speak",
+      "text": "speak",
+      "recording": "21e5205f73d9edbf72bc29b5ffcb4631cfc95e8f287c4d68e73d17ad72eb5eb3"
+    },
+    {
+      "id": "word_sped",
+      "text": "sped",
+      "recording": "96466cddbbf9e52fe585ecb0fa3f9dd16c7f92c656d8e958df8ad9fff9f7a44b"
+    },
+    {
+      "id": "word_speed",
+      "text": "speed",
+      "recording": "bbccb9c002d5ed5994789fd8d38a8af3825f7691e10c44cac9b07dc54b15c2ee"
+    },
+    {
+      "id": "word_speeded",
+      "text": "speeded",
+      "recording": "99b5ae41efabca155c8219c8fbdc8db14a78508885c43e026d14c0f87634a268"
+    },
+    {
+      "id": "word_spell",
+      "text": "spell",
+      "recording": "8f4a0aaa62c4ceef88578b1b674070e6b8d9405b80729d5c7af2f353543b2f89"
+    },
+    {
+      "id": "word_spelled",
+      "text": "spelled",
+      "recording": "a85b2b4328fe895828386d172519ca2c2c3cdd28b13c8ce0a359b218796685da"
+    },
+    {
+      "id": "word_spelt",
+      "text": "spelt",
+      "recording": "84844ab2fe15153e58d1421b6473005fbf3cedb8eda21efc7c41210147d05f5b"
+    },
+    {
+      "id": "word_spent",
+      "text": "spent",
+      "recording": "2705d83fa7bc32e9d64fba9ace3e0be62e01af4cd2227ed00e538c8d944b75d6"
+    },
+    {
+      "id": "word_spill",
+      "text": "spill",
+      "recording": "234a838aaa5e6ae0a9a2076d47b8e1d571c40e8e42c72d07719cfaceab508225"
+    },
+    {
+      "id": "word_spilled",
+      "text": "spilled",
+      "recording": "54f843159442a6078302ab63fb729c19c083ba449c87d7e15b86955cd52a8a05"
+    },
+    {
+      "id": "word_spilt",
+      "text": "spilt",
+      "recording": "d43ce4734af69b792d317dad9570e69fc0d9ee83370411f4f2ac0daf9cf90f4b"
+    },
+    {
+      "id": "word_spin",
+      "text": "spin",
+      "recording": "a5a2729ffa0eeacc15323a9168807c72d18d1cb375dbde899c44d6803dad2b19"
+    },
+    {
+      "id": "word_spit",
+      "text": "spit",
+      "recording": "3a7647a8e327e8e462cc2262b3369a57dbd51f37136656ba9504b45de2378c92"
+    },
+    {
+      "id": "word_split",
+      "text": "split",
+      "recording": "ad1a64057f9ab34fecfe3f4ee78660bb0316dbda9370581ffbeb1e8bddf3d598"
+    },
+    {
+      "id": "word_spoke",
+      "text": "spoke",
+      "recording": "5a6df92ae8c424224ef1810084e6fcc8b5669206af94b096080880ff120f30b5"
+    },
+    {
+      "id": "word_spoken",
+      "text": "spoken",
+      "recording": "8e19545f050320bc5fa35f5615ce31d1bc6e01c998c95d167953ca29d237b80e"
+    },
+    {
+      "id": "word_sprang",
+      "text": "sprang",
+      "recording": "07b68a927c974b7db6cbb14661e841f5552ac042b6832d2913c05471bbf80ddc"
+    },
+    {
+      "id": "word_spread",
+      "text": "spread",
+      "recording": "909802b269dee093387e26c6c7ace636f180eac29f58c7d8009b637c4babf1ce"
+    },
+    {
+      "id": "word_spring",
+      "text": "spring",
+      "recording": "622a494d3ea8c7ba2fed4f37909f14d9b50ab412322de39be62c8d6c2418bfca"
+    },
+    {
+      "id": "word_sprung",
+      "text": "sprung",
+      "recording": "56c801ceb3e29c422505275c23250ee2fdb60788f90489806e34943b81172459"
+    },
+    {
+      "id": "word_spun",
+      "text": "spun",
+      "recording": "50a63b36934d63ff0c36d4379454de385341cbe184d58d1b31f8c1810638ecd4"
+    },
+    {
+      "id": "word_stand",
+      "text": "stand",
+      "recording": "d37a24b801c6e2e338243b7361c5985e1d8e26bcf5555dd08cd8c969e01e1670"
+    },
+    {
+      "id": "word_stank",
+      "text": "stank",
+      "recording": "70432a07a7eb3c199416f7f944d4c3e0d8b0f72c5e516bc64b7168b22ba01849"
+    },
+    {
+      "id": "word_start",
+      "text": "start",
+      "recording": "cced28c6dc3f99c2396a5eaad732bf6b28142335892b1cd0e6af6cdb53f5ccfa"
+    },
+    {
+      "id": "word_stayed",
+      "text": "stayed",
+      "recording": "9fdaa51991822b2ed57de891c14bc34d9c49058aaf9f22c39d1198e509713ed6"
+    },
+    {
+      "id": "word_steal",
+      "text": "steal",
+      "recording": "a0fd408352bd19a22a881364233d67f477af715ee0888ea19f53097d349b63f5"
+    },
+    {
+      "id": "word_stick",
+      "text": "stick",
+      "recording": "8f53dd914ced58d84b4d816958f1442f59387ce7eadb03fa6aed193a512b2e5f"
+    },
+    {
+      "id": "word_sting",
+      "text": "sting",
+      "recording": "04695fa805d662a7ca811a5d9568e6cc080c07e6ec9f81360f8146eccb701cc6"
+    },
+    {
+      "id": "word_stink",
+      "text": "stink",
+      "recording": "86ed3bf1c2692900c271e6ee78766f76f1928209478e19503f3073c28b39728b"
+    },
+    {
+      "id": "word_stole",
+      "text": "stole",
+      "recording": "8272f44ab327f35080a20857e62c3f2f7e11d55267535db2321486e36e1597c9"
+    },
+    {
+      "id": "word_stolen",
+      "text": "stolen",
+      "recording": "823d95a9a728f14d626df9a894705dda27417b8927412364255b515e9f2ac2e2"
+    },
+    {
+      "id": "word_stood",
+      "text": "stood",
+      "recording": "96cbf33afdf16e9464b93918b15c8512e8293fa875c668975bd39c0ccb28eaf8"
+    },
+    {
+      "id": "word_stopped",
+      "text": "stopped",
+      "recording": "8322e87d24582952e5c996da182de0eca66dd2bf58fba5ec56a325c656f21b38"
+    },
+    {
+      "id": "word_stricken",
+      "text": "stricken",
+      "recording": "7f83315329dab6c923d923caddd26e1e057042793ef66355120e8d7cf9f82e2d"
+    },
+    {
+      "id": "word_strike",
+      "text": "strike",
+      "recording": "7cd58cdd64a3dcfcd4a55b5972523d0b472bd7487ef2f785aa64c75fa39f830e"
+    },
+    {
+      "id": "word_struck",
+      "text": "struck",
+      "recording": "cf3ffce19a8f6777d12bc12a13f0c7525af17389913b5c0965c4c1b6fc1cd540"
+    },
+    {
+      "id": "word_stuck",
+      "text": "stuck",
+      "recording": "9c05ce79d0bfe037953b11f168069e5af4ea2605b8534a188f64dee6c0b643fe"
+    },
+    {
+      "id": "word_stung",
+      "text": "stung",
+      "recording": "c7c23913737fc0cfa0f3ee3d185a24b30e99d4b9018e4700422888efe77bbc59"
+    },
+    {
+      "id": "word_stunk",
+      "text": "stunk",
+      "recording": "5f18e9182922d669f12d6f52263af5949227d1382ac747f1bc56df28f59ef9aa"
+    },
+    {
+      "id": "word_sung",
+      "text": "sung",
+      "recording": "05c2b812bf088eece9e268bf06501f3830664aea8db0c4b6039ce838c98d6709"
+    },
+    {
+      "id": "word_sunk",
+      "text": "sunk",
+      "recording": "a73436c700d1b8ae3a2c1e45862f274b119f38489ef7ad9d17822ce8dcfb0abf"
+    },
+    {
+      "id": "word_support",
+      "text": "support",
+      "recording": "a18603086e5bdf9df88ccc9f5a083fed093e819976e87456b74dafcbd7011114"
+    },
+    {
+      "id": "word_supported",
+      "text": "supported",
+      "recording": "37b322c559d476e555e4768afc8d922da4490cadcc6d90fa82ff6b335c8e220b"
+    },
+    {
+      "id": "word_swam",
+      "text": "swam",
+      "recording": "0a7aae69a25356b6e8066a183791b4ef5d07f113466b7486be1db1b30163fbd0"
+    },
+    {
+      "id": "word_swear",
+      "text": "swear",
+      "recording": "3ef631dfff36845fe066894e774a129c70b18caaffedab4e0065ef14d4970bd3"
+    },
+    {
+      "id": "word_sweep",
+      "text": "sweep",
+      "recording": "dfd33796972c3baa5e1c065390e7e75cf9ac8fb637dd031aa86490f063e79784"
+    },
+    {
+      "id": "word_swept",
+      "text": "swept",
+      "recording": "0a7d003fcf77f7fbf7073738c73385d4768a2843a67af7d414041c7988f53072"
+    },
+    {
+      "id": "word_swing",
+      "text": "swing",
+      "recording": "2da977e917bcbc5ef3b51217c7882607dd49d8afdc04a2f90790f562ef287393"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
