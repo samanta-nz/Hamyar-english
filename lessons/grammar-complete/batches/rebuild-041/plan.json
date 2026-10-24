@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "present_simple_quiz_09",
+      "ttsText": "9) What  ...  he study?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_09.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_09",
+      "audioSelector": "#audio_present_simple_quiz_09",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_10",
+      "ttsText": "10) They  ...  English.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_10.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_10",
+      "audioSelector": "#audio_present_simple_quiz_10",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_11",
+      "ttsText": "11) Sara  ...  English.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_11.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_11",
+      "audioSelector": "#audio_present_simple_quiz_11",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_12",
+      "ttsText": "12) Does Ali  ...  here?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_12.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_12",
+      "audioSelector": "#audio_present_simple_quiz_12",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_13",
+      "ttsText": "13) She doesn't  ...  French.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_13.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_13",
+      "audioSelector": "#audio_present_simple_quiz_13",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_14",
+      "ttsText": "14)  ...  we ready?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_14.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_14",
+      "audioSelector": "#audio_present_simple_quiz_14",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0112",
+      "ttsText": "He ___ coffee every morning.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0112.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0112",
+      "audioSelector": "#audio_new_present_simple_0112",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0113",
+      "ttsText": "Sara ___ English after dinner.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0113.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0113",
+      "audioSelector": "#audio_new_present_simple_0113",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0114",
+      "ttsText": "They ___ to school by bus.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0114.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0114",
+      "audioSelector": "#audio_new_present_simple_0114",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0115",
+      "ttsText": "Does she ___ music?",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0115.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0115",
+      "audioSelector": "#audio_new_present_simple_0115",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ]
+]

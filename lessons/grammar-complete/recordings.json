@@ -12625,5 +12625,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "b58609c8b6272133ec6de9c01aac65e3b04c4d610cffb90c763bc97b894d0fa8"
+  },
+  "9) What  ...  he study?": {
+    "file": "audio/4b8a1f44aa88d2316f98ae82496acc0d7fa6d09fe06d5e3343be79a85fbedcc0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2c29bc0c8bb8ae7709be594132cbf7bc0bc733be66a049021b1eb4f2f1a54528"
+  },
+  "10) They  ...  English.": {
+    "file": "audio/0967194156831d08cb3bafa7362a2002659dfc19615394bd2bfee155e10c6a01.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c253dce9a77059a27ed8b07895706c3528a90937ea2d7163d4216ad8dc3e18ad"
+  },
+  "11) Sara  ...  English.": {
+    "file": "audio/be1359aaaaf246eec52230281cc2960cd5616b1812bea506512a197ef3eb2fb2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2856a35e7fba6564bf68510679d84dc373fdacb4dc6c5ccc220a275938338c83"
+  },
+  "12) Does Ali  ...  here?": {
+    "file": "audio/7510a45f5b9f702a539ac34f8673532fbe80854a9801262fcc57624b84028e11.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1b766074969d6d31f025061284ea255763cadda652afafc9176482767c9ea50c"
+  },
+  "13) She doesn't  ...  French.": {
+    "file": "audio/a30bf60fa30caa4ba410501a55a56f8b8c30f86a1febb12a2979ca707b77da72.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "41ca5240850112cda5e78c68c91e34137d762a541a705b6c9f24f4707fd8721d"
+  },
+  "14)  ...  we ready?": {
+    "file": "audio/72197b8cf62278145acb1597fb646b6aad235ab2074e7942b0cf9b40aed14c1d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "795c3e98fd7b633d24c47f1cdffffc2b2e96617d7e6a404cc90f476939eb2643"
+  },
+  "He ___ coffee every morning.": {
+    "file": "audio/4b146450047218c3001fb3dbb536ce382f6ff0a4746f35347a2813c507274545.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "48637c21fe6a5a0b02f7dfe2cda4ec74abcb8dad5bd7b8255ae9ae8e012abba4"
+  },
+  "Sara ___ English after dinner.": {
+    "file": "audio/b217918652f2745b877fffc460d679fa48be75d35d053ff4ba3faa9bfa0f9502.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "724e86da72f31651d42f2eb9ce1e17c3f715e0e79347f88a98a9426c37afc0ea"
+  },
+  "They ___ to school by bus.": {
+    "file": "audio/18b9fe89c8f6b7fd9731c9cef5b66b1726fa0c24f0f6c461605de176c13b7293.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "0ebcc86c7a1526fbdc9e44cf5648af3172c3e4e8aa1c71f459c55d6e61f0cf49"
+  },
+  "Does she ___ music?": {
+    "file": "audio/3fa4e2dd1df8e3b3f76410b96b2827fae7754d88e91542305aeb4b11f84e2dc9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-041",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ee1269405dfa5565ca927778e618962abb140cf3f7b3c6762630aa3ce6c7f397"
   }
 }
