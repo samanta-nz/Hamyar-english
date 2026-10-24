@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-044",
+  "accepted": [
+    {
+      "id": "new_present_continuous_0123",
+      "text": "She ___ a book now.",
+      "recording": "2c8abec7d76b37505f85cde2487536df3c5ed4b71f6f5ef58aa7c51b8571d26d"
+    },
+    {
+      "id": "new_present_continuous_0124",
+      "text": "I ___ waiting for the bus.",
+      "recording": "c43f93ca2bfaf9a50aff62f49a070c57cbb19462b3f1645d370051b47b380e59"
+    },
+    {
+      "id": "new_present_continuous_0125",
+      "text": "They are ___ dinner.",
+      "recording": "25d1716b31b11d0e1b12589cf2914fd2dbb30acef072f401460343a02cdd9a36"
+    },
+    {
+      "id": "new_present_continuous_0126",
+      "text": "He ___ watching TV now.",
+      "recording": "ece11d0d889795ea5b6135f3802111f5bb60de59552908c1c03a8cb2fdd27c4e"
+    },
+    {
+      "id": "new_present_continuous_0127",
+      "text": "___ Sara working today?",
+      "recording": "120930275df3e26d0b0a5d75b4525c1ad907f2a46f1d4077116fcf8227b87bf2"
+    },
+    {
+      "id": "new_present_continuous_0128",
+      "text": "What ___ they doing?",
+      "recording": "52ba696596ffaeed1ca4e58669530fc64f2301eb0d810753122a5dc6ad644305"
+    },
+    {
+      "id": "new_present_continuous_0129",
+      "text": "Listen! Someone ___.",
+      "recording": "676511c3e128322bcf12737e4d27ce3d3ae3ee3684daeb9ca826f86b1d9d1148"
+    },
+    {
+      "id": "new_present_continuous_0130",
+      "text": "This week, we ___ a new unit.",
+      "recording": "c571d3577a4781858d74eee63d14a6ef10593bf7ff98e458ea4018040a4376ee"
+    },
+    {
+      "id": "new_present_continuous_0133",
+      "text": "The children ___ in the pool.",
+      "recording": "2a7e1e401083848baed767563e0dfcf19cc0d5b95574616f02ac270f37bac850"
+    },
+    {
+      "id": "new_present_continuous_0135",
+      "text": "He ___ to us at the moment.",
+      "recording": "a92d97c79931106b7d97d8bd33e867524ebb9ea3f13bea4db612ac330b7d5b59"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

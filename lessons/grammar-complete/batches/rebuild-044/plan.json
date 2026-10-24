@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_continuous_0123",
+      "ttsText": "She ___ a book now.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0123.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0123",
+      "audioSelector": "#audio_new_present_continuous_0123",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0124",
+      "ttsText": "I ___ waiting for the bus.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0124.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0124",
+      "audioSelector": "#audio_new_present_continuous_0124",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0125",
+      "ttsText": "They are ___ dinner.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0125.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0125",
+      "audioSelector": "#audio_new_present_continuous_0125",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0126",
+      "ttsText": "He ___ watching TV now.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0126.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0126",
+      "audioSelector": "#audio_new_present_continuous_0126",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0127",
+      "ttsText": "___ Sara working today?",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0127.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0127",
+      "audioSelector": "#audio_new_present_continuous_0127",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0128",
+      "ttsText": "What ___ they doing?",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0128.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0128",
+      "audioSelector": "#audio_new_present_continuous_0128",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0129",
+      "ttsText": "Listen! Someone ___.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0129.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0129",
+      "audioSelector": "#audio_new_present_continuous_0129",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0130",
+      "ttsText": "This week, we ___ a new unit.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0130.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0130",
+      "audioSelector": "#audio_new_present_continuous_0130",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0133",
+      "ttsText": "The children ___ in the pool.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0133.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0133",
+      "audioSelector": "#audio_new_present_continuous_0133",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0135",
+      "ttsText": "He ___ to us at the moment.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0135.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0135",
+      "audioSelector": "#audio_new_present_continuous_0135",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ]
+]

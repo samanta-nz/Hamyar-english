@@ -12895,5 +12895,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "a5abfa632af3f9b6741bff7ee072b30a6839c4bcb9883ade3900a92109138d10"
+  },
+  "She ___ a book now.": {
+    "file": "audio/2c8abec7d76b37505f85cde2487536df3c5ed4b71f6f5ef58aa7c51b8571d26d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "23fc2c3f9a1f725fd4cdf7bdfab5e2e00e5844bcdfec73e5522e6a6772b906bb"
+  },
+  "I ___ waiting for the bus.": {
+    "file": "audio/c43f93ca2bfaf9a50aff62f49a070c57cbb19462b3f1645d370051b47b380e59.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b6e66a05607876be06708e346fcf5c0c4928b1cf6673a9a9060fd4d0de5ea9d4"
+  },
+  "They are ___ dinner.": {
+    "file": "audio/25d1716b31b11d0e1b12589cf2914fd2dbb30acef072f401460343a02cdd9a36.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "856056cc4faf738759e0b8f9abefa4c848fe01c98ad14b9d1c06e1d7bef5ab16"
+  },
+  "He ___ watching TV now.": {
+    "file": "audio/ece11d0d889795ea5b6135f3802111f5bb60de59552908c1c03a8cb2fdd27c4e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "066123ab98e8f64e836dcbe03b2f80ad8f2f7291e49c9202094dad28858a138f"
+  },
+  "___ Sara working today?": {
+    "file": "audio/120930275df3e26d0b0a5d75b4525c1ad907f2a46f1d4077116fcf8227b87bf2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b4d9a5cdaed6e148a62045e86cea8bc83335c43a031c61c2655248a94f2daa72"
+  },
+  "What ___ they doing?": {
+    "file": "audio/52ba696596ffaeed1ca4e58669530fc64f2301eb0d810753122a5dc6ad644305.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c84cceaebf2c7638e710494739e5d60b14c40cb662297d4da0c55d5dd84d1ddb"
+  },
+  "Listen! Someone ___.": {
+    "file": "audio/676511c3e128322bcf12737e4d27ce3d3ae3ee3684daeb9ca826f86b1d9d1148.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ae8f2d7396bbc1568868ad96e4cc193079c792bb6154cfa5a267fd94036faa7f"
+  },
+  "This week, we ___ a new unit.": {
+    "file": "audio/c571d3577a4781858d74eee63d14a6ef10593bf7ff98e458ea4018040a4376ee.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d881eec6852aa76369acad22159d11955aebac1757c07f175ccafc2f3633f761"
+  },
+  "The children ___ in the pool.": {
+    "file": "audio/2a7e1e401083848baed767563e0dfcf19cc0d5b95574616f02ac270f37bac850.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a9e276d99c6afd068519dd4608f9553c4f400335bb7298810b085f5088373189"
+  },
+  "He ___ to us at the moment.": {
+    "file": "audio/a92d97c79931106b7d97d8bd33e867524ebb9ea3f13bea4db612ac330b7d5b59.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-044",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "658ccfbfedf3411fcbed283f2dd9655b562e0702b7d642cfbab9a462c432a2cd"
   }
 }
