@@ -53,3 +53,7 @@ are matched to exact `data-tts-text` anchors. Distinct kind-suffixed bank IDs
 replace ambiguous empty entries. Assertions guard missing anchors and IDs;
 source HTML/JSON remain unchanged. This does not constitute browser playback
 or pronunciation validation.
+
+User-requested Persian exclusion: `tts-overrides.json` maps the two bilingual
+quiz prompts to English-only speech text. Visible source HTML/JSON are unchanged.
+The Persian-voice batch 053 was discarded before commit; batch 054 uses voice-00.

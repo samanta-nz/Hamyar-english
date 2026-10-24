@@ -56,7 +56,7 @@ def import_batch(name,groups,no_trailing=None,whole=None):
             run(args+['-ac','1','-ar','48000','-c:a','libopus','-b:a','48k','-f','webm',str(dest)])
             run(['-i',str(dest),'-f','null','-'])
             assert dest.read_bytes()[:4]==b'\x1aE\xdf\xa3'
-            registry[text]={'file':str(dest.relative_to(ROOT)),'voice':'voice-00','batch':name,'group':n,'start':cuts[k],'end':cuts[k+1] if k+1<len(cuts) else None,'sha256':hashlib.sha256(dest.read_bytes()).hexdigest()}
+            registry[text]={'file':str(dest.relative_to(ROOT)),'voice':item.get('voice_id','voice-00'),'batch':name,'group':n,'start':cuts[k],'end':cuts[k+1] if k+1<len(cuts) else None,'sha256':hashlib.sha256(dest.read_bytes()).hexdigest()}
             report['accepted'].append({'id':item['audioId'],'text':text,'recording':key})
     # Retain all source samples losslessly, including groups held for alignment.
     for src in batch.glob('*.wav'):
@@ -88,7 +88,8 @@ def build():
             if counts[item['audioElementId']]!=1 or len(tags)!=1:
                 progress['selectorIssues'].append({'file':lesson['file'],'id':item['audioElementId'],'htmlMatches':len(tags),'manifestMatches':counts[item['audioElementId']]})
                 lesson['pending'].append(item['audioId']);continue
-            record=registry.get(item['ttsText'])
+            spoken_text=load(ROOT/'tts-overrides.json',{}).get(item['ttsText'],item['ttsText'])
+            record=registry.get(spoken_text)
             if not record:
                 lesson['pending'].append(item['audioId']);continue
             data=(ROOT/record['file']).read_bytes()

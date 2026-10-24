@@ -1,0 +1,22 @@
+{
+  "batch": "rebuild-054",
+  "accepted": [
+    {
+      "id": "present_continuous_quiz_11",
+      "text": "11) Which sentence means?",
+      "recording": "ce14d735976de9ef8b3d2cf88166ec9a21216e1bab768c620816736883f82a59"
+    },
+    {
+      "id": "present_perfect_quiz_20",
+      "text": "20) Which is best for?",
+      "recording": "6b9bb56d67009db8cf80b0099783ed7a3d349c0d2d8c68cebead403dee512273"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

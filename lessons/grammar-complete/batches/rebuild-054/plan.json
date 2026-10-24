@@ -1,0 +1,30 @@
+[
+  [
+    {
+      "audioId": "present_continuous_quiz_11",
+      "ttsText": "11) Which sentence means?",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_11.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_11",
+      "audioSelector": "#audio_present_continuous_quiz_11",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_20",
+      "ttsText": "20) Which is best for?",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_20.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_20",
+      "audioSelector": "#audio_present_perfect_quiz_20",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ]
+]
