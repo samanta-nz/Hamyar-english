@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-014",
+  "accepted": [
+    {
+      "id": "word_download",
+      "text": "download",
+      "recording": "68ff63fb82e0e5dfec2a8496bf9afef608ad639ed552e740268eb537fa52067f"
+    },
+    {
+      "id": "word_downloaded",
+      "text": "downloaded",
+      "recording": "b7a8a844a613be796bc1892dc480f9d92c50d32a5713a87758e5c5addc4ec814"
+    },
+    {
+      "id": "word_drank",
+      "text": "drank",
+      "recording": "0dcf3c465e3e58de6eb15bd320ffc0371e8b8bdbaebe7c81ec13c2d2fe638235"
+    },
+    {
+      "id": "word_draw",
+      "text": "draw",
+      "recording": "50f7becde477bb509c7704de62c349247fb3499c03a95e4bce20151cd552dea5"
+    },
+    {
+      "id": "word_drawn",
+      "text": "drawn",
+      "recording": "8b6df8c11847ada8266bad5b8737f94c208c411a3ebe18e27aad31bfb7eb8767"
+    },
+    {
+      "id": "word_dream",
+      "text": "dream",
+      "recording": "30fde358b34772de141e11ba599e28f9f44aa80ae89aaf243b73e6b9b9ebc896"
+    },
+    {
+      "id": "word_dreamed",
+      "text": "dreamed",
+      "recording": "4d9b14dfa4fafd8bfa955c14f6b72a6edd696c9fbce788ec915d24c33b41ffe0"
+    },
+    {
+      "id": "word_dreamt",
+      "text": "dreamt",
+      "recording": "021a0149f3125b44752c6a25d0ecefc7b8689d33bbb673a7bb33c2996c5c844a"
+    },
+    {
+      "id": "word_drew",
+      "text": "drew",
+      "recording": "c850c75d30a9360f81eff0a01abcf9125ba034ef9a2dd9f95bbc073a60032299"
+    },
+    {
+      "id": "word_driven",
+      "text": "driven",
+      "recording": "34f5290adc138ebbfbc3ec2b828cc7873c6942ef4f7ad942ae615661eabadb38"
+    },
+    {
+      "id": "word_drop",
+      "text": "drop",
+      "recording": "d90ee9ccf6bea1d2942a7b21319338198dec2a746f8a0d0771621f00da2e0864"
+    },
+    {
+      "id": "word_dropped",
+      "text": "dropped",
+      "recording": "e7cd9c3ab5da1895f52abfece688c0f136a26c348f0619bdf724a9e1667b747f"
+    },
+    {
+      "id": "word_drove",
+      "text": "drove",
+      "recording": "76720b4a11848dbb511a929709ba636154883e9196dfa40457a5621ced5e5f26"
+    },
+    {
+      "id": "word_drunk",
+      "text": "drunk",
+      "recording": "05b8b79eea5088487f0312ab244e3f542eb61d9545791b1a9992975767d6d227"
+    },
+    {
+      "id": "word_dug",
+      "text": "dug",
+      "recording": "5ede0be029368eec5c1c0fe07cfe765fdf331396e688e8b10ab1c81afc7414f9"
+    },
+    {
+      "id": "word_earn",
+      "text": "earn",
+      "recording": "cf07a76f938476da14a1ee558ef6e43b7f169a11df127ec6840b30f64b6c7566"
+    },
+    {
+      "id": "word_earned",
+      "text": "earned",
+      "recording": "4844fdfbc864ac106bb9742de65edfbcb5257a4e7ee2d8c500b80cdafa148524"
+    },
+    {
+      "id": "word_edit",
+      "text": "edit",
+      "recording": "262121c5372be8af3ae6ff0d3d138d9e6e1249335222c7f0e02535e35073bb0b"
+    },
+    {
+      "id": "word_edited",
+      "text": "edited",
+      "recording": "1fb9f4097256db2d7b1e13aff79cee44339891a31c556b9cf6093885773b3618"
+    },
+    {
+      "id": "word_emailed",
+      "text": "emailed",
+      "recording": "a3381e0c4a977b3f5c08e4ae8325296fe9f08aff551834227d9d74782582e880"
+    },
+    {
+      "id": "word_ended",
+      "text": "ended",
+      "recording": "e87ba7a0b779d8b797f86d19604504496f23b4d1e31ed4721d9dc8634172b723"
+    },
+    {
+      "id": "word_enjoy",
+      "text": "enjoy",
+      "recording": "75fba329cb6ee8907a1f009b69353d8c0e9a8228b25a1095c7976efc1eaa259d"
+    },
+    {
+      "id": "word_enjoyed",
+      "text": "enjoyed",
+      "recording": "629bee9da3fd666040deb612506c35a630a37b9579ca231f42479832018f3e8c"
+    },
+    {
+      "id": "word_enter",
+      "text": "enter",
+      "recording": "e08d706b3e4ce964b632746cf568913cb93f1ed36476fbb0494b80ed17c5975c"
+    },
+    {
+      "id": "word_entered",
+      "text": "entered",
+      "recording": "e9b72a02344d78edf0dde7d94ebb8e07ddd699d602634019e0e842289c921a1e"
+    },
+    {
+      "id": "word_escape",
+      "text": "escape",
+      "recording": "b3140286ac71ad2acf69681f4f2a907b0b83d8edfbffdd4e0a38c05a23180495"
+    },
+    {
+      "id": "word_escaped",
+      "text": "escaped",
+      "recording": "044c5f4a04d6114914bde9e6ef5e5c8001e5b15101114d235aa61cdde7c6d718"
+    },
+    {
+      "id": "word_exercise",
+      "text": "exercise",
+      "recording": "f55101cb5e7453c770d2a062a242f13479743de0c24329462d3cbf3f2d6bc7e1"
+    },
+    {
+      "id": "word_exercised",
+      "text": "exercised",
+      "recording": "ccc311c918be09568777c5cf18627c85b01212ce09af0f80bb0b59f8d685972e"
+    },
+    {
+      "id": "word_expect",
+      "text": "expect",
+      "recording": "77f2f036726eaa17f75c9a6bdd9f613862b1a17951469921026e482e66ea046a"
+    },
+    {
+      "id": "word_expected",
+      "text": "expected",
+      "recording": "cea23dd4b87e8b00d19fb9ccaaef93e97353c7353e2070f3baf05aeb3995dff4"
+    },
+    {
+      "id": "word_explain",
+      "text": "explain",
+      "recording": "0818ab2593f5cb6c2daa8ffdd20578aae920bb1ed1f3feecf0cdf09a8b1e1213"
+    },
+    {
+      "id": "word_explained",
+      "text": "explained",
+      "recording": "c5006763e9daf0e4e765b55082158eb19c9fdb69cbaaebb8a1d3b8da16ced182"
+    },
+    {
+      "id": "word_face",
+      "text": "face",
+      "recording": "0282d9b79f42c74c1550b20ff2dd16aafc3fe5d8ae9a00b2f66996d0ae882775"
+    },
+    {
+      "id": "word_faced",
+      "text": "faced",
+      "recording": "b352a778a6a1bde1ae44f51324c6c7b0e8a05cc943904d1e7193167b83875172"
+    },
+    {
+      "id": "word_fail",
+      "text": "fail",
+      "recording": "51280dabfbc880cdc5f92cc2f4f22c8032de5aba401c3268250a11eeb2df1f73"
+    },
+    {
+      "id": "word_fall",
+      "text": "fall",
+      "recording": "2dc46af1b78c32dfe99dedfbdff6ca7f33e0f652716482f55b03622b67c06dea"
+    },
+    {
+      "id": "word_fallen",
+      "text": "fallen",
+      "recording": "8828e8d5e4b7f8a1340742d8c51551e38dd7597a416b135a92fea0d49eae47cc"
+    },
+    {
+      "id": "word_fasten",
+      "text": "fasten",
+      "recording": "3e5138f7dba1f26f4609c3869c897711cef5588132da35f13a19c1ba9fe45cbf"
+    },
+    {
+      "id": "word_fastened",
+      "text": "fastened",
+      "recording": "c933a870937f2cdbbc60ba9a9e6cf50a74ed27c6ae39a86a2b9c3f0ceb06150a"
+    },
+    {
+      "id": "word_fed",
+      "text": "fed",
+      "recording": "20e796c128096d229ba89bf412a53c3151d170a409c2c8c1dd8e414087b7ffae"
+    },
+    {
+      "id": "word_feed",
+      "text": "feed",
+      "recording": "c8bc2586cdd87cd6f970fc4262c4bbc49165811788825fbc1ba3366bfde45413"
+    },
+    {
+      "id": "word_feel",
+      "text": "feel",
+      "recording": "116c49130f14f514b8109bfb2dd262a2640dbd07041eeeb4ced71a569d16e8c3"
+    },
+    {
+      "id": "word_fell",
+      "text": "fell",
+      "recording": "6acac34da1c9d8bfed350c53af31271710831828f72e97c9f6d975592f095140"
+    },
+    {
+      "id": "word_felt",
+      "text": "felt",
+      "recording": "05970e30555fc7bf6388d907406715bacc1f042b180da0b450c404a651c07d4c"
+    },
+    {
+      "id": "word_fight",
+      "text": "fight",
+      "recording": "23b6a8f399dd913a23fa046fad13ffcb478f75d55795feb487bc851ea983ae78"
+    },
+    {
+      "id": "word_fill",
+      "text": "fill",
+      "recording": "dcd32479a72e55b29a03a586d8a483a05be0ce87cc5c25c7bad23079fc0356b3"
+    },
+    {
+      "id": "word_filled",
+      "text": "filled",
+      "recording": "8a2f8bcb5572a89ae969186af0e03c56c87c22be98cb81e0c79ef69c80319670"
+    },
+    {
+      "id": "word_fixed",
+      "text": "fixed",
+      "recording": "992a93455c71fedd36ac9bbc439952c041cf61445958472af479269b8d873513"
+    },
+    {
+      "id": "word_fled",
+      "text": "fled",
+      "recording": "af4229a480db1dec499eaf9ec0dbc02d23e57bee871733e077d9c51955ac5e4b"
+    },
+    {
+      "id": "word_flee",
+      "text": "flee",
+      "recording": "d15a1edfb23cdba76277dca7c2569ada4414da6cea1a57980bad4353017a8975"
+    },
+    {
+      "id": "word_flew",
+      "text": "flew",
+      "recording": "a8e15df13c8b74513b06cf7eebe9d6cce2b8650fabf71dc3b13ee5c7012895ba"
+    },
+    {
+      "id": "word_flown",
+      "text": "flown",
+      "recording": "cceb06fbe410e3248479253394442e8739f2b1525fd26ddb66806235ab7bbbac"
+    },
+    {
+      "id": "word_fly",
+      "text": "fly",
+      "recording": "f4debdb7ab7dd958e95cea076c7668310a131f9bf9c972fa934c5e55c5a97c0e"
+    },
+    {
+      "id": "word_fold",
+      "text": "fold",
+      "recording": "255541b1d8c6185596fd889e8dd40fa2ad60d7178b9c52adb1f4bb88ffe9503b"
+    },
+    {
+      "id": "word_folded",
+      "text": "folded",
+      "recording": "bbe900d10e989462b9015766416e926c8b434ccb56ecc2c1ac644d154851826a"
+    },
+    {
+      "id": "word_follow",
+      "text": "follow",
+      "recording": "a3ce0b6106cdb3982d7b2bd5c7be5e1e74d973c4a3018b03beb01fc5dc3ec6f5"
+    },
+    {
+      "id": "word_followed",
+      "text": "followed",
+      "recording": "17b669561c95d3ac83bd5f4cbf7dea0041b3fe8b2302efaa4e7fc1582c591c4e"
+    },
+    {
+      "id": "word_forbade",
+      "text": "forbade",
+      "recording": "d289a1e5f4efbc73d0e159e09ea16b5ef1364558cc87ab3c2d2fdc7a34a58e38"
+    },
+    {
+      "id": "word_forbid",
+      "text": "forbid",
+      "recording": "76626ec9e79c1c457cae4f1a07bde35c7e4b33c222e9ad91d87ae95fc9e9eb12"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
