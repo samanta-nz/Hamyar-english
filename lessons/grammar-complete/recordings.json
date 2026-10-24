@@ -12445,5 +12445,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "40c6209d6a41165a276f5a8dc45557d1d28338213f7035ea1a51d42d1ecbcc3e"
+  },
+  "They ___ very friendly.": {
+    "file": "audio/e851e4ff6ecbad89f9e690381c161aae68203809121bb4642f9d0539d1b87aef.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fae6096f9189691cb83fd2213be974d442dc5837399b99149c147f4562b83146"
+  },
+  "Sara ___ sixteen years old.": {
+    "file": "audio/5cd937c433cb2f2306b7e73b49b9988ebcbc2cbddd0a243b8418098a879705f6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4b624d160bdfedb5ef90d168bff310de5010ac34a4c0811e3fd6a0e005295621"
+  },
+  "___ there a pencil on the desk?": {
+    "file": "audio/49edaa35c90fd00ac804355465c0670bf2fb9e5ccf2feec3bb39cb331e2d6307.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a328237861f0ab9f33750e150266efdbeea2d15cef6ad086a2b0fa066f6e4ef3"
+  },
+  "These ___ my books.": {
+    "file": "audio/1334d726a969c238d156c727a51583b3dfc4db64a07b78ca3a049eb39be50ff6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7483eef3e2133188ab8a9d70baab9d690a689f4a42caed91fe5da5528ca06f2e"
+  },
+  "He ___ a doctor.": {
+    "file": "audio/1a23f0d8f1bc9483de659e8646e9d7452db10b1bc4a16a32d65b2786ac9db964.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "21e5064402bd8ee892dc22157e8ace8d30a2358ae183169ad878e1e802ba6c03"
+  },
+  "___ you ready?": {
+    "file": "audio/f3545b0565bb01be50a5c86ae0a005ae15a04e1830db53c468f6df7b7723b9bd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1be95a7aef8ed4c776392bfc457f5e9beeb600572d32ac48a59ad0bab80f52aa"
+  },
+  "She ___ not late.": {
+    "file": "audio/5deaee250de9e4c96466bf1c47db08c300ce59e1de7fd37158e7f85a5317224d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "73b145dd7bcbbeb2c64fa955e5e0455fa13db51fb9a8ce213b7a2cf92ff3ae37"
+  },
+  "That ___ our classroom.": {
+    "file": "audio/c4f092d5f6b724af23fc37bf78f0fb40ab0eae40084f6fd8320b7d52eb6169f3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "60fdc72bb8aa4a0418bd046eb5e33d2fb57b405199c98370db389853949df3c4"
+  },
+  "There ___ two chairs.": {
+    "file": "audio/fb99c464edb10bf263d416b0588d4b408f6d5c24153aa59892e1ec601ac6a576.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fa0fb11642cdbeda47781afaec71efc5582213ef2ef7c6acf858132fd6d33ee4"
+  },
+  "___ he tired? Yes, he ___.": {
+    "file": "audio/a29e091e8b7987d5b6b5884b8d3cc921a0717bf6dd8c925e3b1191e89da53f41.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-039",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1bc97805f5b28a19beeeea0c68d6af923b3436823b2b4ae10c07f96890d1fef8"
   }
 }

@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0118",
+      "ttsText": "They ___ very friendly.",
+      "sourceFilePath": "audio/to-be/new_to_be_0118.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0118",
+      "audioSelector": "#audio_new_to_be_0118",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0119",
+      "ttsText": "Sara ___ sixteen years old.",
+      "sourceFilePath": "audio/to-be/new_to_be_0119.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0119",
+      "audioSelector": "#audio_new_to_be_0119",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0120",
+      "ttsText": "___ there a pencil on the desk?",
+      "sourceFilePath": "audio/to-be/new_to_be_0120.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0120",
+      "audioSelector": "#audio_new_to_be_0120",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0121",
+      "ttsText": "These ___ my books.",
+      "sourceFilePath": "audio/to-be/new_to_be_0121.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0121",
+      "audioSelector": "#audio_new_to_be_0121",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0122",
+      "ttsText": "He ___ a doctor.",
+      "sourceFilePath": "audio/to-be/new_to_be_0122.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0122",
+      "audioSelector": "#audio_new_to_be_0122",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0123",
+      "ttsText": "___ you ready?",
+      "sourceFilePath": "audio/to-be/new_to_be_0123.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0123",
+      "audioSelector": "#audio_new_to_be_0123",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0124",
+      "ttsText": "She ___ not late.",
+      "sourceFilePath": "audio/to-be/new_to_be_0124.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0124",
+      "audioSelector": "#audio_new_to_be_0124",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0125",
+      "ttsText": "That ___ our classroom.",
+      "sourceFilePath": "audio/to-be/new_to_be_0125.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0125",
+      "audioSelector": "#audio_new_to_be_0125",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0126",
+      "ttsText": "There ___ two chairs.",
+      "sourceFilePath": "audio/to-be/new_to_be_0126.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0126",
+      "audioSelector": "#audio_new_to_be_0126",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0127",
+      "ttsText": "___ he tired? Yes, he ___.",
+      "sourceFilePath": "audio/to-be/new_to_be_0127.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0127",
+      "audioSelector": "#audio_new_to_be_0127",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ]
+]

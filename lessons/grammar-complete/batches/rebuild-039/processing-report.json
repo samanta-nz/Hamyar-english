@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-039",
+  "accepted": [
+    {
+      "id": "new_to_be_0118",
+      "text": "They ___ very friendly.",
+      "recording": "e851e4ff6ecbad89f9e690381c161aae68203809121bb4642f9d0539d1b87aef"
+    },
+    {
+      "id": "new_to_be_0119",
+      "text": "Sara ___ sixteen years old.",
+      "recording": "5cd937c433cb2f2306b7e73b49b9988ebcbc2cbddd0a243b8418098a879705f6"
+    },
+    {
+      "id": "new_to_be_0120",
+      "text": "___ there a pencil on the desk?",
+      "recording": "49edaa35c90fd00ac804355465c0670bf2fb9e5ccf2feec3bb39cb331e2d6307"
+    },
+    {
+      "id": "new_to_be_0121",
+      "text": "These ___ my books.",
+      "recording": "1334d726a969c238d156c727a51583b3dfc4db64a07b78ca3a049eb39be50ff6"
+    },
+    {
+      "id": "new_to_be_0122",
+      "text": "He ___ a doctor.",
+      "recording": "1a23f0d8f1bc9483de659e8646e9d7452db10b1bc4a16a32d65b2786ac9db964"
+    },
+    {
+      "id": "new_to_be_0123",
+      "text": "___ you ready?",
+      "recording": "f3545b0565bb01be50a5c86ae0a005ae15a04e1830db53c468f6df7b7723b9bd"
+    },
+    {
+      "id": "new_to_be_0124",
+      "text": "She ___ not late.",
+      "recording": "5deaee250de9e4c96466bf1c47db08c300ce59e1de7fd37158e7f85a5317224d"
+    },
+    {
+      "id": "new_to_be_0125",
+      "text": "That ___ our classroom.",
+      "recording": "c4f092d5f6b724af23fc37bf78f0fb40ab0eae40084f6fd8320b7d52eb6169f3"
+    },
+    {
+      "id": "new_to_be_0126",
+      "text": "There ___ two chairs.",
+      "recording": "fb99c464edb10bf263d416b0588d4b408f6d5c24153aa59892e1ec601ac6a576"
+    },
+    {
+      "id": "new_to_be_0127",
+      "text": "___ he tired? Yes, he ___.",
+      "recording": "a29e091e8b7987d5b6b5884b8d3cc921a0717bf6dd8c925e3b1191e89da53f41"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
