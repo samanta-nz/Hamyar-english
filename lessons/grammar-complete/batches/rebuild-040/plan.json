@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0129",
+      "ttsText": "I ___ a student.",
+      "sourceFilePath": "audio/to-be/new_to_be_0129.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0129",
+      "audioSelector": "#audio_new_to_be_0129",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0130",
+      "ttsText": "The keys ___ on the table.",
+      "sourceFilePath": "audio/to-be/new_to_be_0130.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0130",
+      "audioSelector": "#audio_new_to_be_0130",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_01",
+      "ttsText": "1) He  ...  to school every day.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_01.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_01",
+      "audioSelector": "#audio_present_simple_quiz_01",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_02",
+      "ttsText": "2)  ...  they play chess?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_02.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_02",
+      "audioSelector": "#audio_present_simple_quiz_02",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_03",
+      "ttsText": "3) Does she  ...  coffee?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_03.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_03",
+      "audioSelector": "#audio_present_simple_quiz_03",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_04",
+      "ttsText": "4) We  ...  need help.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_04.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_04",
+      "audioSelector": "#audio_present_simple_quiz_04",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_05",
+      "ttsText": "5) Ali  ...  a car.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_05.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_05",
+      "audioSelector": "#audio_present_simple_quiz_05",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_06",
+      "ttsText": "6) She  ...  TV at night.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_06.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_06",
+      "audioSelector": "#audio_present_simple_quiz_06",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_07",
+      "ttsText": "7)  ...  he at home?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_07.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_07",
+      "audioSelector": "#audio_present_simple_quiz_07",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_08",
+      "ttsText": "8) He  ...  at home.",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_08.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_08",
+      "audioSelector": "#audio_present_simple_quiz_08",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ]
+]

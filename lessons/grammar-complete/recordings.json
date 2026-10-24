@@ -12535,5 +12535,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "1bc97805f5b28a19beeeea0c68d6af923b3436823b2b4ae10c07f96890d1fef8"
+  },
+  "I ___ a student.": {
+    "file": "audio/e13d3c15d75f95d1b5763a8544b12549dae56a9fb7b66f7f55d90581811272e2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fd89c467f39374919034a921a37ee359e2258d769819dccb54a00ba47a6a4e0f"
+  },
+  "The keys ___ on the table.": {
+    "file": "audio/6a0babd2d5b153a1016bdd0acfc5a3d1b0628cee17d5662dda5ae5816f40b172.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b745f50d412857595463751b80602f946aaf6bbc1977ed49886db5a459fa571c"
+  },
+  "1) He  ...  to school every day.": {
+    "file": "audio/72f9611f179cd4881c6d9ea9add388b1ec88e8454c145ea3d63f0e8455f7f1f2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "46d2d98b9bca012c1d4bb4613ae4434f9edf03a31a99ba176ba8aee4e56c323d"
+  },
+  "2)  ...  they play chess?": {
+    "file": "audio/eaad1ce9a1135bf9de4eae8874fc96139d2c336a3d02cb3d92029a3c79a4ee4a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b636f12245ff02d24178cb3405d14d12a4371a26ff4a9b7c9f54d278653ed174"
+  },
+  "3) Does she  ...  coffee?": {
+    "file": "audio/12c48c35fbb3feee503f72f67ec541d475ea9094da049e2d70dd5f0975856135.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4092358df651b9196fef6f2303b0b13b0f426e6de63b83d165f6561875268265"
+  },
+  "4) We  ...  need help.": {
+    "file": "audio/23f7fae6e4f2623001ceb2480810fa43dad918bd82d093f24b579ed08a460ec3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c3467189c7357bf53290d5a05021f7ee094e0ad0eeb135e0c4fc447f9afe59bd"
+  },
+  "5) Ali  ...  a car.": {
+    "file": "audio/7bb5ec0b1562f1d80b7c48d86a1285b3a3a0823ad78fb21a0c8f3b78d8e07768.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d79874a6d401925b37d7ec89339427389d2b84fd505033b7ebf7adbba46638b9"
+  },
+  "6) She  ...  TV at night.": {
+    "file": "audio/24cae117b16ac24fe135204f67140b1601e0df303949f986b38677150a790f15.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c5fcf355ce484d470569bcb33076a624be3d0d0f0a22c633059bfe3fe0c10529"
+  },
+  "7)  ...  he at home?": {
+    "file": "audio/7958711f0fb1d3eeb3ff81a11c85caeced7e827160d443d54bfc8d3bacb7d50d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6e65685bd5f957a0fd6a57c9af4fe1f28b2350a3365b975f62611760f8dbfe31"
+  },
+  "8) He  ...  at home.": {
+    "file": "audio/6b2437f2a269849d36607b68df338feaa80c11ef49a27a54786ab2dacc2ae984.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-040",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b58609c8b6272133ec6de9c01aac65e3b04c4d610cffb90c763bc97b894d0fa8"
   }
 }

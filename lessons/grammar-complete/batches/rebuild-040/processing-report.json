@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-040",
+  "accepted": [
+    {
+      "id": "new_to_be_0129",
+      "text": "I ___ a student.",
+      "recording": "e13d3c15d75f95d1b5763a8544b12549dae56a9fb7b66f7f55d90581811272e2"
+    },
+    {
+      "id": "new_to_be_0130",
+      "text": "The keys ___ on the table.",
+      "recording": "6a0babd2d5b153a1016bdd0acfc5a3d1b0628cee17d5662dda5ae5816f40b172"
+    },
+    {
+      "id": "present_simple_quiz_01",
+      "text": "1) He  ...  to school every day.",
+      "recording": "72f9611f179cd4881c6d9ea9add388b1ec88e8454c145ea3d63f0e8455f7f1f2"
+    },
+    {
+      "id": "present_simple_quiz_02",
+      "text": "2)  ...  they play chess?",
+      "recording": "eaad1ce9a1135bf9de4eae8874fc96139d2c336a3d02cb3d92029a3c79a4ee4a"
+    },
+    {
+      "id": "present_simple_quiz_03",
+      "text": "3) Does she  ...  coffee?",
+      "recording": "12c48c35fbb3feee503f72f67ec541d475ea9094da049e2d70dd5f0975856135"
+    },
+    {
+      "id": "present_simple_quiz_04",
+      "text": "4) We  ...  need help.",
+      "recording": "23f7fae6e4f2623001ceb2480810fa43dad918bd82d093f24b579ed08a460ec3"
+    },
+    {
+      "id": "present_simple_quiz_05",
+      "text": "5) Ali  ...  a car.",
+      "recording": "7bb5ec0b1562f1d80b7c48d86a1285b3a3a0823ad78fb21a0c8f3b78d8e07768"
+    },
+    {
+      "id": "present_simple_quiz_06",
+      "text": "6) She  ...  TV at night.",
+      "recording": "24cae117b16ac24fe135204f67140b1601e0df303949f986b38677150a790f15"
+    },
+    {
+      "id": "present_simple_quiz_07",
+      "text": "7)  ...  he at home?",
+      "recording": "7958711f0fb1d3eeb3ff81a11c85caeced7e827160d443d54bfc8d3bacb7d50d"
+    },
+    {
+      "id": "present_simple_quiz_08",
+      "text": "8) He  ...  at home.",
+      "recording": "6b2437f2a269849d36607b68df338feaa80c11ef49a27a54786ab2dacc2ae984"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
