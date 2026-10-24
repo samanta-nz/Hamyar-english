@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "audioId": "verb_example_061",
+      "ttsText": "My father cooks dinner.",
+      "sourceFilePath": "audio/verbs/verb_example_061.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_061",
+      "audioSelector": "#audio_verb_example_061",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_062",
+      "ttsText": "I help my brother with homework.",
+      "sourceFilePath": "audio/verbs/verb_example_062.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_062",
+      "audioSelector": "#audio_verb_example_062",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_063",
+      "ttsText": "She joins the school club.",
+      "sourceFilePath": "audio/verbs/verb_example_063.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_063",
+      "audioSelector": "#audio_verb_example_063",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_064",
+      "ttsText": "We like this song.",
+      "sourceFilePath": "audio/verbs/verb_example_064.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_064",
+      "audioSelector": "#audio_verb_example_064",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_065",
+      "ttsText": "They live near the station.",
+      "sourceFilePath": "audio/verbs/verb_example_065.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_065",
+      "audioSelector": "#audio_verb_example_065",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_066",
+      "ttsText": "He looks at the picture.",
+      "sourceFilePath": "audio/verbs/verb_example_066.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_066",
+      "audioSelector": "#audio_verb_example_066",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    }
+  ],
+  [
+    {
+      "audioId": "verb_example_067",
+      "ttsText": "I open the window in the morning.",
+      "sourceFilePath": "audio/verbs/verb_example_067.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_067",
+      "audioSelector": "#audio_verb_example_067",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_068",
+      "ttsText": "The children play chess after school.",
+      "sourceFilePath": "audio/verbs/verb_example_068.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_068",
+      "audioSelector": "#audio_verb_example_068",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_069",
+      "ttsText": "Sara studies English every day.",
+      "sourceFilePath": "audio/verbs/verb_example_069.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_069",
+      "audioSelector": "#audio_verb_example_069",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "verb_example_070",
+      "ttsText": "We visit our aunt in summer.",
+      "sourceFilePath": "audio/verbs/verb_example_070.mp3",
+      "targetHtmlFile": "verb-forms-v1-v2-v3.html",
+      "audioElementId": "audio_verb_example_070",
+      "audioSelector": "#audio_verb_example_070",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "verb-forms-v1-v2-v3"
+    },
+    {
+      "audioId": "word_carries",
+      "ttsText": "carries",
+      "sourceFilePath": "audio/grammar-exceptions-common-mistakes/word_carries.mp3",
+      "targetHtmlFile": "grammar-exceptions-common-mistakes.html",
+      "audioElementId": "audio_word_carries",
+      "audioSelector": "#audio_word_carries",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "vocabulary",
+      "lesson": "grammar-exceptions-common-mistakes"
+    },
+    {
+      "audioId": "word_enjoys",
+      "ttsText": "enjoys",
+      "sourceFilePath": "audio/grammar-exceptions-common-mistakes/word_enjoys.mp3",
+      "targetHtmlFile": "grammar-exceptions-common-mistakes.html",
+      "audioElementId": "audio_word_enjoys",
+      "audioSelector": "#audio_word_enjoys",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "vocabulary",
+      "lesson": "grammar-exceptions-common-mistakes"
+    }
+  ],
+  [
+    {
+      "audioId": "word_fixing",
+      "ttsText": "fixing",
+      "sourceFilePath": "audio/grammar-exceptions-common-mistakes/word_fixing.mp3",
+      "targetHtmlFile": "grammar-exceptions-common-mistakes.html",
+      "audioElementId": "audio_word_fixing",
+      "audioSelector": "#audio_word_fixing",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "vocabulary",
+      "lesson": "grammar-exceptions-common-mistakes"
+    }
+  ]
+]

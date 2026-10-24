@@ -1,0 +1,75 @@
+{
+  "batch": "rebuild-022",
+  "accepted": [
+    {
+      "id": "verb_example_061",
+      "text": "My father cooks dinner.",
+      "recording": "faafb2773f1d280df2cdc92ab1751c57b7e67fa8ee4d3169d86853ee6f9e39b2"
+    },
+    {
+      "id": "verb_example_062",
+      "text": "I help my brother with homework.",
+      "recording": "e5a68bfa3d3f2143da84221e94cfb1e6ac10cd411e466b6075a3783e5790a99c"
+    },
+    {
+      "id": "verb_example_063",
+      "text": "She joins the school club.",
+      "recording": "9b7ad5edf44acbe49bfe8b4f3b6516711349a7596e18947ad8c29809cf59e0ef"
+    },
+    {
+      "id": "verb_example_064",
+      "text": "We like this song.",
+      "recording": "0e173b5e317ea341aaff0b0f1117100f5e0c227bdd7d444b9222483dd36365db"
+    },
+    {
+      "id": "verb_example_065",
+      "text": "They live near the station.",
+      "recording": "312314061086688684e4259c70140b4e500af281f340c92c13074fe3a538c60e"
+    },
+    {
+      "id": "verb_example_066",
+      "text": "He looks at the picture.",
+      "recording": "ec4836dba3efae96cb4c110b57e754964a4d8fcf5d89f4a67d44e40f69e5ff5e"
+    },
+    {
+      "id": "verb_example_067",
+      "text": "I open the window in the morning.",
+      "recording": "25185e4f1a00d3c4827031ca6b464687e84c07ed577a4e84654459faf0a378c4"
+    },
+    {
+      "id": "verb_example_068",
+      "text": "The children play chess after school.",
+      "recording": "5dcf3cd4aeedc83fc449875e0fa297a6036689a723038276c0d8bd64e7fe9218"
+    },
+    {
+      "id": "verb_example_069",
+      "text": "Sara studies English every day.",
+      "recording": "f2d86f5fcef256f28ae1cd49698acd66cecc3fd46412f27c687d7ff483ca023b"
+    },
+    {
+      "id": "verb_example_070",
+      "text": "We visit our aunt in summer.",
+      "recording": "5f1a7ae07ed887e307d28724d37c4d46f3079f4af48c14a34a5b2ec025833c59"
+    },
+    {
+      "id": "word_carries",
+      "text": "carries",
+      "recording": "47e8d6fafa7e2200e2d628e37d37ab45f231de202be9bc5e3b386cb248c6d96b"
+    },
+    {
+      "id": "word_enjoys",
+      "text": "enjoys",
+      "recording": "620210a50cdeea26abbe0936fa2f42ba02b52d4a5be1f4e20319675152f7f8dc"
+    },
+    {
+      "id": "word_fixing",
+      "text": "fixing",
+      "recording": "9892eb22610c73d1fd78a5225bcf60d3a5dd6a522678166e27bbc1745033344a"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [
+    2
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

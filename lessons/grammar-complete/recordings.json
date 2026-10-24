@@ -10798,5 +10798,122 @@
     "start": 10.712018,
     "end": null,
     "sha256": "1f2b8c64dbb9d8ed5bb12ffbf111d0214e8288b25a286002f9b8c0e6e51c36c0"
+  },
+  "My father cooks dinner.": {
+    "file": "audio/faafb2773f1d280df2cdc92ab1751c57b7e67fa8ee4d3169d86853ee6f9e39b2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 0.0,
+    "end": 1.917449,
+    "sha256": "5b416773c676f3ed07d579c477e6a239e8ddd38b1bb5800eb7459db06a5d6738"
+  },
+  "I help my brother with homework.": {
+    "file": "audio/e5a68bfa3d3f2143da84221e94cfb1e6ac10cd411e466b6075a3783e5790a99c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 1.917449,
+    "end": 4.043787,
+    "sha256": "2fa8c01d579677701e8665591475a44c261659951559fb6f0ed3dc26826ba882"
+  },
+  "She joins the school club.": {
+    "file": "audio/9b7ad5edf44acbe49bfe8b4f3b6516711349a7596e18947ad8c29809cf59e0ef.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 4.043787,
+    "end": 5.9879485,
+    "sha256": "8bb127ca6677d366969b7cb6a4e6b298f80ad2800abd3d72dc7df3bc6ed5775e"
+  },
+  "We like this song.": {
+    "file": "audio/0e173b5e317ea341aaff0b0f1117100f5e0c227bdd7d444b9222483dd36365db.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 5.9879485,
+    "end": 7.4219165,
+    "sha256": "eeaf05a76040dd49cc4025a81096a8564387011a453b2f887546b376cba1a239"
+  },
+  "They live near the station.": {
+    "file": "audio/312314061086688684e4259c70140b4e500af281f340c92c13074fe3a538c60e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 7.4219165,
+    "end": 9.514252,
+    "sha256": "6ad11eb364a630fcaf394a9bbc65ed5c8f742872db6fd79542d5f1dd06e1768a"
+  },
+  "He looks at the picture.": {
+    "file": "audio/ec4836dba3efae96cb4c110b57e754964a4d8fcf5d89f4a67d44e40f69e5ff5e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 0,
+    "start": 9.514252,
+    "end": null,
+    "sha256": "ce191d4a653a073e4671011d08451df984bf80e3bf1449cf59eee0bfd4d853a1"
+  },
+  "I open the window in the morning.": {
+    "file": "audio/25185e4f1a00d3c4827031ca6b464687e84c07ed577a4e84654459faf0a378c4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 0.0,
+    "end": 2.0503285,
+    "sha256": "5bbf5b9992e61664c50c46e71e50dc20b1a6388ac6cdc1c702af0372ff8bf6f3"
+  },
+  "The children play chess after school.": {
+    "file": "audio/5dcf3cd4aeedc83fc449875e0fa297a6036689a723038276c0d8bd64e7fe9218.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 2.0503285,
+    "end": 4.4373015,
+    "sha256": "97171cd052e799bc9d27d4e7d052ff8eb89a8a735f439d2b9e6f8df985d092b1"
+  },
+  "Sara studies English every day.": {
+    "file": "audio/f2d86f5fcef256f28ae1cd49698acd66cecc3fd46412f27c687d7ff483ca023b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 4.4373015,
+    "end": 6.7773924999999995,
+    "sha256": "e690bf41408cb423a7afddcccd7c9b6961d1584197b76fdb2e4253f2cd418b21"
+  },
+  "We visit our aunt in summer.": {
+    "file": "audio/5f1a7ae07ed887e307d28724d37c4d46f3079f4af48c14a34a5b2ec025833c59.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 6.7773924999999995,
+    "end": 8.7693645,
+    "sha256": "c20a26b6268a802bae880a8db2b8c7b32f217dd11af5ae03d03e623c38b478ce"
+  },
+  "carries": {
+    "file": "audio/47e8d6fafa7e2200e2d628e37d37ab45f231de202be9bc5e3b386cb248c6d96b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 8.7693645,
+    "end": 9.742517,
+    "sha256": "58249235b76f279c768aacca1220e9befcf7740c9fea8ec2f6f05533b7db250e"
+  },
+  "enjoys": {
+    "file": "audio/620210a50cdeea26abbe0936fa2f42ba02b52d4a5be1f4e20319675152f7f8dc.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 1,
+    "start": 9.742517,
+    "end": null,
+    "sha256": "bab2affa3de5b5a9873955d8374421aaffc15ed8ec5101204dc04f53488d399e"
+  },
+  "fixing": {
+    "file": "audio/9892eb22610c73d1fd78a5225bcf60d3a5dd6a522678166e27bbc1745033344a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-022",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9fc039b07c98c796f59c4a8b711edef0397c225b10decf9d63d8ebb59e37b157"
   }
 }

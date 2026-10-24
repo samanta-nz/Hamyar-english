@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1674,
+  "complete": 1687,
   "total": 2006,
-  "uniqueRecordings": 1200,
+  "uniqueRecordings": 1213,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -21,6 +21,7 @@
         "word_bought",
         "word_burned",
         "word_burnt",
+        "word_carries",
         "word_carry",
         "word_coffee",
         "word_come",
@@ -38,9 +39,11 @@
         "word_eat",
         "word_eaten",
         "word_enjoy",
+        "word_enjoys",
         "word_every",
         "word_finished",
         "word_fix",
+        "word_fixing",
         "word_go",
         "word_goes",
         "word_gone",
@@ -107,10 +110,7 @@
         "word_yet"
       ],
       "pending": [
-        "word_buy",
-        "word_carries",
-        "word_enjoys",
-        "word_fixing"
+        "word_buy"
       ]
     },
     {
@@ -2024,7 +2024,17 @@
         "verb_example_057",
         "verb_example_058",
         "verb_example_059",
-        "verb_example_060"
+        "verb_example_060",
+        "verb_example_061",
+        "verb_example_062",
+        "verb_example_063",
+        "verb_example_064",
+        "verb_example_065",
+        "verb_example_066",
+        "verb_example_067",
+        "verb_example_068",
+        "verb_example_069",
+        "verb_example_070"
       ],
       "pending": [
         "word_buy",
@@ -2039,17 +2049,7 @@
         "verb_example_051",
         "verb_example_052",
         "verb_example_053",
-        "verb_example_054",
-        "verb_example_061",
-        "verb_example_062",
-        "verb_example_063",
-        "verb_example_064",
-        "verb_example_065",
-        "verb_example_066",
-        "verb_example_067",
-        "verb_example_068",
-        "verb_example_069",
-        "verb_example_070"
+        "verb_example_054"
       ]
     }
   ],
