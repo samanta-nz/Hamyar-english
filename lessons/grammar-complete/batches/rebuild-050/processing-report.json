@@ -1,0 +1,34 @@
+{
+  "batch": "rebuild-050",
+  "accepted": [
+    {
+      "id": "new_present_perfect_0009",
+      "text": "She has already sent the message.",
+      "recording": "47ad3859e6965997e41d508290b4e01bee36f728e6fe4d0f653de6826d4ccb26"
+    },
+    {
+      "id": "new_present_perfect_0010",
+      "text": "Have you ever seen snow?",
+      "recording": "cfb44f2b73efe487f6f63df468ecaa4727a8f2db23ec7bae657d67416ca74bcd"
+    },
+    {
+      "id": "new_present_perfect_0011",
+      "text": "We have known each other for years.",
+      "recording": "4ea8908d7974d48d27ecdcd26d704613a2c68a1deca2595ff9d4cff335101462"
+    },
+    {
+      "id": "new_present_perfect_0012",
+      "text": "He has just arrived at the station.",
+      "recording": "d0ee97314c14f1fd4b7afa0ca1a01c77855d9d21bbf2976bfc0c0e7eaafec468"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

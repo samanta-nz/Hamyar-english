@@ -13417,5 +13417,41 @@
     "start": 0.0,
     "end": null,
     "sha256": "73a986fde6bc88ad27ab9a7f23efd61f095737ebf3cc34ebe6b3fc283d276d8f"
+  },
+  "She has already sent the message.": {
+    "file": "audio/47ad3859e6965997e41d508290b4e01bee36f728e6fe4d0f653de6826d4ccb26.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-050",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f3b42347c8337461728cb28edfaceae6d818d24a282c32f3c8fff726e9c7d7d3"
+  },
+  "Have you ever seen snow?": {
+    "file": "audio/cfb44f2b73efe487f6f63df468ecaa4727a8f2db23ec7bae657d67416ca74bcd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-050",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3de34c7a61bec848f154c018f5ebfb64b1fa03690b07e4e9f5b3520939abbeb4"
+  },
+  "We have known each other for years.": {
+    "file": "audio/4ea8908d7974d48d27ecdcd26d704613a2c68a1deca2595ff9d4cff335101462.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-050",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "aa8a1eb5005e5c01191a829e986fba932a8302c4b183d0ef70068950ab29c0e4"
+  },
+  "He has just arrived at the station.": {
+    "file": "audio/d0ee97314c14f1fd4b7afa0ca1a01c77855d9d21bbf2976bfc0c0e7eaafec468.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-050",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6c801ec51e58981598606722d45e830160dfd706e4eb39ce2d56d1a6cce7a179"
   }
 }
