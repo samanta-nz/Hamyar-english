@@ -1,0 +1,52 @@
+{
+  "batch": "rebuild-037",
+  "accepted": [
+    {
+      "id": "new_present_perfect_0097",
+      "text": "Sara has been to the tool shed and has returned with a pair of gloves.",
+      "recording": "2696b8538185f6c3c094322987606baefefc1e80b0afc97aaa6fe1e714eda0a1"
+    },
+    {
+      "id": "new_present_perfect_0098",
+      "text": "Noah has gone to the other side of the garden to find a rake; he is not back yet.",
+      "recording": "5b877ec1db491196559d423ede3688be6249dfb544dd083181614040d86591b4"
+    },
+    {
+      "id": "new_present_perfect_0099",
+      "text": "The children have been in the garden for two hours, and nobody has complained about the work.",
+      "recording": "5cc397090292850a977ad7bb6676d142c819aea166027e15cd1392987e93fb40"
+    },
+    {
+      "id": "new_present_perfect_0100",
+      "text": "They have shared snacks and have told stories while they plant.",
+      "recording": "cea8449e8ec3339a6a07e482e0d8368768431648173aa6d9c00fba976e27a5ed"
+    },
+    {
+      "id": "new_present_perfect_0101",
+      "text": "The garden has changed the empty lot.",
+      "recording": "efddc15807e321a5de44125137263c6235dc0ad67520603c8ea1dd701971ed3f"
+    },
+    {
+      "id": "new_present_perfect_0102",
+      "text": "Last month, the ground looked dry and forgotten; now the first leaves have appeared.",
+      "recording": "e3ec55e1ef21872aaafa7e9588e1206954b53e7411eff2724b4fb8513e607124"
+    },
+    {
+      "id": "new_present_perfect_0103",
+      "text": "Sara has taken several photos, but she took the first one on Monday, when the class started the bench.",
+      "recording": "935143b5db3f83b77b7899736e9ce5e489356cb6b03452370b8fe98dcae2c083"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

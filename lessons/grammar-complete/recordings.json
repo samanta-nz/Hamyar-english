@@ -12292,5 +12292,68 @@
     "start": 0.0,
     "end": null,
     "sha256": "2a28d947428f6e4a04162b4eef434df246a4259192ed803bca23c2755b5f0b22"
+  },
+  "Sara has been to the tool shed and has returned with a pair of gloves.": {
+    "file": "audio/2696b8538185f6c3c094322987606baefefc1e80b0afc97aaa6fe1e714eda0a1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "01d3aad4401172dbfa75f35b12dc5d86f9a6e745d8fcd13bc5b9a75b2dee2c14"
+  },
+  "Noah has gone to the other side of the garden to find a rake; he is not back yet.": {
+    "file": "audio/5b877ec1db491196559d423ede3688be6249dfb544dd083181614040d86591b4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9dbf7ab439fea0ea1c9e9ec41dc3f9a7aaaa0ec569e4422243e166ac6ff581ec"
+  },
+  "The children have been in the garden for two hours, and nobody has complained about the work.": {
+    "file": "audio/5cc397090292850a977ad7bb6676d142c819aea166027e15cd1392987e93fb40.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bbc70f81a70d3f2dc095e0587401e623898d2f0d69e63585570b63f58aacfce1"
+  },
+  "They have shared snacks and have told stories while they plant.": {
+    "file": "audio/cea8449e8ec3339a6a07e482e0d8368768431648173aa6d9c00fba976e27a5ed.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bcc57ca6cba394920a612b054ddd92c5398a5df35c4d254f4486a06a76e79b96"
+  },
+  "The garden has changed the empty lot.": {
+    "file": "audio/efddc15807e321a5de44125137263c6235dc0ad67520603c8ea1dd701971ed3f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f1a4ca4d2f19fc5c6c40c9caed5878d6aa1ca954665ea6727f0271da485a7a55"
+  },
+  "Last month, the ground looked dry and forgotten; now the first leaves have appeared.": {
+    "file": "audio/e3ec55e1ef21872aaafa7e9588e1206954b53e7411eff2724b4fb8513e607124.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "e66768c3b77744de5323fc6ae1f895c4d1ec343274babfe86fab1a09b50f13ba"
+  },
+  "Sara has taken several photos, but she took the first one on Monday, when the class started the bench.": {
+    "file": "audio/935143b5db3f83b77b7899736e9ce5e489356cb6b03452370b8fe98dcae2c083.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-037",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6eb33c098991f85d7d3dc927631c532cab8e9734b50d29d8354e43f452062489"
   }
 }
