@@ -11932,5 +11932,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "946f5bbd9b37ec2bda60d60ba4f9b6b55c4ab11619be69d74a1c03829ad5e26e"
+  },
+  "These days, my brother is learning to cook.": {
+    "file": "audio/cd65b4fce90c42de31737011a63a338358b336c55210d183fa86305c6147f937.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c43a9ab476795901c79649ec1a29932d2bbfd770a5dd92bae1365e58f1b1f00e"
+  },
+  "Right now, Sara is painting a large blue tree for the school art show.": {
+    "file": "audio/b5807d46431d9114c31f00bd7da48ca2edced339fbbd0f0421dde4607fddd8ba.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "737ce22ae744c79d3c21d479f3ec16f773cc37127b65e3516a3c5bcc0057b5be"
+  },
+  "The room is busy, but everyone is enjoying the project.": {
+    "file": "audio/3b7580bba54d3abac7697168788abed263d43eb086bf67161589d8cf1fe3740e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "14141249f51ea24601f763643800f2a44daf6a19ec3723142c751b27e52e2216"
+  },
+  "Noah is mixing green paint beside her, and Sara is choosing a softer color for the leaves.": {
+    "file": "audio/2c516db1d072d0a788993e05e2d60a7e3762e399563fed8fd192069bfbaee3c5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bb839cedd66a9c829177ded11424d1b164f74bdb0f5040b8325cce46c29d8231"
+  },
+  "This week, the students are learning how to use watercolors.": {
+    "file": "audio/de55fa63838083c8903011d49b3bea5f85d0b9f45d64c2697a5dca3b0406ad33.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4d1b7d487b445df81279510319e7a6ebc622ad8d4b3d369ba3426601c8520377"
+  },
+  "They are trying new techniques, and they are sharing their brushes.": {
+    "file": "audio/bcb8c8e979c642e3a7a6855de0e2022231925cd0382a33e6346d59e96c40acac.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "139b16bab6d49f4697f3f86560e43d50013beb72bdd71633671f33f356ba31cb"
+  },
+  "Sara is not painting every minute; sometimes she is watching the light near the window and thinking about the next part of the picture.": {
+    "file": "audio/fdc0f9472661af954d3181f5c637c21f0207d212fd8c5f72d8a80e7f4f8955dd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d862fd332469dd949fd16cbf842688d0c6c7d91124a473df9896bc8c81328aa5"
+  },
+  "Sara is laughing, and Noah is bringing a cloth.": {
+    "file": "audio/1fb94e1263413c25eaba5eaf63213ef7e76ea17628b8481e5032d08f1f990012.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "31880eacf4000dcd60f366c28ebe1187a4def375d1f4302f89c83b3d08b36b77"
+  },
+  "Across the room, two students are drawing a quiet street, while another group is building a paper bridge.": {
+    "file": "audio/d651dd0079d04b01687abd2a6b04e6bcc6ffedc12cd3d550da01906a3c0024f0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "07a1124997cfd629961cefce12644f9c43d7996f5abb5efa00b8d33a32cda6f1"
+  },
+  "The art show is tomorrow evening, so the class is also preparing for a future event.": {
+    "file": "audio/dba56660b88d446f8ce436a1d2c7839c0fc7c5974e1cc95818fdc51fdb5265f8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-033",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8ebf2be97d2f0ed15601821cf91090bd7cfe85af53d3a16b96a748dd49773612"
   }
 }

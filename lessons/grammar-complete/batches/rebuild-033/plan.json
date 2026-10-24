@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_continuous_0042",
+      "ttsText": "These days, my brother is learning to cook.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0042.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0042",
+      "audioSelector": "#audio_new_present_continuous_0042",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0085",
+      "ttsText": "Right now, Sara is painting a large blue tree for the school art show.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0085.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0085",
+      "audioSelector": "#audio_new_present_continuous_0085",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0087",
+      "ttsText": "The room is busy, but everyone is enjoying the project.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0087.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0087",
+      "audioSelector": "#audio_new_present_continuous_0087",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0088",
+      "ttsText": "Noah is mixing green paint beside her, and Sara is choosing a softer color for the leaves.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0088.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0088",
+      "audioSelector": "#audio_new_present_continuous_0088",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0090",
+      "ttsText": "This week, the students are learning how to use watercolors.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0090.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0090",
+      "audioSelector": "#audio_new_present_continuous_0090",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0091",
+      "ttsText": "They are trying new techniques, and they are sharing their brushes.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0091.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0091",
+      "audioSelector": "#audio_new_present_continuous_0091",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0092",
+      "ttsText": "Sara is not painting every minute; sometimes she is watching the light near the window and thinking about the next part of the picture.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0092.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0092",
+      "audioSelector": "#audio_new_present_continuous_0092",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0096",
+      "ttsText": "Sara is laughing, and Noah is bringing a cloth.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0096.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0096",
+      "audioSelector": "#audio_new_present_continuous_0096",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0099",
+      "ttsText": "Across the room, two students are drawing a quiet street, while another group is building a paper bridge.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0099.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0099",
+      "audioSelector": "#audio_new_present_continuous_0099",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0100",
+      "ttsText": "The art show is tomorrow evening, so the class is also preparing for a future event.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0100.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0100",
+      "audioSelector": "#audio_new_present_continuous_0100",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ]
+]

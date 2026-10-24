@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-033",
+  "accepted": [
+    {
+      "id": "new_present_continuous_0042",
+      "text": "These days, my brother is learning to cook.",
+      "recording": "cd65b4fce90c42de31737011a63a338358b336c55210d183fa86305c6147f937"
+    },
+    {
+      "id": "new_present_continuous_0085",
+      "text": "Right now, Sara is painting a large blue tree for the school art show.",
+      "recording": "b5807d46431d9114c31f00bd7da48ca2edced339fbbd0f0421dde4607fddd8ba"
+    },
+    {
+      "id": "new_present_continuous_0087",
+      "text": "The room is busy, but everyone is enjoying the project.",
+      "recording": "3b7580bba54d3abac7697168788abed263d43eb086bf67161589d8cf1fe3740e"
+    },
+    {
+      "id": "new_present_continuous_0088",
+      "text": "Noah is mixing green paint beside her, and Sara is choosing a softer color for the leaves.",
+      "recording": "2c516db1d072d0a788993e05e2d60a7e3762e399563fed8fd192069bfbaee3c5"
+    },
+    {
+      "id": "new_present_continuous_0090",
+      "text": "This week, the students are learning how to use watercolors.",
+      "recording": "de55fa63838083c8903011d49b3bea5f85d0b9f45d64c2697a5dca3b0406ad33"
+    },
+    {
+      "id": "new_present_continuous_0091",
+      "text": "They are trying new techniques, and they are sharing their brushes.",
+      "recording": "bcb8c8e979c642e3a7a6855de0e2022231925cd0382a33e6346d59e96c40acac"
+    },
+    {
+      "id": "new_present_continuous_0092",
+      "text": "Sara is not painting every minute; sometimes she is watching the light near the window and thinking about the next part of the picture.",
+      "recording": "fdc0f9472661af954d3181f5c637c21f0207d212fd8c5f72d8a80e7f4f8955dd"
+    },
+    {
+      "id": "new_present_continuous_0096",
+      "text": "Sara is laughing, and Noah is bringing a cloth.",
+      "recording": "1fb94e1263413c25eaba5eaf63213ef7e76ea17628b8481e5032d08f1f990012"
+    },
+    {
+      "id": "new_present_continuous_0099",
+      "text": "Across the room, two students are drawing a quiet street, while another group is building a paper bridge.",
+      "recording": "d651dd0079d04b01687abd2a6b04e6bcc6ffedc12cd3d550da01906a3c0024f0"
+    },
+    {
+      "id": "new_present_continuous_0100",
+      "text": "The art show is tomorrow evening, so the class is also preparing for a future event.",
+      "recording": "dba56660b88d446f8ce436a1d2c7839c0fc7c5974e1cc95818fdc51fdb5265f8"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
