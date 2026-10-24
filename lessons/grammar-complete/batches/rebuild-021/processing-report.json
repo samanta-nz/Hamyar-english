@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-021",
+  "accepted": [
+    {
+      "id": "word_worry",
+      "text": "worry",
+      "recording": "6de2f53e03e93dffb34ac0c77302d66128184fc2a8478ef82ca404fe054308a3"
+    },
+    {
+      "id": "word_wound",
+      "text": "wound",
+      "recording": "89364a0a769977b32c6e4dbf27068662d8581106dcead87ba8524c518820f149"
+    },
+    {
+      "id": "verb_example_002",
+      "text": "She became a doctor.",
+      "recording": "baa7e23ca6b1413869cbd91e5d32705e87cba3cf5f1f9dcb89223982a7652834"
+    },
+    {
+      "id": "verb_example_003",
+      "text": "We begin work at nine.",
+      "recording": "fdb74ef93034f2f45ba206273e76fda645eba1f9f75db5a937310a54f15533ca"
+    },
+    {
+      "id": "verb_example_004",
+      "text": "He breaks the bread into pieces.",
+      "recording": "597ba1c8016e5e4c0b4b9c2c0841ab22d5bb483caa93877085cd71cdf459c173"
+    },
+    {
+      "id": "verb_example_005",
+      "text": "They bring lunch to school.",
+      "recording": "178ac745dd11a3a2d1980b3882fd2f54b9ab7e8e881876ceefb15e34f5bf8870"
+    },
+    {
+      "id": "verb_example_006",
+      "text": "I build small models.",
+      "recording": "03bdf88acf4808d42cbc7cd4b67e04b7093bd0428ba540472f8bffe9ecc0ce42"
+    },
+    {
+      "id": "verb_example_007",
+      "text": "She buys fresh fruit.",
+      "recording": "6d87c1541a9625a1d25eb65faa9f832a7676e31c95fbd36c2b20330bd6e37789"
+    },
+    {
+      "id": "verb_example_008",
+      "text": "He catches the bus at seven.",
+      "recording": "5de7ef63ddfcea36b0f5622085c5c8186b29fc38a62334c0c65f48dfe7c31436"
+    },
+    {
+      "id": "verb_example_009",
+      "text": "We choose a quiet table.",
+      "recording": "22e3ab6812b87fa161f4209190468e7791e5bcb8118083d7f4ab5f360969bebe"
+    },
+    {
+      "id": "verb_example_010",
+      "text": "My friends come after school.",
+      "recording": "a8b706879a04c378aa22e551d7fab2b48c8f1f4f343cfe2091b1a706bd4e6627"
+    },
+    {
+      "id": "verb_example_011",
+      "text": "The ticket costs five dollars.",
+      "recording": "9bb4ff0dbd4844727c63afb854b6b8b6591e1d328c5d6f3ee78be3b19d843da9"
+    },
+    {
+      "id": "verb_example_012",
+      "text": "She cuts the paper carefully.",
+      "recording": "d1721d7b9bbc80a10008731a96be8d1d802aa0c7fcde1e12b810cddfadc8eef7"
+    },
+    {
+      "id": "verb_example_013",
+      "text": "I do my homework at home.",
+      "recording": "541c9909ab5f7b9a61e9e38e102c60c838d3561aa9f1af98fea12b52cc1251ad"
+    },
+    {
+      "id": "verb_example_014",
+      "text": "He draws a map.",
+      "recording": "035f8d7629cca974749c2b1306d4c4dc60ad46d9f5405c896b427549acc3bfdd"
+    },
+    {
+      "id": "verb_example_015",
+      "text": "They drink water after class.",
+      "recording": "c52f9d94711852070a61ddf6e480c8b89ec3e7aaf1ca39d19bc0328660549f58"
+    },
+    {
+      "id": "verb_example_016",
+      "text": "My aunt drives to work.",
+      "recording": "2c6ea09ad4592d58c5ca8509464bda08652c065f3743ac049b43a8515a028332"
+    },
+    {
+      "id": "verb_example_017",
+      "text": "We eat dinner at six.",
+      "recording": "9b679f7d0581e661a2b9b151c4b69dca558f8341a1b07e85fb1bbc81a5cea846"
+    },
+    {
+      "id": "verb_example_018",
+      "text": "Leaves fall in autumn.",
+      "recording": "7cf73bc591b7c4900734061eb79bbd9b499d763340291dd6c3a512356020dd9f"
+    },
+    {
+      "id": "verb_example_019",
+      "text": "I feel better today.",
+      "recording": "4a89e43ca3de86ffc2f3ace1a6b654c8935da17ac66e85bc27f7b0d67e35a8f1"
+    },
+    {
+      "id": "verb_example_020",
+      "text": "She finds her keys in the bag.",
+      "recording": "444269f1c5bee650b310580623e0e8336e26d051843d55217949924ab1da42d1"
+    },
+    {
+      "id": "verb_example_021",
+      "text": "Birds fly over the river.",
+      "recording": "82a0c2910377eea5f6683a77e3670980e082ac0f94e2cce22dbdf25460cde924"
+    },
+    {
+      "id": "verb_example_022",
+      "text": "He forgets names sometimes.",
+      "recording": "8f69b835e9b2d8beb6eef331c90f5889663dda5cdaa774f50fa4cab0ac0a60bf"
+    },
+    {
+      "id": "verb_example_023",
+      "text": "We get home before dark.",
+      "recording": "f03d01d93b2ec406caab17511225169a6a1c502d8368c724babe62f886105830"
+    },
+    {
+      "id": "verb_example_024",
+      "text": "They give books to the library.",
+      "recording": "5d4ac5f5c676948dd1975cb5c6dd7281f93ad654591f85d357801f76f328dbb7"
+    },
+    {
+      "id": "verb_example_025",
+      "text": "Sara goes to school by bus.",
+      "recording": "d705679909e0127581070688cfebcf135a29a24750cb841b4eba2d038818b902"
+    },
+    {
+      "id": "verb_example_026",
+      "text": "I have a blue notebook.",
+      "recording": "e1178e9644ff143d9e5a0bc70cd236567275791406cd63fa411c42245e1f30cf"
+    },
+    {
+      "id": "verb_example_027",
+      "text": "She hears music next door.",
+      "recording": "a777e9b9b098f47ec14c9650d31ad381da9003e5724034c59d46f55be2de7129"
+    },
+    {
+      "id": "verb_example_028",
+      "text": "We keep our classroom clean.",
+      "recording": "0c38e900017ce17f8efa15a0d9f5127db6e0b1e644048927b66cf01f1214112e"
+    },
+    {
+      "id": "verb_example_029",
+      "text": "He knows the answer.",
+      "recording": "aad5628a6fbe6e421fa3facb42b1e9fbe2ece2a4a1bfe6cfd9bec2e6c2b622f7"
+    },
+    {
+      "id": "verb_example_031",
+      "text": "I lose my pencil often.",
+      "recording": "f1787b29cd1a68d4616bf3fd436e982d2f8692d206438b34e242709ba5fdbf92"
+    },
+    {
+      "id": "verb_example_032",
+      "text": "She makes tea for her mother.",
+      "recording": "db0f317f75422dd3a80423c98a84d3f3f920c44af4e93da72179ef48f54ff76a"
+    },
+    {
+      "id": "verb_example_033",
+      "text": "We meet our teacher at noon.",
+      "recording": "1bd69dd689877d751192cfead53fe542db7c132b0ca1d02f9d3e14aa96df8257"
+    },
+    {
+      "id": "verb_example_034",
+      "text": "He pays for the ticket.",
+      "recording": "27235a6d1dddd321ad02252b34d21ea03ee5ccbe22adaa1c410bc68ec9007d34"
+    },
+    {
+      "id": "verb_example_035",
+      "text": "They put the bags by the door.",
+      "recording": "159affb100586da6723db812f4b15b412e998869855abadc067b12dd0df96c24"
+    },
+    {
+      "id": "verb_example_036",
+      "text": "I read a story every night.",
+      "recording": "3d384f57dcea59ea17ce0cee9fe7d8be536672450815a0df629b3a18143bef91"
+    },
+    {
+      "id": "verb_example_037",
+      "text": "She runs in the park.",
+      "recording": "6403c3a33ea3e682cc0922d00ddcdbe60274bcd1f232bc6a4cc00a0bd4189a3b"
+    },
+    {
+      "id": "verb_example_038",
+      "text": "He says hello to everyone.",
+      "recording": "606a14262e5389a72f9aa096314fb2aa4c455b1acf9382db6fdcb0c6a4b0afab"
+    },
+    {
+      "id": "verb_example_039",
+      "text": "We see stars at night.",
+      "recording": "749b94cc88ba9d1f7603d4ee32a026971b439402f0f3ec66b4cfecd387cdde56"
+    },
+    {
+      "id": "verb_example_040",
+      "text": "They sell fresh bread.",
+      "recording": "3005a65d5e2867949c4700f64abfb39603f700db60a4462143c859080369a77e"
+    },
+    {
+      "id": "verb_example_041",
+      "text": "I send a message to my friend.",
+      "recording": "4ea06f6b123e9d3a09fb7749a1daa52b6a6a83073aeeecb16f88c7ba27fa3073"
+    },
+    {
+      "id": "verb_example_042",
+      "text": "She sings in the school choir.",
+      "recording": "1ba5c5754ce7ce043fb5dcd35325e46078b8d49e1b21c7f1c44bcce092db72cd"
+    },
+    {
+      "id": "verb_example_043",
+      "text": "We sit near the window.",
+      "recording": "b52e53a064c0bd0c41a00a6c60f72025b243bbb5451fecff76adc225dacd995c"
+    },
+    {
+      "id": "verb_example_044",
+      "text": "The baby sleeps early.",
+      "recording": "daa83a4564b3d2a9679ff45b9746664e457e8f3dae75397130b63c3d1a691327"
+    },
+    {
+      "id": "verb_example_045",
+      "text": "I speak English in class.",
+      "recording": "dfe2f42baa95ce612e63c423d384fc82a5c93d017243d8a88160ffcfb60796ff"
+    },
+    {
+      "id": "verb_example_046",
+      "text": "He spends time with his family.",
+      "recording": "631cce0f7eba0fe0dfa869c326fec34849a391362d99e96edc43f8a7e8d34278"
+    },
+    {
+      "id": "verb_example_047",
+      "text": "They stand in a line.",
+      "recording": "e6caa42ab2e5ed69e434f27b0280ce119e0a42e9689173aa433362334736b1f0"
+    },
+    {
+      "id": "verb_example_048",
+      "text": "She takes a photo of the garden.",
+      "recording": "f19aafe94ce00a5dbf01ac06fe853b14c59919aa82059ca197b12db44a4e9747"
+    },
+    {
+      "id": "verb_example_055",
+      "text": "Sara writes in her notebook.",
+      "recording": "c9c06a557338678c134820b83320760f35ebe47f7165d3483d9b509802044ba7"
+    },
+    {
+      "id": "verb_example_056",
+      "text": "I accept the invitation.",
+      "recording": "e3dd68e1633356ace3a3c44042fdc4b6c3d6c48c363269b22f25a051e3b04b55"
+    },
+    {
+      "id": "verb_example_057",
+      "text": "She asks a good question.",
+      "recording": "98c7156ff823b7ca2161e914439c9d6018574b38b603027a62c1b172feed990a"
+    },
+    {
+      "id": "verb_example_058",
+      "text": "We call our grandmother on Sunday.",
+      "recording": "9cbc7a166297e2a9dcf1fd1447e14c84b34d6b127cd2f1f6410d2b4dc2c5a80a"
+    },
+    {
+      "id": "verb_example_059",
+      "text": "He cleans his desk after class.",
+      "recording": "b6cf693e6dd26497f7bb2db80976f414a723a89a8bee94c8e8482e2de2ed0c0c"
+    },
+    {
+      "id": "verb_example_060",
+      "text": "They close the shop at six.",
+      "recording": "96fb0c015100213b11a85834388511bc72b21d5bdbf7d7fb424d868b8bd1dba3"
+    }
+  ],
+  "held": [
+    {
+      "group": 8,
+      "pauses": [
+        [
+          1.24415,
+          0.22195
+        ],
+        [
+          2.650499,
+          0.4278
+        ],
+        [
+          4.775601,
+          0.414717
+        ],
+        [
+          6.768707,
+          0.436145
+        ],
+        [
+          8.732336,
+          0.446327
+        ],
+        [
+          10.641837,
+          0.428866
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
