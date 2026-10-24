@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1785,
+  "complete": 1796,
   "total": 2006,
-  "uniqueRecordings": 1307,
+  "uniqueRecordings": 1317,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -982,6 +982,16 @@
         "new_present_simple_0097",
         "new_present_simple_0098",
         "new_present_simple_0099",
+        "new_present_simple_0100",
+        "new_present_simple_0101",
+        "new_present_simple_0102",
+        "new_present_simple_0103",
+        "new_present_simple_0104",
+        "new_present_simple_0105",
+        "new_present_simple_0106",
+        "new_present_simple_0107",
+        "new_present_simple_0108",
+        "new_present_simple_0109",
         "new_present_simple_0119",
         "new_present_simple_0125",
         "new_present_simple_0126"
@@ -1007,16 +1017,6 @@
         "new_present_simple_0010",
         "new_present_simple_0011",
         "new_present_simple_0012",
-        "new_present_simple_0100",
-        "new_present_simple_0101",
-        "new_present_simple_0102",
-        "new_present_simple_0103",
-        "new_present_simple_0104",
-        "new_present_simple_0105",
-        "new_present_simple_0106",
-        "new_present_simple_0107",
-        "new_present_simple_0108",
-        "new_present_simple_0109",
         "new_present_simple_0110",
         "new_present_simple_0111",
         "new_present_simple_0112",
@@ -2006,6 +2006,7 @@
         "verb_example_027",
         "verb_example_028",
         "verb_example_029",
+        "verb_example_030",
         "verb_example_031",
         "verb_example_032",
         "verb_example_033",
@@ -2047,9 +2048,7 @@
         "verb_example_069",
         "verb_example_070"
       ],
-      "pending": [
-        "verb_example_030"
-      ]
+      "pending": []
     }
   ],
   "selectorIssues": [

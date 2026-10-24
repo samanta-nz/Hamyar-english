@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_simple_0100",
+      "ttsText": "She tells her that the library is quiet and that she has finished her tasks.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0100.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0100",
+      "audioSelector": "#audio_new_present_simple_0100",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0101",
+      "ttsText": "Her mother usually asks her to buy bread on the way home, but today they already have enough.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0101.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0101",
+      "audioSelector": "#audio_new_present_simple_0101",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0102",
+      "ttsText": "After lunch, Sara visits her grandmother.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0102.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0102",
+      "audioSelector": "#audio_new_present_simple_0102",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0103",
+      "ttsText": "They drink tea, share a small cake, and talk about old family photos.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0103.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0103",
+      "audioSelector": "#audio_new_present_simple_0103",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0104",
+      "ttsText": "Sara sometimes writes the stories in her notebook.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0104.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0104",
+      "audioSelector": "#audio_new_present_simple_0104",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0105",
+      "ttsText": "She returns home before sunset and writes in her notebook.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0105.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0105",
+      "audioSelector": "#audio_new_present_simple_0105",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0106",
+      "ttsText": "At night, she sets her alarm and puts her book beside the bed.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0106.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0106",
+      "audioSelector": "#audio_new_present_simple_0106",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0107",
+      "ttsText": "She does these things every Saturday, so the day feels full but peaceful.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0107.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0107",
+      "audioSelector": "#audio_new_present_simple_0107",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0108",
+      "ttsText": "Sara usually walks to school.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0108.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0108",
+      "audioSelector": "#audio_new_present_simple_0108",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0109",
+      "ttsText": "The train leaves at eight.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0109.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0109",
+      "audioSelector": "#audio_new_present_simple_0109",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ]
+]

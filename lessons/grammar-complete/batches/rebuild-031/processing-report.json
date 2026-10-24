@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-031",
+  "accepted": [
+    {
+      "id": "new_present_simple_0100",
+      "text": "She tells her that the library is quiet and that she has finished her tasks.",
+      "recording": "946347a208dd076c739f8eb9fb8f50f8fe1402da33600fcead6292272480b9a5"
+    },
+    {
+      "id": "new_present_simple_0101",
+      "text": "Her mother usually asks her to buy bread on the way home, but today they already have enough.",
+      "recording": "0d5205272519ac6643d3ef26a675acfdac28604585ec01f74eed0da485bf060d"
+    },
+    {
+      "id": "new_present_simple_0102",
+      "text": "After lunch, Sara visits her grandmother.",
+      "recording": "8c2ab28c46150f1dafa1fc0053d3b2b43188eb3967e9821c091f8483ec55e3d5"
+    },
+    {
+      "id": "new_present_simple_0103",
+      "text": "They drink tea, share a small cake, and talk about old family photos.",
+      "recording": "e843f236f7e874fabda009e466d408217c6adcd4bd3cca22a577dd1553e00094"
+    },
+    {
+      "id": "new_present_simple_0104",
+      "text": "Sara sometimes writes the stories in her notebook.",
+      "recording": "4026c86722225f96e7afe5f6d72ac89bb3c266fc4ffaea4abbab01036cb3739e"
+    },
+    {
+      "id": "new_present_simple_0105",
+      "text": "She returns home before sunset and writes in her notebook.",
+      "recording": "cf54b46c0dc25931e813df4d1d08bde790e5521c066d87d20958e86997d1ad66"
+    },
+    {
+      "id": "new_present_simple_0106",
+      "text": "At night, she sets her alarm and puts her book beside the bed.",
+      "recording": "67bc5191bb8f41cb4f17bfd8bf622c8ec39a81ebd76c4cc3a76894beabe98b45"
+    },
+    {
+      "id": "new_present_simple_0107",
+      "text": "She does these things every Saturday, so the day feels full but peaceful.",
+      "recording": "62178c58d205d8d644997713224b14773a67623e950d04a89b3fe5eb8230a650"
+    },
+    {
+      "id": "new_present_simple_0108",
+      "text": "Sara usually walks to school.",
+      "recording": "abbccded259e1cd238e22a439bb2db658a0ad2475174161e0b3cb16527931f63"
+    },
+    {
+      "id": "new_present_simple_0109",
+      "text": "The train leaves at eight.",
+      "recording": "e6724b52f4e2046ec7adc2715ab548d504e5613f4e1e7604de2f4b5ca4a41c30"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

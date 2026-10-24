@@ -11761,5 +11761,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "653fe9860335af5c840c0ec25dfcfc0573b11171ba4fe45bb45bafd679ac15c3"
+  },
+  "She tells her that the library is quiet and that she has finished her tasks.": {
+    "file": "audio/946347a208dd076c739f8eb9fb8f50f8fe1402da33600fcead6292272480b9a5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4f2bc5706624ce945ea56557750457ecf4a3675c92392f5db00ae3d4840bdcc3"
+  },
+  "Her mother usually asks her to buy bread on the way home, but today they already have enough.": {
+    "file": "audio/0d5205272519ac6643d3ef26a675acfdac28604585ec01f74eed0da485bf060d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a1e0c50972f23f41986738d96080b0ff6aa8ca701b7eaa994bc096929e30e793"
+  },
+  "After lunch, Sara visits her grandmother.": {
+    "file": "audio/8c2ab28c46150f1dafa1fc0053d3b2b43188eb3967e9821c091f8483ec55e3d5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "65620677fda52b6202ab57123b532b34e4ec11d8791be447f4a0b507dbcfa40c"
+  },
+  "They drink tea, share a small cake, and talk about old family photos.": {
+    "file": "audio/e843f236f7e874fabda009e466d408217c6adcd4bd3cca22a577dd1553e00094.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "99f15d1d23af0a979fabee828d65acf9ba573597e148f2235e39484fe7ddb283"
+  },
+  "Sara sometimes writes the stories in her notebook.": {
+    "file": "audio/4026c86722225f96e7afe5f6d72ac89bb3c266fc4ffaea4abbab01036cb3739e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ff404513ad1e00cbbaa309b27cff0775284ca52c5d637938ac47ee0ea638bc62"
+  },
+  "She returns home before sunset and writes in her notebook.": {
+    "file": "audio/cf54b46c0dc25931e813df4d1d08bde790e5521c066d87d20958e86997d1ad66.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "25e98f38d582c96f6ec9c75dccca47e5a65b6d17a97145aba1185fb60b9098fc"
+  },
+  "At night, she sets her alarm and puts her book beside the bed.": {
+    "file": "audio/67bc5191bb8f41cb4f17bfd8bf622c8ec39a81ebd76c4cc3a76894beabe98b45.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "18b9afcddfafb5075601d96df11906dd4f9875aac06776d49b396de6c341c43d"
+  },
+  "She does these things every Saturday, so the day feels full but peaceful.": {
+    "file": "audio/62178c58d205d8d644997713224b14773a67623e950d04a89b3fe5eb8230a650.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2d16e8e276a9d4f6ab6eb9c1080fd436a1389ea372eff29ede92e964c6991d72"
+  },
+  "Sara usually walks to school.": {
+    "file": "audio/abbccded259e1cd238e22a439bb2db658a0ad2475174161e0b3cb16527931f63.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4b11374ab85f5dd65422d15eccab5aef76a806d5c0282a5db7c5e3e7128a81b1"
+  },
+  "The train leaves at eight.": {
+    "file": "audio/e6724b52f4e2046ec7adc2715ab548d504e5613f4e1e7604de2f4b5ca4a41c30.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-031",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ca7be469a5ee76a710d12dc9ab8c1dafb4d2c99acb5bb410d19ac6454e392b9c"
   }
 }
