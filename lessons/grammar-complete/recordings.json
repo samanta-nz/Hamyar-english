@@ -1942,5 +1942,437 @@
     "start": 9.20644,
     "end": null,
     "sha256": "73ffa69869ee45663e08a2352a58b465bf13315d3f4fd2a738a263e3f75aed0c"
+  },
+  "Which ends with /ɪz/?": {
+    "file": "audio/63995f4a1450dc3b163c187f8f88ca6278c28cca0eec146c279b6aeac39e62d1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 0.0,
+    "end": 1.719093,
+    "sha256": "0cdb5e73b223fd54e7f7aa292aa83ec9a842d31fd081c5a05c257fac5f0aa41f"
+  },
+  "Which is a routine?": {
+    "file": "audio/cd32aedce329a86dcc2cbb5bed862bbc2ba0016009c83a675476eda7278a9d6a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 1.719093,
+    "end": 3.2579365,
+    "sha256": "cfdee84e16ba3a5e8adefcb0ba5b1638715e49caff6b7d8efa055c50063c8e4e"
+  },
+  "Choose the correct question.": {
+    "file": "audio/5b4acd17655677da5338e05f5cfe7fcee441d132a6644343f46e7041d51f8fae.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 3.2579365,
+    "end": 5.100906999999999,
+    "sha256": "93e3d26128b55bc84984d14e018523a12854de6ccf7fde4165eeb28d151f7770"
+  },
+  "She is reading a book now.": {
+    "file": "audio/60aaaa727c54ab62e0cbc7d7b5fd6b0cc911706fe0ae6fcd1ea7f2a35aa832bf.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 5.100906999999999,
+    "end": 7.1429485,
+    "sha256": "31710ba7578450fcf65415c8bc0e7096a9eefdc6b58c9028a3bd8836f6e65cdf"
+  },
+  "They are not waiting outside.": {
+    "file": "audio/7a5293d64b465a4ed4c6b1b9f0535f97792f461a658357b2e3b49dcd5e365a14.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 7.1429485,
+    "end": 9.3411905,
+    "sha256": "50b59c142823f265f6d9e9e49b65f36008538d6b4973cc83f2ff0bc1a057dcb9"
+  },
+  "Is he working today?": {
+    "file": "audio/6c4c7a15e11db8167ddd0221e2b60f70ace64319a3d0a4ee50b52f1688b4e7ad.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 2,
+    "start": 9.3411905,
+    "end": null,
+    "sha256": "16b8974c9574693f5eb279e195b6e8cb811db2564080a8dada905186b3ced132"
+  },
+  "What are you doing?": {
+    "file": "audio/5abff00c28a3f309d13738779a878490f0152be63e95d03a143d97c364b77fa4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 0.0,
+    "end": 1.3362355000000001,
+    "sha256": "515f0efe16ab61561a819e2e93d8f2f3c23de65c208eeab67a032315a26a07d8"
+  },
+  "I am studying now.": {
+    "file": "audio/ba10bdf7ffe1491a910dbcb457352f923b795bd71e5c8ee9f2d6f1d228623de5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 1.3362355000000001,
+    "end": 3.024943,
+    "sha256": "9cd19b1a9c266ff20b5e76594f67319cd5d76976d01776bf7d2068116ad189c6"
+  },
+  "Ali is studying.": {
+    "file": "audio/14d672813b10785429c1696c61840eaf12910de83858386ac6452c8f51e54d67.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 3.024943,
+    "end": 4.618729999999999,
+    "sha256": "59e3c9648f445ec0fc5f81ec42d75365d7fcdc4915def81ce4d91db574b66dd4"
+  },
+  "They are playing football.": {
+    "file": "audio/2c4194fcdd56c30f84b289ec9523d606868791839118dea9491b36da281f6d24.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 4.618729999999999,
+    "end": 6.403605,
+    "sha256": "aaf73f440f98553fb5b65fe6def20352254cfbfa4f4d3981e10dbe1cbc8b1d39"
+  },
+  "I'm working now.": {
+    "file": "audio/fa5cbdf8bd9106c96acec46bc32ef16e5f937c6e26e813dcc857bf4b2aad1e11.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 6.403605,
+    "end": 7.758106,
+    "sha256": "8815ecb7358b1ed8e120fd51e1df9e846ce24458c08d98b2957075d50347516c"
+  },
+  "She's cooking dinner.": {
+    "file": "audio/a28e39c0e52f07af8f05439d8b2a60b0825295730a5d4083fac4e0156bb4b53c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 3,
+    "start": 7.758106,
+    "end": null,
+    "sha256": "457f9a53bbbf50db795e1ed187cf7c69f37722b35667a8d8a0a51552fdae316e"
+  },
+  "We're watching a movie.": {
+    "file": "audio/11c8e2a4af214d0b087e989491e2046bedbcf1958f30eb09f9c1e54278ab2338.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 0.0,
+    "end": 1.4300110000000001,
+    "sha256": "06a750907c83a5a870ea9f5dcfac55bb111861bab0b212b702fe4858b336af18"
+  },
+  "I'm not sleeping.": {
+    "file": "audio/482427911b019cd0d3755e9141e9228ed1061b51785f01930149ff3f228c50a8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 1.4300110000000001,
+    "end": 2.7892745,
+    "sha256": "cbfef9826b6888c620648beb0c966918537516133de3da4d22afd81b9c9ee89e"
+  },
+  "He isn't crying.": {
+    "file": "audio/aa8f30fc84be2ff69b916bd696f37102f7c5fa67aa18b53beea82e6b074ac414.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 2.7892745,
+    "end": 4.487086,
+    "sha256": "eec98418cbde673447945ff7a1c4b08a41659c52e3b02a75b1f1a25e7f44890f"
+  },
+  "They aren't waiting.": {
+    "file": "audio/e6199bbeb219acb5dc2a9b1ea9db80cb88f1eef1fc4249f3b6a05feb4a755e01.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 4.487086,
+    "end": 5.9218825,
+    "sha256": "a61596cc62be262618f747e0f0321a84e9f33abc8e5b9a48a6ace678934a154f"
+  },
+  "Are you studying?": {
+    "file": "audio/c3e3a0254d5fb77108f88a4175d6906f34d8c30d6c4eea9f1e09025a284b4c56.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 5.9218825,
+    "end": 7.2369155,
+    "sha256": "49269a4eacd96836b955c6b094aa9c1df525f530fa41fc753a4fd62fc50aa71a"
+  },
+  "Is he crying?": {
+    "file": "audio/4efa6bb6c7a6b6534601e29bb0cbd5a93a286cad0aa59fd9eb2ebf60c0b060d3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 4,
+    "start": 7.2369155,
+    "end": null,
+    "sha256": "626686182017d37c909421521a21f6bf8bb628211e057689256bdf8736dbf5c6"
+  },
+  "Are they coming?": {
+    "file": "audio/6cf7e9807cc40147375a71e029f6fee7bde40e2dfeda01b3247f77ce3fae37fd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 0.0,
+    "end": 1.1671425,
+    "sha256": "0f9e0d3ddfc834be2d92a1e2ed2a9cdb77639754c1644bdec9399ab021b00445"
+  },
+  "Where is Sara working?": {
+    "file": "audio/33985e540b51e8457b71ac2c8bfba34d96143c681567d7cba84ef1e38deb9e2f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 1.1671425,
+    "end": 2.8501475,
+    "sha256": "b4f2d168d2d70bdae3d2eec13b24bbff5fb5cae14372f9fcf2af6f248cfd4f20"
+  },
+  "She is making dinner.": {
+    "file": "audio/b0b7e2812af08ad8be5f4a1ba06e9b1d5932fa41407545375d0d1007744386a5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 2.8501475,
+    "end": 4.7112015,
+    "sha256": "d0db489e6c34cfddbafdc236f60a8c43a58842b86e587de5c90a519a4a3d2887"
+  },
+  "He is running now.": {
+    "file": "audio/f1b1a175003519b69c58d09bbbbdf03befc63040fd9a6f39926bfda8fa3bde3c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 4.7112015,
+    "end": 6.2768025,
+    "sha256": "4034cba97f30efb0e19f0e2f00e77f3f7193e40a9a326546a8858e85d05d4acc"
+  },
+  "The baby is lying on the bed.": {
+    "file": "audio/b852ea8da658658a74ce838c0f8abab92ee8db3a518954e8763fef4acf70067b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 6.2768025,
+    "end": 8.245850999999998,
+    "sha256": "503d603203552849c69f8dad30dd6ec2e334e64ea31c6dcce4dfcee61a8c26e0"
+  },
+  "I'm eating now.": {
+    "file": "audio/b86b307ebfc2232e4c338545a1bd531f1d106087eb1007048b6628e2fdea86f6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 5,
+    "start": 8.245850999999998,
+    "end": null,
+    "sha256": "0b9645be78178832681f61d45af0f0c31ca59ae533d76bd6e6fd2244bc082b69"
+  },
+  "She's studying right now.": {
+    "file": "audio/2b9132366b5be76ba236711e7dc2fdf11b3ed07153b129c73fb7682e52eb7820.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 0.0,
+    "end": 1.7501025,
+    "sha256": "0f3eaa964b662e6aa42aa838934c404aac73cb6521d1bf481cb021e6673714bb"
+  },
+  "They're waiting at the moment.": {
+    "file": "audio/00981a9fa387fc04816b79ce67d489094cbf3ce41dc345b5c7e939d4b3b4a8dd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 1.7501025,
+    "end": 3.611009,
+    "sha256": "25e7287910f189125e44b17d7afc519ad635d90da83d28c4406854bf98bd1934"
+  },
+  "I'm talking to you now.": {
+    "file": "audio/54b03be209dc5cbbeea03c3f2d02fc565fd6d78881b1138fc00afe9d7cb4aa95.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 3.611009,
+    "end": 5.610397,
+    "sha256": "ad9dcc9493c04656a6f27c815a015c141fd38c10b12f7f19680873d05a3da03c"
+  },
+  "I'm living in Berlin this month.": {
+    "file": "audio/aee1edf260fc346354e4450040f06492bc01fad4252579098694fe245dfacb10.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 5.610397,
+    "end": 7.698798,
+    "sha256": "3c64191832b2d9bcecbcba831d445c109e1303d95c1cb11d3f8bc5b088f3f53e"
+  },
+  "The weather is getting colder.": {
+    "file": "audio/bc3ffee44304c9192930604929b6392988cea1550030ee4be1bac2c87f50698e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 7.698798,
+    "end": 10.114909500000001,
+    "sha256": "c622bec113ad41064df91547e9dbb5bd6979490fdd625491602eb6425376a7f8"
+  },
+  "I'm meeting Ali tomorrow.": {
+    "file": "audio/48d3553b9b27bde03e5be63af3a0ee3e669edd83cc7ec557efd372491a4fd607.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 6,
+    "start": 10.114909500000001,
+    "end": null,
+    "sha256": "c7fbd72cce80fb843a453b08651063719a695f28d5c77f0044c8d2feb77a599e"
+  },
+  "He is always losing his keys.": {
+    "file": "audio/f77aa274dae172a6686124aec47c36bad06b66b21a3dd129d6912ce60b284257.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 0.0,
+    "end": 2.2708844999999998,
+    "sha256": "5063226ff19f8256e19d50d5af5a6b385adad9c9693ace959cdb489a16a36b23"
+  },
+  "I know the answer.": {
+    "file": "audio/9bae03a5d7e34a8d5b5c1e6e4e740e9cff2b16b43d705e2f3194d90dde993cf8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 2.2708844999999998,
+    "end": 3.7531399999999997,
+    "sha256": "8e6d87f7cd0b2dff6aef12b65768804414ff7a816338dca4c2118e0d7762bfa7"
+  },
+  "She likes coffee.": {
+    "file": "audio/77a5b046490426e02cf8b84b094694750496e699402628be6f40397a83d21b03.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 3.7531399999999997,
+    "end": 5.306871,
+    "sha256": "b8eee92b647bcce131a41c7167b5ba2625d41bab129f97892c0cc813350994c4"
+  },
+  "answer": {
+    "file": "audio/0db52f4076c082518412afd3dd3576e2cb0c63703fd7fed5e23ade60efef31d9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 5.306871,
+    "end": 6.231916,
+    "sha256": "c93e7eaaf3bab3d69c4c2478d6f4b423dec40dcb653c1bd96c30d4314b4db63b"
+  },
+  "begin": {
+    "file": "audio/e6f07d43b5c21db0fbb9a31feac2dc599787763393dd5acbfad80e247eb02ad5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 6.231916,
+    "end": 7.0882879999999995,
+    "sha256": "41a2fa043d13ba442e9e837251cb86a9b76033baf8cc591d7cbaf1028d523872"
+  },
+  "beginning": {
+    "file": "audio/4095391c7e3e04ff12c9ad2e6c49bd63dfe77e885acaadd3b58a1d8895383044.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 7,
+    "start": 7.0882879999999995,
+    "end": null,
+    "sha256": "c3b25463fe8727c924546ec34f0b2db424f47b31b96bf3cd00fe56ca9dd3ce0d"
+  },
+  "being": {
+    "file": "audio/85574fa07dae32132675e21676042035c1b8a8384e11cd430269cff53f29add1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 0.0,
+    "end": 0.880657,
+    "sha256": "814dbe356c2726c81aab8c3fcc448ff41a7ac7af546e6b07877b66da651d9b1b"
+  },
+  "believe": {
+    "file": "audio/f078209dfece953500ee03333012e3c8ada6c36df35a053f00031becab3cf620.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 0.880657,
+    "end": 1.8471770000000003,
+    "sha256": "83055ad141cddc94f83d0f6201d11ee88ccab1140319086df1eb8b1da4f033d6"
+  },
+  "belong": {
+    "file": "audio/6d38f6d6072843eeb8415a2d203c545c479dc2f1c138a2ac914a98cf5c9ae942.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 1.8471770000000003,
+    "end": 2.7986850000000003,
+    "sha256": "a1abc2ab938d3f3e034c6a214d5a1410a7f581bb099b425887d2eb79bb781659"
+  },
+  "book": {
+    "file": "audio/92719fe0cf8cd51592af31ee8a5736d79f7273777fa3f7b70bfe993a4cd32180.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 2.7986850000000003,
+    "end": 3.5342405,
+    "sha256": "463174e8391243269bd99b56eb88677883a97562feb57381650429ea94b56cae"
+  },
+  "build": {
+    "file": "audio/44575cf5b28512d75644bf54a517dcef304ff809fd511747621b4d64f19aac66.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 3.5342405,
+    "end": 4.324592,
+    "sha256": "4a4602286068587c53794fa4ed657d4916cc95dd52d71fb06b66459818baaf0d"
+  },
+  "choose": {
+    "file": "audio/725fed9d1ae909982052ec4fe91a5a140158b4349498c7ef020ed32d6f8a370d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 8,
+    "start": 4.324592,
+    "end": null,
+    "sha256": "c23f914314ca15b134c4584417656d3a3860cacf86990ffe754a9ea0552e3122"
+  },
+  "coming": {
+    "file": "audio/ffbfabc54ca8a26ef654e1dfecce9802d96326869199f4b1dbac0adb1fe7de06.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 0.0,
+    "end": 0.6893995,
+    "sha256": "b37a9d7a55c35310e544f35f45ec32ea644b6828307e264b32aa41c1ba6542dd"
+  },
+  "complete": {
+    "file": "audio/eebbf6457e46a7f63acdf9b97390f790ba443d60cfa44b607da7e5c40aa1cc1d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 0.6893995,
+    "end": 1.689297,
+    "sha256": "9749a617e76da4f0a6117fc884b4b6325d2daf7ad8ae62f4d067f34c7a171855"
+  },
+  "cooking": {
+    "file": "audio/82bd81ea4b0302554165ae91628c0965b68b976a62ecf107c2e79688833f7599.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 1.689297,
+    "end": 2.5531295,
+    "sha256": "5619cc01f27c9a5f839891b50bce46afff291c8b76d56e198b81bdd3020488a7"
+  },
+  "cooks": {
+    "file": "audio/b433c45d27b9cf820d32aaa369e5f3818a9b16d1218f54450f58939a4a89fe7d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 2.5531295,
+    "end": 3.4171430000000003,
+    "sha256": "58866f395617afa7b088a7761a71e6574287de1596b0b516766edfd4396c4096"
+  },
+  "cry": {
+    "file": "audio/58a69b8bb1f5e666c354a4b8753ae06c8e6a59e6c22fafe1d9282b8a95010b32.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 3.4171430000000003,
+    "end": 4.2311,
+    "sha256": "199c908174e8cae0fd8ebefcb7cab3a646b4efd16169934c6f9d615f73138a1c"
+  },
+  "crying": {
+    "file": "audio/e94d1a2b79c376cca3e02a7e661902d37438d150f07b3afc545014e93bf2660c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-005",
+    "group": 9,
+    "start": 4.2311,
+    "end": null,
+    "sha256": "d7c6213f4a46c52199b79b086ab418cd4890b6c4e067493d112420c00944f607"
   }
 }

@@ -33,3 +33,8 @@ local HEAD is up to date before planning new audio. The remote branch is the
 source of truth if Arena restores the Git checkout at an earlier commit.
 Preserve any local edits before a fast-forward; never discard existing audio.
 Batch rebuild-002 keeps groups 8 and 9 pending for additional alignment.
+
+For explicitly reviewed groups with five internal pauses but no >=200ms trailing
+pause, use `--no-trailing-groups` alongside `--groups`. This is opt-in, never
+inferred automatically. Rebuild-005 groups 0 and 1 remain pending because they
+contain additional internal pauses; all source FLACs are retained.

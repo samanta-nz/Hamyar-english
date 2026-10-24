@@ -23,20 +23,26 @@ REG=ROOT/'recordings.json'
 def load(path,default=None):return json.loads(path.read_text()) if path.exists() else default
 def save(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 def run(args,**kwargs):return subprocess.run([FF,'-v','error',*args],check=True,capture_output=True,**kwargs)
-def import_batch(name,groups):
+def import_batch(name,groups,no_trailing=None):
+    no_trailing=no_trailing or set()
+    assert no_trailing <= groups
     batch=ROOT/'batches'/name
     plan=load(batch/'plan.json');registry=load(REG,{})
     audio=ROOT/'audio';audio.mkdir(exist_ok=True)
-    report={'batch':name,'accepted':[],'held':[], 'alignmentMethod':'reviewed pause boundaries, not ASR or manual listening'}
+    report={'batch':name,'accepted':[],'held':[], 'noTrailingSilenceGroups':sorted(no_trailing), 'alignmentMethod':'reviewed pause boundaries, not ASR or manual listening'}
     for n,items in enumerate(plan):
         src=batch/f'{n}.wav';flac=src.with_suffix('.flac')
         if not src.exists() and flac.exists():
             run(['-y','-i',str(flac),'-c:a','pcm_s16le',str(src)])
         log=subprocess.run([FF,'-i',str(src),'-af','silencedetect=noise=-35dB:d=0.20','-f','null','-'],capture_output=True,text=True,check=True).stderr
         pauses=[(float(e),float(d)) for e,d in re.findall(r'silence_end: ([\d.]+) \| silence_duration: ([\d.]+)',log)]
-        if n not in groups or len(pauses)!=len(items):
+        expected=len(items)-1 if n in no_trailing else len(items)
+        if n not in groups or len(pauses)!=expected:
             report['held'].append({'group':n,'pauses':pauses});continue
-        cuts=[0.0]+[e-d/2 for e,d in pauses[:-1]]
+        # Explicitly reviewed groups may end without a >=200ms trailing pause.
+        internal=pauses if n in no_trailing else pauses[:-1]
+        cuts=[0.0]+[e-d/2 for e,d in internal]
+        assert len(cuts)==len(items)
         for k,item in enumerate(items):
             text=item['ttsText'];key=hashlib.sha256(text.encode()).hexdigest()
             dest=audio/(key+'.weba')
@@ -95,9 +101,9 @@ def build():
     save(ROOT/'progress.json',progress)
     print(f"Embedded {progress['complete']}/{progress['total']}; missing local links: {len(progress['missingLocalLinks'])}")
 
-p=argparse.ArgumentParser();p.add_argument('command',choices=['import','build']);p.add_argument('batch',nargs='?');p.add_argument('--groups',default='')
+p=argparse.ArgumentParser();p.add_argument('command',choices=['import','build']);p.add_argument('batch',nargs='?');p.add_argument('--groups',default='');p.add_argument('--no-trailing-groups',default='')
 a=p.parse_args()
 if a.command=='import':
     assert a.batch and a.groups,'Batch and explicit --groups acceptance are required'
-    import_batch(a.batch,{int(x) for x in a.groups.split(',')})
+    import_batch(a.batch,{int(x) for x in a.groups.split(',')},{int(x) for x in a.no_trailing_groups.split(',') if x})
 else:build()

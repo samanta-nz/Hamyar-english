@@ -1,0 +1,325 @@
+{
+  "batch": "rebuild-005",
+  "accepted": [
+    {
+      "id": "new_present_simple_0119",
+      "text": "Which ends with /ɪz/?",
+      "recording": "63995f4a1450dc3b163c187f8f88ca6278c28cca0eec146c279b6aeac39e62d1"
+    },
+    {
+      "id": "new_present_simple_0125",
+      "text": "Which is a routine?",
+      "recording": "cd32aedce329a86dcc2cbb5bed862bbc2ba0016009c83a675476eda7278a9d6a"
+    },
+    {
+      "id": "new_present_simple_0126",
+      "text": "Choose the correct question.",
+      "recording": "5b4acd17655677da5338e05f5cfe7fcee441d132a6644343f46e7041d51f8fae"
+    },
+    {
+      "id": "present_continuous_listen_01",
+      "text": "She is reading a book now.",
+      "recording": "60aaaa727c54ab62e0cbc7d7b5fd6b0cc911706fe0ae6fcd1ea7f2a35aa832bf"
+    },
+    {
+      "id": "present_continuous_listen_02",
+      "text": "They are not waiting outside.",
+      "recording": "7a5293d64b465a4ed4c6b1b9f0535f97792f461a658357b2e3b49dcd5e365a14"
+    },
+    {
+      "id": "present_continuous_listen_03",
+      "text": "Is he working today?",
+      "recording": "6c4c7a15e11db8167ddd0221e2b60f70ace64319a3d0a4ee50b52f1688b4e7ad"
+    },
+    {
+      "id": "present_continuous_listen_04",
+      "text": "What are you doing?",
+      "recording": "5abff00c28a3f309d13738779a878490f0152be63e95d03a143d97c364b77fa4"
+    },
+    {
+      "id": "present_continuous_sentence_001",
+      "text": "I am studying now.",
+      "recording": "ba10bdf7ffe1491a910dbcb457352f923b795bd71e5c8ee9f2d6f1d228623de5"
+    },
+    {
+      "id": "present_continuous_sentence_002",
+      "text": "Ali is studying.",
+      "recording": "14d672813b10785429c1696c61840eaf12910de83858386ac6452c8f51e54d67"
+    },
+    {
+      "id": "present_continuous_sentence_003",
+      "text": "They are playing football.",
+      "recording": "2c4194fcdd56c30f84b289ec9523d606868791839118dea9491b36da281f6d24"
+    },
+    {
+      "id": "present_continuous_sentence_004",
+      "text": "I'm working now.",
+      "recording": "fa5cbdf8bd9106c96acec46bc32ef16e5f937c6e26e813dcc857bf4b2aad1e11"
+    },
+    {
+      "id": "present_continuous_sentence_005",
+      "text": "She's cooking dinner.",
+      "recording": "a28e39c0e52f07af8f05439d8b2a60b0825295730a5d4083fac4e0156bb4b53c"
+    },
+    {
+      "id": "present_continuous_sentence_006",
+      "text": "We're watching a movie.",
+      "recording": "11c8e2a4af214d0b087e989491e2046bedbcf1958f30eb09f9c1e54278ab2338"
+    },
+    {
+      "id": "present_continuous_sentence_007",
+      "text": "I'm not sleeping.",
+      "recording": "482427911b019cd0d3755e9141e9228ed1061b51785f01930149ff3f228c50a8"
+    },
+    {
+      "id": "present_continuous_sentence_008",
+      "text": "He isn't crying.",
+      "recording": "aa8f30fc84be2ff69b916bd696f37102f7c5fa67aa18b53beea82e6b074ac414"
+    },
+    {
+      "id": "present_continuous_sentence_009",
+      "text": "They aren't waiting.",
+      "recording": "e6199bbeb219acb5dc2a9b1ea9db80cb88f1eef1fc4249f3b6a05feb4a755e01"
+    },
+    {
+      "id": "present_continuous_sentence_010",
+      "text": "Are you studying?",
+      "recording": "c3e3a0254d5fb77108f88a4175d6906f34d8c30d6c4eea9f1e09025a284b4c56"
+    },
+    {
+      "id": "present_continuous_sentence_011",
+      "text": "Is he crying?",
+      "recording": "4efa6bb6c7a6b6534601e29bb0cbd5a93a286cad0aa59fd9eb2ebf60c0b060d3"
+    },
+    {
+      "id": "present_continuous_sentence_012",
+      "text": "Are they coming?",
+      "recording": "6cf7e9807cc40147375a71e029f6fee7bde40e2dfeda01b3247f77ce3fae37fd"
+    },
+    {
+      "id": "present_continuous_sentence_014",
+      "text": "Where is Sara working?",
+      "recording": "33985e540b51e8457b71ac2c8bfba34d96143c681567d7cba84ef1e38deb9e2f"
+    },
+    {
+      "id": "present_continuous_sentence_015",
+      "text": "She is making dinner.",
+      "recording": "b0b7e2812af08ad8be5f4a1ba06e9b1d5932fa41407545375d0d1007744386a5"
+    },
+    {
+      "id": "present_continuous_sentence_016",
+      "text": "He is running now.",
+      "recording": "f1b1a175003519b69c58d09bbbbdf03befc63040fd9a6f39926bfda8fa3bde3c"
+    },
+    {
+      "id": "present_continuous_sentence_017",
+      "text": "The baby is lying on the bed.",
+      "recording": "b852ea8da658658a74ce838c0f8abab92ee8db3a518954e8763fef4acf70067b"
+    },
+    {
+      "id": "present_continuous_sentence_018",
+      "text": "I'm eating now.",
+      "recording": "b86b307ebfc2232e4c338545a1bd531f1d106087eb1007048b6628e2fdea86f6"
+    },
+    {
+      "id": "present_continuous_sentence_019",
+      "text": "She's studying right now.",
+      "recording": "2b9132366b5be76ba236711e7dc2fdf11b3ed07153b129c73fb7682e52eb7820"
+    },
+    {
+      "id": "present_continuous_sentence_020",
+      "text": "They're waiting at the moment.",
+      "recording": "00981a9fa387fc04816b79ce67d489094cbf3ce41dc345b5c7e939d4b3b4a8dd"
+    },
+    {
+      "id": "present_continuous_sentence_021",
+      "text": "I'm talking to you now.",
+      "recording": "54b03be209dc5cbbeea03c3f2d02fc565fd6d78881b1138fc00afe9d7cb4aa95"
+    },
+    {
+      "id": "present_continuous_sentence_022",
+      "text": "I'm living in Berlin this month.",
+      "recording": "aee1edf260fc346354e4450040f06492bc01fad4252579098694fe245dfacb10"
+    },
+    {
+      "id": "present_continuous_sentence_023",
+      "text": "The weather is getting colder.",
+      "recording": "bc3ffee44304c9192930604929b6392988cea1550030ee4be1bac2c87f50698e"
+    },
+    {
+      "id": "present_continuous_sentence_024",
+      "text": "I'm meeting Ali tomorrow.",
+      "recording": "48d3553b9b27bde03e5be63af3a0ee3e669edd83cc7ec557efd372491a4fd607"
+    },
+    {
+      "id": "present_continuous_sentence_025",
+      "text": "He is always losing his keys.",
+      "recording": "f77aa274dae172a6686124aec47c36bad06b66b21a3dd129d6912ce60b284257"
+    },
+    {
+      "id": "present_continuous_sentence_026",
+      "text": "I know the answer.",
+      "recording": "9bae03a5d7e34a8d5b5c1e6e4e740e9cff2b16b43d705e2f3194d90dde993cf8"
+    },
+    {
+      "id": "present_continuous_sentence_027",
+      "text": "She likes coffee.",
+      "recording": "77a5b046490426e02cf8b84b094694750496e699402628be6f40397a83d21b03"
+    },
+    {
+      "id": "word_answer",
+      "text": "answer",
+      "recording": "0db52f4076c082518412afd3dd3576e2cb0c63703fd7fed5e23ade60efef31d9"
+    },
+    {
+      "id": "word_begin",
+      "text": "begin",
+      "recording": "e6f07d43b5c21db0fbb9a31feac2dc599787763393dd5acbfad80e247eb02ad5"
+    },
+    {
+      "id": "word_beginning",
+      "text": "beginning",
+      "recording": "4095391c7e3e04ff12c9ad2e6c49bd63dfe77e885acaadd3b58a1d8895383044"
+    },
+    {
+      "id": "word_being",
+      "text": "being",
+      "recording": "85574fa07dae32132675e21676042035c1b8a8384e11cd430269cff53f29add1"
+    },
+    {
+      "id": "word_believe",
+      "text": "believe",
+      "recording": "f078209dfece953500ee03333012e3c8ada6c36df35a053f00031becab3cf620"
+    },
+    {
+      "id": "word_belong",
+      "text": "belong",
+      "recording": "6d38f6d6072843eeb8415a2d203c545c479dc2f1c138a2ac914a98cf5c9ae942"
+    },
+    {
+      "id": "word_book",
+      "text": "book",
+      "recording": "92719fe0cf8cd51592af31ee8a5736d79f7273777fa3f7b70bfe993a4cd32180"
+    },
+    {
+      "id": "word_build",
+      "text": "build",
+      "recording": "44575cf5b28512d75644bf54a517dcef304ff809fd511747621b4d64f19aac66"
+    },
+    {
+      "id": "word_choose",
+      "text": "choose",
+      "recording": "725fed9d1ae909982052ec4fe91a5a140158b4349498c7ef020ed32d6f8a370d"
+    },
+    {
+      "id": "word_coming",
+      "text": "coming",
+      "recording": "ffbfabc54ca8a26ef654e1dfecce9802d96326869199f4b1dbac0adb1fe7de06"
+    },
+    {
+      "id": "word_complete",
+      "text": "complete",
+      "recording": "eebbf6457e46a7f63acdf9b97390f790ba443d60cfa44b607da7e5c40aa1cc1d"
+    },
+    {
+      "id": "word_cooking",
+      "text": "cooking",
+      "recording": "82bd81ea4b0302554165ae91628c0965b68b976a62ecf107c2e79688833f7599"
+    },
+    {
+      "id": "word_cooks",
+      "text": "cooks",
+      "recording": "b433c45d27b9cf820d32aaa369e5f3818a9b16d1218f54450f58939a4a89fe7d"
+    },
+    {
+      "id": "word_cry",
+      "text": "cry",
+      "recording": "58a69b8bb1f5e666c354a4b8753ae06c8e6a59e6c22fafe1d9282b8a95010b32"
+    },
+    {
+      "id": "word_crying",
+      "text": "crying",
+      "recording": "e94d1a2b79c376cca3e02a7e661902d37438d150f07b3afc545014e93bf2660c"
+    }
+  ],
+  "held": [
+    {
+      "group": 0,
+      "pauses": [
+        [
+          2.262812,
+          0.415737
+        ],
+        [
+          5.158367,
+          0.42619
+        ],
+        [
+          9.475057,
+          0.329955
+        ],
+        [
+          12.793107,
+          0.442154
+        ],
+        [
+          15.070295,
+          0.208231
+        ],
+        [
+          17.175556,
+          0.448776
+        ],
+        [
+          19.852041,
+          0.304308
+        ],
+        [
+          22.070567,
+          0.286848
+        ]
+      ]
+    },
+    {
+      "group": 1,
+      "pauses": [
+        [
+          3.411224,
+          0.459546
+        ],
+        [
+          5.888912,
+          0.256077
+        ],
+        [
+          7.717528,
+          0.416531
+        ],
+        [
+          10.006009,
+          0.419569
+        ],
+        [
+          11.738005,
+          0.443515
+        ],
+        [
+          13.703129,
+          0.395556
+        ],
+        [
+          15.627029,
+          0.222177
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [
+    2,
+    4,
+    6,
+    7,
+    9
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
