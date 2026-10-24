@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1964,
+  "complete": 1968,
   "total": 2006,
-  "uniqueRecordings": 1495,
+  "uniqueRecordings": 1497,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -793,6 +793,7 @@
         "present_simple_listen_02",
         "present_simple_listen_03",
         "present_simple_listen_04",
+        "present_simple_story_full",
         "present_simple_sentence_001",
         "present_simple_sentence_002",
         "present_simple_sentence_003",
@@ -871,6 +872,7 @@
         "word_ready",
         "word_says",
         "word_school",
+        "word_story",
         "word_studied",
         "word_studies",
         "word_study",
@@ -1025,8 +1027,6 @@
         "new_present_simple_0126"
       ],
       "pending": [
-        "present_simple_story_full",
-        "word_story",
         "new_present_simple_0009",
         "new_present_simple_0010",
         "new_present_simple_0011",
@@ -1044,6 +1044,7 @@
         "to_be_listen_02",
         "to_be_listen_03",
         "to_be_listen_04",
+        "to_be_story_full",
         "to_be_sentence_001",
         "to_be_sentence_002",
         "to_be_sentence_003",
@@ -1093,6 +1094,7 @@
         "word_ready",
         "word_says",
         "word_school",
+        "word_story",
         "word_student",
         "word_teacher",
         "word_test",
@@ -1245,8 +1247,6 @@
         "new_to_be_0131"
       ],
       "pending": [
-        "to_be_story_full",
-        "word_story",
         "new_to_be_0009",
         "new_to_be_0010",
         "new_to_be_0011",

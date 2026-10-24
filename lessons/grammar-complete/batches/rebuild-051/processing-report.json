@@ -1,0 +1,22 @@
+{
+  "batch": "rebuild-051",
+  "accepted": [
+    {
+      "id": "to_be_story_full",
+      "text": "Sara is a new student at Green Hill School. She is sixteen years old, and she is a little nervous on her first morning. Her blue classroom is bright, and the windows are open. A quiet clock is above the door. Sara is from Iran, and her family has moved to this town recently. She is a good student, but she is not sure where to sit. Mr. Lee is her science teacher. He is kind and patient. “Are you Sara?” he asks. “Yes, I am,” she answers. “You are in the right room. Your seat is beside the window.” Sara is glad because the window is near a small garden. A girl walks over and says, “I’m Emma. This is my desk, and that is your desk. These are our science books. Those are the art supplies.” Sara smiles. There is a blue notebook on her chair, and there are two pencils under the desk. The class is friendly, and the students are ready to help. At break time, Sara is not alone. Emma is with her, and two other students are in the garden. They are happy to show Sara the school. “Is the library far?” Sara asks. “No, it isn’t,” Emma says. “It is across the hall.” Before the lesson ends, Mr. Lee asks, “Are you comfortable here?” Sara answers, “Yes, I am. You are all very kind.” She is still new, but she is no longer worried. The classroom is not strange now; it is the beginning of a good friendship.",
+      "recording": "95d41dfb7f02f9e369bb67d3533b4572fc7236b5dc538e03607af8a72abef906"
+    },
+    {
+      "id": "present_simple_story_full",
+      "text": "Every Saturday, Sara starts her day at seven. She opens the curtains, makes her bed, and washes her face. Her younger brother Adam usually wakes up later, but he always joins her for breakfast. Their mother prepares eggs, and Sara makes tea. The family talks about the week while they eat. At eight, Sara takes the bus to the school library. She volunteers there because she loves books and enjoys helping people. The bus stops near the main gate, so she walks through the garden. The library opens at nine, and Sara checks the return box before she starts her work. At ten, she helps a new student find the science books. The student asks where the history section is, and Sara shows him the correct shelf. She speaks slowly because he is learning English. She does not rush him, and she does not laugh when he makes a mistake. They read one short page together and look up three new words. At noon, Sara calls her mother from the garden. She tells her that the library is quiet and that she has finished her tasks. Her mother usually asks her to buy bread on the way home, but today they already have enough. After lunch, Sara visits her grandmother. They drink tea, share a small cake, and talk about old family photos. Sara sometimes writes the stories in her notebook. She returns home before sunset and writes in her notebook. At night, she sets her alarm and puts her book beside the bed. She does these things every Saturday, so the day feels full but peaceful.",
+      "recording": "0193aa45dbde25159c32de831513f28feca0ce31e8317b4f862974e4f1fe9293"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
