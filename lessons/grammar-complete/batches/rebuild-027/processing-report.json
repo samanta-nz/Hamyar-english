@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-027",
+  "accepted": [
+    {
+      "id": "new_to_be_0107",
+      "text": "“Is the library far?” Sara asks.",
+      "recording": "d2fed905bef45ceddb600db62e5c486ae68b83f83ca993b59d5e60399086718e"
+    },
+    {
+      "id": "new_to_be_0108",
+      "text": "“No, it isn’t,” Emma says.",
+      "recording": "429f62d24d1f810fe786e5b72b0c5705d49fb30184f2dcbff009fa21e3dd2a4d"
+    },
+    {
+      "id": "new_to_be_0109",
+      "text": "“It is across the hall.” Before the lesson ends, Mr.",
+      "recording": "30cff176e272a365c8a9126d16f106e5aa36c80abe732ae7c2a5665315f4d30c"
+    },
+    {
+      "id": "new_to_be_0110",
+      "text": "Lee asks, “Are you comfortable here?” Sara answers, “Yes, I am.",
+      "recording": "895768bbe889cd94d5405cd7b61b89296952bd4dc57f76838c71d6cf974149c1"
+    },
+    {
+      "id": "new_to_be_0111",
+      "text": "You are all very kind.” She is still new, but she is no longer worried.",
+      "recording": "295191d1a67ca76007193f3200483ba490cb001d229b89190ce9a6dc707d7272"
+    },
+    {
+      "id": "new_to_be_0112",
+      "text": "The classroom is not strange now; it is the beginning of a good friendship.",
+      "recording": "74ede48f89ea5800a2b7f0af9ea267e5c3e13dd31ae550e37cf1c2e9e87a64b6"
+    },
+    {
+      "id": "new_to_be_0113",
+      "text": "Are you ready for class?",
+      "recording": "f0c5549bbe07c293d5aa81530465395108099b81a241161e78e7d1e0c797734e"
+    },
+    {
+      "id": "new_to_be_0114",
+      "text": "There are two books on the desk.",
+      "recording": "7e3e6305a4b9d0221e3dc38423249e26810ab4fdf7be4ff94d81cd8cb39841f5"
+    },
+    {
+      "id": "new_to_be_0115",
+      "text": "He is from Tabriz.",
+      "recording": "0a9ba712ffd2d2035eca6cbacb9bb954dd887c7bbbcb60f03f54185c546bf61b"
+    },
+    {
+      "id": "new_to_be_0116",
+      "text": "Is the library near the classroom?",
+      "recording": "1f56e3deda178e6a55e3e580b10f02c5522aff83709686130aadfff9193a25be"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

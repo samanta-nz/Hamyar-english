@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0107",
+      "ttsText": "“Is the library far?” Sara asks.",
+      "sourceFilePath": "audio/to-be/new_to_be_0107.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0107",
+      "audioSelector": "#audio_new_to_be_0107",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0108",
+      "ttsText": "“No, it isn’t,” Emma says.",
+      "sourceFilePath": "audio/to-be/new_to_be_0108.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0108",
+      "audioSelector": "#audio_new_to_be_0108",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0109",
+      "ttsText": "“It is across the hall.” Before the lesson ends, Mr.",
+      "sourceFilePath": "audio/to-be/new_to_be_0109.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0109",
+      "audioSelector": "#audio_new_to_be_0109",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0110",
+      "ttsText": "Lee asks, “Are you comfortable here?” Sara answers, “Yes, I am.",
+      "sourceFilePath": "audio/to-be/new_to_be_0110.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0110",
+      "audioSelector": "#audio_new_to_be_0110",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0111",
+      "ttsText": "You are all very kind.” She is still new, but she is no longer worried.",
+      "sourceFilePath": "audio/to-be/new_to_be_0111.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0111",
+      "audioSelector": "#audio_new_to_be_0111",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0112",
+      "ttsText": "The classroom is not strange now; it is the beginning of a good friendship.",
+      "sourceFilePath": "audio/to-be/new_to_be_0112.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0112",
+      "audioSelector": "#audio_new_to_be_0112",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0113",
+      "ttsText": "Are you ready for class?",
+      "sourceFilePath": "audio/to-be/new_to_be_0113.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0113",
+      "audioSelector": "#audio_new_to_be_0113",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0114",
+      "ttsText": "There are two books on the desk.",
+      "sourceFilePath": "audio/to-be/new_to_be_0114.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0114",
+      "audioSelector": "#audio_new_to_be_0114",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0115",
+      "ttsText": "He is from Tabriz.",
+      "sourceFilePath": "audio/to-be/new_to_be_0115.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0115",
+      "audioSelector": "#audio_new_to_be_0115",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0116",
+      "ttsText": "Is the library near the classroom?",
+      "sourceFilePath": "audio/to-be/new_to_be_0116.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0116",
+      "audioSelector": "#audio_new_to_be_0116",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ]
+]

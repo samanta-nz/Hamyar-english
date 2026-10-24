@@ -11401,5 +11401,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "c7cc873efecbd6565f98cf79e65d2c426156067437f0f2120c22fcfbc21326ff"
+  },
+  "“Is the library far?” Sara asks.": {
+    "file": "audio/d2fed905bef45ceddb600db62e5c486ae68b83f83ca993b59d5e60399086718e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "97c7c67436e97cf63581e22ed504f95a6706076dbdc73785e3f143052db2e4b1"
+  },
+  "“No, it isn’t,” Emma says.": {
+    "file": "audio/429f62d24d1f810fe786e5b72b0c5705d49fb30184f2dcbff009fa21e3dd2a4d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8f2cdff509e76b726839fc4c57222523f2133e1c98a7da6f1954e8f50bfea3ff"
+  },
+  "“It is across the hall.” Before the lesson ends, Mr.": {
+    "file": "audio/30cff176e272a365c8a9126d16f106e5aa36c80abe732ae7c2a5665315f4d30c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "764754960fb899b7084cdc5fd5012e9ae529eeff479455e8870454fabe29cb23"
+  },
+  "Lee asks, “Are you comfortable here?” Sara answers, “Yes, I am.": {
+    "file": "audio/895768bbe889cd94d5405cd7b61b89296952bd4dc57f76838c71d6cf974149c1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1d372ebaf68c32a4083342d888f74475113b669081daa9ff6e2b8b1c805cbd2d"
+  },
+  "You are all very kind.” She is still new, but she is no longer worried.": {
+    "file": "audio/295191d1a67ca76007193f3200483ba490cb001d229b89190ce9a6dc707d7272.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "961f4910f82fab1abe08e8db81476e6a7db8f6c02d2e1c719c1d12b7b1574bf8"
+  },
+  "The classroom is not strange now; it is the beginning of a good friendship.": {
+    "file": "audio/74ede48f89ea5800a2b7f0af9ea267e5c3e13dd31ae550e37cf1c2e9e87a64b6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "77ee059bf232f597cbcbab633f5c2575d746f080cd4ac0c825cf9f1731e9b2cf"
+  },
+  "Are you ready for class?": {
+    "file": "audio/f0c5549bbe07c293d5aa81530465395108099b81a241161e78e7d1e0c797734e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "5c7f569d75766e40c206f42c3fac03ee63a66850071aa46a7589abbbeed5dc4c"
+  },
+  "There are two books on the desk.": {
+    "file": "audio/7e3e6305a4b9d0221e3dc38423249e26810ab4fdf7be4ff94d81cd8cb39841f5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "41295569d58118d690ccc227d4293b5f93fae99471743fce710fabd495122260"
+  },
+  "He is from Tabriz.": {
+    "file": "audio/0a9ba712ffd2d2035eca6cbacb9bb954dd887c7bbbcb60f03f54185c546bf61b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9d3dee0a50d8b5a703acb9059619ec2cbfcd9dd9ad33dabc9e4d33fc338c3e65"
+  },
+  "Is the library near the classroom?": {
+    "file": "audio/1f56e3deda178e6a55e3e580b10f02c5522aff83709686130aadfff9193a25be.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-027",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "57637b49823eb90011696157ed349760e792c60079743a5e37c2c96a96ef6cce"
   }
 }
