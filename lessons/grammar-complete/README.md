@@ -45,3 +45,11 @@ manifest item and retains the entire recording without silence-based cuts.
 It is mutually exclusive with no-trailing mode for the same group. This
 avoids mistaking punctuation pauses for item boundaries; it is not a claim
 of listening, ASR or pronunciation validation.
+
+Duplicate source audio IDs are repaired only in generated output by
+`tools/grammar_selectors.py`. Example buttons are matched to exact visible
+English text (identical occurrences reuse one recording); listening buttons
+are matched to exact `data-tts-text` anchors. Distinct kind-suffixed bank IDs
+replace ambiguous empty entries. Assertions guard missing anchors and IDs;
+source HTML/JSON remain unchanged. This does not constitute browser playback
+or pronunciation validation.

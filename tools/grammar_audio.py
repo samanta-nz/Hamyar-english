@@ -16,6 +16,7 @@ import subprocess
 import tempfile
 import wave
 import imageio_ffmpeg
+from grammar_selectors import repair
 
 ROOT=Path(__file__).resolve().parents[1]/'lessons/grammar-complete'
 FF=imageio_ffmpeg.get_ffmpeg_exe()
@@ -76,7 +77,9 @@ def build():
     registry=load(REG,{})
     progress={'status':'IN_PROGRESS','complete':0,'total':0,'uniqueRecordings':len(registry),'lessons':[],'selectorIssues':[],'missingLocalLinks':[],'browserPlayback':'NOT_MANUALLY_TESTED'}
     for path in sorted(src.glob('*.audio.json')):
-        m=load(path);html=(src/m['targetHtmlFile']).read_text();counts=Counter(i['audioElementId'] for i in m['items'])
+        m=load(path);html=(src/m['targetHtmlFile']).read_text()
+        html,m=repair(html,m)
+        counts=Counter(i['audioElementId'] for i in m['items'])
         lesson={'file':m['targetHtmlFile'],'complete':[],'pending':[]}
         for item in m['items']:
             assert item['audioSelector']=='#'+item['audioElementId']
