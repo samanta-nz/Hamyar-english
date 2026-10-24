@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-029",
+  "accepted": [
+    {
+      "id": "new_present_simple_0069",
+      "text": "Does Mina play tennis? Yes, she does.",
+      "recording": "37ec7203322c26f1df5e0b6c35d9784caec8fda2d3918c2a14d90162a2d1e84b"
+    },
+    {
+      "id": "new_present_simple_0070",
+      "text": "Does he work here? No, he doesn’t.",
+      "recording": "561aaa5eec5707e19d0fd4434c640c6a0fa71f7c12af4dcebea292b45a66eaad"
+    },
+    {
+      "id": "new_present_simple_0071",
+      "text": "Do we start at eight? Yes, we do.",
+      "recording": "65eb0a18c32dd1465fef9805a204c02c6839f1df60f449306d3f0c8f31f4a06f"
+    },
+    {
+      "id": "new_present_simple_0072",
+      "text": "Does the bus stop here? No, it doesn’t.",
+      "recording": "d5d6ed9029c3581f48d10eeabf858ab2df5edb8fea9342658e0c9fb0d676f649"
+    },
+    {
+      "id": "new_present_simple_0078",
+      "text": "Who does he visit on Sundays?",
+      "recording": "f522182dedce22bf59ba804c6df0b36446b5e38854d575f47aefc8c30ab76911"
+    },
+    {
+      "id": "new_present_simple_0085",
+      "text": "Every Saturday, Sara starts her day at seven.",
+      "recording": "23ee946aed8446a9690349e7caa5afa86a89f770939a21f55bbd61e9f0da25b6"
+    },
+    {
+      "id": "new_present_simple_0086",
+      "text": "She opens the curtains, makes her bed, and washes her face.",
+      "recording": "5eb22ed2a3e013e14596839a0724477cf4c3739330754c212360f21a3acbd704"
+    },
+    {
+      "id": "new_present_simple_0087",
+      "text": "Her younger brother Adam usually wakes up later, but he always joins her for breakfast.",
+      "recording": "68b0889f788c981568a8823db6899375a72b6fd27d20b08bcfc1042d44cdbdd8"
+    },
+    {
+      "id": "new_present_simple_0088",
+      "text": "Their mother prepares eggs, and Sara makes tea.",
+      "recording": "4cb2140b9521d1027abfdd201ec46e32c97ff11de1d50c46a3f1db360a7f3290"
+    },
+    {
+      "id": "new_present_simple_0089",
+      "text": "The family talks about the week while they eat.",
+      "recording": "6c2668a9fbaa3701f637ef052a1a6525808343542bf16e03e331ea42aa71774c"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

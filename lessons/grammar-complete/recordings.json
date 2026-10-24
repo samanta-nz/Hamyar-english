@@ -11581,5 +11581,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "e99f7e637cddb03f4a45428e1ccb0bcd9c9b45c8fbb819ed1ed9c3c66d7460ba"
+  },
+  "Does Mina play tennis? Yes, she does.": {
+    "file": "audio/37ec7203322c26f1df5e0b6c35d9784caec8fda2d3918c2a14d90162a2d1e84b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1ad22e7dcb446341965a7cadc2317caf6abace92be664f1b3dfee969b7f58b43"
+  },
+  "Does he work here? No, he doesn’t.": {
+    "file": "audio/561aaa5eec5707e19d0fd4434c640c6a0fa71f7c12af4dcebea292b45a66eaad.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "108b763c6b0363b7e8ff38cfc0fbfe666beb16d7ed5da61cd7aef4a868918c65"
+  },
+  "Do we start at eight? Yes, we do.": {
+    "file": "audio/65eb0a18c32dd1465fef9805a204c02c6839f1df60f449306d3f0c8f31f4a06f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c996d4518dbad5c6b41d78c1f81fbb44b2d8386017d4e5dfab727bde1e2290f2"
+  },
+  "Does the bus stop here? No, it doesn’t.": {
+    "file": "audio/d5d6ed9029c3581f48d10eeabf858ab2df5edb8fea9342658e0c9fb0d676f649.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2bcc8e01fae75def05aa69cce9209557cfb74451200e24caa0c9452841529498"
+  },
+  "Who does he visit on Sundays?": {
+    "file": "audio/f522182dedce22bf59ba804c6df0b36446b5e38854d575f47aefc8c30ab76911.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "49d72da52d9e69a88d4b52b0ee02f6fad775639beb264283282ad950ed46bd80"
+  },
+  "Every Saturday, Sara starts her day at seven.": {
+    "file": "audio/23ee946aed8446a9690349e7caa5afa86a89f770939a21f55bbd61e9f0da25b6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ba90221f2d80a4c873b981e4ac993d8034cf8d0551bf76432d260ef531363893"
+  },
+  "She opens the curtains, makes her bed, and washes her face.": {
+    "file": "audio/5eb22ed2a3e013e14596839a0724477cf4c3739330754c212360f21a3acbd704.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "28de36706a8ec443bc7acbc226884f3194b448478a65cdeef42ca75e67b12e8a"
+  },
+  "Her younger brother Adam usually wakes up later, but he always joins her for breakfast.": {
+    "file": "audio/68b0889f788c981568a8823db6899375a72b6fd27d20b08bcfc1042d44cdbdd8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "48637bef64743a0d50064e543078aaf83a01d8e0b88cec211fa2b547be5f1ec7"
+  },
+  "Their mother prepares eggs, and Sara makes tea.": {
+    "file": "audio/4cb2140b9521d1027abfdd201ec46e32c97ff11de1d50c46a3f1db360a7f3290.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8a13f484b1732058c0a82ee1b6a9891361070afc3dea786fcbc2629e2ee081bd"
+  },
+  "The family talks about the week while they eat.": {
+    "file": "audio/6c2668a9fbaa3701f637ef052a1a6525808343542bf16e03e331ea42aa71774c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-029",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d599bbc8b945bf4d8c2146683acdb449dc6df5a3ef5fbbfcb2b64ea3efc03bf4"
   }
 }
