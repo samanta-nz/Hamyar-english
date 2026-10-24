@@ -12112,5 +12112,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "f3ff14e53ca244a4a0a15f264f295cc832388265f29d2949397c4b910cbfdd5a"
+  },
+  "We have lived here since 2020.": {
+    "file": "audio/941a41d0f7a775237e3941d79885ff931857c4bcdc85db3d60eb942ca4624006.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d3fe3b0967dff19db56e764dd6d8ee1ac3bbcf53c7d2f38636131abb6f03fcb9"
+  },
+  "3) Which is correct?": {
+    "file": "audio/6b890413fd6f6458a1045ca8c1413a79d51a79bcf601f433b56a8b070d1aa23d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4c49d3e1f74950932dc95dd0f0b9c971b56ccefe47a4dcbe3a64e95f3ccb9129"
+  },
+  "15) Which sentence is correct?": {
+    "file": "audio/834cbccfa60214ae1854e1b43fba198f6995a8998cc3a21bf9d98a2235a28d1b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "274c963b1ed9626bf5762d9e969b623aa7c5cc090343012a82359bb6023de81a"
+  },
+  "Yes, he has.": {
+    "file": "audio/12095033af91316544996749b4aa2f0f21c353413e041069942d204415b778be.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "5b3875b027fe9af71d8f4454ac49bc8914ce23e2ffa33a5d2c166e2710ea603a"
+  },
+  "No, he hasn’t.": {
+    "file": "audio/d654ca75209e28e9915e12f6cf4530a8224c5a4105ddf4794ce688342157912f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9ecb2e1da48b9cb2f96ef01678838bf8d103e2390364d6e0a9f081d9afce48d5"
+  },
+  "So far, we have completed seven lessons.": {
+    "file": "audio/26f916ff4ff550e7cc6232ef4010ff8f75d91558b1c889b085234c78e5c24a53.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f6278585dd5fea9ca4c911f4f92a4566a86f03b6ecd530b9569777ffcae7af73"
+  },
+  "She has known him since 2020.": {
+    "file": "audio/8d06354229e912ab439bf7197929c297343b061a6a0c539408e684f52d786358.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "28e25340a52dca2f600ee727da3b28a09ba2aeebdb5b515f0d59169e629cfd13"
+  },
+  "Sara has studied English since 2022.": {
+    "file": "audio/d4d7ab5e6696f544f3aba2e635f80017ea25ed5f844b623af0173ff9631e0e47.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "83040ad565402c832b55e2f5a475a7ca371738fce0d902209877f34f1c55387b"
+  },
+  "So far, Sara has solved four problems.": {
+    "file": "audio/727a7a5d478aeaeb17b8c5b72935fcebfeb3f9cc04662fa83dd545768e04d739.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "247bf949059c8c1981f73fb8c2fb6f28f90696678c684fed37c76ee664f9e06f"
+  },
+  "She visited Paris in 2023.": {
+    "file": "audio/c655b2ab6f2ffc66a92a258cce94148060494f6bb2341200be915533dc9f623b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-035",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bac9665fec3c3c26b15496eac54418a6a6254f13b06a8738920a4cade06e9dac"
   }
 }

@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-035",
+  "accepted": [
+    {
+      "id": "present_perfect_listen_04",
+      "text": "We have lived here since 2020.",
+      "recording": "941a41d0f7a775237e3941d79885ff931857c4bcdc85db3d60eb942ca4624006"
+    },
+    {
+      "id": "present_perfect_quiz_03",
+      "text": "3) Which is correct?",
+      "recording": "6b890413fd6f6458a1045ca8c1413a79d51a79bcf601f433b56a8b070d1aa23d"
+    },
+    {
+      "id": "present_perfect_quiz_15",
+      "text": "15) Which sentence is correct?",
+      "recording": "834cbccfa60214ae1854e1b43fba198f6995a8998cc3a21bf9d98a2235a28d1b"
+    },
+    {
+      "id": "s4_05",
+      "text": "Yes, he has.",
+      "recording": "12095033af91316544996749b4aa2f0f21c353413e041069942d204415b778be"
+    },
+    {
+      "id": "s4_06",
+      "text": "No, he hasn’t.",
+      "recording": "d654ca75209e28e9915e12f6cf4530a8224c5a4105ddf4794ce688342157912f"
+    },
+    {
+      "id": "s7_05",
+      "text": "So far, we have completed seven lessons.",
+      "recording": "26f916ff4ff550e7cc6232ef4010ff8f75d91558b1c889b085234c78e5c24a53"
+    },
+    {
+      "id": "s8_02",
+      "text": "She has known him since 2020.",
+      "recording": "8d06354229e912ab439bf7197929c297343b061a6a0c539408e684f52d786358"
+    },
+    {
+      "id": "new_present_perfect_0048",
+      "text": "Sara has studied English since 2022.",
+      "recording": "d4d7ab5e6696f544f3aba2e635f80017ea25ed5f844b623af0173ff9631e0e47"
+    },
+    {
+      "id": "new_present_perfect_0060",
+      "text": "So far, Sara has solved four problems.",
+      "recording": "727a7a5d478aeaeb17b8c5b72935fcebfeb3f9cc04662fa83dd545768e04d739"
+    },
+    {
+      "id": "new_present_perfect_0064",
+      "text": "She visited Paris in 2023.",
+      "recording": "c655b2ab6f2ffc66a92a258cce94148060494f6bb2341200be915533dc9f623b"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

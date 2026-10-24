@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "present_perfect_listen_04",
+      "ttsText": "We have lived here since 2020.",
+      "sourceFilePath": "audio/present-perfect/present_perfect_listen_04.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_listen_04",
+      "audioSelector": "#audio_present_perfect_listen_04",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_03",
+      "ttsText": "3) Which is correct?",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_03.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_03",
+      "audioSelector": "#audio_present_perfect_quiz_03",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_15",
+      "ttsText": "15) Which sentence is correct?",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_15.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_15",
+      "audioSelector": "#audio_present_perfect_quiz_15",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "s4_05",
+      "ttsText": "Yes, he has.",
+      "sourceFilePath": "audio/present-perfect/s4_05.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_s4_05",
+      "audioSelector": "#audio_s4_05",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example-sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "s4_06",
+      "ttsText": "No, he hasn’t.",
+      "sourceFilePath": "audio/present-perfect/s4_06.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_s4_06",
+      "audioSelector": "#audio_s4_06",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example-sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "s7_05",
+      "ttsText": "So far, we have completed seven lessons.",
+      "sourceFilePath": "audio/present-perfect/s7_05.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_s7_05",
+      "audioSelector": "#audio_s7_05",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example-sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "s8_02",
+      "ttsText": "She has known him since 2020.",
+      "sourceFilePath": "audio/present-perfect/s8_02.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_s8_02",
+      "audioSelector": "#audio_s8_02",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example-sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0048",
+      "ttsText": "Sara has studied English since 2022.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0048.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0048",
+      "audioSelector": "#audio_new_present_perfect_0048",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0060",
+      "ttsText": "So far, Sara has solved four problems.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0060.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0060",
+      "audioSelector": "#audio_new_present_perfect_0060",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0064",
+      "ttsText": "She visited Paris in 2023.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0064.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0064",
+      "audioSelector": "#audio_new_present_perfect_0064",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-perfect"
+    }
+  ]
+]
