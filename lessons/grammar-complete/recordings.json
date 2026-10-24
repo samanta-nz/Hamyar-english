@@ -11851,5 +11851,86 @@
     "start": 0.0,
     "end": null,
     "sha256": "ca7be469a5ee76a710d12dc9ab8c1dafb4d2c99acb5bb410d19ac6454e392b9c"
+  },
+  "Does your brother play chess?": {
+    "file": "audio/37ead16155327d3351b4bc9e267b0f4429e519cbb5b89534372fb47cfa701142.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3845fa2b2a13271d39cc2dde1dd8e39f3595327f580c09603738bd16716855d4"
+  },
+  "We don't eat meat on Mondays.": {
+    "file": "audio/810219fb664279a621069618b968656b63055f3595c16847686544c3f58f5d7b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a646796f498e116306f5d4f37ed9476cd107430caed20bab6f0ef67a38128db7"
+  },
+  "10) Which sentence means a routine?": {
+    "file": "audio/45cbdd92b530b4993a5d01af8840c02f012af9ba5c00589cf521367e938d0596.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7ffdba39caf734fabbd4e2f5bc2e9ddcc7b37a9dc97dfbe2ae20173ff6fb9e9a"
+  },
+  "12) Choose the natural sentence.": {
+    "file": "audio/e778759f340a22019c9a88da82152673c53193e739fae5cde991ccc4bee188af.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a394c117eaa8823956832afba4674ad8db3752a3654e7e74f5e974d014f01dc8"
+  },
+  "Look! The cat is climbing the tree.": {
+    "file": "audio/491f3be2c13d218e467b39603797df56f8ef15d00dbeedf58debfb19c914817a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "5f5e9175ea3d4578701f7403557153c2ed3056fda0d508bd95baa661acb4e099"
+  },
+  "Listen! Someone is knocking.": {
+    "file": "audio/c8c17caa18723a781f4cd64e9bfcd9791638d0567814324f51d85061d2ef6893.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "61832cfae5095c333936a68c26cf60bab37109543e632587fdb5345e09d61b1e"
+  },
+  "Right now, I am washing the cups.": {
+    "file": "audio/52a4b03b3d8383450a1806309490ad54cb37493f94cd495446bc056c97728395.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "492c8dfd65fd877aedf3fbb8abe20176d1bd4794cabc5d1c2eb252039421b9cd"
+  },
+  "At the moment, Sara is talking to her teacher.": {
+    "file": "audio/d634d26b9e60a24c8fbb2d19f5a2bb8329dc1b073bb33798066590ff7c5de89c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a7ff02e753223489e19057cbc53c46a5cd6ca230a9a4d85ad3bdc2c83174e189"
+  },
+  "This week, we are using a new book.": {
+    "file": "audio/04fc5c81508fdf382a75e41fa6e159e7d3e1af97079803cdd53ee4f762f58e01.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-032",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "946f5bbd9b37ec2bda60d60ba4f9b6b55c4ab11619be69d74a1c03829ad5e26e"
   }
 }

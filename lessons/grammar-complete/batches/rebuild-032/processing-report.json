@@ -1,0 +1,78 @@
+{
+  "batch": "rebuild-032",
+  "accepted": [
+    {
+      "id": "new_present_simple_0110",
+      "text": "Does your brother play chess?",
+      "recording": "37ead16155327d3351b4bc9e267b0f4429e519cbb5b89534372fb47cfa701142"
+    },
+    {
+      "id": "new_present_simple_0111",
+      "text": "We don't eat meat on Mondays.",
+      "recording": "810219fb664279a621069618b968656b63055f3595c16847686544c3f58f5d7b"
+    },
+    {
+      "id": "present_continuous_quiz_10",
+      "text": "10) Which sentence means a routine?",
+      "recording": "45cbdd92b530b4993a5d01af8840c02f012af9ba5c00589cf521367e938d0596"
+    },
+    {
+      "id": "present_continuous_quiz_12",
+      "text": "12) Choose the natural sentence.",
+      "recording": "e778759f340a22019c9a88da82152673c53193e739fae5cde991ccc4bee188af"
+    },
+    {
+      "id": "new_present_continuous_0037",
+      "text": "Look! The cat is climbing the tree.",
+      "recording": "491f3be2c13d218e467b39603797df56f8ef15d00dbeedf58debfb19c914817a"
+    },
+    {
+      "id": "new_present_continuous_0038",
+      "text": "Listen! Someone is knocking.",
+      "recording": "c8c17caa18723a781f4cd64e9bfcd9791638d0567814324f51d85061d2ef6893"
+    },
+    {
+      "id": "new_present_continuous_0039",
+      "text": "Right now, I am washing the cups.",
+      "recording": "52a4b03b3d8383450a1806309490ad54cb37493f94cd495446bc056c97728395"
+    },
+    {
+      "id": "new_present_continuous_0040",
+      "text": "At the moment, Sara is talking to her teacher.",
+      "recording": "d634d26b9e60a24c8fbb2d19f5a2bb8329dc1b073bb33798066590ff7c5de89c"
+    },
+    {
+      "id": "new_present_continuous_0041",
+      "text": "This week, we are using a new book.",
+      "recording": "04fc5c81508fdf382a75e41fa6e159e7d3e1af97079803cdd53ee4f762f58e01"
+    }
+  ],
+  "held": [
+    {
+      "group": 3,
+      "pauses": [
+        [
+          1.169342,
+          0.362902
+        ],
+        [
+          4.690431,
+          0.230159
+        ]
+      ]
+    }
+  ],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
