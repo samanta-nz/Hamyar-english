@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-036",
+  "accepted": [
+    {
+      "id": "new_present_perfect_0087",
+      "text": "Sara has worked there since April, and she has learned how to prepare the soil, choose seeds, and water young plants.",
+      "recording": "9e96c804b478aaee2962f256aff8d494815522743145ee4189453251756d1470"
+    },
+    {
+      "id": "new_present_perfect_0088",
+      "text": "She has never grown tomatoes before, so she asks the older gardeners many questions.",
+      "recording": "d2ba46cde2340eb1910aa5b83a78afeece3d5dff62da81c32ec9516163d0e8b7"
+    },
+    {
+      "id": "new_present_perfect_0089",
+      "text": "Today, the class has finished its first garden bed.",
+      "recording": "84f34fdda648002c0498a12ac3f035ce2e11d858952d7085172f427dc60e7e5d"
+    },
+    {
+      "id": "new_present_perfect_0090",
+      "text": "Sara has planted twelve small flowers near the gate, and her friend Noah has labeled the seed trays.",
+      "recording": "66cdf714447a530db344bb9c322b371f800aff0729a5186ed96d4c5148f70958"
+    },
+    {
+      "id": "new_present_perfect_0091",
+      "text": "The rain has stopped, so the children have gone outside to check the soil.",
+      "recording": "383f42b253e08fdc471a58c530050d2245660b99da9a6ee45b76762f7a257f1e"
+    },
+    {
+      "id": "new_present_perfect_0092",
+      "text": "Their teacher has brought a watering can, but the ground is still wet.",
+      "recording": "fda0f9ba52e960e1cc077e003866581baba99c0e12c63f73b3ac031413fc48fd"
+    },
+    {
+      "id": "new_present_perfect_0093",
+      "text": "The group has built a wooden bench beside the path.",
+      "recording": "8a97e0fe481d894a616063fe037295b02813ef0cb0ac4721624dd4f1f2e493b2"
+    },
+    {
+      "id": "new_present_perfect_0094",
+      "text": "They have used old boards from the school workshop, and the bench has become a favorite place to rest.",
+      "recording": "4dbf11f697bf2edbf9f098f0e5e32f93e4db830498f3a6dfbadd2ad97b20ba82"
+    },
+    {
+      "id": "new_present_perfect_0095",
+      "text": "Sara has just painted it green.",
+      "recording": "140cc144933ef82ca89b2f79208780b78131b4460a8c7666745d101df70c81e6"
+    },
+    {
+      "id": "new_present_perfect_0096",
+      "text": "She has already cleaned her brushes, but she has not put them away yet.",
+      "recording": "29536508ddae9b31871495efdb968671ef2208204c3b9e61c52e19133000a7ad"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

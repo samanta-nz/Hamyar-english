@@ -12202,5 +12202,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "bac9665fec3c3c26b15496eac54418a6a6254f13b06a8738920a4cade06e9dac"
+  },
+  "Sara has worked there since April, and she has learned how to prepare the soil, choose seeds, and water young plants.": {
+    "file": "audio/9e96c804b478aaee2962f256aff8d494815522743145ee4189453251756d1470.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6e87189afaa1ad232faeca522df4762c9403c0693be9b470a7a0f347770fdd8e"
+  },
+  "She has never grown tomatoes before, so she asks the older gardeners many questions.": {
+    "file": "audio/d2ba46cde2340eb1910aa5b83a78afeece3d5dff62da81c32ec9516163d0e8b7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f73b5bceb1d862b529458dc61ef4c80048e71ad421a16a31ebb1a4412054fe4a"
+  },
+  "Today, the class has finished its first garden bed.": {
+    "file": "audio/84f34fdda648002c0498a12ac3f035ce2e11d858952d7085172f427dc60e7e5d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "48e68beafb8830bac63feae108dca6c55f4d6e48e30dfb0bcbb1e2aada17c66f"
+  },
+  "Sara has planted twelve small flowers near the gate, and her friend Noah has labeled the seed trays.": {
+    "file": "audio/66cdf714447a530db344bb9c322b371f800aff0729a5186ed96d4c5148f70958.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ba1b70249c0c44b9598eb1c33fe419f116c7a02d82a7f718f2824b4e37893ae3"
+  },
+  "The rain has stopped, so the children have gone outside to check the soil.": {
+    "file": "audio/383f42b253e08fdc471a58c530050d2245660b99da9a6ee45b76762f7a257f1e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c85efb07cacc40473c65cd0c25b2adf988f6432b1941fafbedce2645de43f5a5"
+  },
+  "Their teacher has brought a watering can, but the ground is still wet.": {
+    "file": "audio/fda0f9ba52e960e1cc077e003866581baba99c0e12c63f73b3ac031413fc48fd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "378c3b0fe1038b1dfbccbf78d55aa067e77585dfcc489b1b899642ec4e18779e"
+  },
+  "The group has built a wooden bench beside the path.": {
+    "file": "audio/8a97e0fe481d894a616063fe037295b02813ef0cb0ac4721624dd4f1f2e493b2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c37ef01987b83db9f03b2da9dec0c58cb53cc8a5c6fe4ac9b1e2782332ed8042"
+  },
+  "They have used old boards from the school workshop, and the bench has become a favorite place to rest.": {
+    "file": "audio/4dbf11f697bf2edbf9f098f0e5e32f93e4db830498f3a6dfbadd2ad97b20ba82.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "beeb7624bec3b5ddd71303ce250df84ea1a68465f68444ccf0dbcdb9571211e7"
+  },
+  "Sara has just painted it green.": {
+    "file": "audio/140cc144933ef82ca89b2f79208780b78131b4460a8c7666745d101df70c81e6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2624ea6a3373da41eada2f43740b21a5108e18feffeb31a830a59cda35f430fc"
+  },
+  "She has already cleaned her brushes, but she has not put them away yet.": {
+    "file": "audio/29536508ddae9b31871495efdb968671ef2208204c3b9e61c52e19133000a7ad.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-036",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2a28d947428f6e4a04162b4eef434df246a4259192ed803bca23c2755b5f0b22"
   }
 }

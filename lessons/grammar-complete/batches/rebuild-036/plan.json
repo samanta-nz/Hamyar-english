@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_perfect_0087",
+      "ttsText": "Sara has worked there since April, and she has learned how to prepare the soil, choose seeds, and water young plants.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0087.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0087",
+      "audioSelector": "#audio_new_present_perfect_0087",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0088",
+      "ttsText": "She has never grown tomatoes before, so she asks the older gardeners many questions.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0088.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0088",
+      "audioSelector": "#audio_new_present_perfect_0088",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0089",
+      "ttsText": "Today, the class has finished its first garden bed.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0089.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0089",
+      "audioSelector": "#audio_new_present_perfect_0089",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0090",
+      "ttsText": "Sara has planted twelve small flowers near the gate, and her friend Noah has labeled the seed trays.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0090.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0090",
+      "audioSelector": "#audio_new_present_perfect_0090",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0091",
+      "ttsText": "The rain has stopped, so the children have gone outside to check the soil.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0091.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0091",
+      "audioSelector": "#audio_new_present_perfect_0091",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0092",
+      "ttsText": "Their teacher has brought a watering can, but the ground is still wet.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0092.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0092",
+      "audioSelector": "#audio_new_present_perfect_0092",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0093",
+      "ttsText": "The group has built a wooden bench beside the path.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0093.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0093",
+      "audioSelector": "#audio_new_present_perfect_0093",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0094",
+      "ttsText": "They have used old boards from the school workshop, and the bench has become a favorite place to rest.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0094.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0094",
+      "audioSelector": "#audio_new_present_perfect_0094",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0095",
+      "ttsText": "Sara has just painted it green.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0095.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0095",
+      "audioSelector": "#audio_new_present_perfect_0095",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0096",
+      "ttsText": "She has already cleaned her brushes, but she has not put them away yet.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0096.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0096",
+      "audioSelector": "#audio_new_present_perfect_0096",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-perfect"
+    }
+  ]
+]
