@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-024",
+  "accepted": [
+    {
+      "id": "to_be_listen_04",
+      "text": "Yes, he is.",
+      "recording": "581eddc9f18baa6bad84b8e708e2ad90b680db2c7f0c5c9be07daf52e15a31c2"
+    },
+    {
+      "id": "to_be_sentence_018",
+      "text": "No, I'm not.",
+      "recording": "cbcd746266165c6cf841b1d213219203535426bf8dd880ce7245dadfb3fca708"
+    },
+    {
+      "id": "to_be_quiz_07",
+      "text": "7) Are you cold?",
+      "recording": "7d0e25c39bcc3c553b665684046ffda627c8112740fb4cb47d772b2b897fd029"
+    },
+    {
+      "id": "to_be_quiz_08",
+      "text": "8) Is she tired?",
+      "recording": "c029824ac0695e05ad2d27ed11fbaa77a6da0142024da125b85fdf0b2a6640b4"
+    },
+    {
+      "id": "to_be_quiz_12",
+      "text": "12) I'm not sick.",
+      "recording": "0e23b37cb040fd4056877aa61be1dfbff76855594bb5a0938ab62b95ce3369b5"
+    },
+    {
+      "id": "to_be_quiz_13",
+      "text": "13) Is he at work?",
+      "recording": "f7c8dfcf1400a7850efec69c8fa872e403f217646229606b5d0c93b3abb14be7"
+    },
+    {
+      "id": "to_be_quiz_14",
+      "text": "14) She is a teacher.",
+      "recording": "cadf355437f05f3b1be4bdf95978c6e06245cff6d441ad03391883dffd40dec5"
+    },
+    {
+      "id": "to_be_quiz_15",
+      "text": "15) Which is correct?",
+      "recording": "d98e864bce1fe863ad780d222360feb1063682fbde0c84c78045c65ae93df9dc"
+    },
+    {
+      "id": "new_to_be_0043",
+      "text": "Is she ready? Yes, she is.",
+      "recording": "509256db397f9a806a8053ccba52b4545323653fcd958bf5201ad27adea203fc"
+    },
+    {
+      "id": "new_to_be_0044",
+      "text": "Is he at home? No, he isn’t.",
+      "recording": "a4d4db5a0eb8b77984d8860afa99b371b78a77d79b4227fefde972aa1362e1cb"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

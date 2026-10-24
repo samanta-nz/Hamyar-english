@@ -38,3 +38,10 @@ For explicitly reviewed groups with five internal pauses but no >=200ms trailing
 pause, use `--no-trailing-groups` alongside `--groups`. This is opt-in, never
 inferred automatically. Rebuild-005 groups 0 and 1 remain pending because they
 contain additional internal pauses; all source FLACs are retained.
+
+Singleton recordings with internal pauses can be imported with explicit
+`--whole-groups 0,1,...`. This only accepts groups containing exactly one
+manifest item and retains the entire recording without silence-based cuts.
+It is mutually exclusive with no-trailing mode for the same group. This
+avoids mistaking punctuation pauses for item boundaries; it is not a claim
+of listening, ASR or pronunciation validation.

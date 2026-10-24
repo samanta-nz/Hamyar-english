@@ -11131,5 +11131,95 @@
     "start": 10.1246145,
     "end": null,
     "sha256": "45fb9afdba2e4acd71e312bd55b27519b4111eb66a942a035eb7d105956d7996"
+  },
+  "Yes, he is.": {
+    "file": "audio/581eddc9f18baa6bad84b8e708e2ad90b680db2c7f0c5c9be07daf52e15a31c2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b9c9c0b5fc657476ce9327c35ea903920de31c95eca26ef8375d84585b707033"
+  },
+  "No, I'm not.": {
+    "file": "audio/cbcd746266165c6cf841b1d213219203535426bf8dd880ce7245dadfb3fca708.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d22a846890aa1a8b1f42b67a7db708935917080be6a63b386952a70aebaf6e28"
+  },
+  "7) Are you cold?": {
+    "file": "audio/7d0e25c39bcc3c553b665684046ffda627c8112740fb4cb47d772b2b897fd029.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d36c3d02e27480bd94dd633cb453651c4be20f04e0dab18748901d84555247df"
+  },
+  "8) Is she tired?": {
+    "file": "audio/c029824ac0695e05ad2d27ed11fbaa77a6da0142024da125b85fdf0b2a6640b4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "e14dfea61f72b5176ae51ee76fb17640ea1fd85c293a2f35cc71ca031d8bf2fb"
+  },
+  "12) I'm not sick.": {
+    "file": "audio/0e23b37cb040fd4056877aa61be1dfbff76855594bb5a0938ab62b95ce3369b5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a421fc278dd23dfc07d6af47ee8b1b6102688e1c451e451e5f7c8f35e033529b"
+  },
+  "13) Is he at work?": {
+    "file": "audio/f7c8dfcf1400a7850efec69c8fa872e403f217646229606b5d0c93b3abb14be7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7374f08167d2fd86f603932524b8a5303c627c1d3db45e881d15349f84bcc04f"
+  },
+  "14) She is a teacher.": {
+    "file": "audio/cadf355437f05f3b1be4bdf95978c6e06245cff6d441ad03391883dffd40dec5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9b8a7a4fd3f3dee9ec3ce66b30bc3eee88bfd7cc3e1b57d5aa5fd3f29e9d269d"
+  },
+  "15) Which is correct?": {
+    "file": "audio/d98e864bce1fe863ad780d222360feb1063682fbde0c84c78045c65ae93df9dc.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3b6d2f959f7aad1edaa6ff2b620426f14f261ef0d265a7e791d7f29593b4e76f"
+  },
+  "Is she ready? Yes, she is.": {
+    "file": "audio/509256db397f9a806a8053ccba52b4545323653fcd958bf5201ad27adea203fc.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f71e558b4f64448203893433d0b47e91bd5cbc357c5a4c05ecdfe1ba9b0f2ba7"
+  },
+  "Is he at home? No, he isn’t.": {
+    "file": "audio/a4d4db5a0eb8b77984d8860afa99b371b78a77d79b4227fefde972aa1362e1cb.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-024",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "48b82291c659597cda4301193c0130a8f65500b3b3b7fa4aebc51c01239dc153"
   }
 }

@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "to_be_listen_04",
+      "ttsText": "Yes, he is.",
+      "sourceFilePath": "audio/to-be/to_be_listen_04.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_listen_04",
+      "audioSelector": "#audio_to_be_listen_04",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_sentence_018",
+      "ttsText": "No, I'm not.",
+      "sourceFilePath": "audio/to-be/to_be_sentence_018.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_sentence_018",
+      "audioSelector": "#audio_to_be_sentence_018",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_07",
+      "ttsText": "7) Are you cold?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_07.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_07",
+      "audioSelector": "#audio_to_be_quiz_07",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_08",
+      "ttsText": "8) Is she tired?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_08.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_08",
+      "audioSelector": "#audio_to_be_quiz_08",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_12",
+      "ttsText": "12) I'm not sick.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_12.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_12",
+      "audioSelector": "#audio_to_be_quiz_12",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_13",
+      "ttsText": "13) Is he at work?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_13.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_13",
+      "audioSelector": "#audio_to_be_quiz_13",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_14",
+      "ttsText": "14) She is a teacher.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_14.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_14",
+      "audioSelector": "#audio_to_be_quiz_14",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_15",
+      "ttsText": "15) Which is correct?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_15.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_15",
+      "audioSelector": "#audio_to_be_quiz_15",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0043",
+      "ttsText": "Is she ready? Yes, she is.",
+      "sourceFilePath": "audio/to-be/new_to_be_0043.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0043",
+      "audioSelector": "#audio_new_to_be_0043",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0044",
+      "ttsText": "Is he at home? No, he isn’t.",
+      "sourceFilePath": "audio/to-be/new_to_be_0044.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0044",
+      "audioSelector": "#audio_new_to_be_0044",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ]
+]

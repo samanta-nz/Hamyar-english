@@ -23,13 +23,17 @@ REG=ROOT/'recordings.json'
 def load(path,default=None):return json.loads(path.read_text()) if path.exists() else default
 def save(path,data):path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 def run(args,**kwargs):return subprocess.run([FF,'-v','error',*args],check=True,capture_output=True,**kwargs)
-def import_batch(name,groups,no_trailing=None):
+def import_batch(name,groups,no_trailing=None,whole=None):
+    whole=whole or set()
+    assert whole <= groups
+    assert not whole & (no_trailing or set())
     no_trailing=no_trailing or set()
     assert no_trailing <= groups
     batch=ROOT/'batches'/name
     plan=load(batch/'plan.json');registry=load(REG,{})
+    assert all(0 <= n < len(plan) and len(plan[n]) == 1 for n in whole), 'Whole groups must contain exactly one item'
     audio=ROOT/'audio';audio.mkdir(exist_ok=True)
-    report={'batch':name,'accepted':[],'held':[], 'noTrailingSilenceGroups':sorted(no_trailing), 'alignmentMethod':'reviewed pause boundaries, not ASR or manual listening'}
+    report={'batch':name,'accepted':[],'held':[], 'wholeRecordingGroups':sorted(whole), 'noTrailingSilenceGroups':sorted(no_trailing), 'alignmentMethod':'reviewed pause boundaries, not ASR or manual listening'}
     for n,items in enumerate(plan):
         src=batch/f'{n}.wav';flac=src.with_suffix('.flac')
         if not src.exists() and flac.exists():
@@ -37,10 +41,10 @@ def import_batch(name,groups,no_trailing=None):
         log=subprocess.run([FF,'-i',str(src),'-af','silencedetect=noise=-35dB:d=0.20','-f','null','-'],capture_output=True,text=True,check=True).stderr
         pauses=[(float(e),float(d)) for e,d in re.findall(r'silence_end: ([\d.]+) \| silence_duration: ([\d.]+)',log)]
         expected=len(items)-1 if n in no_trailing else len(items)
-        if n not in groups or len(pauses)!=expected:
+        if n not in groups or (n not in whole and len(pauses)!=expected):
             report['held'].append({'group':n,'pauses':pauses});continue
         # Explicitly reviewed groups may end without a >=200ms trailing pause.
-        internal=pauses if n in no_trailing else pauses[:-1]
+        internal=[] if n in whole else (pauses if n in no_trailing else pauses[:-1])
         cuts=[0.0]+[e-d/2 for e,d in internal]
         assert len(cuts)==len(items)
         for k,item in enumerate(items):
@@ -102,8 +106,9 @@ def build():
     print(f"Embedded {progress['complete']}/{progress['total']}; missing local links: {len(progress['missingLocalLinks'])}")
 
 p=argparse.ArgumentParser();p.add_argument('command',choices=['import','build']);p.add_argument('batch',nargs='?');p.add_argument('--groups',default='');p.add_argument('--no-trailing-groups',default='')
+p.add_argument('--whole-groups',default='',help='Singleton groups retained whole, without silence-based splitting')
 a=p.parse_args()
 if a.command=='import':
     assert a.batch and a.groups,'Batch and explicit --groups acceptance are required'
-    import_batch(a.batch,{int(x) for x in a.groups.split(',')},{int(x) for x in a.no_trailing_groups.split(',') if x})
+    import_batch(a.batch,{int(x) for x in a.groups.split(',')},{int(x) for x in a.no_trailing_groups.split(',') if x},{int(x) for x in a.whole_groups.split(',') if x})
 else:build()
