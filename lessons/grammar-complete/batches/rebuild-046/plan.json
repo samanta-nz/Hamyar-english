@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "present_perfect_quiz_11",
+      "ttsText": "11) I  ...  haven’t finished my homework.",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_11.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_11",
+      "audioSelector": "#audio_present_perfect_quiz_11",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_12",
+      "ttsText": "12) She has  ...  left.",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_12.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_12",
+      "audioSelector": "#audio_present_perfect_quiz_12",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_13",
+      "ttsText": "13) Ali has gone to Berlin. This usually means...",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_13.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_13",
+      "audioSelector": "#audio_present_perfect_quiz_13",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_14",
+      "ttsText": "14) Ali has been to Berlin. This usually means...",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_14.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_14",
+      "audioSelector": "#audio_present_perfect_quiz_14",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_16",
+      "ttsText": "16) So far, we  ...  eight lessons.",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_16.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_16",
+      "audioSelector": "#audio_present_perfect_quiz_16",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_17",
+      "ttsText": "17) I haven’t slept well  ... .",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_17.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_17",
+      "audioSelector": "#audio_present_perfect_quiz_17",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_18",
+      "ttsText": "18) Has she finished  ... ?",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_18.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_18",
+      "audioSelector": "#audio_present_perfect_quiz_18",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "present_perfect_quiz_19",
+      "ttsText": "19) He  ...  worked here since March.",
+      "sourceFilePath": "audio/present-perfect/present_perfect_quiz_19.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_present_perfect_quiz_19",
+      "audioSelector": "#audio_present_perfect_quiz_19",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0139",
+      "ttsText": "I have ___ my homework.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0139.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0139",
+      "audioSelector": "#audio_new_present_perfect_0139",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0140",
+      "ttsText": "Sara ___ visited London.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0140.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0140",
+      "audioSelector": "#audio_new_present_perfect_0140",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ]
+]

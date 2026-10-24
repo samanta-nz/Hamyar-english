@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-046",
+  "accepted": [
+    {
+      "id": "present_perfect_quiz_11",
+      "text": "11) I  ...  haven’t finished my homework.",
+      "recording": "45cefa4b441c5afd8a1f49510835ada45936f316347c644e11509230334b8a3f"
+    },
+    {
+      "id": "present_perfect_quiz_12",
+      "text": "12) She has  ...  left.",
+      "recording": "1b401d9f018c692c3a7697051e01d66d7934195f6b88381f99c077530e1cb40c"
+    },
+    {
+      "id": "present_perfect_quiz_13",
+      "text": "13) Ali has gone to Berlin. This usually means...",
+      "recording": "b0eb4de48c2a0bc2c434f4c3bf2b132c6da396cc1c81b78ee15a22145bac1e5b"
+    },
+    {
+      "id": "present_perfect_quiz_14",
+      "text": "14) Ali has been to Berlin. This usually means...",
+      "recording": "f84464f4cff8fc0da8a8799d20888348a99d85d74dcfd3dc95ceae7e47dd9e76"
+    },
+    {
+      "id": "present_perfect_quiz_16",
+      "text": "16) So far, we  ...  eight lessons.",
+      "recording": "686944435056c4a189e79528f8a0ce0577559345a14ea5ae2437fe1edd380199"
+    },
+    {
+      "id": "present_perfect_quiz_17",
+      "text": "17) I haven’t slept well  ... .",
+      "recording": "85886b86dab46f6217a4e0412dbc1f6c732b117fc8741dd90cbdaa1a50134f5a"
+    },
+    {
+      "id": "present_perfect_quiz_18",
+      "text": "18) Has she finished  ... ?",
+      "recording": "948c22fcd2c6c1ac45ca11448251bf1dd52b7ac225d595124f0317ac1f25ab5e"
+    },
+    {
+      "id": "present_perfect_quiz_19",
+      "text": "19) He  ...  worked here since March.",
+      "recording": "731b576c17b2ec13f3ffd4bd5d18d27e52b00fc5f6f18bfbc16da18d62de7e5a"
+    },
+    {
+      "id": "new_present_perfect_0139",
+      "text": "I have ___ my homework.",
+      "recording": "abf7db7a805c0dc01c7f76a9e6de9618da6649691981e112b3bf7d70302d825d"
+    },
+    {
+      "id": "new_present_perfect_0140",
+      "text": "Sara ___ visited London.",
+      "recording": "60a5be0b04d1e0649507cee87f4458adc0ceeeb27e3e2b34f72c58a30e6ab4d9"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

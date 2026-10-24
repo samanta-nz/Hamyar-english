@@ -13075,5 +13075,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "4dbe21357c4ba659c91b08d7255b6b789946dfe14e9d9051ae9eaa374c088e5f"
+  },
+  "11) I  ...  haven’t finished my homework.": {
+    "file": "audio/45cefa4b441c5afd8a1f49510835ada45936f316347c644e11509230334b8a3f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8739c8322ea9013697ff0dbc0972f0631919dbdc1d8bcb8c687282528b8f8bcd"
+  },
+  "12) She has  ...  left.": {
+    "file": "audio/1b401d9f018c692c3a7697051e01d66d7934195f6b88381f99c077530e1cb40c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "9140d44b867715d92f6d80764aee51d8461bd9a7fc30f33795667cb1352dd830"
+  },
+  "13) Ali has gone to Berlin. This usually means...": {
+    "file": "audio/b0eb4de48c2a0bc2c434f4c3bf2b132c6da396cc1c81b78ee15a22145bac1e5b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "0400cdc44102a13b1f627a3d3b211dc7f50dcb8137844c0b5ae24afe6af4bb81"
+  },
+  "14) Ali has been to Berlin. This usually means...": {
+    "file": "audio/f84464f4cff8fc0da8a8799d20888348a99d85d74dcfd3dc95ceae7e47dd9e76.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3243c96cd36148e1486455f42c8a519ff8071a6be3d785a20fb30870e66440a5"
+  },
+  "16) So far, we  ...  eight lessons.": {
+    "file": "audio/686944435056c4a189e79528f8a0ce0577559345a14ea5ae2437fe1edd380199.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d2f98427c6e7845506fe2374ba5d4ef8a5de7768ef0260ba8d9db68fb650a061"
+  },
+  "17) I haven’t slept well  ... .": {
+    "file": "audio/85886b86dab46f6217a4e0412dbc1f6c732b117fc8741dd90cbdaa1a50134f5a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d011bdfd011fb74cead290cf8d4a71196941206a008659d9312ac6eb2c06660f"
+  },
+  "18) Has she finished  ... ?": {
+    "file": "audio/948c22fcd2c6c1ac45ca11448251bf1dd52b7ac225d595124f0317ac1f25ab5e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "83d09645946b336998287002063020e43c596b27fa49cacd404252b49e377d8b"
+  },
+  "19) He  ...  worked here since March.": {
+    "file": "audio/731b576c17b2ec13f3ffd4bd5d18d27e52b00fc5f6f18bfbc16da18d62de7e5a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d5ec4e83b4172702753f6ad4a28819d236fb420fb5719081932d22419c8006ba"
+  },
+  "I have ___ my homework.": {
+    "file": "audio/abf7db7a805c0dc01c7f76a9e6de9618da6649691981e112b3bf7d70302d825d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4223f88625e69dd42a7779fb1a9ca8b9ca970a4ece85cf3001d9ef07619e0de5"
+  },
+  "Sara ___ visited London.": {
+    "file": "audio/60a5be0b04d1e0649507cee87f4458adc0ceeeb27e3e2b34f72c58a30e6ab4d9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-046",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "52831c0d0b4f411ccc7435a953289b832c2ef901f4ed7b5f41ef0a7da00291c1"
   }
 }
