@@ -12715,5 +12715,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "ee1269405dfa5565ca927778e618962abb140cf3f7b3c6762630aa3ce6c7f397"
+  },
+  "We ___ watch TV before school.": {
+    "file": "audio/862b98deca05ab55c6bc66f4c9488abe48d86f2879509a0bbf0a0c082fb08f96.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d0596d5706f0854296b1784bd64d67ef22b7d37dc041457828f27ecb3b15a10c"
+  },
+  "He ___ work on Fridays.": {
+    "file": "audio/3c5983a981d89b83b0d521489e06a534db1d020e1dfb9e778cf0caa4b6251181.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6bbf89f7dd6761e7fdf87b74922d909d908e55b61b467a6fccdf34ab3b4f3419"
+  },
+  "Mina ___ late.": {
+    "file": "audio/34cad9fc37027d8ab5a27b0615189cdc155d29ccdc6f40979ec4863babaa1309.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3ac8235a19c0a39e805193558c7fe5f789f9aaa3aa1a2cbdd00208573a20e43a"
+  },
+  "___ your brother take the train?": {
+    "file": "audio/066f164a32afcfe1f9a8724e79a0a9534c9e824454db01a78d9311e2e16ed5fd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "240407eee042993cc236c24d976d664b00884798eb13268bc8fc80904f9af09d"
+  },
+  "Water ___ at zero degrees.": {
+    "file": "audio/5e438f877079e97851f5c5d9507e402809e323d6624c06e73a60e387c62d855a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "90c3362d047e6d1868bb2896b1f040ddbb1063f96e3d4e3e5a8e78a13c5c0aef"
+  },
+  "What time ___ the shop open?": {
+    "file": "audio/dc17ec80b08be33c422298c2d948bacabeac3f922f2df99a0048f3456b51803c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c8359e2725bff8a5488a5acb0f7049e9af6916c395f335b6cba5e204418bc94e"
+  },
+  "She ___ a new bicycle.": {
+    "file": "audio/7a9df9950ef1bf756855b45f75cb98d471e194df450d9075c052240c371e2e85.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2d4d1211274324d32010f658f87be83d3bab39cfcc1229e004e2136d97631ec6"
+  },
+  "They ___ near the station.": {
+    "file": "audio/0d1509816025b72585dcdc23acb265d329f39ebe380ce2e6d0c30ebccec91015.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "08daee963a78f5ebb2804deb9263b6f981071670e4e01d84da4db34b81530001"
+  },
+  "1) I  ...  studying now.": {
+    "file": "audio/a108fa2478d986ef1205cbe52b24ee49febf310a0abd5e824104b9dac8f41481.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "074a531bf5d69f0cb00f9c999ac3f9329adf7ae3cdac5118567822e1552e9ee5"
+  },
+  "2) She  ...  reading a book.": {
+    "file": "audio/93f9f03be7f229d378bd7ae0f47ec36a70c4825ba31d7ab880461121ff6312a4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-042",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3c4d2dcb565262e240e8da0c3ad95a5eaf277f7d69fa0a4e6c206cdf34ca632e"
   }
 }

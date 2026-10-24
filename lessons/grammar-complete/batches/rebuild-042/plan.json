@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_simple_0116",
+      "ttsText": "We ___ watch TV before school.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0116.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0116",
+      "audioSelector": "#audio_new_present_simple_0116",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0117",
+      "ttsText": "He ___ work on Fridays.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0117.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0117",
+      "audioSelector": "#audio_new_present_simple_0117",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0118",
+      "ttsText": "Mina ___ late.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0118.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0118",
+      "audioSelector": "#audio_new_present_simple_0118",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0120",
+      "ttsText": "___ your brother take the train?",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0120.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0120",
+      "audioSelector": "#audio_new_present_simple_0120",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0121",
+      "ttsText": "Water ___ at zero degrees.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0121.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0121",
+      "audioSelector": "#audio_new_present_simple_0121",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0122",
+      "ttsText": "What time ___ the shop open?",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0122.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0122",
+      "audioSelector": "#audio_new_present_simple_0122",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0123",
+      "ttsText": "She ___ a new bicycle.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0123.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0123",
+      "audioSelector": "#audio_new_present_simple_0123",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0124",
+      "ttsText": "They ___ near the station.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0124.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0124",
+      "audioSelector": "#audio_new_present_simple_0124",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_01",
+      "ttsText": "1) I  ...  studying now.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_01.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_01",
+      "audioSelector": "#audio_present_continuous_quiz_01",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "present_continuous_quiz_02",
+      "ttsText": "2) She  ...  reading a book.",
+      "sourceFilePath": "audio/present-continuous/present_continuous_quiz_02.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_present_continuous_quiz_02",
+      "audioSelector": "#audio_present_continuous_quiz_02",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-continuous"
+    }
+  ]
+]

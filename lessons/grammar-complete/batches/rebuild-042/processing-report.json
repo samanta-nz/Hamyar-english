@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-042",
+  "accepted": [
+    {
+      "id": "new_present_simple_0116",
+      "text": "We ___ watch TV before school.",
+      "recording": "862b98deca05ab55c6bc66f4c9488abe48d86f2879509a0bbf0a0c082fb08f96"
+    },
+    {
+      "id": "new_present_simple_0117",
+      "text": "He ___ work on Fridays.",
+      "recording": "3c5983a981d89b83b0d521489e06a534db1d020e1dfb9e778cf0caa4b6251181"
+    },
+    {
+      "id": "new_present_simple_0118",
+      "text": "Mina ___ late.",
+      "recording": "34cad9fc37027d8ab5a27b0615189cdc155d29ccdc6f40979ec4863babaa1309"
+    },
+    {
+      "id": "new_present_simple_0120",
+      "text": "___ your brother take the train?",
+      "recording": "066f164a32afcfe1f9a8724e79a0a9534c9e824454db01a78d9311e2e16ed5fd"
+    },
+    {
+      "id": "new_present_simple_0121",
+      "text": "Water ___ at zero degrees.",
+      "recording": "5e438f877079e97851f5c5d9507e402809e323d6624c06e73a60e387c62d855a"
+    },
+    {
+      "id": "new_present_simple_0122",
+      "text": "What time ___ the shop open?",
+      "recording": "dc17ec80b08be33c422298c2d948bacabeac3f922f2df99a0048f3456b51803c"
+    },
+    {
+      "id": "new_present_simple_0123",
+      "text": "She ___ a new bicycle.",
+      "recording": "7a9df9950ef1bf756855b45f75cb98d471e194df450d9075c052240c371e2e85"
+    },
+    {
+      "id": "new_present_simple_0124",
+      "text": "They ___ near the station.",
+      "recording": "0d1509816025b72585dcdc23acb265d329f39ebe380ce2e6d0c30ebccec91015"
+    },
+    {
+      "id": "present_continuous_quiz_01",
+      "text": "1) I  ...  studying now.",
+      "recording": "a108fa2478d986ef1205cbe52b24ee49febf310a0abd5e824104b9dac8f41481"
+    },
+    {
+      "id": "present_continuous_quiz_02",
+      "text": "2) She  ...  reading a book.",
+      "recording": "93f9f03be7f229d378bd7ae0f47ec36a70c4825ba31d7ab880461121ff6312a4"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
