@@ -1,0 +1,307 @@
+{
+  "batch": "rebuild-001",
+  "accepted": [
+    {
+      "id": "to_be_listen_01",
+      "text": "I am ready for class.",
+      "recording": "c8042eabc219153c082bff1fe1177e0eab9607b0a5f53707e120964f70ce561f"
+    },
+    {
+      "id": "to_be_listen_02",
+      "text": "She is not at home.",
+      "recording": "c07536bd34847a064854f00ad928f3a7fb8bdf691de69b2f99bb05534856ca1d"
+    },
+    {
+      "id": "to_be_listen_03",
+      "text": "Are they busy today?",
+      "recording": "cc9ce612db2ee8c092db4836e251b91b19510cdbacd427b5803cfe55d2dd1d94"
+    },
+    {
+      "id": "to_be_sentence_001",
+      "text": "I am ready.",
+      "recording": "cafd51bb7859d65d640cf62f3750c7f8364c2b0e8c33851b4517a1da773119d9"
+    },
+    {
+      "id": "to_be_sentence_002",
+      "text": "She is happy.",
+      "recording": "75d376b907447dcd2b4f9b4bcca358f2335e6ff76fe5e24d9d5d241039cfe8f3"
+    },
+    {
+      "id": "to_be_sentence_003",
+      "text": "They are at home.",
+      "recording": "1e067dc5d2927fbdc056bf2756b26a0d70d348413a3040f51bc15c6bfaf529a2"
+    },
+    {
+      "id": "to_be_sentence_004",
+      "text": "She is tired.",
+      "recording": "96ec35ce1bc30d1cc397be8023c2a5c0b639b57a2f7e251c433bd74ac8083437"
+    },
+    {
+      "id": "to_be_sentence_005",
+      "text": "He is a teacher.",
+      "recording": "7690899b098355374518411919b9a293438281897eb5366f604e713838da1325"
+    },
+    {
+      "id": "to_be_sentence_006",
+      "text": "They are at school.",
+      "recording": "6df1f8388962a493aea1dd3858e3df01ca86b2af0ec06fc3a2778320aa1a636c"
+    },
+    {
+      "id": "to_be_sentence_007",
+      "text": "I'm at home today.",
+      "recording": "5f3f8ca16e7f38c88fcbdc5b8948410814ff68f814d631a66600e9fbb4fe4f77"
+    },
+    {
+      "id": "to_be_sentence_008",
+      "text": "They're busy.",
+      "recording": "7c56a788f809054c4d41474906f8d18fb5e430b9079590edc73d73a0d2bea5f2"
+    },
+    {
+      "id": "to_be_sentence_009",
+      "text": "I'm not sick.",
+      "recording": "841361e1afcd07842aa4e93933f59e8d36a76f1976235f1388055b4bc31d7557"
+    },
+    {
+      "id": "to_be_sentence_010",
+      "text": "She isn't here.",
+      "recording": "bfeeb9ce36302a66cf8c7ce2c41572c1ccfeec0ee606ec109ac7483bb9d38aea"
+    },
+    {
+      "id": "to_be_sentence_011",
+      "text": "They aren't late.",
+      "recording": "15768caaab8dd22b5ff6a8c4579a25fe8a3d7bc6361391fcc3e0545f12edf6b8"
+    },
+    {
+      "id": "to_be_sentence_012",
+      "text": "It's not easy.",
+      "recording": "866eced23555dd0216371fb6fc3cc4cc7b0859141d111e89e2657336b8dd763e"
+    },
+    {
+      "id": "to_be_sentence_013",
+      "text": "It isn't easy.",
+      "recording": "67fcef643866c782cb030b4d84c05bedf12764d557b86e2133e4d56e29aa69f7"
+    },
+    {
+      "id": "to_be_sentence_014",
+      "text": "Is she ready?",
+      "recording": "01ad37c5ad2a7966db7cdeb871252f23cd61aa4dc8d8193f1b7f7b9389349f98"
+    },
+    {
+      "id": "to_be_sentence_015",
+      "text": "Are they at home?",
+      "recording": "684fc1b5da07dc13596a4804fe9ffe33b92c9888d64b142e6ab551e947f6dfd7"
+    },
+    {
+      "id": "to_be_sentence_016",
+      "text": "Am I late?",
+      "recording": "a0652bf989530b20ed243e095dd7b35db4c1160d1894ae8109239db52618fe14"
+    },
+    {
+      "id": "to_be_sentence_017",
+      "text": "Are you cold?",
+      "recording": "19bbc6f1870e5691a1738b52eb17398b55e78dadb391b15f9e06385585bc3486"
+    },
+    {
+      "id": "to_be_sentence_020",
+      "text": "He isn't here today.",
+      "recording": "aed4be4de131dd16d5f4daebdd5c4efd0ea97ed2826b1e499542f6ca9f60111d"
+    },
+    {
+      "id": "to_be_sentence_021",
+      "text": "They are at the office.",
+      "recording": "590c3d4b87ae3c86760504783f8dd20e3cc7f50e9a4906d47356e8fe3b74016f"
+    },
+    {
+      "id": "to_be_sentence_022",
+      "text": "They're not at home.",
+      "recording": "bec000823ebb7a6f1fba8a33cfdc0a133c3de20d57a033a89347208dd92c2298"
+    },
+    {
+      "id": "to_be_sentence_023",
+      "text": "Is he ready?",
+      "recording": "9960727e7d40e9b0d329b50794626f4726494454bb7c56701a4a3bf3a490d992"
+    },
+    {
+      "id": "to_be_sentence_024",
+      "text": "We are late again.",
+      "recording": "565ea9b23dbc6e974cd46596661b8b014761857306d30e093c41625de59b569f"
+    },
+    {
+      "id": "to_be_sentence_026",
+      "text": "Does she work here?",
+      "recording": "472861eee9407b7b7c9f9fd6dca93675868ab2a7ea3f9899b1c397e9dfe7c5b8"
+    },
+    {
+      "id": "word_already",
+      "text": "already",
+      "recording": "ea53396caebc40d702a99967c8b6cea050267d7b7b229aa68a6929f9c5659878"
+    },
+    {
+      "id": "word_am",
+      "text": "am",
+      "recording": "ab6db599234d2636659cba1aa191bd014c3867d5cfade98ff694785c20c28fc6"
+    },
+    {
+      "id": "word_are",
+      "text": "are",
+      "recording": "ba78973ddcf98d4e5369f5e722d681d94f5106895e5d6cf6fa3ca8240fabdc14"
+    },
+    {
+      "id": "word_be",
+      "text": "be",
+      "recording": "46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d"
+    },
+    {
+      "id": "word_books",
+      "text": "books",
+      "recording": "6e317bcd6839e8877395411b47b2b89d2bae7ccb05f78cee32bcdf76b5294265"
+    },
+    {
+      "id": "word_busy",
+      "text": "busy",
+      "recording": "c9bc072f4fa8189466c2a8f2c36a56a4ef1e60a2ffa4986ba2f155cd176c128b"
+    },
+    {
+      "id": "word_cold",
+      "text": "cold",
+      "recording": "e272deecde720ffc773d7a6a81adabbc366ccbb64da5abdb6b26f52cd3f952cb"
+    },
+    {
+      "id": "word_correct",
+      "text": "correct",
+      "recording": "15a596e3c98c407e043751ff3b21ff0358a1bdfdf3fe948b1523893a8e5de2e8"
+    },
+    {
+      "id": "word_do",
+      "text": "do",
+      "recording": "ac0b52a2ae6ef99999bc08fb31e19188bf0085a4614204068e677e140e1458be"
+    },
+    {
+      "id": "word_does",
+      "text": "does",
+      "recording": "961eb43699731759fd0d04f177bb24f09971bddd41426702276e761269d0a5b9"
+    },
+    {
+      "id": "word_end",
+      "text": "end",
+      "recording": "361e48d0308f20e32dba5fb56328baf18d72ef0ccb43b84f5c262d2a6a1fc6c8"
+    },
+    {
+      "id": "word_for",
+      "text": "for",
+      "recording": "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9"
+    },
+    {
+      "id": "word_happy",
+      "text": "happy",
+      "recording": "489f719cadf919094ddb38e7654de153ac33c02febb5de91e5345cbe372cf4a0"
+    },
+    {
+      "id": "word_home",
+      "text": "home",
+      "recording": "4ea140588150773ce3aace786aeef7f4049ce100fa649c94fbbddb960f1da942"
+    },
+    {
+      "id": "word_is",
+      "text": "is",
+      "recording": "fa51fd49abf67705d6a35d18218c115ff5633aec1f9ebfdc9d5d4956416f57f6"
+    },
+    {
+      "id": "word_listening",
+      "text": "listening",
+      "recording": "8560878b8782af43a43abf7108cd07c0ebf379d28370f85799821f495a7d9283"
+    },
+    {
+      "id": "word_live",
+      "text": "live",
+      "recording": "247610f4dedd4ab7247d07dbda19c81ca9817f85820742cad49d407ffae9e4ed"
+    },
+    {
+      "id": "word_make",
+      "text": "make",
+      "recording": "d05aa2a15fb3c40efeeb03bec445393f00074484cf01c8fb2da90ca6695a5531"
+    },
+    {
+      "id": "word_place",
+      "text": "place",
+      "recording": "81df63580cc9ff1550c90d918ec234f1834013b800b5321201e88d96e785277c"
+    },
+    {
+      "id": "word_practice",
+      "text": "practice",
+      "recording": "ada750e3f8464e9e1fd6a882b1a3b46cad39a1876c3fb7b85abe47a887c977fb"
+    },
+    {
+      "id": "word_ready",
+      "text": "ready",
+      "recording": "b24d6d33736ecd5604a4b17bc9c6481039fac362bb7df044ef1c10a2bfd21db6"
+    },
+    {
+      "id": "word_says",
+      "text": "says",
+      "recording": "8753d1703f15ada998db4c5ae39855e6a9099bdb5420275afcac212934208dcd"
+    },
+    {
+      "id": "word_school",
+      "text": "school",
+      "recording": "d64debd942d7dc26a851231583b1721f43ea936fa41932b6dad7556e5f8cd24a"
+    },
+    {
+      "id": "word_student",
+      "text": "student",
+      "recording": "264c8c381bf16c982a4e59b0dd4c6f7808c51a05f64c35db42cc78a2a72875bb"
+    },
+    {
+      "id": "word_teacher",
+      "text": "teacher",
+      "recording": "1057a9604e04b274da5a4de0c8f4b4868d9b230989f8c8c6a28221143cc5a755"
+    },
+    {
+      "id": "word_test",
+      "text": "test",
+      "recording": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    },
+    {
+      "id": "word_tired",
+      "text": "tired",
+      "recording": "c405760daf9bc32b76f4a57e9c823c39de4645e3ba3dea73d671eee07e152b5d"
+    },
+    {
+      "id": "word_today",
+      "text": "today",
+      "recording": "e0f4f767ac88a9303e7317843ac20be980665a36f52397e5b26d4cc2bf54011d"
+    },
+    {
+      "id": "word_use",
+      "text": "use",
+      "recording": "a3b142af6e97cfc3bb23e409ab83467af7d16ded7dc0632be6a6a9023e49ce8b"
+    },
+    {
+      "id": "word_work",
+      "text": "work",
+      "recording": "00e13ed7af55b27622f1d6eab5bec0147e68efe28dc2b12461117afa1a5ed40e"
+    },
+    {
+      "id": "word_works",
+      "text": "works",
+      "recording": "93f6e11d9ce3e407e0eef9c87aacabf3f31235a92403845bb5093b4c6f01f2e5"
+    },
+    {
+      "id": "new_to_be_0002",
+      "text": "You are early today.",
+      "recording": "e8c4199401f4f5a62a803fef5ed259f968f06b5b2a188ec5f62f410ee9adab78"
+    },
+    {
+      "id": "new_to_be_0004",
+      "text": "She is from Iran.",
+      "recording": "67f10dcb250827557d9244db42aac4b86aa1e97e72fe38a8bc0eb04c9feb2790"
+    },
+    {
+      "id": "new_to_be_0005",
+      "text": "We are classmates.",
+      "recording": "90052bdf258ab26140942474d4193a56a6c3f7b5970852780cd291feb0cfa362"
+    }
+  ],
+  "held": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
