@@ -8692,5 +8692,545 @@
     "start": 5.1604535,
     "end": null,
     "sha256": "52b64c3713c00753d5b1e797fff843b99aef1b19927294d90823fc73f2d80ff6"
+  },
+  "repeated": {
+    "file": "audio/dd13795d0e0b52c84e793c55a3754654186130d99f9e44200bf50700c626ccfb.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 0.0,
+    "end": 0.9611795000000001,
+    "sha256": "feb6fd33b0bf857a092635592c24160adf894a20c482c766a90dbcad12402da1"
+  },
+  "replace": {
+    "file": "audio/7ab3778776cde4fa728a162a53ad3abcc967d1bd7361039e0942888240c4ce86.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 0.9611795000000001,
+    "end": 2.062971,
+    "sha256": "1e5b8f27bd8b3c5a5e3c2227f4133324ccc4ceee0252b0e4426891258462b7cd"
+  },
+  "replaced": {
+    "file": "audio/6c1aa50442a93e42c0eb2907cf4e017cd19547891fa190f3ea473582b0479290.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 2.062971,
+    "end": 3.237358,
+    "sha256": "09f4c8140661cf235c0b390dd00b001077b3d7513fff89ecb40766295ec00e02"
+  },
+  "replied": {
+    "file": "audio/4e686cee486fc30c03bf0dbb9273323d3f32f564df645a0e4c9825366194f156.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 3.237358,
+    "end": 4.1726529999999995,
+    "sha256": "38b11823855828b51f8cded0ce0b6a89339a7aa29beaf2542cdcd3150a32e0e5"
+  },
+  "reply": {
+    "file": "audio/5782b18687e6cf8a482fc32d2db5b196d8821c458a0c069c6acf3953446e7bb5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 4.1726529999999995,
+    "end": 5.134411,
+    "sha256": "bffd992f396eb4f6076ae9e42507c08a44062a19e360eab145fb2b61aeb16f28"
+  },
+  "reported": {
+    "file": "audio/8e752bb9817c063245abbe06c58903236866f4ef3934a3d68ce059e06345e67c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 0,
+    "start": 5.134411,
+    "end": null,
+    "sha256": "073df112ea2678d961845959b5f8543a14f68e9c095db7c3812f12840f1f0f0f"
+  },
+  "request": {
+    "file": "audio/1f58b9145b24d108d7ac38887338b3ea3229833b9c1e418250343f907bfd1047.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 0.0,
+    "end": 1.0078235,
+    "sha256": "7593c9ad0265cf71dea2ee89e32734b7879f343e964dc3247793cf4784af18ee"
+  },
+  "requested": {
+    "file": "audio/c6a91ee7f93b091b009a611956b9c0a9b414e4ee111666cdf3e87e2271defa79.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 1.0078235,
+    "end": 2.142528,
+    "sha256": "bd9e6e4c6224eca779b0f54a75ac2832acc2ef408e197ca365b549b81079dd5f"
+  },
+  "rest": {
+    "file": "audio/2e09d5210db8417757b0f875c276d0cb877b22514e9a3583d2d8d7445368a027.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 2.142528,
+    "end": 3.004592,
+    "sha256": "09ff8a50f4bd6de5ac10059d13551c7e3c1889794fa8ace53f5bce8ee66d5dfb"
+  },
+  "rested": {
+    "file": "audio/5a0cc465ad68c3d8e5d80ae1876aecf405996711f9ae99a0cd1c1943e9f50bd5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 3.004592,
+    "end": 4.017982,
+    "sha256": "1ac4a01d664db0b26c13acd60461f5cccec441ba590ee4cfe6f71ae76a7867d3"
+  },
+  "return": {
+    "file": "audio/7187f0675eb3827939741acf7342ba78836ecec21a31ecf3f34a55309d3bee8a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 4.017982,
+    "end": 4.996496,
+    "sha256": "7fec4a532c2d4dbc0f636278288aca04f8d880c60d83c97681e7433dc672ec02"
+  },
+  "review": {
+    "file": "audio/c97ace4c8fef2cee8fa0f3c9f52aab18dbd4f42438afe362ffb8f75ce4c04b84.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 1,
+    "start": 4.996496,
+    "end": null,
+    "sha256": "1616e0cd048f4b1271151acef658bd5b712c10ac95036d40071697d05a83e050"
+  },
+  "reviewed": {
+    "file": "audio/e4f934f321eb76c9bf8b5103e0a0d9afe72d6e62ace3d3ea849790619bf7487a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 0.0,
+    "end": 1.004229,
+    "sha256": "5c016530e264d42574ea0c1dbd1bf99d8ee1a3c90f4fa9e9dffeb36a9ab9f982"
+  },
+  "ride": {
+    "file": "audio/e049bd056f936d1b39b704abcf824eaef39bd8877fcbb82b2a213ceec82bdf26.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 1.004229,
+    "end": 1.9073924999999998,
+    "sha256": "78608aa05530c3ae8c9d8a6fdb04bdbbcde99045e888e81def8a6da76d72c207"
+  },
+  "ring": {
+    "file": "audio/16b974583155fdcb11fb6832a37be09c18c7acecbfb352c25a35512bfd755a33.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 1.9073924999999998,
+    "end": 2.6819275,
+    "sha256": "cc1a98c86d42516ecaa488f6eb1cd34ea344f3179ac58bfd10679d4f63d4cce9"
+  },
+  "rise": {
+    "file": "audio/dbfbe1cd2ee1f49a02efb08eea36506d5d46e8a66d7175f118589f212ebcf897.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 2.6819275,
+    "end": 3.6221545,
+    "sha256": "108dab8624915dc538098711a1ab14a01b88e1768709edcf7c74d2c1d0adee1a"
+  },
+  "risen": {
+    "file": "audio/72a0b69042f71aa23471a3159f5332d64e307fe3c7119f0f2a90dd3b65267b50.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 3.6221545,
+    "end": 4.5728345,
+    "sha256": "8a255df02778bf913306021b27841b59b8f77f005e87c0aecbd6f4f0bbf370cc"
+  },
+  "rode": {
+    "file": "audio/937f606bcfb1925bfcf941ddf6ecba79ec680d596f83c5ee2aac8cf39c360811.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 2,
+    "start": 4.5728345,
+    "end": null,
+    "sha256": "8e12e5603cc164a7290ab3e1c6d798e74845f64eadb0e1b32d75de14bce507e9"
+  },
+  "rose": {
+    "file": "audio/618d663af0f1ec88a5a19defa65a2f80d06582a832510b12f475d80870bdb3ab.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 0.0,
+    "end": 0.8564970000000001,
+    "sha256": "b8c3810bce24737e5d8856ad938adb669852eb24aa03c6088610466473d4725d"
+  },
+  "rung": {
+    "file": "audio/f230e641f4c1ef995c88f6f2d9e39a00374c37a6b65390292e3878fc1b76d046.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 0.8564970000000001,
+    "end": 1.7094785,
+    "sha256": "b380182b1a894c52cacedcfda42fe51a0fabe7ab338185752662636f1d413c87"
+  },
+  "said": {
+    "file": "audio/fb46c79b7eb7af175f493755b491afa9b25574a9230b8822c629f224a2df4e58.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 1.7094785,
+    "end": 2.5157365,
+    "sha256": "b77081433f49405bf3b584e27295f3f46bc177701ce874e73033d31d1addb61d"
+  },
+  "sang": {
+    "file": "audio/f28d18c311d2ddfec22673b086153fbdf91ea3b13175453076a143b494608d24.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 2.5157365,
+    "end": 3.3754425,
+    "sha256": "562ada65aa33d89a3fd1151e029e539f923fc24c9cbb14b0272b6651fbfae4a0"
+  },
+  "sank": {
+    "file": "audio/5aa4afd246c59941bb70066b97796fb596c4ea52b2d9ab9b37d69b5de19d28a5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 3.3754425,
+    "end": 4.23237,
+    "sha256": "b0e34c9c8d696793716459bd49b6c407e5758b9c110ac025be3680ba47c05ae7"
+  },
+  "sat": {
+    "file": "audio/339efeab70b4cc6e2755ec57d2290484ef2363f955c16df3900ad44382227429.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 3,
+    "start": 4.23237,
+    "end": null,
+    "sha256": "a21b5d4f22b480491c3e142cc74d33b74fd5fe1973eadaa15a908c0a3979ec21"
+  },
+  "save": {
+    "file": "audio/157dca92e4250458339d4b835250d44c238f3355e1b7986195188ee434e9baff.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 0.0,
+    "end": 0.7262815,
+    "sha256": "e1db76cfb3e0048ad687cb888e0003dc5c73f6b0d437910b5b469a1913faf48a"
+  },
+  "saved": {
+    "file": "audio/d81c55f49c5bb0d36bc11e3966ec4efab66f8dfefbbc1761161ca9d230e5466a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 0.7262815,
+    "end": 1.681712,
+    "sha256": "ae20729d866130d1b6e8b73c51b26163c54880f45ae5c0a376eafc8583841971"
+  },
+  "say": {
+    "file": "audio/a0b967fc60136d2ef96fa2a4feaf41ea3e0f266e510b4a5e188b6f781ae12a30.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 1.681712,
+    "end": 2.462188,
+    "sha256": "797c5f088a9d14159d56688d6fd3735e8e6cacc37f786e0f1d729e69b35b4f27"
+  },
+  "search": {
+    "file": "audio/2419329067823cab5b4e5ac5dd18a6abf1f57f45e753f5fc934292f3085a3717.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 2.462188,
+    "end": 3.292336,
+    "sha256": "2d84a5e5822c45cf7e0b6faa7b8993eb767143d9a5434862e55fb63d70c6351b"
+  },
+  "searched": {
+    "file": "audio/72c5ab8e6ccba577efada39ce121524b1bd5f319b97034dc2dad51b74ba89ee6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 3.292336,
+    "end": 4.4813155,
+    "sha256": "cb7c2c1d227c74462f2064bf2f4583325255ca604d753c9bf93b002aacd81774"
+  },
+  "seek": {
+    "file": "audio/cbd345d6a2815fa88d1022650386d07488f45c6c5c3d72da1ca380f0808bb15f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 4,
+    "start": 4.4813155,
+    "end": null,
+    "sha256": "ad82179425449c2557e8a3c54a6201f724a6a082e9a8df9dfae5ff61821af7ac"
+  },
+  "seem": {
+    "file": "audio/d26b980930289c5944632503be7bf9c1745435b31a4e0a1de1b7ca7a2913a0d5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 0.0,
+    "end": 0.8501025,
+    "sha256": "f5e516347e36311074d30b3ca1875ed3a7249eb24eb8a9921982e18ef90ae5e1"
+  },
+  "seemed": {
+    "file": "audio/09f683c032eb0ac1cbba052e51f12506df9dd84ad5b04b20bd954aa5a53d71a1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 0.8501025,
+    "end": 1.792937,
+    "sha256": "46ca7184e34feca8930b012981b7acadf8280b15e53a012c4b4080396ff011ca"
+  },
+  "sell": {
+    "file": "audio/c0f21d451463ec3e3254bf2d631b70a46e870f72eca69b2a869625407c22a8b0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 1.792937,
+    "end": 2.6026645,
+    "sha256": "ca2a061fa301a182b2df62c7ac8d29fa68733f7d89e9db7fe5650c031f9729ac"
+  },
+  "send": {
+    "file": "audio/27ce1d1bf4270020e1799f12e647f5cbabda2b9eafd7202c43012a539986916b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 2.6026645,
+    "end": 3.526791,
+    "sha256": "5b5c4a16eb287280a7a6c26422a346448bdad74b688e27ae935767cea0046743"
+  },
+  "sent": {
+    "file": "audio/7afbb3347fb7252e533d58d99d72d9106fc6fdb3f30df23fa70b764c15ac42c5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 3.526791,
+    "end": 4.346916,
+    "sha256": "9ce22d8355ee74b21fbf3be9dfa6e658cdcadf6395d3bc458c445ba05473e165"
+  },
+  "set": {
+    "file": "audio/6ee0eb490ff832101cf82a3d387c35f29e4230be786978f7acf9e811febf6723.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 5,
+    "start": 4.346916,
+    "end": null,
+    "sha256": "15877b378075d54bc8c865f2c7e20e8cf76fb6cdcbfcbacaa4aa56a6004775d8"
+  },
+  "shake": {
+    "file": "audio/50d22da6c0d4799bb16322e6aa0cbcfe44c9e0755b302a1777c1d0227bbdb65d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 0.0,
+    "end": 0.8575280000000001,
+    "sha256": "d546fe003870cba4ccf5f3974354164a45a4d3186b6f6a15eedbd1e7b51fa69d"
+  },
+  "shaken": {
+    "file": "audio/cec3c2ebfded8a80bb44baf589b7ae8213885329e66dd8e89f731244f7704e88.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 0.8575280000000001,
+    "end": 2.0110995,
+    "sha256": "672a24888aa39614db525c431889f8af5edc005073d284d169781d78d941432c"
+  },
+  "share": {
+    "file": "audio/c3bc45ac352fe43ff8f0a1cc26d6cc29f71f536dc417906f8513ea44ed4bb161.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 2.0110995,
+    "end": 2.9397965,
+    "sha256": "7e204f3aee016e9ccc647ca70b9571dea8d1e40adc66fd85f100df696a7d0b3e"
+  },
+  "shared": {
+    "file": "audio/a4d26868017c0ccffe2efe50944ef4211834660cca834c6e9f86dec6a88246fa.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 2.9397965,
+    "end": 3.753492,
+    "sha256": "0a27575cc898b8320f2046ae637ccb104dfc923503c8647200796450a2e954c5"
+  },
+  "shine": {
+    "file": "audio/6d7cbfe8a1ceaf7d2c362691053a0700d36713afeba5138b9870375fa4005561.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 3.753492,
+    "end": 4.70678,
+    "sha256": "a295eff82968f24ee24c65d17c0f07e8afd6902516b9cfc9c4dc94f4d8fe46f9"
+  },
+  "shined": {
+    "file": "audio/ef1a41d85feed6529ff812c8a89ebc5f6940030a2b1a3507f44948f8b44c0a2e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 6,
+    "start": 4.70678,
+    "end": null,
+    "sha256": "f39ad2c2a8bc758d62f242d7555c477923c49ddb2a5b5a078056cbe015f439b5"
+  },
+  "shone": {
+    "file": "audio/b883197c66c95cbb0593ea125b0fdcb91ca2d686829b0e077dde0c64b822d171.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 0.0,
+    "end": 0.8799774999999999,
+    "sha256": "a78d594592d1c980b8b468fb5890dedd7f0e69912487781c0255cc88b10baecc"
+  },
+  "shook": {
+    "file": "audio/5cf6533be1adb5253b076e17efc18b2be756416e20b9fdb60884aa6a95781316.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 0.8799774999999999,
+    "end": 1.6943535,
+    "sha256": "1c1ad27bc357004432106ed320256da6d6be3d8cd7486a37a0d4ce35dfcedfda"
+  },
+  "shoot": {
+    "file": "audio/bd9b8d8e9aa8e2aa24c07daa04d04cf4058f7f3084faa0dd346e75f783d80e97.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 1.6943535,
+    "end": 2.507721,
+    "sha256": "88cdc778c45a2f0c5c2e95bca07b983b3c1ab111e10e7c341eac993998db6624"
+  },
+  "shot": {
+    "file": "audio/8dccea5217902053b636f0e105c590eb30db4280b8a7a51806110f7ff7b5177e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 2.507721,
+    "end": 3.385034,
+    "sha256": "0741376243e9af22707b3731763015801cf04e24534d95a8c4525a2495c2485e"
+  },
+  "shout": {
+    "file": "audio/b6efa0bad673d029a3dd5182f8b67d0d088ca5c405b5dbcef1dd0ae2850c0a4f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 3.385034,
+    "end": 4.435873,
+    "sha256": "3bcaa1b11d9fd459822696cad93d6032b7e21301cef893955b2d04e3c311f393"
+  },
+  "shouted": {
+    "file": "audio/7c220d1be98394fb93f7c91318e776a8360b1a6d4c899befb11df349e7f4ed70.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 7,
+    "start": 4.435873,
+    "end": null,
+    "sha256": "310dd4edb2d44b5308410e98ce92b07ddb89817b6f9c26d59bf0eec83dee557f"
+  },
+  "show": {
+    "file": "audio/1c6333509debf060200eb6bbe28db307508da67c0e3c58088393e4cf09de596d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 0.0,
+    "end": 0.8024039999999999,
+    "sha256": "583e2ba2c00fb232ee78d470d5e478b28a7603e65fe46e053013ab9da860f35c"
+  },
+  "showed": {
+    "file": "audio/a22f3a3eedf177e0490498f6b5e8b469102d3363f1f824a1e95599f8d7df268f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 0.8024039999999999,
+    "end": 1.5780275000000001,
+    "sha256": "6d41621a90126a1bea0a9bd51218aa642a61b56e5cdad80eadd4cc10a95414db"
+  },
+  "shown": {
+    "file": "audio/baaf53622a51d975235f276287bdc1b64aa4640c77142cbca076877d9eac6815.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 1.5780275000000001,
+    "end": 2.477245,
+    "sha256": "947f47a3edf8fd275542c4f9b4cc124673ea4d4a5f792de121550c1b23c00970"
+  },
+  "shrank": {
+    "file": "audio/4d1779b18a27c0ad386f008402ab3a994cc1b805d97d794524cf3854d628ce89.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 2.477245,
+    "end": 3.464615,
+    "sha256": "a2dc4cedac91ba3fc1dd5144ae51205c9ba2d4e41d6f2a628c4fa2cfc4eb3e99"
+  },
+  "shrink": {
+    "file": "audio/66b490dd60054469bdfe5352b0d28cf166ea4a2114cdd72241c02e1422c346ee.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 3.464615,
+    "end": 4.273118,
+    "sha256": "f8f654b9f73efa764a604b4d5f7b60df59a5af7f66eecaa4534cf3617e2e1264"
+  },
+  "shrunk": {
+    "file": "audio/534596ec7c4de4c08305cccd58662db0bcdae82cdb4c05e67666dd2025d03810.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 8,
+    "start": 4.273118,
+    "end": null,
+    "sha256": "4b3c7025b5ac83d71db9401d5c43def86b55ae68526d531dd63f2d537048184b"
+  },
+  "shrunken": {
+    "file": "audio/cbf147edbaaf3f118707a1ee7a7743c773eca1a7a6a2408c5110bde228b6f962.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 0.0,
+    "end": 1.0405330000000002,
+    "sha256": "ad1e8ec68a8968dcde0d9b2c16d4d2c8f62e89f03388833dfa0667bb532dd9f9"
+  },
+  "shut": {
+    "file": "audio/2a1db49adbe0e8281c0615f68e6829ddf9de3c315b8329481181ac65bea47e3b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 1.0405330000000002,
+    "end": 1.9121655000000002,
+    "sha256": "3fe3d20e93c8815c03b3bf1eef83ef8ae63876043623aa3eb400998e1302b3aa"
+  },
+  "sign": {
+    "file": "audio/0b6f395ca14ac202374d5cff678b71157d0bef7e00c3045e9b80aab4ffb85276.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 1.9121655000000002,
+    "end": 2.7663375,
+    "sha256": "992ca3d646eccbcd524a160a95f04bc832d04b5a2c4f9cc7005a04a1bf57ae68"
+  },
+  "signed": {
+    "file": "audio/4a3cdfae6f291c8f544daea5b72905cf9e74c1ed427d831ad0d7ca00c73c794d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 2.7663375,
+    "end": 3.6908955,
+    "sha256": "e45b4677b7024aef60b6fdb6f386cdfdb36edc1b1a15f5464b219c4de793ceb7"
+  },
+  "sing": {
+    "file": "audio/6342d0648a74645722ea17901df180d13ab12ce64c01f16e846e39a01eae8419.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 3.6908955,
+    "end": 4.546848499999999,
+    "sha256": "8da7434991b2ca381d2f4f6d779dca2a0e7021d40d88b3d495a6f6613f9ad9f2"
+  },
+  "sink": {
+    "file": "audio/1978baf2c153fd3bf3633f3a4b12fa6782507dc6056bbaf16909a6597f4a2548.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-018",
+    "group": 9,
+    "start": 4.546848499999999,
+    "end": null,
+    "sha256": "84985240385ba1d763d8e5a5f5019dc47eeee8fb3bf95d11a34a9aee075062f5"
   }
 }
