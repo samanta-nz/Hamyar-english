@@ -1,0 +1,312 @@
+{
+  "batch": "rebuild-012",
+  "accepted": [
+    {
+      "id": "word_behave",
+      "text": "behave",
+      "recording": "e6ac32cfa83f2053705756dac64c13de3b83e1d80954445955940a671927a54c"
+    },
+    {
+      "id": "word_behaved",
+      "text": "behaved",
+      "recording": "f4b800d272df66adf7c4fe139d5239482ac77b577f174641fce54a938cac38dc"
+    },
+    {
+      "id": "word_believed",
+      "text": "believed",
+      "recording": "2fda9fce9f8475b82bffab4def1fb87ed10a5d535b35899fcbe7b419956d455d"
+    },
+    {
+      "id": "word_belonged",
+      "text": "belonged",
+      "recording": "86d622670afb83c4b1e829fe480df9c049a2faab51e083840c6d4cf762a7ebe3"
+    },
+    {
+      "id": "word_bend",
+      "text": "bend",
+      "recording": "36e110819a318dddc3f882edba27b19aa91231f82fb698ab63c214b63d1a6512"
+    },
+    {
+      "id": "word_bent",
+      "text": "bent",
+      "recording": "90038b3e25c48431c63783efbd804d1f373547f7d29d1e7b1f58bbe734cb2502"
+    },
+    {
+      "id": "word_bet",
+      "text": "bet",
+      "recording": "0ae467cc10e077a17e83f500d7fd946343aa4d475db7bf45b6283bec00675e1a"
+    },
+    {
+      "id": "word_bind",
+      "text": "bind",
+      "recording": "f08dd851c430f52f3fbe9692678a2e2c3cf9009035a13a5cf080ce9ed2125ce9"
+    },
+    {
+      "id": "word_bit",
+      "text": "bit",
+      "recording": "d0013c2e0a387e4c6e6962c5f4b0c9481d60fbb9eb425ae5cda2f8ceb2c0064f"
+    },
+    {
+      "id": "word_bite",
+      "text": "bite",
+      "recording": "8420c85c2aadaebac268ffa047b24ba8d4e3d7d64c7e8d97d79fe93bfada1981"
+    },
+    {
+      "id": "word_bitten",
+      "text": "bitten",
+      "recording": "449fd00116561c3721572ed0bd1f50d4e00a4fa13f56cebe5e71eaa84ba9cd79"
+    },
+    {
+      "id": "word_bled",
+      "text": "bled",
+      "recording": "24dd5b504c053ea4843e454e478c316f08cbb03f8fcf9c3df9481a9e841b637a"
+    },
+    {
+      "id": "word_bleed",
+      "text": "bleed",
+      "recording": "680f2c08fd03836aa1815a63f11bf7b9c8012047a2cd022ae4869510d7d91308"
+    },
+    {
+      "id": "word_blew",
+      "text": "blew",
+      "recording": "a90dfe46ad5c93af76c272012d50b846c7b6b463854c67c9fa09a1cf66917bac"
+    },
+    {
+      "id": "word_blow",
+      "text": "blow",
+      "recording": "7cf6b0597fe4e3cb355932640c14cb6819d5359ac113af58d0b365c7a112fd31"
+    },
+    {
+      "id": "word_blown",
+      "text": "blown",
+      "recording": "f977b980924c63bda917569fec39e4f98e7104ab2f904fbdfc926c6f713f9b63"
+    },
+    {
+      "id": "word_boil",
+      "text": "boil",
+      "recording": "9a692cc5ecc3c159c6f1386be6969007ed3dea5937d840c982ca941fb9a3f084"
+    },
+    {
+      "id": "word_boiled",
+      "text": "boiled",
+      "recording": "2d2c23d3ee8df94ad80f4263c0f9dc2cf5a541011f9325f343a71aa5dda055c0"
+    },
+    {
+      "id": "word_booked",
+      "text": "booked",
+      "recording": "6796883fecf6b1accddf2392813da69bfbf7612c9a758679090c1059b139365d"
+    },
+    {
+      "id": "word_bore",
+      "text": "bore",
+      "recording": "706cd6dbd0cf60397cabaf15af21b482758f2c93429ef9f3d896e1719cee7d6a"
+    },
+    {
+      "id": "word_born",
+      "text": "born",
+      "recording": "0822963756ce70ec17b89df33f24e1199bb7199a2e41819fc35b475a3509762e"
+    },
+    {
+      "id": "word_borne",
+      "text": "borne",
+      "recording": "c3f043501ac2f91f1b9e367ff9bba53834a6b538fa92bb7d4df07e11ae47f865"
+    },
+    {
+      "id": "word_borrow",
+      "text": "borrow",
+      "recording": "d106ccb1fe638b61e4cfbeb00c96818ecf8245918cb478d6bdc249eac33fe353"
+    },
+    {
+      "id": "word_borrowed",
+      "text": "borrowed",
+      "recording": "4389ec109b96400fc0141de59e5f9f81ffbec8caf97f22ce5dc5bc87cb3cf316"
+    },
+    {
+      "id": "word_bound",
+      "text": "bound",
+      "recording": "5e1cf42878df58fea7bfa45b715b7832d889092ad23e802e63912b1bfd205630"
+    },
+    {
+      "id": "word_break",
+      "text": "break",
+      "recording": "14ebe56a5008e7c251101e9e1fdbe281ab0a82bd6fa00a5cef746b9ee0dd31d1"
+    },
+    {
+      "id": "word_breathe",
+      "text": "breathe",
+      "recording": "aa8430ca0e63091efb65532391ebb2f1b7c1f02bc8f0f1e5fb82cc877d83ed71"
+    },
+    {
+      "id": "word_breathed",
+      "text": "breathed",
+      "recording": "921b846d6e5a235f978a79874e6c342aa284459aef14952ab65a9a9167dae4bd"
+    },
+    {
+      "id": "word_bred",
+      "text": "bred",
+      "recording": "d8f24cc00b3df9393cc26da5dcaf76329cd19e0a4c0021418afc7cd3e69b38e0"
+    },
+    {
+      "id": "word_breed",
+      "text": "breed",
+      "recording": "a8ff1c41b8415cb2ae5760a4f7b41b78090ea7614993d493c5437e44fa9c6969"
+    },
+    {
+      "id": "word_bring",
+      "text": "bring",
+      "recording": "4311902217ad5aa4d9664f8dbacaa8bf6fe6b78ff9b5b512599f0b62da19d8d6"
+    },
+    {
+      "id": "word_broadcast",
+      "text": "broadcast",
+      "recording": "e88199c423228a456677d367059b4f9b9fc769bae4a5c88aef9f7d0fcbe0726b"
+    },
+    {
+      "id": "word_broke",
+      "text": "broke",
+      "recording": "ad8fdaf22c809ba3d2e6af0023697c6ae710362046ed29fae866b74b5ad5f964"
+    },
+    {
+      "id": "word_broken",
+      "text": "broken",
+      "recording": "f526795c95399cea27c055c842c3d6ab018ed0fa4f66f701c28ab22dec28237b"
+    },
+    {
+      "id": "word_brought",
+      "text": "brought",
+      "recording": "553f3e2340aa69a85e9364fe3dcdaa3bd2f9a29eaf42af6e72584c9098895152"
+    },
+    {
+      "id": "word_brush",
+      "text": "brush",
+      "recording": "029f33c2a6a1143cf125d495f861e073528ebf1e261e88201d0cc58d22d05987"
+    },
+    {
+      "id": "word_brushed",
+      "text": "brushed",
+      "recording": "d9afd3042fc86cb75e1dc47e0dddefe40eada852e31ab7b8db6710fc527df652"
+    },
+    {
+      "id": "word_built",
+      "text": "built",
+      "recording": "586a866f990ab55e36decfffc2011f172e4452d5141c939a5436baffba11111d"
+    },
+    {
+      "id": "word_burn",
+      "text": "burn",
+      "recording": "859facc5a4c9b80ac2eef78916c1953bcccaab6014bb11b9de8337430ea34f0c"
+    },
+    {
+      "id": "word_burned",
+      "text": "burned",
+      "recording": "2f79ea62c0941c0e383fd18440c9dc83665a8ef67b54961a183acc1a7bcced83"
+    },
+    {
+      "id": "word_burnt",
+      "text": "burnt",
+      "recording": "8bd1c5cb837eb8a4bf13bb88f8a7922d84d2b98b192bc698e1a8058d0a97e0fd"
+    },
+    {
+      "id": "word_burst",
+      "text": "burst",
+      "recording": "57d59e28722dfd55524b8d4faf279bd38f0a3f33106f9e54dfe9239fa2d0dfbf"
+    },
+    {
+      "id": "word_carried",
+      "text": "carried",
+      "recording": "309074dc4898c3d17a5e7bc8294d0b0d9e69d7e4b7f6ef05674d3ce596b0a629"
+    },
+    {
+      "id": "word_carry",
+      "text": "carry",
+      "recording": "6ef49cacb4c39f8fe29c3573df5bf9b82e8bc61270396824a830717c038583ec"
+    },
+    {
+      "id": "word_catch",
+      "text": "catch",
+      "recording": "9f925cdc4feedda4d9ae06f2e1b476680f4781ac2e0fb95fcc819be70328453d"
+    },
+    {
+      "id": "word_caught",
+      "text": "caught",
+      "recording": "a47a2e1872852966caf818c682a89d18bb7819d45c2c9d1d73c58613b99ad0ef"
+    },
+    {
+      "id": "word_celebrate",
+      "text": "celebrate",
+      "recording": "9c457a4c48c5fe751b463a932753fb08216b0d56ce32c994552c9b899c24205d"
+    },
+    {
+      "id": "word_celebrated",
+      "text": "celebrated",
+      "recording": "761e17b7c459cdfc307056ba89db1ec00c9bedd409c2c545774f011a96ba1be7"
+    },
+    {
+      "id": "word_charge",
+      "text": "charge",
+      "recording": "97488fbab3282166738a47c2f619037228568494475d4ac107c46c02678cb728"
+    },
+    {
+      "id": "word_charged",
+      "text": "charged",
+      "recording": "dd523503463fecf34a95c42a566eaadb29c512d773afd9f566522242336c7fba"
+    },
+    {
+      "id": "word_check",
+      "text": "check",
+      "recording": "20f65c28671b40937c5bf23acc7c6f37e5a5ec0622e347b57685725df5ba9e50"
+    },
+    {
+      "id": "word_checked",
+      "text": "checked",
+      "recording": "e61a3d78c65133c7260c43e719d97c46e16bd50c64ee7800536cf14c6407a617"
+    },
+    {
+      "id": "word_chose",
+      "text": "chose",
+      "recording": "40f7ad19cd04bc520fd01831e97677d1d6776c6be7138d67dbb66cef3636d70d"
+    },
+    {
+      "id": "word_chosen",
+      "text": "chosen",
+      "recording": "7be403e3cc82262248913b70f596a31b93f656e0da8ce5d1bf757c63ef7a8db4"
+    }
+  ],
+  "held": [
+    {
+      "group": 7,
+      "pauses": [
+        [
+          0.990091,
+          0.439161
+        ],
+        [
+          1.657846,
+          0.249048
+        ],
+        [
+          2.460952,
+          0.401769
+        ],
+        [
+          3.372585,
+          0.402132
+        ],
+        [
+          4.39712,
+          0.416689
+        ],
+        [
+          5.124921,
+          0.394717
+        ],
+        [
+          5.793379,
+          0.284762
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
