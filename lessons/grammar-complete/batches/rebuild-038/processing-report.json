@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-038",
+  "accepted": [
+    {
+      "id": "to_be_quiz_01",
+      "text": "1) I  ...  ready.",
+      "recording": "304e184a730a22efff719cab452cddcfc81ccbf0912c87a4a4bcf9094a585d1e"
+    },
+    {
+      "id": "to_be_quiz_02",
+      "text": "2) She  ...  happy.",
+      "recording": "9c64f13dc36c27049606babca08fd9b222e2d31d45e816f9d6715a189cb761ff"
+    },
+    {
+      "id": "to_be_quiz_03",
+      "text": "3) They  ...  at home.",
+      "recording": "0f3327f04819f3cfc8ef894a62655918319bb0410f33c6cfd534281ba4a333f8"
+    },
+    {
+      "id": "to_be_quiz_04",
+      "text": "4)  ...  he ready?",
+      "recording": "b8888e01df63734d54614b55d74100f63037adb4f3d653c31448592741385365"
+    },
+    {
+      "id": "to_be_quiz_05",
+      "text": "5) We  ...  not late.",
+      "recording": "b7125bc5bb8f7be975a3e7bf91508a1040aec7eda7d626c9f7ba947a9e54f7b9"
+    },
+    {
+      "id": "to_be_quiz_06",
+      "text": "6) He  ...  here today.",
+      "recording": "da5e4bb426081829d49fbab7ee7606cabb665af4a1fe3db274348d20c841c214"
+    },
+    {
+      "id": "to_be_quiz_09",
+      "text": "9) The cats  ...  here.",
+      "recording": "b08c2329122cb0e12fff5897da1379d60e42059fb084189d975da42aa35d4e21"
+    },
+    {
+      "id": "to_be_quiz_10",
+      "text": "10) It  ...  very quiet.",
+      "recording": "e75e1e032fa6a78434495f8c5795536bffd7b119932c26715214618b4af44227"
+    },
+    {
+      "id": "to_be_quiz_11",
+      "text": "11)  ...  they at the office?",
+      "recording": "b4f7d28dcada4085c11034c83cc220a76d8500adfdebbc65c4eb54c12d7c02af"
+    },
+    {
+      "id": "new_to_be_0117",
+      "text": "I ___ from Iran.",
+      "recording": "b62213739b2aff30b2137ae596e310cb46efd0d26a5d53699e52f4d96e692611"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

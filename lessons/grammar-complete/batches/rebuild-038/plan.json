@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "to_be_quiz_01",
+      "ttsText": "1) I  ...  ready.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_01.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_01",
+      "audioSelector": "#audio_to_be_quiz_01",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_02",
+      "ttsText": "2) She  ...  happy.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_02.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_02",
+      "audioSelector": "#audio_to_be_quiz_02",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_03",
+      "ttsText": "3) They  ...  at home.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_03.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_03",
+      "audioSelector": "#audio_to_be_quiz_03",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_04",
+      "ttsText": "4)  ...  he ready?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_04.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_04",
+      "audioSelector": "#audio_to_be_quiz_04",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_05",
+      "ttsText": "5) We  ...  not late.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_05.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_05",
+      "audioSelector": "#audio_to_be_quiz_05",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_06",
+      "ttsText": "6) He  ...  here today.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_06.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_06",
+      "audioSelector": "#audio_to_be_quiz_06",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_09",
+      "ttsText": "9) The cats  ...  here.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_09.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_09",
+      "audioSelector": "#audio_to_be_quiz_09",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_10",
+      "ttsText": "10) It  ...  very quiet.",
+      "sourceFilePath": "audio/to-be/to_be_quiz_10.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_10",
+      "audioSelector": "#audio_to_be_quiz_10",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "to_be_quiz_11",
+      "ttsText": "11)  ...  they at the office?",
+      "sourceFilePath": "audio/to-be/to_be_quiz_11.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_to_be_quiz_11",
+      "audioSelector": "#audio_to_be_quiz_11",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0117",
+      "ttsText": "I ___ from Iran.",
+      "sourceFilePath": "audio/to-be/new_to_be_0117.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0117",
+      "audioSelector": "#audio_new_to_be_0117",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ]
+]

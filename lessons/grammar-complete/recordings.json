@@ -12355,5 +12355,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "6eb33c098991f85d7d3dc927631c532cab8e9734b50d29d8354e43f452062489"
+  },
+  "1) I  ...  ready.": {
+    "file": "audio/304e184a730a22efff719cab452cddcfc81ccbf0912c87a4a4bcf9094a585d1e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b09b8347411d3231168e10a72371ef7cc84e691889469a33686005011ef8fe7f"
+  },
+  "2) She  ...  happy.": {
+    "file": "audio/9c64f13dc36c27049606babca08fd9b222e2d31d45e816f9d6715a189cb761ff.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "39d1e8ef32636bdc0ba11ab78a0011c8fd400e9a1566adde77851090153aec22"
+  },
+  "3) They  ...  at home.": {
+    "file": "audio/0f3327f04819f3cfc8ef894a62655918319bb0410f33c6cfd534281ba4a333f8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7f8a0b5bf5e41a07bfd6e093f71f95c1e70c14684902ab7e386bcca5660ab9ea"
+  },
+  "4)  ...  he ready?": {
+    "file": "audio/b8888e01df63734d54614b55d74100f63037adb4f3d653c31448592741385365.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "02e4691a90618c47b3341d48d8803d76fcfb8e203180d43f823c807ffe943fc2"
+  },
+  "5) We  ...  not late.": {
+    "file": "audio/b7125bc5bb8f7be975a3e7bf91508a1040aec7eda7d626c9f7ba947a9e54f7b9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fa5e380bdd28cfadac926cf8e7d119af6d30a3f1be83b0d2c61e2f33d029c8fc"
+  },
+  "6) He  ...  here today.": {
+    "file": "audio/da5e4bb426081829d49fbab7ee7606cabb665af4a1fe3db274348d20c841c214.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fa7a16c0fa6f509505c3f3709bb76e40947f0cd5f3da811e5cd9975c675aa857"
+  },
+  "9) The cats  ...  here.": {
+    "file": "audio/b08c2329122cb0e12fff5897da1379d60e42059fb084189d975da42aa35d4e21.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bc957b8bcfa64cad2250b31ed4c2dcbf53cc8a50ddbcc19909dd5b9149c0c4f9"
+  },
+  "10) It  ...  very quiet.": {
+    "file": "audio/e75e1e032fa6a78434495f8c5795536bffd7b119932c26715214618b4af44227.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "eb062086e96b5be6d20817573b8ef5bcaa142a3d8f5f0267b986bacc3bbd2407"
+  },
+  "11)  ...  they at the office?": {
+    "file": "audio/b4f7d28dcada4085c11034c83cc220a76d8500adfdebbc65c4eb54c12d7c02af.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ff98efe3b99059f6941cd909764427b17d5a1e9f816c145e2cfa8c298733639c"
+  },
+  "I ___ from Iran.": {
+    "file": "audio/b62213739b2aff30b2137ae596e310cb46efd0d26a5d53699e52f4d96e692611.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-038",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "40c6209d6a41165a276f5a8dc45557d1d28338213f7035ea1a51d42d1ecbcc3e"
   }
 }
