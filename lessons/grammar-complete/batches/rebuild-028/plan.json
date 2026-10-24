@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0128",
+      "ttsText": "Which sentence is correct?",
+      "sourceFilePath": "audio/to-be/new_to_be_0128.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0128",
+      "audioSelector": "#audio_new_to_be_0128",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0131",
+      "ttsText": "Choose the negative form of “They are busy.”",
+      "sourceFilePath": "audio/to-be/new_to_be_0131.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0131",
+      "audioSelector": "#audio_new_to_be_0131",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_listen_01",
+      "ttsText": "She works at a bank every day.",
+      "sourceFilePath": "audio/present-simple/present_simple_listen_01.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_listen_01",
+      "audioSelector": "#audio_present_simple_listen_01",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_listen_02",
+      "ttsText": "Does he like coffee?",
+      "sourceFilePath": "audio/present-simple/present_simple_listen_02.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_listen_02",
+      "audioSelector": "#audio_present_simple_listen_02",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_listen_03",
+      "ttsText": "They do not play tennis on Friday.",
+      "sourceFilePath": "audio/present-simple/present_simple_listen_03.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_listen_03",
+      "audioSelector": "#audio_present_simple_listen_03",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_sentence_016",
+      "ttsText": "Yes, I do.",
+      "sourceFilePath": "audio/present-simple/present_simple_sentence_016.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_sentence_016",
+      "audioSelector": "#audio_present_simple_sentence_016",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_sentence_018",
+      "ttsText": "No, he doesn't.",
+      "sourceFilePath": "audio/present-simple/present_simple_sentence_018.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_sentence_018",
+      "audioSelector": "#audio_present_simple_sentence_018",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "sentence",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "present_simple_quiz_15",
+      "ttsText": "15) Do you work here?",
+      "sourceFilePath": "audio/present-simple/present_simple_quiz_15.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_present_simple_quiz_15",
+      "audioSelector": "#audio_present_simple_quiz_15",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery-question",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0067",
+      "ttsText": "Do you cook at home? Yes, I do.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0067.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0067",
+      "audioSelector": "#audio_new_present_simple_0067",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0068",
+      "ttsText": "Do they walk to school? No, they don’t.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0068.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0068",
+      "audioSelector": "#audio_new_present_simple_0068",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ]
+]

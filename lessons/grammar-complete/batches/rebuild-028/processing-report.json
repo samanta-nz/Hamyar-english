@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-028",
+  "accepted": [
+    {
+      "id": "new_to_be_0128",
+      "text": "Which sentence is correct?",
+      "recording": "155a758ff52a52b8d8d8b02f99bf8a2acf2b7bca7c4ac3b68824be0486a0ec6a"
+    },
+    {
+      "id": "new_to_be_0131",
+      "text": "Choose the negative form of “They are busy.”",
+      "recording": "c16ee285248cf626849c18af2a07c5e0d1d10d06ea34e55eeecf4cdd70099889"
+    },
+    {
+      "id": "present_simple_listen_01",
+      "text": "She works at a bank every day.",
+      "recording": "70ce5af0cd56aebd9615a3e1e297aa15fdc7c057dd196ce2e8572cd898e958c4"
+    },
+    {
+      "id": "present_simple_listen_02",
+      "text": "Does he like coffee?",
+      "recording": "4a957492c9c6d4413cfa354b6a8aca16832e976c82a2a05945ae98b75ffeb7d3"
+    },
+    {
+      "id": "present_simple_listen_03",
+      "text": "They do not play tennis on Friday.",
+      "recording": "31427726b003fe13bf4c032edad0c642e86b2535965165caa6d4bf62465f0911"
+    },
+    {
+      "id": "present_simple_sentence_016",
+      "text": "Yes, I do.",
+      "recording": "27282b999a04ddc63b41567e687d9b5109651c26ba0caf653ded126f30648d61"
+    },
+    {
+      "id": "present_simple_sentence_018",
+      "text": "No, he doesn't.",
+      "recording": "ef0a92b4ed4886daccb28b4f313a80e9fa8c1e8a78a9a6cced7edf57552c5f02"
+    },
+    {
+      "id": "present_simple_quiz_15",
+      "text": "15) Do you work here?",
+      "recording": "5bf0172acfd1708fef2c6e2e66785990ba83ec3649b2f440c7905ffeec1e39ac"
+    },
+    {
+      "id": "new_present_simple_0067",
+      "text": "Do you cook at home? Yes, I do.",
+      "recording": "af349abf79114f8dd5658347847035c99ba9c95c61ea5e1225220337be3d63f0"
+    },
+    {
+      "id": "new_present_simple_0068",
+      "text": "Do they walk to school? No, they don’t.",
+      "recording": "699c02ffb74842e288192e0fd9baeb0d7029a182e5acf8d1dab71f4d90d40f42"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

@@ -11491,5 +11491,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "57637b49823eb90011696157ed349760e792c60079743a5e37c2c96a96ef6cce"
+  },
+  "Which sentence is correct?": {
+    "file": "audio/155a758ff52a52b8d8d8b02f99bf8a2acf2b7bca7c4ac3b68824be0486a0ec6a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "45400033e9a19f69810587d66492641f04a25f0708356e31559cdd6c414734ef"
+  },
+  "Choose the negative form of “They are busy.”": {
+    "file": "audio/c16ee285248cf626849c18af2a07c5e0d1d10d06ea34e55eeecf4cdd70099889.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b9c974eae845633642c7f1365d30fe4b94b52cddf9814b2b918bc8a91e2635c1"
+  },
+  "She works at a bank every day.": {
+    "file": "audio/70ce5af0cd56aebd9615a3e1e297aa15fdc7c057dd196ce2e8572cd898e958c4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3e85164e24384add542568bb416ad9f5da2bb12192839dd5a0b2540d54aebe9d"
+  },
+  "Does he like coffee?": {
+    "file": "audio/4a957492c9c6d4413cfa354b6a8aca16832e976c82a2a05945ae98b75ffeb7d3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "73c4a3cec9e162d47106b2c0a6addf17eaec99799b8a3513d90f8be79fabf944"
+  },
+  "They do not play tennis on Friday.": {
+    "file": "audio/31427726b003fe13bf4c032edad0c642e86b2535965165caa6d4bf62465f0911.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "81b0a24242b1bcbd9a4a7abfefb57dd4ffd5a6042b81af653f1c70e49b801b89"
+  },
+  "Yes, I do.": {
+    "file": "audio/27282b999a04ddc63b41567e687d9b5109651c26ba0caf653ded126f30648d61.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "e879f3a4e050f37d862e9f8a109fbcb1fcda10a7cffd8d5280cd294fa058bc2a"
+  },
+  "No, he doesn't.": {
+    "file": "audio/ef0a92b4ed4886daccb28b4f313a80e9fa8c1e8a78a9a6cced7edf57552c5f02.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "0891264b9337cbc61deeddec76575a175fd3b8cb2121459cbc4ea9954d40fd50"
+  },
+  "15) Do you work here?": {
+    "file": "audio/5bf0172acfd1708fef2c6e2e66785990ba83ec3649b2f440c7905ffeec1e39ac.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "edcf1d94a9409c16c6312cad67dd7f2e5469ab1cf6ded02eb29cc7459c3fbce0"
+  },
+  "Do you cook at home? Yes, I do.": {
+    "file": "audio/af349abf79114f8dd5658347847035c99ba9c95c61ea5e1225220337be3d63f0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8ba0cf99166c64fa4bc0792f110d53e59eed71cb9cba2220a250e206dc986906"
+  },
+  "Do they walk to school? No, they don’t.": {
+    "file": "audio/699c02ffb74842e288192e0fd9baeb0d7029a182e5acf8d1dab71f4d90d40f42.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-028",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "e99f7e637cddb03f4a45428e1ccb0bcd9c9b45c8fbb819ed1ed9c3c66d7460ba"
   }
 }
