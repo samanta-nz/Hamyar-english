@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-030",
+  "accepted": [
+    {
+      "id": "new_present_simple_0090",
+      "text": "At eight, Sara takes the bus to the school library.",
+      "recording": "a839115ff67e2ea7301feea25f657bf2048e670769cbcc0f5135f373f50e866e"
+    },
+    {
+      "id": "new_present_simple_0091",
+      "text": "She volunteers there because she loves books and enjoys helping people.",
+      "recording": "14ebc9a9c85388e83a0194a8d5ae61b2a0f7cc72a10d4fd6a0f7362dbb9015d1"
+    },
+    {
+      "id": "new_present_simple_0092",
+      "text": "The bus stops near the main gate, so she walks through the garden.",
+      "recording": "0b63b358bb5c8c30cc4a45d360cca02ad23623556ff5faebe4253f6dbed8921e"
+    },
+    {
+      "id": "new_present_simple_0093",
+      "text": "The library opens at nine, and Sara checks the return box before she starts her work.",
+      "recording": "d067d2a105f30b497063a520efe7f64b5fb7cc684e8463a35066c86e65632066"
+    },
+    {
+      "id": "new_present_simple_0094",
+      "text": "At ten, she helps a new student find the science books.",
+      "recording": "457438e8e2175e2337eb587268a339d40c226fdd4b3dcfbf6f6cfe51e3f365f4"
+    },
+    {
+      "id": "new_present_simple_0095",
+      "text": "The student asks where the history section is, and Sara shows him the correct shelf.",
+      "recording": "24cd8d022d076aa909b6ef15414b807cd01a9cd8b694bf6eb2bcdf3d18473d8a"
+    },
+    {
+      "id": "new_present_simple_0096",
+      "text": "She speaks slowly because he is learning English.",
+      "recording": "8d38d07ceb162e4400b0e8813fd565672facf23b728d3f7bda6522dd3776a0c2"
+    },
+    {
+      "id": "new_present_simple_0097",
+      "text": "She does not rush him, and she does not laugh when he makes a mistake.",
+      "recording": "d7870155b5c65b6e7e904e43fa7690456a2497a126b8c7259a46313ae679edb8"
+    },
+    {
+      "id": "new_present_simple_0098",
+      "text": "They read one short page together and look up three new words.",
+      "recording": "ecf6e439f407e5f3a86cd4de856614982c571bdb9f70f8204b9813e5b3d48ded"
+    },
+    {
+      "id": "new_present_simple_0099",
+      "text": "At noon, Sara calls her mother from the garden.",
+      "recording": "4379e4a29298f50ea7ecfb143abc507734b683be66c5d1e9efa4513dd121b2dd"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
