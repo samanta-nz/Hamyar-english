@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-020",
+  "accepted": [
+    {
+      "id": "word_swore",
+      "text": "swore",
+      "recording": "bb9586ad3caba5a5f1311bb1d304336267eba09f1f162b41aadd76392b9ca919"
+    },
+    {
+      "id": "word_sworn",
+      "text": "sworn",
+      "recording": "7eed750be3589f422e67a335d5f9409942173d072d176bbcfc21cabd22598018"
+    },
+    {
+      "id": "word_swum",
+      "text": "swum",
+      "recording": "de696c7525b5323ef01eb980d909cddf91d037e9d6cc68835b5d193f094d197b"
+    },
+    {
+      "id": "word_swung",
+      "text": "swung",
+      "recording": "d26dde996b2f3622fb4539cf1e7d979351e628e1dc6ad830d8432c0122e1e85f"
+    },
+    {
+      "id": "word_talked",
+      "text": "talked",
+      "recording": "a5ebeda2fde7340e548929bf5eb8ff0c886393c41d2e6ceea4ffd1ea01f8be15"
+    },
+    {
+      "id": "word_taught",
+      "text": "taught",
+      "recording": "e29ef4cb40cf73a5b1eb3144c9d653d2c97ec416ffb581bc5b397adee8f3c944"
+    },
+    {
+      "id": "word_teach",
+      "text": "teach",
+      "recording": "eb0b4270edb36c1ea88cc99ee34e45b591da06b486f6b3e7fde5ba7a9c283349"
+    },
+    {
+      "id": "word_tear",
+      "text": "tear",
+      "recording": "4f8ac0b8c10df0c4d952dace6e1d4e835436664b90aa584d7e3d3570a57dc6d6"
+    },
+    {
+      "id": "word_tell",
+      "text": "tell",
+      "recording": "879915cfdc2cb4852ed05241911d8de5ca6e2cc4085746c14f13ad304157e264"
+    },
+    {
+      "id": "word_tested",
+      "text": "tested",
+      "recording": "c29a4b42073219ba62efff97387973eb72dcfbc1e126e7b45c7dc7d1960b911e"
+    },
+    {
+      "id": "word_thank",
+      "text": "thank",
+      "recording": "e67fd73a84918e64c84f082cdc04e34435eb98acc712c8e8384268a7e7c5e208"
+    },
+    {
+      "id": "word_thanked",
+      "text": "thanked",
+      "recording": "84c7fb6f8465fef2c1b56da4e480c746d9da8a6c964de4229d5b054b2e4200d3"
+    },
+    {
+      "id": "word_thought",
+      "text": "thought",
+      "recording": "b8192353a3982b4fe7ac9a1f2b1a47cf6fc9f24a8ac0c0bf3ea23a735347186d"
+    },
+    {
+      "id": "word_threw",
+      "text": "threw",
+      "recording": "459b3f6187ea5acfe6f898e6137ed0e32f014d3b63b243497513a20e0cded838"
+    },
+    {
+      "id": "word_throw",
+      "text": "throw",
+      "recording": "7b0456581bef4cb1f0e2c9c52ab9a3d80989f8aabe74e609d3cc183c365363de"
+    },
+    {
+      "id": "word_thrown",
+      "text": "thrown",
+      "recording": "3c259ed3deb3e27cb83273ac37621df8abc76d6f73d00d32cfebb2d4da5cc35f"
+    },
+    {
+      "id": "word_told",
+      "text": "told",
+      "recording": "1fcc08c7733965bce66a034f70cc3e226eeaa3ccd3a960cff226d786d055873a"
+    },
+    {
+      "id": "word_took",
+      "text": "took",
+      "recording": "e0a6230e370d20dece7ca96c77611cb0b19514204d7ea4077dc58d6b6928945a"
+    },
+    {
+      "id": "word_tore",
+      "text": "tore",
+      "recording": "2ef04dc6f493ba96f776a56664fee3652b68fd46dce1cad9e99068b61546b13c"
+    },
+    {
+      "id": "word_torn",
+      "text": "torn",
+      "recording": "00cc10cc5ab0a89fbf4d84a229bf234e739ba6294a832d2c042ce8d9a1949cf7"
+    },
+    {
+      "id": "word_touch",
+      "text": "touch",
+      "recording": "f0956726750ca787d943bb3ca8ba098bdbff341512524ebb1c887ca1f62dffc1"
+    },
+    {
+      "id": "word_touched",
+      "text": "touched",
+      "recording": "2f2cd146e5e4c62f771be97a61434494031356018707709496c046d0e4728bfb"
+    },
+    {
+      "id": "word_trained",
+      "text": "trained",
+      "recording": "33fbcd8470eae125a265eb3f4375137f38ea4dc42f75ac09594bfe1a1c951af6"
+    },
+    {
+      "id": "word_translated",
+      "text": "translated",
+      "recording": "2e9d18230693bf31734a9244fe7b2bad6e79d4df30084a808b97dd36b1012b0d"
+    },
+    {
+      "id": "word_travel",
+      "text": "travel",
+      "recording": "0209442e115ad7bc79fd281d91423a86b619e3c711fe574b7cc198d2e3c461c4"
+    },
+    {
+      "id": "word_traveled",
+      "text": "traveled",
+      "recording": "afcb6ae56d8fab81b4a6a2a805c619c292f82fc86ebe33c42e39e6955ff58b2e"
+    },
+    {
+      "id": "word_travelled",
+      "text": "travelled",
+      "recording": "3a57c6321d3a9477aa74c84b591e4df40fa0f7ce54cc832e88043b72b35ac7cc"
+    },
+    {
+      "id": "word_turn",
+      "text": "turn",
+      "recording": "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2"
+    },
+    {
+      "id": "word_turned",
+      "text": "turned",
+      "recording": "9879397b188b1dd02a23772799698af84d6232c88bb42158fdc52f906f31940a"
+    },
+    {
+      "id": "word_understood",
+      "text": "understood",
+      "recording": "53501f58f1926163efc53f16b4bfd829bc7662de7454f97568b22e294298ea8f"
+    },
+    {
+      "id": "word_update",
+      "text": "update",
+      "recording": "2937013f2181810606b2a799b05bda2849f3e369a20982a4138f0e0a55984ce4"
+    },
+    {
+      "id": "word_updated",
+      "text": "updated",
+      "recording": "27eb5e51506c911f6fc4bb345c0d9db6f60415fceab7c18e1e9b862637415777"
+    },
+    {
+      "id": "word_upload",
+      "text": "upload",
+      "recording": "ff4085ad157354dc8ea67a848e7c2270b4a19282713cf3a7ecf8e0ffbb159ed1"
+    },
+    {
+      "id": "word_uploaded",
+      "text": "uploaded",
+      "recording": "3cef1b245d4b2f37dadddcbadb76017d440ba283601228724c0cb2c07d35bed4"
+    },
+    {
+      "id": "word_used",
+      "text": "used",
+      "recording": "f839161355091fcd9e33f571e0b11c60217a5009f9973e769c13d7858db162cc"
+    },
+    {
+      "id": "word_wait",
+      "text": "wait",
+      "recording": "716ecabb45ac6a88a049398fde2d3d5225c6dd3121ae9bbc5af457eb4baf056a"
+    },
+    {
+      "id": "word_wake",
+      "text": "wake",
+      "recording": "51391bf0ab33e8272bcfca0d61b5ab242391822f331fe51ac5930b58da8e5b25"
+    },
+    {
+      "id": "word_walked",
+      "text": "walked",
+      "recording": "2c158582949f34c9ef03daee0949fda374fcaa77dff2af611c96a027fbd30832"
+    },
+    {
+      "id": "word_wanted",
+      "text": "wanted",
+      "recording": "ca9066873bf335f3c1d9f0f6986266ee50689a816763851d82791d3dbc31cbf5"
+    },
+    {
+      "id": "word_was",
+      "text": "was",
+      "recording": "b63b99f6383ba713b57ddfc77737c5f71639fa6f4663efe60a66a8c6d114b545"
+    },
+    {
+      "id": "word_wash",
+      "text": "wash",
+      "recording": "476994559e873a621c524b49c195ad4d14876ac168022ae43c0b3fe2868d82ef"
+    },
+    {
+      "id": "word_washed",
+      "text": "washed",
+      "recording": "8e24b0d78a4ee1e49d28a0ddbb5a3f04a1b0894c2e8d0f21124052aa21ccf579"
+    },
+    {
+      "id": "word_watched",
+      "text": "watched",
+      "recording": "80adc17f4177175afa07b61686a3362867ba3bdea792c2dc7cd840615787de95"
+    },
+    {
+      "id": "word_wear",
+      "text": "wear",
+      "recording": "c47fbc5d87a1298121ddf52ba9ad2b27986f8738b19a6df23973064863848904"
+    },
+    {
+      "id": "word_weep",
+      "text": "weep",
+      "recording": "8f14105e19bbf0228bc5ad74c098f1f40e3faa6973c891ebe5ee5f6144c31f09"
+    },
+    {
+      "id": "word_welcome",
+      "text": "welcome",
+      "recording": "280d44ab1e9f79b5cce2dd4f58f5fe91f0fbacdac9f7447dffc318ceb79f2d02"
+    },
+    {
+      "id": "word_welcomed",
+      "text": "welcomed",
+      "recording": "7d56069fc33ffe5ebf523f6fcd629055cfefbcb3e0f55d9f896ea92730b3302a"
+    },
+    {
+      "id": "word_wept",
+      "text": "wept",
+      "recording": "df9338211d07524a352e9e4ed53ada39711c0d03ed6a1f939073b9282c553816"
+    },
+    {
+      "id": "word_were",
+      "text": "were",
+      "recording": "910adfb424646393d81506a4b18638c5ceafff0bb32994c97d916b600d04ecb5"
+    },
+    {
+      "id": "word_win",
+      "text": "win",
+      "recording": "823a3180dad3c9c3c4dea43ab2baf9f04bac9c3a7711745ff5f702551496d735"
+    },
+    {
+      "id": "word_wind",
+      "text": "wind",
+      "recording": "9b58e68145a79ca0e19957f3e5c88fd92ff2e28a7bd09ed30ee365fc4f9aafe0"
+    },
+    {
+      "id": "word_withdraw",
+      "text": "withdraw",
+      "recording": "c26f22db83dc51cea1eb7fe4efcae8c4b4ad5e40c296b9de77cfd16ae68caa94"
+    },
+    {
+      "id": "word_withdrawn",
+      "text": "withdrawn",
+      "recording": "fd60c459d03b66a8600f5c72ca868c83ad2708810fa3140b03abb35b3b91d931"
+    },
+    {
+      "id": "word_withdrew",
+      "text": "withdrew",
+      "recording": "58eb34485d2496813db8f840c519825aad5d45418158b8300f20dc2763bdf548"
+    },
+    {
+      "id": "word_woke",
+      "text": "woke",
+      "recording": "94ff2447463efff3c6e0e4ffa6bd62d0b880d647802d163586812869e6b62525"
+    },
+    {
+      "id": "word_woken",
+      "text": "woken",
+      "recording": "98636913558be0bf9f0723ead9e5a19287712b7b458aa96c60d147c089d1c64f"
+    },
+    {
+      "id": "word_won",
+      "text": "won",
+      "recording": "72ac68ec9bcdf7a8a156d119c4b7e4109e4b3e4dd4f697dce866f692e3aca1b1"
+    },
+    {
+      "id": "word_wore",
+      "text": "wore",
+      "recording": "6092e65624b7cf1065921884f763c4ab7707c7e9aef887bbcdc816f7bc2da86f"
+    },
+    {
+      "id": "word_worn",
+      "text": "worn",
+      "recording": "90b9875b8fd21e3680018b16ea596850aa155acbf6d62f245ee6ff17b6386002"
+    },
+    {
+      "id": "word_worried",
+      "text": "worried",
+      "recording": "13d9ead0ef6e1b24eacabb65db1c00f4c6ea709eb5e1279f1c7381477576aacd"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
