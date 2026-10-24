@@ -12985,5 +12985,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "658ccfbfedf3411fcbed283f2dd9655b562e0702b7d642cfbab9a462c432a2cd"
+  },
+  "Are you ___ to the teacher?": {
+    "file": "audio/ff136ef12527936d444a0f6e9a6a618a9f888ea881fd06a432033c490034a718.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f89eb83dd8aaf1e9d82908a945776981fd627108a3ddc0b86af3a5dc5266f61f"
+  },
+  "1) She  ...  already finished the report.": {
+    "file": "audio/2787ea623e54389643c38ba60aaa77ac7078e6ddcec710e9df9796f8287bb3ae.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "bc8578197b764fae6f117b8b62d9fc3e43bf6b7f65e3058f96424c926555e6b8"
+  },
+  "2) I have  ...  my keys.": {
+    "file": "audio/518a1b5ec0832f99f803a22ce2e3030b2037df6dd4cc1b1a0497f99b5e38553b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b744832f0ab7ad120ab5b38a251c4479a295074a8002f714e70fe27829eebf91"
+  },
+  "4) We haven’t finished  ... .": {
+    "file": "audio/226fc2d1edf61d2ca5c616212814f0eff6b7102588f0c80be36eb3c4355385b6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "65ab67791dc2fa8b0ccbc6e92aa5daf057780a888bdeaaf421a4a00bd0af3bdd"
+  },
+  "5) Have you  ...  been to Spain?": {
+    "file": "audio/08690df1f251355fa11a81d5a43f016999a043b3d291932fa569fac27d50ce42.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "99226cb2528a43283d35f8857559fb968d570b2023d11810fffc2f00bdb8fefa"
+  },
+  "6) I have  ...  seen snow in summer.": {
+    "file": "audio/16ee884d9b07c614972f257339e6dc7fb849c0fca2d3f191a4adbbe92b34590e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "20c84183a73186ec30f06924d0043679d3a117b3be37c01d8fd4a7d7fb447861"
+  },
+  "7) She has lived here  ...  2021.": {
+    "file": "audio/f1dfb7f28f2246753c0125d6d2f0cfae754c142177449f39b140de61b2c4c6b8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2cd9372ae47442731ff7003a57421164eacd37402ee8b20037f4c448ec21be07"
+  },
+  "8) They have waited  ...  two hours.": {
+    "file": "audio/ab0012d0559a17310fbd739c26973164c0cf24b059af7aa74737a496ac3d18ce.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "b9d2be4ffedbbbe56bb5696dd6baf28847221775b193a92d0b89f6795990f4cc"
+  },
+  "9) I  ...  him yesterday.": {
+    "file": "audio/e8716abf04064a6c262b3c1f14c61d7c922208f828cd36ab1beafea11f0c4d6d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "0a25449b597f5478e0cba684f90cf3f98f93165a86a9fff1a80ba9e7ebe40cb8"
+  },
+  "10) I have seen this movie  ... .": {
+    "file": "audio/cc181b0df8a6edb042686878414635e7bac90ba030a262036b7510dc22d1701f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-045",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4dbe21357c4ba659c91b08d7255b6b789946dfe14e9d9051ae9eaa374c088e5f"
   }
 }

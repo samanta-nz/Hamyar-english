@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1936,
+  "complete": 1946,
   "total": 2006,
-  "uniqueRecordings": 1443,
+  "uniqueRecordings": 1453,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -421,7 +421,8 @@
         "new_present_continuous_0133",
         "new_present_continuous_0134",
         "new_present_continuous_0135",
-        "new_present_continuous_0136"
+        "new_present_continuous_0136",
+        "new_present_continuous_0137"
       ],
       "pending": [
         "present_continuous_story_full",
@@ -431,7 +432,6 @@
         "new_present_continuous_0010",
         "new_present_continuous_0011",
         "new_present_continuous_0012",
-        "new_present_continuous_0137",
         "new_present_continuous_0009",
         "new_present_continuous_0010",
         "new_present_continuous_0011",
@@ -562,7 +562,16 @@
         "word_written",
         "word_wrote",
         "word_yet",
+        "present_perfect_quiz_01",
+        "present_perfect_quiz_02",
         "present_perfect_quiz_03",
+        "present_perfect_quiz_04",
+        "present_perfect_quiz_05",
+        "present_perfect_quiz_06",
+        "present_perfect_quiz_07",
+        "present_perfect_quiz_08",
+        "present_perfect_quiz_09",
+        "present_perfect_quiz_10",
         "present_perfect_quiz_15",
         "s1_01",
         "s1_02",
@@ -748,15 +757,6 @@
       "pending": [
         "present_perfect_story_full",
         "word_story",
-        "present_perfect_quiz_01",
-        "present_perfect_quiz_02",
-        "present_perfect_quiz_04",
-        "present_perfect_quiz_05",
-        "present_perfect_quiz_06",
-        "present_perfect_quiz_07",
-        "present_perfect_quiz_08",
-        "present_perfect_quiz_09",
-        "present_perfect_quiz_10",
         "present_perfect_quiz_11",
         "present_perfect_quiz_12",
         "present_perfect_quiz_13",
