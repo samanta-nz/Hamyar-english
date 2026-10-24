@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "audioId": "new_present_perfect_0141",
+      "ttsText": "They have ___ to the market.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0141.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0141",
+      "audioSelector": "#audio_new_present_perfect_0141",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0142",
+      "ttsText": "___ you called your mother yet?",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0142.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0142",
+      "audioSelector": "#audio_new_present_perfect_0142",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0143",
+      "ttsText": "He hasn’t ___ breakfast.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0143.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0143",
+      "audioSelector": "#audio_new_present_perfect_0143",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0144",
+      "ttsText": "I have lived here ___ five years.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0144.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0144",
+      "audioSelector": "#audio_new_present_perfect_0144",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0145",
+      "ttsText": "She has worked here ___ May.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0145.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0145",
+      "audioSelector": "#audio_new_present_perfect_0145",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0146",
+      "ttsText": "Sara has ___ to the library and is still away.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0146.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0146",
+      "audioSelector": "#audio_new_present_perfect_0146",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0147",
+      "ttsText": "I ___ him yesterday.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0147.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0147",
+      "audioSelector": "#audio_new_present_perfect_0147",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_perfect_0148",
+      "ttsText": "They haven’t finished ___.",
+      "sourceFilePath": "audio/present-perfect/new_present_perfect_0148.mp3",
+      "targetHtmlFile": "present-perfect.html",
+      "audioElementId": "audio_new_present_perfect_0148",
+      "audioSelector": "#audio_new_present_perfect_0148",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-perfect"
+    }
+  ]
+]

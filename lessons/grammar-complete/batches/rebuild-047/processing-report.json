@@ -1,0 +1,58 @@
+{
+  "batch": "rebuild-047",
+  "accepted": [
+    {
+      "id": "new_present_perfect_0141",
+      "text": "They have ___ to the market.",
+      "recording": "c73f75e324ff96527b808d8e2ede48e253111b4fe312cf60e2ada06e899d2fe6"
+    },
+    {
+      "id": "new_present_perfect_0142",
+      "text": "___ you called your mother yet?",
+      "recording": "12fce35b902f9dc7e25bd3c3280c42c31f043570e48369360663227514584faf"
+    },
+    {
+      "id": "new_present_perfect_0143",
+      "text": "He hasn’t ___ breakfast.",
+      "recording": "9742693069ea525c205f00175c8109aeb68616d47c7dc84ee962191ba283506f"
+    },
+    {
+      "id": "new_present_perfect_0144",
+      "text": "I have lived here ___ five years.",
+      "recording": "497b636dbb618c653818d6091565006c3c0368727036b382269be5cd296f3492"
+    },
+    {
+      "id": "new_present_perfect_0145",
+      "text": "She has worked here ___ May.",
+      "recording": "275cb948466a4e548523f9166d9fbd98f338616a22dc5a8b4a084993a56b8257"
+    },
+    {
+      "id": "new_present_perfect_0146",
+      "text": "Sara has ___ to the library and is still away.",
+      "recording": "42259e882570acf9ba6d96339781aec5e7e3d2c903e5350d7edc6680d577098a"
+    },
+    {
+      "id": "new_present_perfect_0147",
+      "text": "I ___ him yesterday.",
+      "recording": "6255ad1fa7fbb68274fa55f0008555c976d10fcaea838812034b6aa22de2f8f6"
+    },
+    {
+      "id": "new_present_perfect_0148",
+      "text": "They haven’t finished ___.",
+      "recording": "a2e10bed5d93c9957e78f14f774a162c027d7dfd7d3ef7146eef02764786dda9"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

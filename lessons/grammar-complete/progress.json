@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1956,
+  "complete": 1964,
   "total": 2006,
-  "uniqueRecordings": 1463,
+  "uniqueRecordings": 1471,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -762,7 +762,15 @@
         "new_present_perfect_0137",
         "new_present_perfect_0138",
         "new_present_perfect_0139",
-        "new_present_perfect_0140"
+        "new_present_perfect_0140",
+        "new_present_perfect_0141",
+        "new_present_perfect_0142",
+        "new_present_perfect_0143",
+        "new_present_perfect_0144",
+        "new_present_perfect_0145",
+        "new_present_perfect_0146",
+        "new_present_perfect_0147",
+        "new_present_perfect_0148"
       ],
       "pending": [
         "present_perfect_story_full",
@@ -772,14 +780,6 @@
         "new_present_perfect_0010",
         "new_present_perfect_0011",
         "new_present_perfect_0012",
-        "new_present_perfect_0141",
-        "new_present_perfect_0142",
-        "new_present_perfect_0143",
-        "new_present_perfect_0144",
-        "new_present_perfect_0145",
-        "new_present_perfect_0146",
-        "new_present_perfect_0147",
-        "new_present_perfect_0148",
         "new_present_perfect_0009",
         "new_present_perfect_0010",
         "new_present_perfect_0011",

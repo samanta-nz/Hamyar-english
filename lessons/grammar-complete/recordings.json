@@ -13165,5 +13165,77 @@
     "start": 0.0,
     "end": null,
     "sha256": "52831c0d0b4f411ccc7435a953289b832c2ef901f4ed7b5f41ef0a7da00291c1"
+  },
+  "They have ___ to the market.": {
+    "file": "audio/c73f75e324ff96527b808d8e2ede48e253111b4fe312cf60e2ada06e899d2fe6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2850760747ed704e306c34d4f5410817b2b90770587ec55a5023077f164bd4ae"
+  },
+  "___ you called your mother yet?": {
+    "file": "audio/12fce35b902f9dc7e25bd3c3280c42c31f043570e48369360663227514584faf.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "5b33221d4d36836e7e6258128fb26af110602bf555e0f4807ef389b3ec38ea5a"
+  },
+  "He hasn’t ___ breakfast.": {
+    "file": "audio/9742693069ea525c205f00175c8109aeb68616d47c7dc84ee962191ba283506f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "3d3d13619b8a93a058f335ea3d0ed1e754fd5e632da3a3fc36248f6d2c1f6eb1"
+  },
+  "I have lived here ___ five years.": {
+    "file": "audio/497b636dbb618c653818d6091565006c3c0368727036b382269be5cd296f3492.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f94802c3ea8e67df01d751f424c9aa8c016032109081235bc4180327d1df2771"
+  },
+  "She has worked here ___ May.": {
+    "file": "audio/275cb948466a4e548523f9166d9fbd98f338616a22dc5a8b4a084993a56b8257.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "baf55842cc967890326ae489be4a15702c694abca4554c6d96afb343511fb0d4"
+  },
+  "Sara has ___ to the library and is still away.": {
+    "file": "audio/42259e882570acf9ba6d96339781aec5e7e3d2c903e5350d7edc6680d577098a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a12900afbeacaba098395dd0a99d3800a1338437a88c11ac64ac1b07e252450f"
+  },
+  "I ___ him yesterday.": {
+    "file": "audio/6255ad1fa7fbb68274fa55f0008555c976d10fcaea838812034b6aa22de2f8f6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "780323beeeaf27348729c1a89cfd28ffceabaa730414c13950e6cb2466bac835"
+  },
+  "They haven’t finished ___.": {
+    "file": "audio/a2e10bed5d93c9957e78f14f774a162c027d7dfd7d3ef7146eef02764786dda9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-047",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8e9c76707d9eb73ebafa9eff5c072947890962c8c15e8db9cc454e723d222835"
   }
 }
