@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-025",
+  "accepted": [
+    {
+      "id": "new_to_be_0045",
+      "text": "Are you busy? Yes, I am.",
+      "recording": "cac1a5e1be1c346d7aa419bddeebc68f668c04ff3208ec222085d9d3ef05fecf"
+    },
+    {
+      "id": "new_to_be_0046",
+      "text": "Are they here? No, they aren’t.",
+      "recording": "a2cba6c9ae2d8ebaf34441e3717288f955e47f80f354744c95cb7ae3710a10e7"
+    },
+    {
+      "id": "new_to_be_0047",
+      "text": "Am I right? Yes, you are.",
+      "recording": "d2b0c7b7e016455fdb9a6d33ccc4b5b1b85c7c49c413720770fde3dd4d48fae7"
+    },
+    {
+      "id": "new_to_be_0048",
+      "text": "Is it warm? No, it isn’t.",
+      "recording": "1db7720437622a84505fc5453998c2c6428eda772bc4ea07ac2037ee2cf478f4"
+    },
+    {
+      "id": "new_to_be_0086",
+      "text": "She is sixteen years old, and she is a little nervous on her first morning.",
+      "recording": "2524e024bdfe0973b0c5ff186ff8a91ff3c87e6ddb7b740cb473e58cac66dd63"
+    },
+    {
+      "id": "new_to_be_0087",
+      "text": "Her blue classroom is bright, and the windows are open.",
+      "recording": "0e43aaa93b0b0dc06cc528b8194cc8e4fb7470f35ba806cc9d5a62d7a512927b"
+    },
+    {
+      "id": "new_to_be_0089",
+      "text": "Sara is from Iran, and her family has moved to this town recently.",
+      "recording": "3decb460f1758f442ec348f87dbf02c1eaddaf9e069f7455158e07685f42fe9d"
+    },
+    {
+      "id": "new_to_be_0090",
+      "text": "She is a good student, but she is not sure where to sit.",
+      "recording": "615e25c6071cfda73ecd474dbb6a344bef6c1eeb4e818d0db2be024cdb87120e"
+    },
+    {
+      "id": "new_to_be_0094",
+      "text": "“Are you Sara?” he asks.",
+      "recording": "69e32181426e46204e3e863d4675754b9548a171f85b8f638d05cf7b02f004a1"
+    },
+    {
+      "id": "new_to_be_0095",
+      "text": "“Yes, I am,” she answers.",
+      "recording": "bcadf6edfa00dd92b3eb8b6e04081efa1602995b9bca8e740bf81ad2590f7f90"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

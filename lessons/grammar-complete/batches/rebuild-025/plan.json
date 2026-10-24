@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0045",
+      "ttsText": "Are you busy? Yes, I am.",
+      "sourceFilePath": "audio/to-be/new_to_be_0045.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0045",
+      "audioSelector": "#audio_new_to_be_0045",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0046",
+      "ttsText": "Are they here? No, they aren’t.",
+      "sourceFilePath": "audio/to-be/new_to_be_0046.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0046",
+      "audioSelector": "#audio_new_to_be_0046",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0047",
+      "ttsText": "Am I right? Yes, you are.",
+      "sourceFilePath": "audio/to-be/new_to_be_0047.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0047",
+      "audioSelector": "#audio_new_to_be_0047",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0048",
+      "ttsText": "Is it warm? No, it isn’t.",
+      "sourceFilePath": "audio/to-be/new_to_be_0048.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0048",
+      "audioSelector": "#audio_new_to_be_0048",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0086",
+      "ttsText": "She is sixteen years old, and she is a little nervous on her first morning.",
+      "sourceFilePath": "audio/to-be/new_to_be_0086.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0086",
+      "audioSelector": "#audio_new_to_be_0086",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0087",
+      "ttsText": "Her blue classroom is bright, and the windows are open.",
+      "sourceFilePath": "audio/to-be/new_to_be_0087.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0087",
+      "audioSelector": "#audio_new_to_be_0087",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0089",
+      "ttsText": "Sara is from Iran, and her family has moved to this town recently.",
+      "sourceFilePath": "audio/to-be/new_to_be_0089.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0089",
+      "audioSelector": "#audio_new_to_be_0089",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0090",
+      "ttsText": "She is a good student, but she is not sure where to sit.",
+      "sourceFilePath": "audio/to-be/new_to_be_0090.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0090",
+      "audioSelector": "#audio_new_to_be_0090",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0094",
+      "ttsText": "“Are you Sara?” he asks.",
+      "sourceFilePath": "audio/to-be/new_to_be_0094.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0094",
+      "audioSelector": "#audio_new_to_be_0094",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0095",
+      "ttsText": "“Yes, I am,” she answers.",
+      "sourceFilePath": "audio/to-be/new_to_be_0095.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0095",
+      "audioSelector": "#audio_new_to_be_0095",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ]
+]

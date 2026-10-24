@@ -11221,5 +11221,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "48b82291c659597cda4301193c0130a8f65500b3b3b7fa4aebc51c01239dc153"
+  },
+  "Are you busy? Yes, I am.": {
+    "file": "audio/cac1a5e1be1c346d7aa419bddeebc68f668c04ff3208ec222085d9d3ef05fecf.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f979c19ee99c390899d6a7e9b53aa8437c5ad50a6330bd25891bb547a73e3783"
+  },
+  "Are they here? No, they aren’t.": {
+    "file": "audio/a2cba6c9ae2d8ebaf34441e3717288f955e47f80f354744c95cb7ae3710a10e7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ef09e674321c94b78d3e952075753b87f9171f36b3c5ceb95294d96bcb0f7adc"
+  },
+  "Am I right? Yes, you are.": {
+    "file": "audio/d2b0c7b7e016455fdb9a6d33ccc4b5b1b85c7c49c413720770fde3dd4d48fae7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7db331954aa1a3e5b3962b3f30f02a3addf929296608d2c605a46eceba7dd793"
+  },
+  "Is it warm? No, it isn’t.": {
+    "file": "audio/1db7720437622a84505fc5453998c2c6428eda772bc4ea07ac2037ee2cf478f4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "913311c21fa64dfee8a895f37be814b4d3d8feab4a384993e66c164527c607ec"
+  },
+  "She is sixteen years old, and she is a little nervous on her first morning.": {
+    "file": "audio/2524e024bdfe0973b0c5ff186ff8a91ff3c87e6ddb7b740cb473e58cac66dd63.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d9477996485993005348dbb08d9a246c34d6cd7ed9d35ccdad1bfe466fd3150f"
+  },
+  "Her blue classroom is bright, and the windows are open.": {
+    "file": "audio/0e43aaa93b0b0dc06cc528b8194cc8e4fb7470f35ba806cc9d5a62d7a512927b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f9929adf0ab062cdced6a1bc993a3c7f1a03bd59f327f4a66ccfbe435d22785c"
+  },
+  "Sara is from Iran, and her family has moved to this town recently.": {
+    "file": "audio/3decb460f1758f442ec348f87dbf02c1eaddaf9e069f7455158e07685f42fe9d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "59db0afb24ed95db54c93277982b5471aea0fc11f79ccaac560fa291759cc217"
+  },
+  "She is a good student, but she is not sure where to sit.": {
+    "file": "audio/615e25c6071cfda73ecd474dbb6a344bef6c1eeb4e818d0db2be024cdb87120e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "291f24ab6250742f76615ee6ac421c1b234c0ed35c9b7f839b7a18c644d9172f"
+  },
+  "“Are you Sara?” he asks.": {
+    "file": "audio/69e32181426e46204e3e863d4675754b9548a171f85b8f638d05cf7b02f004a1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "019720b4130f32be332f1018cc0b75be288bea108d1cd40b803e4c787bd2d35d"
+  },
+  "“Yes, I am,” she answers.": {
+    "file": "audio/bcadf6edfa00dd92b3eb8b6e04081efa1602995b9bca8e740bf81ad2590f7f90.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-025",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a2d0c9bec79689f7690228a206ac8a5b656efb350d5a95ea4d4ab34947c215cd"
   }
 }
