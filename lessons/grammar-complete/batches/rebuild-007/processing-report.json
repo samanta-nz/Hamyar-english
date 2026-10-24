@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-007",
+  "accepted": [
+    {
+      "id": "word_take",
+      "text": "take",
+      "recording": "d1905cf90af29a5ac3f99e105830eecc5b3b415b24e2d166a7ce4cf72b2f32e6"
+    },
+    {
+      "id": "word_taking",
+      "text": "taking",
+      "recording": "c2a5ac3a8c0223f3136917db1de92f9272f677647143d2fa74494a7377a0bb9b"
+    },
+    {
+      "id": "word_talking",
+      "text": "talking",
+      "recording": "f64d9de8ec135cfa503773480ff0d9bb499509c999c1b3eea6f947e4258d33b9"
+    },
+    {
+      "id": "word_think",
+      "text": "think",
+      "recording": "dc2fc19d8fce376c47641cf15f823a03ad10f2dc7da3f43230551f50706914f5"
+    },
+    {
+      "id": "word_thinking",
+      "text": "thinking",
+      "recording": "6ee16429668c2d8207707407c8c3ee4285a9e26eef5bd0c17ff00efe090808e2"
+    },
+    {
+      "id": "word_translate",
+      "text": "translate",
+      "recording": "7fd690e20d081646429b8b6a37835c428a6406013aa2499209837334ae3f1456"
+    },
+    {
+      "id": "word_understand",
+      "text": "understand",
+      "recording": "f9dc689e6d50ad6f35cc97059375b37b8149225f4fb7a192f4ea40051da5416a"
+    },
+    {
+      "id": "word_using",
+      "text": "using",
+      "recording": "a24e10fde71a121ae709d6d866e36dfce91ce464e196f718721d848cbd56d24d"
+    },
+    {
+      "id": "word_waiting",
+      "text": "waiting",
+      "recording": "80cfa3e7f28dde4df64436b652230aff28d7779116d1369c21ef2bbf37261d71"
+    },
+    {
+      "id": "word_want",
+      "text": "want",
+      "recording": "8656aa55d393b032b7f05fd40daac127c4862315017072b231d726ccf0d686e6"
+    },
+    {
+      "id": "word_washing",
+      "text": "washing",
+      "recording": "fb9ee1dc4f8294414a209e09a25d7c75621aab31302fcdc8d23564eebe73eb99"
+    },
+    {
+      "id": "word_watching",
+      "text": "watching",
+      "recording": "19bda4aa00eaf9a162fb92bafdc63160190c0c8387687bb8b23027e7bb886ff6"
+    },
+    {
+      "id": "word_weekend",
+      "text": "weekend",
+      "recording": "1197a20df1b4c87b10c868648eba70eac619e18ab6a6772e32bc9c701c315e41"
+    },
+    {
+      "id": "word_write",
+      "text": "write",
+      "recording": "10fd874b68dad080ed706762c8e163dabb20514bddae38fb159c56f714a3b143"
+    },
+    {
+      "id": "word_writing",
+      "text": "writing",
+      "recording": "ee871105e875f3de6e0da042f7190bc83ef1e4444aadd528ee6e1f401a9217aa"
+    },
+    {
+      "id": "new_present_continuous_0001",
+      "text": "I am reading a short story now.",
+      "recording": "f04f38ce7a2dab09ac6b1fc311f4a3298201449870b45d08b82eb5a18df09bf6"
+    },
+    {
+      "id": "new_present_continuous_0002",
+      "text": "You are waiting for the bus.",
+      "recording": "b090850cb9ff11b16d1d0bdb871c74d5f9d1a52caf160e32d527608f918c1649"
+    },
+    {
+      "id": "new_present_continuous_0003",
+      "text": "She is making tea in the kitchen.",
+      "recording": "97cf3baa87ba65a63ed6bceb10b27417a7ac963c0d0f6efaed824e70d13783f4"
+    },
+    {
+      "id": "new_present_continuous_0004",
+      "text": "We are studying for the test.",
+      "recording": "2c69d36ccb8838f413049277f9f3b2cb8ab0ebdf9a094cb459d1ecd968d0489f"
+    },
+    {
+      "id": "new_present_continuous_0005",
+      "text": "They are playing in the garden.",
+      "recording": "32fcd221c875a5dfddca3669b7bce7a259282a54b31e3efb917585b7788ad70a"
+    },
+    {
+      "id": "new_present_continuous_0006",
+      "text": "The baby is sleeping upstairs.",
+      "recording": "da9eaa56e2b41e5039cf84f19e54b580fb2234f122850d3cb4dc1718725c01ae"
+    },
+    {
+      "id": "new_present_continuous_0013",
+      "text": "She is making a sandwich.",
+      "recording": "2a7c3ea16ca5fcf313c0b4bb729b50447795ea06d91662cdb3751435946b4b7e"
+    },
+    {
+      "id": "new_present_continuous_0014",
+      "text": "They are writing a note.",
+      "recording": "bd65a98f6530826be112473b77699c5d09d195990ef3ee8c71b2e3e6a9d78e64"
+    },
+    {
+      "id": "new_present_continuous_0015",
+      "text": "He is running to the gate.",
+      "recording": "e44d6fe52331629bb8ac5b983d54aa64bf5411b11d353028d6ce8b116b7a3c35"
+    },
+    {
+      "id": "new_present_continuous_0016",
+      "text": "I am sitting near the window.",
+      "recording": "d17f01677b75bb12bc784bae94aaa5cdc57a914d6be86c72209ddcbea71b5ce1"
+    },
+    {
+      "id": "new_present_continuous_0017",
+      "text": "We are planning a short trip.",
+      "recording": "75cfd44b6f621fee91e4b9d80c0af4ae09d140ef290c118f3a2400036a85d372"
+    },
+    {
+      "id": "new_present_continuous_0018",
+      "text": "The children are swimming in the pool.",
+      "recording": "ee124be5e12529897c457749b9727e6481715d037ad6330157c810655ded83cb"
+    },
+    {
+      "id": "new_present_continuous_0019",
+      "text": "I am not using your phone.",
+      "recording": "d872f5dd10b18447b188451e943d5d0cfaabb780edf71a9f0b4d8d3689874b7f"
+    },
+    {
+      "id": "new_present_continuous_0020",
+      "text": "He isn't watching TV now.",
+      "recording": "9cc9e833aa77d2d32b2420bc6c0510ed9d98863b3e265f9428677abd6387c999"
+    },
+    {
+      "id": "new_present_continuous_0021",
+      "text": "She isn't talking to the manager.",
+      "recording": "a1b86bbc4a57e9b84d74f02aeefcd8ba80ed58bd86453084a35a97ac8f283ed7"
+    },
+    {
+      "id": "new_present_continuous_0022",
+      "text": "We aren't leaving yet.",
+      "recording": "86cbee91c60a50448b7c21c0ef81b97ca959083b7348bc3d990463a444613efe"
+    },
+    {
+      "id": "new_present_continuous_0023",
+      "text": "They aren't making noise.",
+      "recording": "1ca97402cab101a76e543b6d7005014d20e093d31a1a0de2c11e6c2d74815ced"
+    },
+    {
+      "id": "new_present_continuous_0024",
+      "text": "The bus is not coming this way.",
+      "recording": "daea458e8f171517201667fe5a6287a8fdf81e689fbbb7bf4b2e8ed9b9c478d4"
+    },
+    {
+      "id": "new_present_continuous_0025",
+      "text": "Are you listening to me?",
+      "recording": "a116adaa4e37545a313e5f6776edd77387db232c87c9e70055d25c03c3aa049f"
+    },
+    {
+      "id": "new_present_continuous_0026",
+      "text": "Is Sara working today?",
+      "recording": "0b0d372c54dfa56c7b066493f912a7c7728e8c66f5cb19aad9bd31c3c4caf5d6"
+    },
+    {
+      "id": "new_present_continuous_0027",
+      "text": "Are they waiting outside?",
+      "recording": "cff49ea98ade69945e822bb7c5b6248fa6a9389cfc27ad0ec0aab948aa102d20"
+    },
+    {
+      "id": "new_present_continuous_0028",
+      "text": "Is the baby sleeping?",
+      "recording": "99ad667bf18aa9e0c29461ab8057f04d010f7368b80f4c6fbb766e1f9f230d16"
+    },
+    {
+      "id": "new_present_continuous_0029",
+      "text": "Am I speaking too quickly?",
+      "recording": "b8f5a087a1612cd41bdf6fc7c3d6c78be6451af1011b51612894af1ae4503fa2"
+    },
+    {
+      "id": "new_present_continuous_0030",
+      "text": "Is your brother coming with us?",
+      "recording": "c4216837cdb9cf222db083b0118a870c861d1609b22c669d2ac0841e9ff4dfc3"
+    },
+    {
+      "id": "new_present_continuous_0031",
+      "text": "What are you making?",
+      "recording": "6929f8d62a1afc649878221906750f1904fc7380a6a74b79b2cb8156bd9b441d"
+    },
+    {
+      "id": "new_present_continuous_0032",
+      "text": "Where is Sara sitting?",
+      "recording": "434ee234f0165b5e66978f929bdd20282ac1419fc7d636ef05c6e0692320f4e5"
+    },
+    {
+      "id": "new_present_continuous_0033",
+      "text": "Why are they laughing?",
+      "recording": "bd6860aced0dc6e09e4ed8955a7783011a438cb4909190ac9dbcba65911e7dc1"
+    },
+    {
+      "id": "new_present_continuous_0034",
+      "text": "Who is waiting by the door?",
+      "recording": "27990efe9ba381046178739c3fab3c24bf647fcc5c9c9d0bf99193caec4f2e3e"
+    },
+    {
+      "id": "new_present_continuous_0035",
+      "text": "What is the dog chasing?",
+      "recording": "86b4d436d475581f805062a7953c073281172e83f26093f5b8bf5ddf69331221"
+    },
+    {
+      "id": "new_present_continuous_0036",
+      "text": "When are we meeting the coach?",
+      "recording": "3fd8d43492f466f907aefdb3ea209b82d0be70a25fbf75ad3951c193aa3828ef"
+    },
+    {
+      "id": "new_present_continuous_0049",
+      "text": "I am meeting Sara at six.",
+      "recording": "0fdc4d380cfbe2f0ca86c37f66de9c4f94a1aacafcf6d4e8b0e336c4fc05a865"
+    },
+    {
+      "id": "new_present_continuous_0050",
+      "text": "We are flying to Rome on Friday.",
+      "recording": "d6c5d0eb962cc7ffc1829f429b1ced5e39ca5f5c2cb747b6c2e1ec57a12795b5"
+    },
+    {
+      "id": "new_present_continuous_0051",
+      "text": "She is seeing the dentist tomorrow.",
+      "recording": "6c606233bff07a310e359ce81496cebef479bb9c5a19a8de4e286452e7d1cb07"
+    },
+    {
+      "id": "new_present_continuous_0052",
+      "text": "They are having lunch with us tonight.",
+      "recording": "d76af096fea3efe1e1b273024815d35b489759e8e2a7727de343b5b804045e1e"
+    },
+    {
+      "id": "new_present_continuous_0053",
+      "text": "Are you coming to the game later?",
+      "recording": "a9b37e038c89d06b6a6450105a171fafd61f61b4251fafc53041fa4b8349d736"
+    },
+    {
+      "id": "new_present_continuous_0054",
+      "text": "Our class is starting at ten tomorrow.",
+      "recording": "82eb1e44955055a1a11a75c7c0d043a54d4a59dda3b5145b99aaee6b0da4b12a"
+    },
+    {
+      "id": "new_present_continuous_0062",
+      "text": "She needs a little help.",
+      "recording": "a0812a6cab3f2846d588426e6697fcca3da4742c854a433f843d3d5e0c7b636c"
+    },
+    {
+      "id": "new_present_continuous_0063",
+      "text": "This bag belongs to my sister.",
+      "recording": "5b2a421607c6b3a003dff5cf0a9ee28472c87833fb0ea0f2ce556d2bf5614354"
+    },
+    {
+      "id": "new_present_continuous_0064",
+      "text": "We believe your story.",
+      "recording": "31e4c1bd8729df43460a62b2f4a3a0c80ea9da50690a201bb81e2c9e70d7a0d3"
+    },
+    {
+      "id": "new_present_continuous_0065",
+      "text": "He loves old films.",
+      "recording": "a002cab01e4c8910cf5ce9d1e264828ecfa227763cfaae3177eadb7fe3ab27b4"
+    },
+    {
+      "id": "new_present_continuous_0066",
+      "text": "The soup tastes salty.",
+      "recording": "0eeb69b0c957f29e0fcb3167d4ce23564c74339aa30c69f95af93652378b649e"
+    },
+    {
+      "id": "new_present_continuous_0073",
+      "text": "Sara walks to school every day.",
+      "recording": "6554ea2867e3cd33f1a044d169dee3d7659dd50820027e4eb796aee27009281c"
+    },
+    {
+      "id": "new_present_continuous_0074",
+      "text": "Sara is walking to school now.",
+      "recording": "c630e15caa3d2e819715d471c2132df7acfbde6fd95c56a11e2cdf98cdc118a5"
+    },
+    {
+      "id": "new_present_continuous_0075",
+      "text": "We usually eat at home.",
+      "recording": "24f586c9befd7950e6bbeb96f88442076ebc110844b550cd2a09826459308546"
+    },
+    {
+      "id": "new_present_continuous_0076",
+      "text": "We are eating at a café today.",
+      "recording": "f0065cbf2bfa522215b284885691defbdb580f583c7ed58ef3c5e3eced7da123"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
