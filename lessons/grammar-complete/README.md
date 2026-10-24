@@ -26,3 +26,10 @@ Duplicate/ambiguous HTML IDs remain pending. No ASR or manual listening is claim
 
 Next-stage planning must skip exact texts already present in recordings.json.
 Do not reset the progress counter or regenerate existing text without a reason.
+
+## Session recovery
+At the start of each continuation, fetch the fixed remote branch and ensure
+local HEAD is up to date before planning new audio. The remote branch is the
+source of truth if Arena restores the Git checkout at an earlier commit.
+Preserve any local edits before a fast-forward; never discard existing audio.
+Batch rebuild-002 keeps groups 8 and 9 pending for additional alignment.

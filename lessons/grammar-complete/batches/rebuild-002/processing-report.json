@@ -1,0 +1,306 @@
+{
+  "batch": "rebuild-002",
+  "accepted": [
+    {
+      "id": "new_to_be_0007",
+      "text": "I am fifteen years old.",
+      "recording": "81fa00ff096655d6441e547581a1b643c256c5807dbc1d0f7b269907679b0352"
+    },
+    {
+      "id": "new_to_be_0008",
+      "text": "Sara is a student.",
+      "recording": "b44b72fb383d167d8db3d9e467ea91fc47b34840c94501fef31e66ea25706f40"
+    },
+    {
+      "id": "new_to_be_0013",
+      "text": "The tea is hot.",
+      "recording": "4702f5c4da575720c500d5724e3ddc7976d02a8ac60b646ee54222bcd6128c3d"
+    },
+    {
+      "id": "new_to_be_0014",
+      "text": "My friends are kind.",
+      "recording": "3ce29e976888ebaab79fc63d8315bbeaf0ffa6f17dc1ca106e7d640d8a646b55"
+    },
+    {
+      "id": "new_to_be_0015",
+      "text": "I am not afraid.",
+      "recording": "8a5f9f22ef9b170b1afab9caad23852223d40066b83ba32a56be216cccb4a618"
+    },
+    {
+      "id": "new_to_be_0016",
+      "text": "The room is quiet.",
+      "recording": "85a424662fa1f776a70534f2b3805aee57d0b1c3dc95886ff9f7c5af2c12cdf5"
+    },
+    {
+      "id": "new_to_be_0017",
+      "text": "You are very patient.",
+      "recording": "77c6a3e61445d6cd20323272c3618e1d491ab7423c6d3f7f1da052cb64a59019"
+    },
+    {
+      "id": "new_to_be_0018",
+      "text": "The children are hungry.",
+      "recording": "5b6566ee4c6eb27c7350ed3441cff22d2cc819e657ec15b5945d4aa788efc695"
+    },
+    {
+      "id": "new_to_be_0019",
+      "text": "I'm at school now.",
+      "recording": "9d0126eced8b2651aaa4706ae4c799a04aee59e8bc134451a290458e00158cf6"
+    },
+    {
+      "id": "new_to_be_0020",
+      "text": "You're very kind.",
+      "recording": "34d0d8a9030f46d2ba51d17747733182eb1692de11a2f6a438c05cded80e7790"
+    },
+    {
+      "id": "new_to_be_0021",
+      "text": "He's my brother.",
+      "recording": "6117afe971cab7c04647ef002d2132d55a14f4d9df4be7e48ebd1718218d6a33"
+    },
+    {
+      "id": "new_to_be_0022",
+      "text": "She's from Tabriz.",
+      "recording": "cb32561fc10a58c762f397e171fcdc5fbc8a0ca038766d43e9d838c6829356a7"
+    },
+    {
+      "id": "new_to_be_0023",
+      "text": "We're ready to leave.",
+      "recording": "198158a59d27dcb2bc695599ec3e1f50e7079beff3c3f7b9caeb83e83c6177b9"
+    },
+    {
+      "id": "new_to_be_0024",
+      "text": "They're in the garden.",
+      "recording": "0a943c2ee78a1e2d1b23fc680cfd2ee60007aec419dc96a0fe8c283a485d4893"
+    },
+    {
+      "id": "new_to_be_0025",
+      "text": "I'm not late.",
+      "recording": "0cb2e0f24337042bf371a55fcb2a81d4f7f1ebbb5385db83d2187faaade41bf4"
+    },
+    {
+      "id": "new_to_be_0026",
+      "text": "He isn't sick today.",
+      "recording": "2cfa26479f4f399bb31c5eacbae4aa2e00332a1ada31b03397cc651933248cf0"
+    },
+    {
+      "id": "new_to_be_0027",
+      "text": "She is not my teacher.",
+      "recording": "932a778c9d6e2bfe94bff3b3bee2a417151a677c9975ace29fa8983a6acbeace"
+    },
+    {
+      "id": "new_to_be_0028",
+      "text": "We aren't at home.",
+      "recording": "1abc6cdfda859cb44aace8c308936009bbb9149b8463af1eccf04e437d083f8b"
+    },
+    {
+      "id": "new_to_be_0029",
+      "text": "They are not busy now.",
+      "recording": "3741cadbcc07b0ceacb46ca479165bb054d4d6ce5e7256524a9e2534c3f95c20"
+    },
+    {
+      "id": "new_to_be_0030",
+      "text": "It isn't cold outside.",
+      "recording": "1cabf26dd2ac06a10b1294b3d2011958c882ae99bc4e8cd9b42e6417a5190a81"
+    },
+    {
+      "id": "new_to_be_0037",
+      "text": "Am I early?",
+      "recording": "ebad371b090586e2d544512211e1c530b37be172355b2bd02eef3827c589556e"
+    },
+    {
+      "id": "new_to_be_0038",
+      "text": "Are you ready?",
+      "recording": "ec5d2ded6e26b4183830878e32df209e0cb2e4b23073690eb2cb67988f3dd124"
+    },
+    {
+      "id": "new_to_be_0039",
+      "text": "Is he at work?",
+      "recording": "6c9b635729185b4b74db28da4f91c6efebc5337180e752a8379da8d8e149f56a"
+    },
+    {
+      "id": "new_to_be_0040",
+      "text": "Is Sara tired?",
+      "recording": "fd310045b5ad28582d6c5a869e511a64880ad4730ae5175e8269bab7e9ded613"
+    },
+    {
+      "id": "new_to_be_0041",
+      "text": "Are we on time?",
+      "recording": "191cc0b1ebf498cb700a211d917b2bf77ffa529ff5f709d10c1a50c1c23477aa"
+    },
+    {
+      "id": "new_to_be_0042",
+      "text": "Are they in class?",
+      "recording": "733385cbe9844bc93f09260ad7ac7f195dc1baaba7434c2a79b0bbbec51d0e59"
+    },
+    {
+      "id": "new_to_be_0049",
+      "text": "The keys are on the table.",
+      "recording": "495156bf6ccd679df378ce8abdd6421dc54a00a4a69d22653523e65fada3d5c5"
+    },
+    {
+      "id": "new_to_be_0050",
+      "text": "The cat is under the chair.",
+      "recording": "f6a4e7e51ea21d6933bcf4df1ed7191e8d68b1081927834d80216d20fd8aefca"
+    },
+    {
+      "id": "new_to_be_0051",
+      "text": "My bag is beside the door.",
+      "recording": "491ed4334b99c53fd8ffb5999f1546a1513517dcf3f4062985c5712ad61dcf10"
+    },
+    {
+      "id": "new_to_be_0052",
+      "text": "We are in the library.",
+      "recording": "b5931a66c2e1d6b6d57d5e9286bcf70e478f989ec32fc5d77ab86d01b06261d2"
+    },
+    {
+      "id": "new_to_be_0053",
+      "text": "The shop is across the street.",
+      "recording": "96ed676059241cbf754d193321d0eb866524576b84e0d629adeacd08c62119c7"
+    },
+    {
+      "id": "new_to_be_0054",
+      "text": "Her phone is in her pocket.",
+      "recording": "b85f97f632fe813ef4ac5ba751c135995c5f5161add0bae58f8eca58ada19a72"
+    },
+    {
+      "id": "new_to_be_0062",
+      "text": "She works every day.",
+      "recording": "b3ad8e54021656aad08d516a47f680cb564f6b01e2f5c2f5e275ffcc60b911f9"
+    },
+    {
+      "id": "new_to_be_0064",
+      "text": "Do they live here?",
+      "recording": "604e06e28301a385afb60050d0cf229e5a1097790a6e9df67fcd0fb86d61f903"
+    },
+    {
+      "id": "new_to_be_0065",
+      "text": "He is a driver.",
+      "recording": "9d2e9547c1c1272a06ba45e335d856ac4dc2b8cbedef1304df2696a04d2dc87f"
+    },
+    {
+      "id": "new_to_be_0066",
+      "text": "He drives a bus.",
+      "recording": "6f95c0f6a54e6815586a17100888375e5c3deb759ee9a6dad727414c5de9ab22"
+    },
+    {
+      "id": "new_to_be_0067",
+      "text": "This is my notebook.",
+      "recording": "a903f0a680057fec09964991ee859f5e33323456243fe43a5ca670c6d0c2cb39"
+    },
+    {
+      "id": "new_to_be_0068",
+      "text": "That is your seat.",
+      "recording": "a7a34278678506dd69894aeec481310fbfea40a10ab351f8a199c847f6270d43"
+    },
+    {
+      "id": "new_to_be_0069",
+      "text": "These are fresh apples.",
+      "recording": "1decfb4b3048fa007b7050592ac0ab3d74b9ca5ee30d731343f32e53169addea"
+    },
+    {
+      "id": "new_to_be_0070",
+      "text": "Those are our bags.",
+      "recording": "3fbbae25aedefde26ae62d2cdbe967b2feb9f93a7529b785a85c9099ffe1ac65"
+    },
+    {
+      "id": "new_to_be_0071",
+      "text": "This is a small key.",
+      "recording": "1a8266c6172fb29b71d6f0edc6781e41e33029edefe990ecdd46991acc2ca0bd"
+    },
+    {
+      "id": "new_to_be_0072",
+      "text": "Those are tall trees.",
+      "recording": "1755c9b430fc3f309eeb548b436ca41f7039e210abf6db3a79ea190dee17bc4f"
+    },
+    {
+      "id": "new_to_be_0073",
+      "text": "There is a lamp on the desk.",
+      "recording": "1a8e9e1690635d32bb4dc46e223f18f95b3dd5fc68fb5b5fee4f4b93d7077b25"
+    },
+    {
+      "id": "new_to_be_0074",
+      "text": "There are two cups in the sink.",
+      "recording": "cc960ccff6946ee9cb1f5fc5f6c7e9333b5ce087bcac081e11c72054075994a8"
+    },
+    {
+      "id": "new_to_be_0075",
+      "text": "There is some milk in the fridge.",
+      "recording": "843910b105377e54536f6499d56dfd20acf0c086417a17106a97611ff37c3ebd"
+    },
+    {
+      "id": "new_to_be_0076",
+      "text": "There are three students outside.",
+      "recording": "5879f59fba0071edb7d6ac86638e6dd60ae2c687561164903e6738cce48e61ce"
+    },
+    {
+      "id": "new_to_be_0077",
+      "text": "Is there a bus stop nearby?",
+      "recording": "788ab45ed86dbbfbac37303b6d12f993eadb91e799726c544ac436cfeb12cfec"
+    },
+    {
+      "id": "new_to_be_0078",
+      "text": "There aren’t any clean plates.",
+      "recording": "54c7d9c6eef419dec69307c33af33e02a5640d5ae3505c7d2974d09428958b2b"
+    }
+  ],
+  "held": [
+    {
+      "group": 8,
+      "pauses": [
+        [
+          3.295351,
+          0.369274
+        ],
+        [
+          5.696621,
+          0.401088
+        ],
+        [
+          6.629819,
+          0.436893
+        ],
+        [
+          8.815488,
+          0.48127
+        ],
+        [
+          10.96161,
+          0.438186
+        ]
+      ]
+    },
+    {
+      "group": 9,
+      "pauses": [
+        [
+          2.150113,
+          0.469592
+        ],
+        [
+          4.807029,
+          0.425986
+        ],
+        [
+          7.128821,
+          0.470295
+        ],
+        [
+          9.399524,
+          0.398844
+        ],
+        [
+          10.989524,
+          0.401882
+        ],
+        [
+          13.186508,
+          0.455442
+        ],
+        [
+          14.686621,
+          0.30458
+        ]
+      ]
+    }
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}

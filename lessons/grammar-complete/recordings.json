@@ -538,5 +538,437 @@
     "start": 5.6121430000000005,
     "end": null,
     "sha256": "2c1223ecd0f6ba4e65262922c49d1bd1aa910b5e190254c3ddfe9a7c95bb69d5"
+  },
+  "I am fifteen years old.": {
+    "file": "audio/81fa00ff096655d6441e547581a1b643c256c5807dbc1d0f7b269907679b0352.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 0.0,
+    "end": 1.9210434999999997,
+    "sha256": "78808ef563cf3ac2337d2e446ab5cb04558bb40e543d06afde5c80e055c90b13"
+  },
+  "Sara is a student.": {
+    "file": "audio/b44b72fb383d167d8db3d9e467ea91fc47b34840c94501fef31e66ea25706f40.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 1.9210434999999997,
+    "end": 3.6329474999999998,
+    "sha256": "2e09f7247dd09dddb02ec4dd7b17b9159cfbd3bf1911d3546194f927afd44071"
+  },
+  "The tea is hot.": {
+    "file": "audio/4702f5c4da575720c500d5724e3ddc7976d02a8ac60b646ee54222bcd6128c3d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 3.6329474999999998,
+    "end": 5.1431065,
+    "sha256": "b5fd3c0cc868f6dbaf16b09fc0ff7e171c9dbea2ec7f80e45828b007bb711300"
+  },
+  "My friends are kind.": {
+    "file": "audio/3ce29e976888ebaab79fc63d8315bbeaf0ffa6f17dc1ca106e7d640d8a646b55.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 5.1431065,
+    "end": 6.7737300000000005,
+    "sha256": "2674a3c114853b37926f8c33387c072ed7c9aca26e197a7d22e0c7e4a538d665"
+  },
+  "I am not afraid.": {
+    "file": "audio/8a5f9f22ef9b170b1afab9caad23852223d40066b83ba32a56be216cccb4a618.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 6.7737300000000005,
+    "end": 8.241077,
+    "sha256": "ea7714fea77a3db5c47c130066afe5d879b6d9b705f668b3d9046e815e53a364"
+  },
+  "The room is quiet.": {
+    "file": "audio/85a424662fa1f776a70534f2b3805aee57d0b1c3dc95886ff9f7c5af2c12cdf5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 0,
+    "start": 8.241077,
+    "end": null,
+    "sha256": "475060332e24938a94bfa47b67644eeed89083e7d36f6e59a692be4a4859cdea"
+  },
+  "You are very patient.": {
+    "file": "audio/77c6a3e61445d6cd20323272c3618e1d491ab7423c6d3f7f1da052cb64a59019.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 0.0,
+    "end": 1.7409525000000001,
+    "sha256": "692a550b3968dcfcec59ea8583884acc3ae2b87b3edbf063f8d13495c837887b"
+  },
+  "The children are hungry.": {
+    "file": "audio/5b6566ee4c6eb27c7350ed3441cff22d2cc819e657ec15b5945d4aa788efc695.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 1.7409525000000001,
+    "end": 3.5736280000000002,
+    "sha256": "72dc68f14a0f4679ab1b65c8d03b0aa9a909c57323aa661332b25deaa47903b4"
+  },
+  "I'm at school now.": {
+    "file": "audio/9d0126eced8b2651aaa4706ae4c799a04aee59e8bc134451a290458e00158cf6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 3.5736280000000002,
+    "end": 5.026667,
+    "sha256": "9bbde1cbd047df05a3770584ca1eb86d225762720c49d3bda4553fb9f5aa1379"
+  },
+  "You're very kind.": {
+    "file": "audio/34d0d8a9030f46d2ba51d17747733182eb1692de11a2f6a438c05cded80e7790.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 5.026667,
+    "end": 6.714116,
+    "sha256": "61acd06d13c31ec595f4734cf2902b0e9e219f4b1a30015725817b330a4b4dfd"
+  },
+  "He's my brother.": {
+    "file": "audio/6117afe971cab7c04647ef002d2132d55a14f4d9df4be7e48ebd1718218d6a33.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 6.714116,
+    "end": 8.091451,
+    "sha256": "d7a6325a1bfb3f3dd4514d7bba06a6352e46623f1b08554eca8fcbcd50459cfb"
+  },
+  "She's from Tabriz.": {
+    "file": "audio/cb32561fc10a58c762f397e171fcdc5fbc8a0ca038766d43e9d838c6829356a7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 1,
+    "start": 8.091451,
+    "end": null,
+    "sha256": "ad0e4d4b0baa01a9f1d5cb6f5b48b1d1549789f883b5f90dfd3cdfee5c91ccf8"
+  },
+  "We're ready to leave.": {
+    "file": "audio/198158a59d27dcb2bc695599ec3e1f50e7079beff3c3f7b9caeb83e83c6177b9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 0.0,
+    "end": 1.4439000000000002,
+    "sha256": "2dfdb0482dff7410cec1c6f50206b84a57e1833d83ca9ef3ef078e9a50b752f9"
+  },
+  "They're in the garden.": {
+    "file": "audio/0a943c2ee78a1e2d1b23fc680cfd2ee60007aec419dc96a0fe8c283a485d4893.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 1.4439000000000002,
+    "end": 2.866644,
+    "sha256": "c9d3d9a16a7936d74c262444a30d50ca85b8be06bff1eb31ed6b716bbd66ea8c"
+  },
+  "I'm not late.": {
+    "file": "audio/0cb2e0f24337042bf371a55fcb2a81d4f7f1ebbb5385db83d2187faaade41bf4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 2.866644,
+    "end": 4.0978805,
+    "sha256": "f7d2fb8e39c4323320d26eb6c940fcf7d6a06d8cdb64cb78307582dcb6beefda"
+  },
+  "He isn't sick today.": {
+    "file": "audio/2cfa26479f4f399bb31c5eacbae4aa2e00332a1ada31b03397cc651933248cf0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 4.0978805,
+    "end": 5.7699325,
+    "sha256": "4ae1ff91845bb544e84f6fe6cc6d24c8ad60b2e2f9c0a90a17d97dda9c63eb17"
+  },
+  "She is not my teacher.": {
+    "file": "audio/932a778c9d6e2bfe94bff3b3bee2a417151a677c9975ace29fa8983a6acbeace.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 5.7699325,
+    "end": 7.676372,
+    "sha256": "f579f6acf4122bc51ffba245a1804ed19364731de33bac16ad156ad857761992"
+  },
+  "We aren't at home.": {
+    "file": "audio/1abc6cdfda859cb44aace8c308936009bbb9149b8463af1eccf04e437d083f8b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 2,
+    "start": 7.676372,
+    "end": null,
+    "sha256": "268623c9c88a19e0dedd66df4c21c9a045f3eb3c5b17b14671f9c264a0622335"
+  },
+  "They are not busy now.": {
+    "file": "audio/3741cadbcc07b0ceacb46ca479165bb054d4d6ce5e7256524a9e2534c3f95c20.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 0.0,
+    "end": 1.6275629999999999,
+    "sha256": "9bb83c764882dd2099e6866071732899a5a189f434ccfa5b5b2864a768a863fc"
+  },
+  "It isn't cold outside.": {
+    "file": "audio/1cabf26dd2ac06a10b1294b3d2011958c882ae99bc4e8cd9b42e6417a5190a81.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 1.6275629999999999,
+    "end": 3.4871434999999997,
+    "sha256": "ed3fbde0e2c5b2ac2f10acf93552bea30125da56aae0692a02668baed3854a29"
+  },
+  "Am I early?": {
+    "file": "audio/ebad371b090586e2d544512211e1c530b37be172355b2bd02eef3827c589556e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 3.4871434999999997,
+    "end": 4.797778,
+    "sha256": "ecc47f60fef88bd93cdacb0846754a3660f97ea8b4e3cc946dac0eefc4c9553f"
+  },
+  "Are you ready?": {
+    "file": "audio/ec5d2ded6e26b4183830878e32df209e0cb2e4b23073690eb2cb67988f3dd124.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 4.797778,
+    "end": 5.8798865000000005,
+    "sha256": "e54b25d7b1d67ac3b69a84b9ca12eebd4fc56b986ebbc0d957760395171a6caa"
+  },
+  "Is he at work?": {
+    "file": "audio/6c9b635729185b4b74db28da4f91c6efebc5337180e752a8379da8d8e149f56a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 5.8798865000000005,
+    "end": 7.3191495,
+    "sha256": "aa4ab4daa19aa768c565a659b8a58c93680d9ab7c3db7ebfcfbf0e76e7e765a5"
+  },
+  "Is Sara tired?": {
+    "file": "audio/fd310045b5ad28582d6c5a869e511a64880ad4730ae5175e8269bab7e9ded613.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 3,
+    "start": 7.3191495,
+    "end": null,
+    "sha256": "d5dd32d6809ae3edf0fbaba4e8035bb536eb6c12768b18b63a2dd056eaf650d1"
+  },
+  "Are we on time?": {
+    "file": "audio/191cc0b1ebf498cb700a211d917b2bf77ffa529ff5f709d10c1a50c1c23477aa.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 0.0,
+    "end": 1.2597505,
+    "sha256": "13f4564c02b6d50da01fbb98a26685ef59de81db0945ef9d44c934971fafac5c"
+  },
+  "Are they in class?": {
+    "file": "audio/733385cbe9844bc93f09260ad7ac7f195dc1baaba7434c2a79b0bbbec51d0e59.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 1.2597505,
+    "end": 2.693061,
+    "sha256": "4cb13950575775aca3b481e694902fff4c952bb30bb406f1f2911d713faa054c"
+  },
+  "The keys are on the table.": {
+    "file": "audio/495156bf6ccd679df378ce8abdd6421dc54a00a4a69d22653523e65fada3d5c5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 2.693061,
+    "end": 4.644819,
+    "sha256": "280cab9638c6cc2b82ecf0c9d56a6f135bfd920deb2bdeb929ef35a09efd7c9a"
+  },
+  "The cat is under the chair.": {
+    "file": "audio/f6a4e7e51ea21d6933bcf4df1ed7191e8d68b1081927834d80216d20fd8aefca.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 4.644819,
+    "end": 6.4191725,
+    "sha256": "7aa53ec09dfcbcf3f0149b5e3203db54736bb947b4ade0a932a003bc1cfb71b2"
+  },
+  "My bag is beside the door.": {
+    "file": "audio/491ed4334b99c53fd8ffb5999f1546a1513517dcf3f4062985c5712ad61dcf10.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 6.4191725,
+    "end": 8.631757,
+    "sha256": "42495ac4ea03a11897ddbdb1d6703ba786549f048b07e14425ca3641f0d15605"
+  },
+  "We are in the library.": {
+    "file": "audio/b5931a66c2e1d6b6d57d5e9286bcf70e478f989ec32fc5d77ab86d01b06261d2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 4,
+    "start": 8.631757,
+    "end": null,
+    "sha256": "e4cb23e593affba2cd48732299f8b5e807e726977d140906ebd67239c5aa70df"
+  },
+  "The shop is across the street.": {
+    "file": "audio/96ed676059241cbf754d193321d0eb866524576b84e0d629adeacd08c62119c7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 0.0,
+    "end": 1.931304,
+    "sha256": "22551f8da59aeae92918851711f2130a44a5d7c2dfe1f4f443013b71104e2f5a"
+  },
+  "Her phone is in her pocket.": {
+    "file": "audio/b85f97f632fe813ef4ac5ba751c135995c5f5161add0bae58f8eca58ada19a72.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 1.931304,
+    "end": 3.9233784999999997,
+    "sha256": "cfbc3563c86d6d1f2eb09d5687cf728b651c8ce8e7651f0199a51730df1f47d1"
+  },
+  "She works every day.": {
+    "file": "audio/b3ad8e54021656aad08d516a47f680cb564f6b01e2f5c2f5e275ffcc60b911f9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 3.9233784999999997,
+    "end": 5.689331,
+    "sha256": "65fe6c513ac4a60c871f9a481b28f89fd85a3ae810593a7735726b9e37c49346"
+  },
+  "Do they live here?": {
+    "file": "audio/604e06e28301a385afb60050d0cf229e5a1097790a6e9df67fcd0fb86d61f903.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 5.689331,
+    "end": 7.015499,
+    "sha256": "73f7bea89142d8b3c88d78ee4dc2e11073cff4d81bbb1f75071c09edae3cfe79"
+  },
+  "He is a driver.": {
+    "file": "audio/9d2e9547c1c1272a06ba45e335d856ac4dc2b8cbedef1304df2696a04d2dc87f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 7.015499,
+    "end": 8.452403499999999,
+    "sha256": "c460777a6f81e033274f083e7bdea51f29c24e9d7da698b6e891d2459a713a68"
+  },
+  "He drives a bus.": {
+    "file": "audio/6f95c0f6a54e6815586a17100888375e5c3deb759ee9a6dad727414c5de9ab22.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 5,
+    "start": 8.452403499999999,
+    "end": null,
+    "sha256": "1adb15734a692d78d0a9396e9edb1f976d7854ef655149f5518beb9b9492547a"
+  },
+  "This is my notebook.": {
+    "file": "audio/a903f0a680057fec09964991ee859f5e33323456243fe43a5ca670c6d0c2cb39.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 0.0,
+    "end": 1.6047735,
+    "sha256": "a1ba64c2b5d72be369c9ef745e93e818c61108fbff2625b01ae68034483aa49d"
+  },
+  "That is your seat.": {
+    "file": "audio/a7a34278678506dd69894aeec481310fbfea40a10ab351f8a199c847f6270d43.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 1.6047735,
+    "end": 3.1774264999999997,
+    "sha256": "a4cc940f6d796ecf1ec49d223384e8a92728c619571b0b6a4ebdc04fd78fcf55"
+  },
+  "These are fresh apples.": {
+    "file": "audio/1decfb4b3048fa007b7050592ac0ab3d74b9ca5ee30d731343f32e53169addea.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 3.1774264999999997,
+    "end": 5.1423015,
+    "sha256": "49f27cd8715fe203110bbbb48128b664323dd9524634e15fcf30e2319d9ea53f"
+  },
+  "Those are our bags.": {
+    "file": "audio/3fbbae25aedefde26ae62d2cdbe967b2feb9f93a7529b785a85c9099ffe1ac65.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 5.1423015,
+    "end": 6.839467000000001,
+    "sha256": "34d61028d46bdea7ea784db718451e8a860f46158c69b4fec9afa9e12f7a9322"
+  },
+  "This is a small key.": {
+    "file": "audio/1a8266c6172fb29b71d6f0edc6781e41e33029edefe990ecdd46991acc2ca0bd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 6.839467000000001,
+    "end": 8.669603,
+    "sha256": "324efe04db815de226c7dad13a1602d674ba3fad90758f050d6d31e70534952f"
+  },
+  "Those are tall trees.": {
+    "file": "audio/1755c9b430fc3f309eeb548b436ca41f7039e210abf6db3a79ea190dee17bc4f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 6,
+    "start": 8.669603,
+    "end": null,
+    "sha256": "cfb9bb98fd40b1790beac80d5206e885891f557d5ac0f59f86f4ab13a641eba5"
+  },
+  "There is a lamp on the desk.": {
+    "file": "audio/1a8e9e1690635d32bb4dc46e223f18f95b3dd5fc68fb5b5fee4f4b93d7077b25.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 0.0,
+    "end": 1.8735714999999997,
+    "sha256": "54ad7582755f3baafb3733a39929096b9d95438562c50eab7ef294139f69a732"
+  },
+  "There are two cups in the sink.": {
+    "file": "audio/cc960ccff6946ee9cb1f5fc5f6c7e9333b5ce087bcac081e11c72054075994a8.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 1.8735714999999997,
+    "end": 3.8769165,
+    "sha256": "9957c0ebb362a3ee2481242a60153c48058e5bcddf52067a37227be7b9c66abb"
+  },
+  "There is some milk in the fridge.": {
+    "file": "audio/843910b105377e54536f6499d56dfd20acf0c086417a17106a97611ff37c3ebd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 3.8769165,
+    "end": 5.9127215,
+    "sha256": "ecabfc53be45bc612c1fe208744d06d678463c5be3d229319417523025d7124a"
+  },
+  "There are three students outside.": {
+    "file": "audio/5879f59fba0071edb7d6ac86638e6dd60ae2c687561164903e6738cce48e61ce.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 5.9127215,
+    "end": 8.3925515,
+    "sha256": "4d02dc5e712fdc50db8a05e2bdf7d9bcebad8d2be5788f1afca8d1588eb13732"
+  },
+  "Is there a bus stop nearby?": {
+    "file": "audio/788ab45ed86dbbfbac37303b6d12f993eadb91e799726c544ac436cfeb12cfec.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 8.3925515,
+    "end": 10.528209,
+    "sha256": "7c4af4ac00ed627101fc0cd6081413bf0e27a6eeb59207af09294f69ac04f1e8"
+  },
+  "There aren’t any clean plates.": {
+    "file": "audio/54c7d9c6eef419dec69307c33af33e02a5640d5ae3505c7d2974d09428958b2b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-002",
+    "group": 7,
+    "start": 10.528209,
+    "end": null,
+    "sha256": "95410ef1f3105e9202e86c0ecdde6ab73215fbd5abd65012bef36c2a0d264d75"
   }
 }
