@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-006",
+  "accepted": [
+    {
+      "id": "word_cut",
+      "text": "cut",
+      "recording": "378bfce5cda2599a6cda399f1cacef861e4e575ec794744dcf0e55e9c4780633"
+    },
+    {
+      "id": "word_cutting",
+      "text": "cutting",
+      "recording": "77f9dc3ecaa6897d918d1fd6e9274c6cc09f6753a6ef389754702b5469a4ead6"
+    },
+    {
+      "id": "word_dance",
+      "text": "dance",
+      "recording": "2c371c2ada73a02e26e14416800e8a49f875d27b8b5ff31f1dbe37bdaa6d7faa"
+    },
+    {
+      "id": "word_dancing",
+      "text": "dancing",
+      "recording": "68d6641ff9421a6a305e56d4f1f79c1d426c977a1bcd3cadcd0d337ee4a6d323"
+    },
+    {
+      "id": "word_die",
+      "text": "die",
+      "recording": "a8d79f40ddb79de569d778f1c0b832f9cc266b32274b702cff4ba2b8a0dd1549"
+    },
+    {
+      "id": "word_doing",
+      "text": "doing",
+      "recording": "c7f57f541cb0ade348f88cf1f85604ae25376ca19ba9895780ba1dc48e976274"
+    },
+    {
+      "id": "word_drink",
+      "text": "drink",
+      "recording": "218ae6b44966c8a9913e78ef950ea5d047ac7c3d73341f9867d760cc38c3fc1f"
+    },
+    {
+      "id": "word_drinking",
+      "text": "drinking",
+      "recording": "93481e6df1fdb507c1c91efdf6232a79cad13d47b2b3d56664cc256410fa928f"
+    },
+    {
+      "id": "word_drive",
+      "text": "drive",
+      "recording": "7062520c5a0ea9deac825278c9f4f0cbad48864b2c7d0c7f1ebccdb752afb058"
+    },
+    {
+      "id": "word_driving",
+      "text": "driving",
+      "recording": "d9c1acf117657bb04a8309ecbd6f3771e4f5e0bbeb437019748ffb5028bda1b7"
+    },
+    {
+      "id": "word_dying",
+      "text": "dying",
+      "recording": "a32876c61f8f837ba3c3aa8418a4d90344ceb881fffb64965b2f5067b4533ff7"
+    },
+    {
+      "id": "word_eating",
+      "text": "eating",
+      "recording": "cca0151aa5e3da95848b714a753db0dc9f4f5b2aec7d47724811afd986677961"
+    },
+    {
+      "id": "word_enjoying",
+      "text": "enjoying",
+      "recording": "e0a014346004f4964f117211f59abf74b37e607298dfb928475517b67bf94f4b"
+    },
+    {
+      "id": "word_family",
+      "text": "family",
+      "recording": "d34a569ab7aaa54dacd715ae64953455d86b768846cd0085ef4e9e7471489b7b"
+    },
+    {
+      "id": "word_finished",
+      "text": "finished",
+      "recording": "05343e9845302eb730fa9d18ac7b28d5e509893daf1eb76ede8d6e82d47b2da9"
+    },
+    {
+      "id": "word_getting",
+      "text": "getting",
+      "recording": "9113a84fdf3be2173e0a20ac1c3d3f5edceb0f42aa153b9e6c8e1fc5e0fbfd34"
+    },
+    {
+      "id": "word_hate",
+      "text": "hate",
+      "recording": "f2e9a23ac36c4b227b16387b4e0d37793e9459f3912942069981886d5bffe90e"
+    },
+    {
+      "id": "word_knowing",
+      "text": "knowing",
+      "recording": "341802087e213ac477210993d2f5a5ae15a4da9488bca75c7723e1960fdb0589"
+    },
+    {
+      "id": "word_laughing",
+      "text": "laughing",
+      "recording": "3f901602db02e2515a55dcecb094a522d71ed5e27d1565d8967cfbf64b44156f"
+    },
+    {
+      "id": "word_learning",
+      "text": "learning",
+      "recording": "edd95740e339e6aa0a1dab45741b0521185680b051631a7c265b5630da4f2158"
+    },
+    {
+      "id": "word_leaving",
+      "text": "leaving",
+      "recording": "b353c86ecca83ccdef0116ec587373193bc1526943db793d6daa4330e52a2bd7"
+    },
+    {
+      "id": "word_lie",
+      "text": "lie",
+      "recording": "c8b1a1a3e6bcee8660ad4a4ab2e2d318295fadc325f85525285f09a16e50ebc4"
+    },
+    {
+      "id": "word_liking",
+      "text": "liking",
+      "recording": "829d3127e4a1962dc2da96af7f098b9d11262ce28fc50b031e94488de62e9ae8"
+    },
+    {
+      "id": "word_lose",
+      "text": "lose",
+      "recording": "a57cf9eaf908c5ce5ca03f54e0afc1180adf2f417c60221eb588de917c06f3ea"
+    },
+    {
+      "id": "word_loses",
+      "text": "loses",
+      "recording": "3f3ac62134eb65f229577941df9daf6f051a70385e43c4d33124a868f2eedffb"
+    },
+    {
+      "id": "word_losing",
+      "text": "losing",
+      "recording": "5d7318303179149862e7825f7f1712f9e8045cdc54401c79c269dd068e20ea5d"
+    },
+    {
+      "id": "word_love",
+      "text": "love",
+      "recording": "686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131"
+    },
+    {
+      "id": "word_lying",
+      "text": "lying",
+      "recording": "487225c5b1d422991e2218a325ef283ccb259a4e2ca4437bb72ab59add480a12"
+    },
+    {
+      "id": "word_making",
+      "text": "making",
+      "recording": "febb9f32c94e238e5f36abb28975778a150d63ff5c656d62861f97ccd9ede9fe"
+    },
+    {
+      "id": "word_means",
+      "text": "means",
+      "recording": "70332d559269a27a08e8292a4582b0a39fc98bf0258f70d94e42a5adac26aebe"
+    },
+    {
+      "id": "word_meet",
+      "text": "meet",
+      "recording": "8ccb033c0e48b27ff91e1ab948367e3bbc6921487c97624ed7ad064025e3dc99"
+    },
+    {
+      "id": "word_meeting",
+      "text": "meeting",
+      "recording": "0fd924362117d03662f0e86e580ab01c70d3fa88dbffce4224017e86e5fbad52"
+    },
+    {
+      "id": "word_move",
+      "text": "move",
+      "recording": "683a62ce15fbabb1ac867022e56e6e4f4f581762d77c3abb2f8dc8b165b3b1b9"
+    },
+    {
+      "id": "word_movie",
+      "text": "movie",
+      "recording": "8a6ba32c9bed6ce703f999f9af6ec23686d44e144e4da572d94c8daca4a9cbab"
+    },
+    {
+      "id": "word_moving",
+      "text": "moving",
+      "recording": "6e862940d0bf2eea9e01e33fa78cc34f393fd931f0d3f04697898b06f7a10315"
+    },
+    {
+      "id": "word_own",
+      "text": "own",
+      "recording": "5b3975651c3cab92d044c096dc30a1c2d9525497457472de48c51ecb363d1f4a"
+    },
+    {
+      "id": "word_plan",
+      "text": "plan",
+      "recording": "64879f7d6b960a01909762d911a32d4582c20010c5641ee90278b644a9e3b525"
+    },
+    {
+      "id": "word_planning",
+      "text": "planning",
+      "recording": "423614833cbdcee4c5d05f43520d155207e5f272fddb7225ada6caf7d6904dc2"
+    },
+    {
+      "id": "word_playing",
+      "text": "playing",
+      "recording": "0db79e63c5179b1263619f693ca7125017237cec447946bdb40a8d3175c1773d"
+    },
+    {
+      "id": "word_prefer",
+      "text": "prefer",
+      "recording": "472dc7749c49f123491f23fbaaaba25d45ff7b5b783648d40c741f66f1ccaa47"
+    },
+    {
+      "id": "word_put",
+      "text": "put",
+      "recording": "373cb2c6d4fe2778441d4f0266505b699fa518d002e5793b87f9b48836de3f62"
+    },
+    {
+      "id": "word_putting",
+      "text": "putting",
+      "recording": "660214eef34f0d43655ce0be372cd1b2909fe014c1f83852812513116b4b4ae2"
+    },
+    {
+      "id": "word_reading",
+      "text": "reading",
+      "recording": "d70afca615203838da3d858e60dda12f900e83e4a6fb03a63cfadb8576ca8985"
+    },
+    {
+      "id": "word_reads",
+      "text": "reads",
+      "recording": "3566cf23ecb6f832d67d1439e0cb3d05eb7f4ad702c6f478aa96f19812f18e8c"
+    },
+    {
+      "id": "word_remember",
+      "text": "remember",
+      "recording": "35379d9c009e290d702b72abf3f5f9bdbaa7e00a63fc37b5174fc3825c8095e3"
+    },
+    {
+      "id": "word_run",
+      "text": "run",
+      "recording": "acba25512100f80b56fc3ccd14c65be55d94800cda77585c5f41a887e398f9be"
+    },
+    {
+      "id": "word_running",
+      "text": "running",
+      "recording": "c071cf5f5ed6f884cc70155b6f05f755fd46a302d05e4261b7e92ce878bbfed8"
+    },
+    {
+      "id": "word_see",
+      "text": "see",
+      "recording": "aa9e9b5c907d50feb410f2a84e81ab72c5ae6724d57ccc53650f9361d33dc734"
+    },
+    {
+      "id": "word_seeing",
+      "text": "seeing",
+      "recording": "236707bfb83474fad55a3913e369ef229709959c7799a69b9b3bad94d7606456"
+    },
+    {
+      "id": "word_sit",
+      "text": "sit",
+      "recording": "584178e5e3517ddcebc66340917adc3a27ce4be359a29aa827563d481ff5d67a"
+    },
+    {
+      "id": "word_sitting",
+      "text": "sitting",
+      "recording": "558413b70f8c6bbbb1d586aad7277175c8fc68688333706b38f9d13a9d03db5b"
+    },
+    {
+      "id": "word_sleeping",
+      "text": "sleeping",
+      "recording": "546f04bb7ac096c418d0b3d7b933d20e46dc7608024ff2b0cdf86f0f206fd6f9"
+    },
+    {
+      "id": "word_smile",
+      "text": "smile",
+      "recording": "fa1eadc4c6995667412681c69ce33adfc9302a2965f521c40908549e670e2e4e"
+    },
+    {
+      "id": "word_smiling",
+      "text": "smiling",
+      "recording": "e0b0f9500d62f8944b90971ec6789606e47ceb37db93673899a63aa57c977c31"
+    },
+    {
+      "id": "word_spend",
+      "text": "spend",
+      "recording": "f64a33ff88c38111769d86b2679168f7cdabcaa7c9c20cbb51aa0a3a506a8717"
+    },
+    {
+      "id": "word_stop",
+      "text": "stop",
+      "recording": "6c45cb72a36e63d522aa54ed8adbd7a29a989474f2f77e0458af8800564ef3cb"
+    },
+    {
+      "id": "word_stopping",
+      "text": "stopping",
+      "recording": "9ea90488b5c8219acc0b2eb36f115242abdbc865d061c24f2c8dfc0c9b57efab"
+    },
+    {
+      "id": "word_studying",
+      "text": "studying",
+      "recording": "435c149cbc6a5e5cc373cd33347d4c336a22160e06b7df61092b66e56f4d55ec"
+    },
+    {
+      "id": "word_swim",
+      "text": "swim",
+      "recording": "d493f8869139bac710b992c1126f61b8bef4bbf2b00b4b3c047f243cbdd0555e"
+    },
+    {
+      "id": "word_swimming",
+      "text": "swimming",
+      "recording": "7aab06cd90b6efabfbc581922a4ad2ddfba2a20a0be4120eb5d0e5e72a59df66"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
