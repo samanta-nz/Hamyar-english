@@ -57,3 +57,11 @@ or pronunciation validation.
 User-requested Persian exclusion: `tts-overrides.json` maps the two bilingual
 quiz prompts to English-only speech text. Visible source HTML/JSON are unchanged.
 The Persian-voice batch 053 was discarded before commit; batch 054 uses voice-00.
+
+Export: `python tools/package_grammar.py /home/user/grammar-delivery` validates
+all embedded bytes against registry hashes, audio IDs, existing data-audio
+button targets, local links and ZIP integrity. Exports standalone HTMLs,
+assets and bucket ZIP outside the repository. This is a candidate package,
+not browser-certified: some original sections use pending controls or dynamic
+players rather than data-audio buttons; a UI wiring audit and browser playback
+validation remain required. See package-validation.json for page counts.
