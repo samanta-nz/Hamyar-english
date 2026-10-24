@@ -1,0 +1,316 @@
+{
+  "batch": "rebuild-008",
+  "accepted": [
+    {
+      "id": "new_present_continuous_0077",
+      "text": "He works in a bank.",
+      "recording": "b19a52403fe38f95f6d871992d68a59858b18e6f5025bed9affbcdd2e7d89762"
+    },
+    {
+      "id": "new_present_continuous_0078",
+      "text": "He is working from home this week.",
+      "recording": "6fc8b28ab71fe0dad99b10fbabc5f7b67a911a967fa7c9547aecd12d1715aebe"
+    },
+    {
+      "id": "new_present_continuous_0086",
+      "text": "She is working in the art room with her friend Noah.",
+      "recording": "1e2b5f8c839510d7707c80a4242385f63d00723c5072ba6a27397e7f573e49f2"
+    },
+    {
+      "id": "new_present_continuous_0089",
+      "text": "Their teacher is carrying clean paper from one table to another.",
+      "recording": "b7b24ca562cf73bb57763206e2a2570fdcf0bf97ec46ad711a254aeaf8d0f0cd"
+    },
+    {
+      "id": "new_present_continuous_0093",
+      "text": "She knows that good art takes patience.",
+      "recording": "5a1b00cae317db531b97c144e6c303855eac91ff54a649da07fded96272a92f6"
+    },
+    {
+      "id": "new_present_continuous_0094",
+      "text": "Look!",
+      "recording": "2b2e6386fdfb83273eea1b2d4b3294eac61e9967d949d9f5ecedbd25c3cf2234"
+    },
+    {
+      "id": "new_present_continuous_0095",
+      "text": "A small drop of blue paint is falling onto the table.",
+      "recording": "6313f054a31202049cf777f5c0f7461e566bf58ba2c2d9e96513f7ede706dd8e"
+    },
+    {
+      "id": "new_present_continuous_0097",
+      "text": "They are cleaning the table together.",
+      "recording": "1ad34f1c8b5861231d4b44bc604737e3b71860c1ff640bcec7ed22b496866f25"
+    },
+    {
+      "id": "new_present_continuous_0098",
+      "text": "The teacher is not getting angry because accidents happen during creative work.",
+      "recording": "169fe72cdca67f3812e54c237ac5aacb1f20de5b8c1527549ff2b7b5872a0d9f"
+    },
+    {
+      "id": "new_present_continuous_0101",
+      "text": "Sara is meeting her parents at the gallery at six.",
+      "recording": "8f7e08c28e655d047a3e42bb03fe4ab2ba82a7fc00e3f30291a1c95ae9bdd1a4"
+    },
+    {
+      "id": "new_present_continuous_0104",
+      "text": "Listen!",
+      "recording": "2291c6d738b710ed3125abd65f7fc296459d3c5f5ec97de7ddf936e2b4072c77"
+    },
+    {
+      "id": "new_present_continuous_0105",
+      "text": "The students are talking about their pictures.",
+      "recording": "fdcc20f9be13b86b1fd314f6c70217e848f9e85a3b0f927e8755c2ff0bad132a"
+    },
+    {
+      "id": "new_present_continuous_0132",
+      "text": "Choose the usual state verb form.",
+      "recording": "3b78ed31b45d98901aac83396137c59e524cd17c537e8be21bad9be450e963a3"
+    },
+    {
+      "id": "new_present_continuous_0134",
+      "text": "Which sentence contrasts with a habit?",
+      "recording": "958415e44f13939b727c579874794f925b2107e44afa02065f0dbb05306e0987"
+    },
+    {
+      "id": "new_present_continuous_0136",
+      "text": "Choose the correct negative.",
+      "recording": "7b833aed26f162df10cb3f57bda1fc39212ab10f36d3f2db549f416923f377a0"
+    },
+    {
+      "id": "present_perfect_listen_01",
+      "text": "I have just finished my work.",
+      "recording": "5991add9b515548be508cde5642e211ffedb1452edf1b0a8c3916c43fecd1b5e"
+    },
+    {
+      "id": "present_perfect_listen_02",
+      "text": "Have you ever visited Rome?",
+      "recording": "f57fcc9ff067473a4ba5acd2062d01b085694ec858ca3b78d3b0010e939b5f71"
+    },
+    {
+      "id": "present_perfect_listen_03",
+      "text": "She has not called me yet.",
+      "recording": "b5538821d72612c5b3fa8cbefb26911b033a824bbc50e34d6e12af809e9f7a94"
+    },
+    {
+      "id": "word_arrive",
+      "text": "arrive",
+      "recording": "6dc09a300747b82d8bfe9d509ede4fb228e3c27204185e8c5e6188340904d9e0"
+    },
+    {
+      "id": "word_arrived",
+      "text": "arrived",
+      "recording": "4d1109bf78a883b5eef820ad1e0bd66615f508105368d6c6b1ce415ca4c1333e"
+    },
+    {
+      "id": "word_ate",
+      "text": "ate",
+      "recording": "6983e434cc382a05f656841a990129913be50a9e9f9bf22690a276e6c9f4ab14"
+    },
+    {
+      "id": "word_become",
+      "text": "become",
+      "recording": "9ebb1e6f5b2adf424b662ab2b7b0189dfe8d4b69fd9e96c50b5a5936c1c0bcb2"
+    },
+    {
+      "id": "word_been",
+      "text": "been",
+      "recording": "853916b1dbc21e6111acdf8e36f784d24ebe2e5e1b454f73285d69213e6c515a"
+    },
+    {
+      "id": "word_bought",
+      "text": "bought",
+      "recording": "39deaf7caa6bbb3289b8e9ffb555eb9c316b9bd07821ed910de50e177b92a771"
+    },
+    {
+      "id": "word_called",
+      "text": "called",
+      "recording": "8c90cbf5d27d61f534ee012ea472714b0149ee526e43e0903ff7f07ce7ea4758"
+    },
+    {
+      "id": "word_came",
+      "text": "came",
+      "recording": "76806e2c372db5358a574ba14d2264b6238c24ce6ad5d364c4c12cb1b87dde98"
+    },
+    {
+      "id": "word_canceled",
+      "text": "canceled",
+      "recording": "f12fde684b2ed4c627b777a0d2346ef769ccdd9f3e4ad3dab5cf663ba9598d0f"
+    },
+    {
+      "id": "word_change",
+      "text": "change",
+      "recording": "12ea12eace7d655f471ce55e34f89b1b77a3d9d05a445ca82877dd2235beaa51"
+    },
+    {
+      "id": "word_changed",
+      "text": "changed",
+      "recording": "d67e2e944994496c8d8ec76eed0cf9f09679448d584b532bebf941852a37f5ed"
+    },
+    {
+      "id": "word_checking",
+      "text": "checking",
+      "recording": "7f98506ac7260e0e07f44b12711de667391b133a45ff4c8d2478667416b0f7a1"
+    },
+    {
+      "id": "word_checks",
+      "text": "checks",
+      "recording": "961f787b0cd3443fbc7c456886ecd25749c0485c4ae9a02f10599b17dad9f944"
+    },
+    {
+      "id": "word_city",
+      "text": "city",
+      "recording": "11a62c23412b77477a71481aa2dc7323bcc61d076c8449076c4c58a8356c1bb1"
+    },
+    {
+      "id": "word_completed",
+      "text": "completed",
+      "recording": "4ddb3e96801a1ee2b77dc5247c0db478d5f97a93b90e7cdb09f5f51d43764b08"
+    },
+    {
+      "id": "word_continue",
+      "text": "continue",
+      "recording": "e256ee8e7aff6957a781d8328f0f68e26996564c81fa458da59fbca2305138ad"
+    },
+    {
+      "id": "word_decide",
+      "text": "decide",
+      "recording": "5589aa5863c2d85622d06d651add002416e5513afdbb455666cdde01bb3e257d"
+    },
+    {
+      "id": "word_did",
+      "text": "did",
+      "recording": "75ca3ca2ece243555f0ecd839c6a7bf275363c0f1b2c87ca3708d31e9f6af6c6"
+    },
+    {
+      "id": "word_discovered",
+      "text": "discovered",
+      "recording": "0c56a4742a5d5e53cb6f5af2b9b5627b870cd07e2402704229b42cf3956115a6"
+    },
+    {
+      "id": "word_eat",
+      "text": "eat",
+      "recording": "e57bd924047ef39d2a206c8bc5c06a0ed38baa918c5054859f5e8ffd23037371"
+    },
+    {
+      "id": "word_eaten",
+      "text": "eaten",
+      "recording": "dc813ae4a000981e94c21df07bea60f2cd3e8813e53b060224c145008c29e60f"
+    },
+    {
+      "id": "word_email",
+      "text": "email",
+      "recording": "82244417f956ac7c599f191593f7e441a4fafa20a4158fd52e154f1dc4c8ed92"
+    },
+    {
+      "id": "word_ever",
+      "text": "ever",
+      "recording": "63212655f2e25a8f89eeb6653853cece8901e24c4a4c1dee70e53b68bad3e19c"
+    },
+    {
+      "id": "word_failed",
+      "text": "failed",
+      "recording": "5d28a90f4498a81461efbaf6f628a19d9778390bb5c81a393dd936181cc3d826"
+    },
+    {
+      "id": "word_find",
+      "text": "find",
+      "recording": "e6640de835ad09fb0a7367ee2e0ba99d0142c139db0272146e35538bd07479fc"
+    },
+    {
+      "id": "word_food",
+      "text": "food",
+      "recording": "c1f026582fe6e8cb620d0c85a72fe421ddded756662a8ec00ed4c297ad10676b"
+    },
+    {
+      "id": "word_gone",
+      "text": "gone",
+      "recording": "283bb9deef02e6843abfb538efa1eca70801bd8a701c3f98191e123496339247"
+    },
+    {
+      "id": "word_happens",
+      "text": "happens",
+      "recording": "bc1691271c17fd1fddcb32014e809189e31be42a0d6076b390e8a6f55c1cae53"
+    },
+    {
+      "id": "word_just",
+      "text": "just",
+      "recording": "b2c66dfd45dd07f58d2246b695660b220ee429c6a8ba95f27e4c57f02e9d6ac8"
+    },
+    {
+      "id": "word_known",
+      "text": "known",
+      "recording": "7117fff2d0fd294462b3c802b7cb8753579f23f3946b99cf55f38e873f013f10"
+    },
+    {
+      "id": "word_lately",
+      "text": "lately",
+      "recording": "91dc940996806d7e784136f84ea76659fb91fba4b57b73d681bbe3918e58ae03"
+    },
+    {
+      "id": "word_learn",
+      "text": "learn",
+      "recording": "6a8da52e920664ef15b3c36c0edb24e27e6604bb2dc2f6c7c1f1f5076ff28ee9"
+    },
+    {
+      "id": "word_learned",
+      "text": "learned",
+      "recording": "d78e3c38d98d17d7355ec4a989e477bace56a6fa2508121a520146cd0a23ec80"
+    },
+    {
+      "id": "word_left",
+      "text": "left",
+      "recording": "360f84035942243c6a36537ae2f8673485e6c04455a0a85a0db19690f2541480"
+    },
+    {
+      "id": "word_listen",
+      "text": "listen",
+      "recording": "6f8860eb5103a16b917146f9cbf21aa00fe7d2291b1aad7f4fe83a6db71688cf"
+    },
+    {
+      "id": "word_lived",
+      "text": "lived",
+      "recording": "f4a048aaa845c7547fb5221450b27e2a748d2338431566f2c5f7c96ca8452398"
+    }
+  ],
+  "held": [
+    {
+      "group": 2,
+      "pauses": [
+        [
+          1.795533,
+          0.222517
+        ],
+        [
+          4.359161,
+          0.454649
+        ],
+        [
+          7.034036,
+          0.427279
+        ],
+        [
+          9.501905,
+          0.424036
+        ],
+        [
+          11.869297,
+          0.422902
+        ],
+        [
+          14.108685,
+          0.47093
+        ],
+        [
+          15.841429,
+          0.38517
+        ],
+        [
+          17.890975,
+          0.275011
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
