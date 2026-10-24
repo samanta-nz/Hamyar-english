@@ -1,0 +1,310 @@
+{
+  "batch": "rebuild-016",
+  "accepted": [
+    {
+      "id": "word_invite",
+      "text": "invite",
+      "recording": "5014f9af3a684fdd64a775c1c4c532ee66b1b96cb56b1d02170d2249b6764f75"
+    },
+    {
+      "id": "word_invited",
+      "text": "invited",
+      "recording": "307128ff4d35a7e2b87909cebfd2c3fdf24b412fcc1a978d286ffa46b7c32546"
+    },
+    {
+      "id": "word_join",
+      "text": "join",
+      "recording": "58393216032be6257784ac0c6a73efb2a084e27b4cfff1e6acee7b7e6ab93b10"
+    },
+    {
+      "id": "word_joined",
+      "text": "joined",
+      "recording": "6b963cc1c2d7d3a4efdc2aac4ae38a8ecbc4535ae84b6dc1440d4abadcd97956"
+    },
+    {
+      "id": "word_jump",
+      "text": "jump",
+      "recording": "6bdaf554e42029bd0dbee9471eb48a5f3626213c9859a58120a61c62ace4c968"
+    },
+    {
+      "id": "word_jumped",
+      "text": "jumped",
+      "recording": "f948c4eb7f17fdb77ade313d3d443d3842c693cfeb676eb92cff8b50540e11d8"
+    },
+    {
+      "id": "word_keep",
+      "text": "keep",
+      "recording": "6ca7ea2feefc88ecb5ed6356ed963f47dc9137f82526fdd25d618ea626d0803f"
+    },
+    {
+      "id": "word_kept",
+      "text": "kept",
+      "recording": "79f076abdd19a752db7267bfff2f9022161d120dea919fdaca2ffdfc24ca8c96"
+    },
+    {
+      "id": "word_kill",
+      "text": "kill",
+      "recording": "2bda9b4dfbabfdb17cd74d827768da5198ae2b8155002a494524bbeaf6f5cdba"
+    },
+    {
+      "id": "word_killed",
+      "text": "killed",
+      "recording": "d5405925e3082bc1479a5cec3ce6e984cfc4a0caaf7216755eb8c7b2bca2d96d"
+    },
+    {
+      "id": "word_kiss",
+      "text": "kiss",
+      "recording": "89d19d63941a517f4921ec8496fbf07c4b444537352cc585461a1b4de469fde5"
+    },
+    {
+      "id": "word_kissed",
+      "text": "kissed",
+      "recording": "7657369d278e9174a55bbb0ce18c3fe401cbdc2fd0b686f0dba62b84dcea2b99"
+    },
+    {
+      "id": "word_kneel",
+      "text": "kneel",
+      "recording": "61edd1ff3a5d95f887f1d0120d8d6da5169fb43b63eeb61feebeae29079c1f6a"
+    },
+    {
+      "id": "word_kneeled",
+      "text": "kneeled",
+      "recording": "838becc790dfaeb6f6a22e4c1be357fe602bd97b19a38856e8251f81cd81dd0d"
+    },
+    {
+      "id": "word_knelt",
+      "text": "knelt",
+      "recording": "6c09bc11c2111e8daed614b15e9cb0c500a421c72eb9216129f9db02ada6d11e"
+    },
+    {
+      "id": "word_knew",
+      "text": "knew",
+      "recording": "6262041f6f18a00528e56175d59434c898424b390f3478646da6f608843135d6"
+    },
+    {
+      "id": "word_knock",
+      "text": "knock",
+      "recording": "392245974134021aa670d26753655baa3f14e09c2148169ff9172ee6d8e4f03a"
+    },
+    {
+      "id": "word_knocked",
+      "text": "knocked",
+      "recording": "83db8c166fc2087adfe3b8c96d4c0c6d5e1d70662be830600a675f28e3aa71c1"
+    },
+    {
+      "id": "word_laid",
+      "text": "laid",
+      "recording": "cb252f54f35648f55555752412f417a3c7562e057401b6c12c280acc00f077f5"
+    },
+    {
+      "id": "word_lain",
+      "text": "lain",
+      "recording": "f9221e7e7ce00124a9bcf91447aee54e55369f63b91fc910bf4f3533078f8005"
+    },
+    {
+      "id": "word_laugh",
+      "text": "laugh",
+      "recording": "31e289f536683cb9ce6c237111891704a554adbe414fc060042bebf1d770a957"
+    },
+    {
+      "id": "word_laughed",
+      "text": "laughed",
+      "recording": "310aa035e15ff8d8d734c49d9c38340d842687f9bcee5cf1763758655bd2f18a"
+    },
+    {
+      "id": "word_lay",
+      "text": "lay",
+      "recording": "360cdbba702f58890c261b2c4ec7d6cc3c214850a584ed74deaa7700cdefe07a"
+    },
+    {
+      "id": "word_lead",
+      "text": "lead",
+      "recording": "e3456bc1f4d270f4a97933758645fdc21e39642b31ca343c1818f7972ac27906"
+    },
+    {
+      "id": "word_lean",
+      "text": "lean",
+      "recording": "92e89a1ed0d392158c9144cd57e48a1545e46928d65d2e4a382f7af577e38190"
+    },
+    {
+      "id": "word_leaned",
+      "text": "leaned",
+      "recording": "2c2c98e508882f260a4add6c5133fcde0dc77aac993c5b6639e2c9d8e7e2dbc2"
+    },
+    {
+      "id": "word_leant",
+      "text": "leant",
+      "recording": "266c02fb8a0d3d8afc17e492c9b0f6252c5608d14874657b741c6417be303bf8"
+    },
+    {
+      "id": "word_leap",
+      "text": "leap",
+      "recording": "a76f47a688f22080c2f55d37e39fb3956f67da1f798099d7073fc25431235e9a"
+    },
+    {
+      "id": "word_leaped",
+      "text": "leaped",
+      "recording": "18061abe9bcf38ad9946638df3f75b82bc7f79726ce9b6d9d574a68b54509a0b"
+    },
+    {
+      "id": "word_leapt",
+      "text": "leapt",
+      "recording": "8b90396dac8bfa000810654ff7734c1fe4e31e3151ae6bef162a649139a7ea9c"
+    },
+    {
+      "id": "word_learnt",
+      "text": "learnt",
+      "recording": "55fdc6ee8f8431d2ef5e0a807b27e2ff9d0a474b6d77bc09afb9e32e98689bc4"
+    },
+    {
+      "id": "word_leave",
+      "text": "leave",
+      "recording": "af193190b8d3cd14103e20e900378a2b76414ff6428065f3f8539b3577b22fdf"
+    },
+    {
+      "id": "word_led",
+      "text": "led",
+      "recording": "021f8ffac9f9a70fd3468b23fc6f299877339299a4ae8764e892e3f197e867f5"
+    },
+    {
+      "id": "word_lend",
+      "text": "lend",
+      "recording": "5d59b2b96755e2c6e7ecdf4e2a6b32fa9b7ad5af8329a77c4b01c3a56d62fe00"
+    },
+    {
+      "id": "word_lent",
+      "text": "lent",
+      "recording": "bbb7e4fdad15d6f059066da6afa561c0dcfb1685f0f08538f92aac4d0308762c"
+    },
+    {
+      "id": "word_let",
+      "text": "let",
+      "recording": "5654d4106d7025c2578858f4fc5ad235c25096b85c3b8d2fb8a064ae3546bb1d"
+    },
+    {
+      "id": "word_light",
+      "text": "light",
+      "recording": "99a7026172d42714d0293e5598ec1c8e8260d7d0c4b8582ad002c1883494e216"
+    },
+    {
+      "id": "word_lighted",
+      "text": "lighted",
+      "recording": "d58caf95d7ee9337fd7cad04562df89b3c74afef9e27f48354e6340fb35c1fe6"
+    },
+    {
+      "id": "word_listened",
+      "text": "listened",
+      "recording": "32713804516cb755aacfdb806dcfad2e606469c22783e7c584973a753b0d5499"
+    },
+    {
+      "id": "word_lit",
+      "text": "lit",
+      "recording": "a3c7f8cabebcea5261cb9ffe51a847d6d74fe8c90c76d886d4748c8f74119383"
+    },
+    {
+      "id": "word_lock",
+      "text": "lock",
+      "recording": "0c030586945fe504b604ecc2e875c38ede400cd5cd73da9730302162e6b02c6f"
+    },
+    {
+      "id": "word_locked",
+      "text": "locked",
+      "recording": "14493f5f5470ed48c3f103d917ec52ae9005fa3913128031d0fac2a49ac3cc41"
+    },
+    {
+      "id": "word_looked",
+      "text": "looked",
+      "recording": "90c4aee254cb95ab448e188051fe2d01baa4e6c3a6a142b2540f8143ecd64538"
+    },
+    {
+      "id": "word_loved",
+      "text": "loved",
+      "recording": "98c1baa8894655453297ea63f7f70cd298c42bfa21c44f63ee04c157c36904ac"
+    },
+    {
+      "id": "word_made",
+      "text": "made",
+      "recording": "ea0890697a77af0a2e054cccec587c8a42feb5cf38e778c6c6e2a96bfb945c0b"
+    },
+    {
+      "id": "word_manage",
+      "text": "manage",
+      "recording": "181229424893bb65d94a74c2132b8b9e5adfe851464fdb5cb9f49e8a8204be7b"
+    },
+    {
+      "id": "word_managed",
+      "text": "managed",
+      "recording": "7fdfda5f50a433ae127a784fc143105fb6d93fedec7601ddeb3d1d584f83de05"
+    },
+    {
+      "id": "word_married",
+      "text": "married",
+      "recording": "f9ce3beb80492facbec3586308e6590ef4b543c570a119d1e9b575f3b12ce197"
+    },
+    {
+      "id": "word_marry",
+      "text": "marry",
+      "recording": "4d84f13234092bdc60e2e87f889336302ba66920f6364523803f2fb0b63de205"
+    },
+    {
+      "id": "word_matter",
+      "text": "matter",
+      "recording": "57523f642f63eabb2a4f6804ad9efe4131c56c0784de25ef63ed7e6ee2ba10a3"
+    },
+    {
+      "id": "word_mattered",
+      "text": "mattered",
+      "recording": "d33532d2ed89e360be7761232ab33bc774a0ca9935dc6522717083809992466c"
+    },
+    {
+      "id": "word_mean",
+      "text": "mean",
+      "recording": "82523faea1b0f2da676a0561d597000bb6918036c6e541dc1145966141864332"
+    },
+    {
+      "id": "word_meant",
+      "text": "meant",
+      "recording": "6f69060228ff342e89b421948ce9197b55034ec82e3c5a415e68dfd9b668cfd8"
+    },
+    {
+      "id": "word_memorize",
+      "text": "memorize",
+      "recording": "61bbff73e058ac87e5b244bfbd121ed9fa260cb8f0b0d5db82e3ceed37f780ec"
+    },
+    {
+      "id": "word_memorized",
+      "text": "memorized",
+      "recording": "0c5baba35c112038639c5b7b9bb8226dbee1dad7d37ba26e3e283cd8c188909f"
+    },
+    {
+      "id": "word_mention",
+      "text": "mention",
+      "recording": "68b9c231ac85c9597c7fc9170905fcda11d2ae9deddd403931a87a7f8f9237b6"
+    },
+    {
+      "id": "word_mentioned",
+      "text": "mentioned",
+      "recording": "51c55fa57392df2f3ec171e60b978a9eb340f075ccddbfb6449c9eea8051c115"
+    },
+    {
+      "id": "word_missed",
+      "text": "missed",
+      "recording": "1c33629a937098eaef1dc6e2ce9a6348aac6b541f4e515cc62c0d39690402acb"
+    },
+    {
+      "id": "word_moved",
+      "text": "moved",
+      "recording": "5edd1832df25e2f1a72585c0ee55c1e585e7f4902eb1d15f7abf1c71c1b296ae"
+    },
+    {
+      "id": "word_needed",
+      "text": "needed",
+      "recording": "c0cea2dd285281f7893d49fb1f28644d36777194b1c4655dbeb3b49944daa04f"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [
+    1
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
