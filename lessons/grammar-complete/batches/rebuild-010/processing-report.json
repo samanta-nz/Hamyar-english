@@ -1,0 +1,308 @@
+{
+  "batch": "rebuild-010",
+  "accepted": [
+    {
+      "id": "s8_03",
+      "text": "We have been friends for a long time.",
+      "recording": "ca3fb2365df357c74ca3447cd00605b790a6b2af6dd6387936dc9dc6f14f3cec"
+    },
+    {
+      "id": "s8_04",
+      "text": "He has worked here since March.",
+      "recording": "4d4c287b9dbf6566d1249cc656487e5b8871d844c9021de92c69d6d7315ede76"
+    },
+    {
+      "id": "s9_01",
+      "text": "Sara has been to Dubai twice.",
+      "recording": "37dc23343c74d8bbd0d3099bfba2548635518903da8ecb6d064a80ce247c9059"
+    },
+    {
+      "id": "s9_02",
+      "text": "Sara has gone to Dubai.",
+      "recording": "7eac707398260216afccaa18e04e315bb0412534e72b605ebd5aaaeeb305616c"
+    },
+    {
+      "id": "s9_03",
+      "text": "Have you ever been to Italy?",
+      "recording": "c02bfc9ca899de8f5cad0b6466d740df6cc42a8c3c89a935d19a27e76c10c606"
+    },
+    {
+      "id": "s10_01",
+      "text": "I saw him yesterday.",
+      "recording": "de52cf204f4253af0344a8be7051f26c110c00706d1502293c62a602ad2e3143"
+    },
+    {
+      "id": "s10_02",
+      "text": "I have seen him before.",
+      "recording": "54f9fbaa3e9e7fe07b715197f5d9c9db1f0ff41a4491ea0f591a345a894ca780"
+    },
+    {
+      "id": "s10_03",
+      "text": "She finished the report last night.",
+      "recording": "924ee0a39e1c5aa29ae62b991efb86d0a1940b82b0e0e8cd2fdbf54de1836334"
+    },
+    {
+      "id": "s10_04",
+      "text": "She has already finished the report.",
+      "recording": "b704659a68638e8e14b8644d6522958b19b94e67a75f72a4d980a1d434a1a48a"
+    },
+    {
+      "id": "s11_01",
+      "text": "He has finished his work.",
+      "recording": "0b33384df5bb91314918dd02bb0fc805c8b9f478238897a1e2856f28991d589b"
+    },
+    {
+      "id": "s11_02",
+      "text": "She hasn’t called yet.",
+      "recording": "259f6d7fb3dd2f9321a0a7b2939f5d63bd66ab57c0166e4c88c5d6ead51754cf"
+    },
+    {
+      "id": "s11_03",
+      "text": "Have you eaten?",
+      "recording": "3234419d61445838afb1e8b41c03a92a3ad88c8f0a24926991296676373a7bb6"
+    },
+    {
+      "id": "s11_04",
+      "text": "I have never seen it.",
+      "recording": "42c9d6112fb596e345cf03e57964fc902fb47b8056f6f0393cab60ca02e9c97e"
+    },
+    {
+      "id": "s11_05",
+      "text": "I have lived here for three years.",
+      "recording": "5b4238c7ce9f1a7a122c20a7895c5274c9f427bb15eec38d5efeeeba00763179"
+    },
+    {
+      "id": "new_present_perfect_0001",
+      "text": "I have finished my homework.",
+      "recording": "0315944c80792f3913401e0c9d3e45041ac1fe94aa4e99fdbf805628bf1ba10d"
+    },
+    {
+      "id": "new_present_perfect_0002",
+      "text": "She has cleaned the kitchen.",
+      "recording": "5c4c722a4a5a06d944db8e65a2e9c20c80389ea7feb337fdc11715cbf2fdf2c0"
+    },
+    {
+      "id": "new_present_perfect_0003",
+      "text": "We have seen that film before.",
+      "recording": "6b77f47482d29a21260e6638041d13f0d6661eff8ffb95ffcaa91fb554388e9e"
+    },
+    {
+      "id": "new_present_perfect_0004",
+      "text": "They have moved to a new flat.",
+      "recording": "d99b12b6e4b0f37d63ae98c2ece0888526186aee80ce2f7d52cf05431d42e8c1"
+    },
+    {
+      "id": "new_present_perfect_0005",
+      "text": "Sara has won a small prize.",
+      "recording": "701fbb9eae09eb043c965901134882589c365ecdf15365510083bf6a1c3f45d2"
+    },
+    {
+      "id": "new_present_perfect_0006",
+      "text": "My parents have arrived.",
+      "recording": "cf35872c9421d19b4db1e2e2ed70dc5c8392c4bd8256554455fa698748df5d6c"
+    },
+    {
+      "id": "new_present_perfect_0013",
+      "text": "I have written three emails.",
+      "recording": "fdbcd3d24d5970a51a18811da937b0a3795bc2908717ed679311fe92995cb77a"
+    },
+    {
+      "id": "new_present_perfect_0014",
+      "text": "He has eaten breakfast already.",
+      "recording": "563ab81b8bee1e85a9de498832b37ab3e7cab125944b0e7c2fa008fb4ad5c409"
+    },
+    {
+      "id": "new_present_perfect_0015",
+      "text": "They have gone to the market.",
+      "recording": "15e30941a05931a5551ca5d1de019aa7faa74cbdacc5d98ae688f7ecc9e111a8"
+    },
+    {
+      "id": "new_present_perfect_0016",
+      "text": "Sara has taken the wrong bus.",
+      "recording": "ce4b80e20a0e89ea87a37c669463370c3decda7e54376f2fef7da514fe2c9d89"
+    },
+    {
+      "id": "new_present_perfect_0017",
+      "text": "We have made a new plan.",
+      "recording": "46b3677f3628e228a7771d770482e37fa43f2f66148f57b713fd71f5e4d60400"
+    },
+    {
+      "id": "new_present_perfect_0018",
+      "text": "The rain has stopped.",
+      "recording": "8aee791238390ecde2a9567503dd3a0396ab83691518c186474174c982ae696a"
+    },
+    {
+      "id": "new_present_perfect_0019",
+      "text": "Have you called your father?",
+      "recording": "19f2a8bc08d3ebfac175e686636efdd68d96857f32141e8a18d94bea46ab7abe"
+    },
+    {
+      "id": "new_present_perfect_0020",
+      "text": "Has Sara read the message?",
+      "recording": "8800dbc55d7e4ef866ca9489919426cbcfb3772a7ef6a07ae7a5b6b058fab5cb"
+    },
+    {
+      "id": "new_present_perfect_0021",
+      "text": "Have they arrived yet?",
+      "recording": "f46ef464d3c2562928e44c787dfeda13c5e10616fab09cee12569b88d304ced4"
+    },
+    {
+      "id": "new_present_perfect_0022",
+      "text": "Has he eaten lunch?",
+      "recording": "e1d2d4dd4f38574d04daddde868ab524e01d6c2e6213afee49408d4af2221e8d"
+    },
+    {
+      "id": "new_present_perfect_0023",
+      "text": "Have we met before?",
+      "recording": "d1d1c4d263675ec4f0e6a824d663f0945ac7d2fe6f7b94b56aa19727ff2a5134"
+    },
+    {
+      "id": "new_present_perfect_0024",
+      "text": "Has the lesson started?",
+      "recording": "4053fb23a9dcf63af2f87301f857f2450c77537c636cf0e2e8654ffdaa6b474e"
+    },
+    {
+      "id": "new_present_perfect_0025",
+      "text": "I have just opened the window.",
+      "recording": "40e0fac048b7dd1356bfcb917601fe4188096c3c7ec45c919107f5d19cf4da09"
+    },
+    {
+      "id": "new_present_perfect_0026",
+      "text": "She has already sent the file.",
+      "recording": "57d3bafd1e3376f1708e8667a999f2fdb9a876aec14e7245e3bac8d94ce9cd0e"
+    },
+    {
+      "id": "new_present_perfect_0027",
+      "text": "They haven’t finished yet.",
+      "recording": "6f6cf40279318e0f80b0e3f64fc81ced79544078b758edfa8ff7002541b8e5f1"
+    },
+    {
+      "id": "new_present_perfect_0028",
+      "text": "Have you ever tried sushi?",
+      "recording": "c0f9859ea8c6d51628d3e95181c7806da28bcc79489446f6b564a925b56b2f38"
+    },
+    {
+      "id": "new_present_perfect_0029",
+      "text": "He has never ridden a horse.",
+      "recording": "00368d7516c052691bbb04e035188424d597703f2cb1fa4068028eac91f32c7a"
+    },
+    {
+      "id": "new_present_perfect_0030",
+      "text": "We have recently changed our schedule.",
+      "recording": "b69fe151c04c73dd003dd9a5afdd9db31a13c0884e4554737c8ed1fafbced19e"
+    },
+    {
+      "id": "new_present_perfect_0044",
+      "text": "She has worked here since May.",
+      "recording": "9ae9bd7bccfaaf68493fa43599590147cbce9d6446bccbfd74b36566a3439c20"
+    },
+    {
+      "id": "new_present_perfect_0045",
+      "text": "We have known each other for a long time.",
+      "recording": "142c01235763c4af6d1cd3252bb4adcbc2139c398a8b3744c1c3cbe99b1fc7ec"
+    },
+    {
+      "id": "new_present_perfect_0046",
+      "text": "He has been busy since breakfast.",
+      "recording": "aee1283b8ccb7a6aaf28f26867292f6dd11d08a576c4d015d874c513b4ef085f"
+    },
+    {
+      "id": "new_present_perfect_0047",
+      "text": "They have had this car for two months.",
+      "recording": "88584ad84f00c373990e9ec3aadf1058cdddbcdc2d548aac179f0de1526dea25"
+    },
+    {
+      "id": "new_present_perfect_0049",
+      "text": "Sara has gone to the library.",
+      "recording": "8ccc3d811c740ed3946371d29a003fb25b3332f561182f933bf8cbcd7f84be0f"
+    },
+    {
+      "id": "new_present_perfect_0050",
+      "text": "Sara has been to the library today.",
+      "recording": "52ccec53e2fb266afd7685d57a6bff021403c34c795610a9d2166188062e928b"
+    },
+    {
+      "id": "new_present_perfect_0051",
+      "text": "My parents have gone out.",
+      "recording": "13142fb4aa6de6964818e68706700c623d7c30dcaa490caaf8f60b17889ebd0d"
+    },
+    {
+      "id": "new_present_perfect_0052",
+      "text": "We have been to that museum twice.",
+      "recording": "de92ea2c42444de78dfe36795943ff945fec1dbc8e77db7f40553fbb1a2ddd41"
+    },
+    {
+      "id": "new_present_perfect_0053",
+      "text": "He has gone to work.",
+      "recording": "3017e8ac2e4130f0eba87245b7071a28259c3d65e718da23371bc9f9b02adbbc"
+    },
+    {
+      "id": "new_present_perfect_0054",
+      "text": "She has been in London before.",
+      "recording": "c8288af5fe492f93e5b1b6c8a25bf8ef15e0406e272c39113d5a889e6c3ab8a0"
+    },
+    {
+      "id": "new_present_perfect_0055",
+      "text": "I have read two chapters today.",
+      "recording": "a62c69d873ef737042e90477766c8efdcd8874918de19e4777fa9359f9918ee8"
+    },
+    {
+      "id": "new_present_perfect_0056",
+      "text": "She has called me this morning.",
+      "recording": "3d8e465917ca0d3b19acd0c553fd0555cc74b65ba3d37e1fe9969046cf6388f6"
+    },
+    {
+      "id": "new_present_perfect_0057",
+      "text": "We have had three lessons this week.",
+      "recording": "d6838403fb011a9337149a3c0999bd2622bc1c8aad9dfa57eb34b67e60b00758"
+    },
+    {
+      "id": "new_present_perfect_0058",
+      "text": "They have not arrived so far.",
+      "recording": "9f9ed98abf354e74589182728670c03b2ebd83e97dec2b7a11970c5446405155"
+    },
+    {
+      "id": "new_present_perfect_0059",
+      "text": "He has never missed a class.",
+      "recording": "15dcdf58b577f3fe0d409bde356738bf2cd8eab380575f6e4e98e16d88676330"
+    },
+    {
+      "id": "new_present_perfect_0061",
+      "text": "I have lost my key.",
+      "recording": "a50b981e764533f35e18fab07ba956a34a2be3c415db00c55a1ba295fb4d6c52"
+    },
+    {
+      "id": "new_present_perfect_0062",
+      "text": "I lost my key yesterday.",
+      "recording": "cb01393d6d94f74789d0dbf8a53b08a40044865437174034a05a11292972e5fb"
+    },
+    {
+      "id": "new_present_perfect_0063",
+      "text": "She has visited Paris twice.",
+      "recording": "99b2e22cfc4101116c3ed18e324c5281ea98662ab02c83f46dc58fe64af0fad1"
+    },
+    {
+      "id": "new_present_perfect_0065",
+      "text": "We have finished the report.",
+      "recording": "f02c1fd2dd16df31cb63fc82f036079b622afddd1fd91688bad041c6c339458c"
+    },
+    {
+      "id": "new_present_perfect_0066",
+      "text": "We finished the report at noon.",
+      "recording": "a169fab528cc58dfc5745a37ca1994bc61332cd00d99268724211041af200e49"
+    },
+    {
+      "id": "new_present_perfect_0085",
+      "text": "Sara has joined the community garden this spring.",
+      "recording": "a3ccb55c25172a4a5268c26010897c3e0e8bc4d42bba6fc9531f4bd94a7a63b0"
+    },
+    {
+      "id": "new_present_perfect_0086",
+      "text": "The group has planted vegetables and flowers in an empty lot behind the library.",
+      "recording": "631c760d3813100db1806a307d0b59a69b38aa97532a77df104d42355bfefe2a"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
