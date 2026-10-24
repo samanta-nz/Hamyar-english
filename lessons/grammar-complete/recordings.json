@@ -13327,5 +13327,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "76f0e084d5784542cd4d9e8460b93fc337dc79d91a1216efd2a9ef14e2b4db43"
+  },
+  "My brother goes to work by bus.": {
+    "file": "audio/e5a5a71c414ba4a739eb8ff8b7cfc40dceb35c3abb3a297a260663dfceb01539.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "25a6ff8154eb716bad1545b4d1c7337a56f8596f271b2dffcff4dbbcea34c420"
+  },
+  "She has a blue notebook.": {
+    "file": "audio/5c97bbc2be49020a6150d7bd45acd48749241beea5e9f4d28a4a4e58d9082bfc.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "13241b95156cbb0881324caa5d960875513def139203941f153b02d58e7a2b1d"
+  },
+  "My father usually cooks dinner.": {
+    "file": "audio/3a2e3ee678a934e03f4f9ba2f9354671ab87f83fb9fc9f97d6d1c5cf84635e9a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "7e637264158df6c248f068cf55ee053151d1acdd34d6ee7d97872c3e8a3a7739"
+  },
+  "The library opens at nine.": {
+    "file": "audio/da217a1f19b6935706d042384fd65fe4523d1139526d017e7b0ac68ab2f68346.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "a9bbcb6225b33f45d74f7b1f29cacaa272fe2fdc3df24ae0863604059c322d9f"
+  },
+  "Does Mina study on Fridays?": {
+    "file": "audio/91b8c228fadc936cae4c506f4e9d004dec1eddd55aeda2511384f301c6a91024.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ab06ca17057a7e8236bb237809d9a66968e73dc80dac44417e56c86e446aacf1"
+  },
+  "He never drinks coffee at night.": {
+    "file": "audio/544193cfc54c2b975938ccb8063666ece6013a2d94a00d6c43671371c01a1aea.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "4e57ea31a1b5c9c3f7d5409636bfe24ee60015d43165dbd0c46e060bce5097ca"
+  },
+  "Sara is painting a blue tree.": {
+    "file": "audio/a8cb960983ed481235b954535cb1d9c9e93af2e067a00df0e3e75ff83f3fb737.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "867651de45710594a70a1f7dea11f9319a39f6220e6813e8f2acd01b632ad493"
+  },
+  "Listen! The students are laughing.": {
+    "file": "audio/56cdf0e05b880324fa92f0e9a7aff2fbfe792038a4cd5ce588cec0ffadfbc9ed.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "fe30d95d457252437caf56fa1840300470810937d9637052f1b812bd68dab9ec"
+  },
+  "We are studying this week.": {
+    "file": "audio/ea42343c1964d9a141dd4ad290c5da2ef330d67b0737cb9b7386bb6d0bc95b4d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "273ef4557beec7778d28b0d30b0f019b801a27b777f9972377b548d82cce72e8"
+  },
+  "They are meeting us at six tonight.": {
+    "file": "audio/b8bfc4eb26148f679c32c117f43db90dac6cb794e4f5b399654985055bfccab9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-049",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "73a986fde6bc88ad27ab9a7f23efd61f095737ebf3cc34ebe6b3fc283d276d8f"
   }
 }

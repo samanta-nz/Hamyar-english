@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_simple_0011",
+      "ttsText": "My brother goes to work by bus.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0011.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0011",
+      "audioSelector": "#audio_new_present_simple_0011",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0012",
+      "ttsText": "She has a blue notebook.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0012.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0012",
+      "audioSelector": "#audio_new_present_simple_0012",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "example",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0009",
+      "ttsText": "My father usually cooks dinner.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0009.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0009",
+      "audioSelector": "#audio_new_present_simple_0009",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0010",
+      "ttsText": "The library opens at nine.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0010.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0010",
+      "audioSelector": "#audio_new_present_simple_0010",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0011",
+      "ttsText": "Does Mina study on Fridays?",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0011.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0011",
+      "audioSelector": "#audio_new_present_simple_0011",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_simple_0012",
+      "ttsText": "He never drinks coffee at night.",
+      "sourceFilePath": "audio/present-simple/new_present_simple_0012.mp3",
+      "targetHtmlFile": "present-simple.html",
+      "audioElementId": "audio_new_present_simple_0012",
+      "audioSelector": "#audio_new_present_simple_0012",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-simple"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0009",
+      "ttsText": "Sara is painting a blue tree.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0009.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0009",
+      "audioSelector": "#audio_new_present_continuous_0009",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0010",
+      "ttsText": "Listen! The students are laughing.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0010.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0010",
+      "audioSelector": "#audio_new_present_continuous_0010",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0011",
+      "ttsText": "We are studying this week.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0011.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0011",
+      "audioSelector": "#audio_new_present_continuous_0011",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0012",
+      "ttsText": "They are meeting us at six tonight.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0012.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0012",
+      "audioSelector": "#audio_new_present_continuous_0012",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ]
+]

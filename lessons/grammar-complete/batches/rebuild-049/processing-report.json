@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-049",
+  "accepted": [
+    {
+      "id": "new_present_simple_0011",
+      "text": "My brother goes to work by bus.",
+      "recording": "e5a5a71c414ba4a739eb8ff8b7cfc40dceb35c3abb3a297a260663dfceb01539"
+    },
+    {
+      "id": "new_present_simple_0012",
+      "text": "She has a blue notebook.",
+      "recording": "5c97bbc2be49020a6150d7bd45acd48749241beea5e9f4d28a4a4e58d9082bfc"
+    },
+    {
+      "id": "new_present_simple_0009",
+      "text": "My father usually cooks dinner.",
+      "recording": "3a2e3ee678a934e03f4f9ba2f9354671ab87f83fb9fc9f97d6d1c5cf84635e9a"
+    },
+    {
+      "id": "new_present_simple_0010",
+      "text": "The library opens at nine.",
+      "recording": "da217a1f19b6935706d042384fd65fe4523d1139526d017e7b0ac68ab2f68346"
+    },
+    {
+      "id": "new_present_simple_0011",
+      "text": "Does Mina study on Fridays?",
+      "recording": "91b8c228fadc936cae4c506f4e9d004dec1eddd55aeda2511384f301c6a91024"
+    },
+    {
+      "id": "new_present_simple_0012",
+      "text": "He never drinks coffee at night.",
+      "recording": "544193cfc54c2b975938ccb8063666ece6013a2d94a00d6c43671371c01a1aea"
+    },
+    {
+      "id": "new_present_continuous_0009",
+      "text": "Sara is painting a blue tree.",
+      "recording": "a8cb960983ed481235b954535cb1d9c9e93af2e067a00df0e3e75ff83f3fb737"
+    },
+    {
+      "id": "new_present_continuous_0010",
+      "text": "Listen! The students are laughing.",
+      "recording": "56cdf0e05b880324fa92f0e9a7aff2fbfe792038a4cd5ce588cec0ffadfbc9ed"
+    },
+    {
+      "id": "new_present_continuous_0011",
+      "text": "We are studying this week.",
+      "recording": "ea42343c1964d9a141dd4ad290c5da2ef330d67b0737cb9b7386bb6d0bc95b4d"
+    },
+    {
+      "id": "new_present_continuous_0012",
+      "text": "They are meeting us at six tonight.",
+      "recording": "b8bfc4eb26148f679c32c117f43db90dac6cb794e4f5b399654985055bfccab9"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
