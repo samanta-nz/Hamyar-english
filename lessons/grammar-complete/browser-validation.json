@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "scope": "All embedded audio metadata decoded; one actual playback per lesson; library coverage; no pronunciation review",
+  "pages": [
+    {
+      "file": "grammar-exceptions-common-mistakes.html",
+      "decoded": 102,
+      "library": 102,
+      "map": 102,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    },
+    {
+      "file": "present-continuous.html",
+      "decoded": 319,
+      "library": 319,
+      "map": 319,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    },
+    {
+      "file": "present-perfect.html",
+      "decoded": 341,
+      "library": 341,
+      "map": 341,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    },
+    {
+      "file": "present-simple.html",
+      "decoded": 244,
+      "library": 244,
+      "map": 244,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    },
+    {
+      "file": "to-be.html",
+      "decoded": 213,
+      "library": 213,
+      "map": 213,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    },
+    {
+      "file": "verb-forms-v1-v2-v3.html",
+      "decoded": 787,
+      "library": 787,
+      "map": 787,
+      "pending": 0,
+      "playback": "PASS",
+      "errors": []
+    }
+  ]
+}

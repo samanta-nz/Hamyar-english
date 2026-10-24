@@ -29,7 +29,9 @@ def main():
     assert not progress['selectorIssues'] and not progress['missingLocalLinks']
     registry = json.loads((ROOT / 'recordings.json').read_text())
     hashes = {r['sha256'] for r in registry.values()}
-    report = {'embedded': 0, 'pages': [], 'browserPlayback': 'NOT_MANUALLY_TESTED'}
+    browser = json.loads((ROOT / 'browser-validation.json').read_text())
+    assert browser['status'] == 'PASS'
+    report = {'embedded': 0, 'pages': [], 'browserPlayback': browser}
     for path in sorted(source.glob('*.html')):
         p = Page(); p.feed(path.read_text()); embedded = 0
         for uri in p.audio.values():

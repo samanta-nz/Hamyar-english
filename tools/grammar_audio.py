@@ -98,6 +98,10 @@ def build():
             old=tags[0].group();clean=re.sub(r'\s+src="[^"]*"','',old)
             html=html.replace(old,clean[:-1]+' src="'+uri+'">',1)
             lesson['complete'].append(item['audioId'])
+        player_map=[{'id':i['audioId'],'text':i['ttsText']} for i in m['items'] if i['audioId'] in lesson['complete']]
+        player_json=json.dumps(player_map,ensure_ascii=False).replace('<','\\u003c')
+        player_script=(Path(__file__).parent/'grammar_player.js').read_text()
+        html=html.replace('</body>','<script type="application/json" id="embedded-audio-map">'+player_json+'</script><script>'+player_script+'</script></body>')
         (out/lesson['file']).write_text(html)
         progress['complete']+=len(lesson['complete']);progress['total']+=len(m['items']);progress['lessons'].append(lesson)
     for path in out.glob('*.html'):

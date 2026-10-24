@@ -65,3 +65,20 @@ assets and bucket ZIP outside the repository. This is a candidate package,
 not browser-certified: some original sections use pending controls or dynamic
 players rather than data-audio buttons; a UI wiring audit and browser playback
 validation remain required. See package-validation.json for page counts.
+
+## Final delivery
+All 2006 manifest entries are embedded. Generated pages include a complete
+searchable audio bank, pending listening controls are activated using exact
+text matches, and inert speaker icons without a manifest recording are removed
+(the educational text remains). Original source files remain immutable.
+
+`browser-validation.json` records a successful automated Chromium run: metadata
+and positive duration for every embedded audio, one actual playback per lesson,
+full audio-bank coverage, no remaining pending notices, no page JS errors.
+This is not a manual pronunciation/content review or a Safari/mobile test.
+
+Browser test: install `playwright-core` and `@sparticuz/chromium`, then run
+`node tools/test_grammar_browser.cjs` (Chromium system libraries are required).
+Export: `python tools/package_grammar.py /home/user/grammar-delivery`.
+Upload ZIP contents directly to the bucket, keeping `assets/` beside HTMLs;
+open `index.html`. Audio is embedded and needs no separate audio directory.

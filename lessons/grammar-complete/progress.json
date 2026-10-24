@@ -2049,5 +2049,6 @@
   ],
   "selectorIssues": [],
   "missingLocalLinks": [],
-  "browserPlayback": "NOT_MANUALLY_TESTED"
+  "browserPlayback": "AUTOMATED_CHROMIUM_PASS",
+  "browserPlaybackScope": "All 2006 metadata decoded; one playback per lesson; no manual pronunciation review"
 }

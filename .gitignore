@@ -8,3 +8,6 @@ app/build/
 
 # Reproducible incomplete lesson build
 lessons/grammar-complete/partial/
+
+# Python scratch files
+__pycache__/
