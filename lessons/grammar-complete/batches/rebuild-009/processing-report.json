@@ -1,0 +1,310 @@
+{
+  "batch": "rebuild-009",
+  "accepted": [
+    {
+      "id": "word_look",
+      "text": "look",
+      "recording": "3c01eba119e00d79c82b6f65d70bc5f1044d568618bf41377e6d1432023fc2b8"
+    },
+    {
+      "id": "word_looks",
+      "text": "looks",
+      "recording": "95d09b6231e6627f68a42cf844d9e928ac3f5df11c1a78025da84e22292955b1"
+    },
+    {
+      "id": "word_lost",
+      "text": "lost",
+      "recording": "76f75e6129fe30135bd44d80ab7cc46fdba81907758dc808f3e2517beef2b1e9"
+    },
+    {
+      "id": "word_met",
+      "text": "met",
+      "recording": "6efcbfb1f9f195ced75feb43f202ab14a8cd87832cef086976b16658e23944a8"
+    },
+    {
+      "id": "word_miss",
+      "text": "miss",
+      "recording": "80688fc3d5f88a06909e3ff7575018a520bfdb239cc0f95aee985007254423da"
+    },
+    {
+      "id": "word_never",
+      "text": "never",
+      "recording": "6497e4b3d7bed16979a343a7db4efa6d57725529f5ac3cec45c1f08fabcbdafc"
+    },
+    {
+      "id": "word_plans",
+      "text": "plans",
+      "recording": "c404dc69b55c0692366e3f28e6d8bc2e506bedbd4f519644adb5802500d83331"
+    },
+    {
+      "id": "word_recently",
+      "text": "recently",
+      "recording": "59f7a3dd09de1e02b89a081d553646294ed80d6568564ec79a3e875ccf17031b"
+    },
+    {
+      "id": "word_report",
+      "text": "report",
+      "recording": "845e91831319e89c4d656bdb80c278ac09a7230d61e5dfd2e1b1fbb436ac8917"
+    },
+    {
+      "id": "word_returned",
+      "text": "returned",
+      "recording": "68752bf62253f655b49bd5e8d989fc11d439d0e90cccbca77f13180179706cea"
+    },
+    {
+      "id": "word_ridden",
+      "text": "ridden",
+      "recording": "6f2d89ffa21562b036cd09e2752362942634b78bbcb6b9e5b29576c0e3be5b54"
+    },
+    {
+      "id": "word_saw",
+      "text": "saw",
+      "recording": "dfc1a1888f01d9476764b3d0e9efc89a46ac3a769c13d0ef27dd38c0b63c5de1"
+    },
+    {
+      "id": "word_seen",
+      "text": "seen",
+      "recording": "7208794c984ea1c75d13877c7427336fe98722c41a056eeee4f37360ec367123"
+    },
+    {
+      "id": "word_since",
+      "text": "since",
+      "recording": "6b5a3ded016ab78269898c6e38d09f71e71e9311d53569f668e76378de0a798a"
+    },
+    {
+      "id": "word_slept",
+      "text": "slept",
+      "recording": "fec75727dc4f655009ab1932906d75fffc53dbb1f8fefaa62ac5902e6f0515fe"
+    },
+    {
+      "id": "word_standing",
+      "text": "standing",
+      "recording": "8accd64783894c6c0f3f89c649bd92d210eea3d5d339a8e738446388ec20862c"
+    },
+    {
+      "id": "word_started",
+      "text": "started",
+      "recording": "03494afd4248c42f5fa1237bf2eeebe751ab8d9c977d55405fcb17469dbd91f8"
+    },
+    {
+      "id": "word_station",
+      "text": "station",
+      "recording": "9b4ef3e5b7b4d1759cb8f880e34dbd5ea8c3fcd79ce33b89d7357bf64fcbfc91"
+    },
+    {
+      "id": "word_stay",
+      "text": "stay",
+      "recording": "39be15289c7942a8e7765d75584b0bce0a4a39c29a356fbaee44f63848ba6cb0"
+    },
+    {
+      "id": "word_taken",
+      "text": "taken",
+      "recording": "99341d56cc28805370b9f449c044a4cf00a1e7eb003362116c814fd96899c55c"
+    },
+    {
+      "id": "word_tells",
+      "text": "tells",
+      "recording": "d9403e3cdb1f24c70a93b732fe5753959c85cea31dc89b5661a39219bf64d48f"
+    },
+    {
+      "id": "word_train",
+      "text": "train",
+      "recording": "116f54c41d0405dbb10e7b04ebc31e262a5b8c85c1233fcf36eaee344d91ae58"
+    },
+    {
+      "id": "word_tried",
+      "text": "tried",
+      "recording": "b90bc9390bcd6bad933160c81fb4d7016601531fdbdcfeb8c31f71904bd9673b"
+    },
+    {
+      "id": "word_trip",
+      "text": "trip",
+      "recording": "34a389d790fc2bdd8458e5f1cde6933c97d11eeda65cf328b64460f0d68f04b5"
+    },
+    {
+      "id": "word_try",
+      "text": "try",
+      "recording": "1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667"
+    },
+    {
+      "id": "word_visited",
+      "text": "visited",
+      "recording": "a96a5b946ce5cda6948aff7295af74f1eccda91a79777d555305fe5d4f68bd4e"
+    },
+    {
+      "id": "word_waited",
+      "text": "waited",
+      "recording": "cd0d4062fb1e795031954204a7d513226f4eb8cb50da7ce12f9517b6c564fe67"
+    },
+    {
+      "id": "word_went",
+      "text": "went",
+      "recording": "bd7e83102fa3e6aa125f3b4c7d6fb561871f02c476cee0ee3fe26c8afe7f3058"
+    },
+    {
+      "id": "word_worked",
+      "text": "worked",
+      "recording": "ba0f95091e1972ccc4985fdc30b8d62c80b90033a42eda2a291ad857e30808a2"
+    },
+    {
+      "id": "word_written",
+      "text": "written",
+      "recording": "ccc0e8da6b80e08e80d75a89afe11e8f2d5cd0f29a10f782104ca5f2648e8903"
+    },
+    {
+      "id": "word_wrote",
+      "text": "wrote",
+      "recording": "5a3365e9b3ecf3ea7b18782b8e3e421b2a9fd383aed7a82026ce2495411aef06"
+    },
+    {
+      "id": "word_yet",
+      "text": "yet",
+      "recording": "cfd96dd92f7e0025b1461aafc2bf0aeaea4f79b27b193f49c6132c4c63a300cb"
+    },
+    {
+      "id": "s1_01",
+      "text": "I have finished my work.",
+      "recording": "454c86aa0b573b083abcc95fe1d1f7ab8397605338bd1ba69c518f77ea864b5b"
+    },
+    {
+      "id": "s1_02",
+      "text": "She has lost her key.",
+      "recording": "f4b3882412750043a43d3289f16c9ac082ea51351c2cdafb6461aa679a32b6ba"
+    },
+    {
+      "id": "s1_03",
+      "text": "We have visited Isfahan three times.",
+      "recording": "5dbdf06e25c8847bcf74e83e20aef161b63fcab4c2ea470f0dd0d7c47ef81a98"
+    },
+    {
+      "id": "s2_01",
+      "text": "I have eaten lunch.",
+      "recording": "4fec453fc34a174d8cebe3f7b1ec13ac0a719b94f81b3f394bd6c90c8d60b795"
+    },
+    {
+      "id": "s2_02",
+      "text": "He has written the email.",
+      "recording": "4d0fc589a7f8f34812a4d2a3fb89dc8537f7854c549171a69937c2035219bebd"
+    },
+    {
+      "id": "s2_03",
+      "text": "The dog has slept.",
+      "recording": "9737b9597240e37d6cc81f3c47eaabfb50839103f093adf42d368fe1e1666be6"
+    },
+    {
+      "id": "s2_04",
+      "text": "They have seen this movie.",
+      "recording": "c3f52f65431f50652e8429bfbf33e0d02aa38cb9efc5105cc6a966a07b7f470c"
+    },
+    {
+      "id": "s3_01",
+      "text": "She has eaten.",
+      "recording": "db968f87e3830a487f9783d2ea051a1e8eb4f1c66a083d02dafaad713a8f3d82"
+    },
+    {
+      "id": "s3_02",
+      "text": "She has ate.",
+      "recording": "f836274d2c351bcd7c675dfd092dd5549bcfb9eb0b1a810e79f16ba6e6636462"
+    },
+    {
+      "id": "s3_03",
+      "text": "I have written the letter.",
+      "recording": "21c61ec9224e46f2e9199b24b4853cec4eafcb21e53ab86dc6466df16dce8edb"
+    },
+    {
+      "id": "s3_04",
+      "text": "I have wrote the letter.",
+      "recording": "299a062b82cb1dd2a1f5c24a6bb31b9b6061a001eb5604edbb8065cbd96e690b"
+    },
+    {
+      "id": "s4_01",
+      "text": "I haven’t finished yet.",
+      "recording": "21d7e0e0186e884e24f371462804077d1924e23448f54fd76971d9d2785c5dba"
+    },
+    {
+      "id": "s4_02",
+      "text": "She hasn’t called me.",
+      "recording": "5991504aeb6808def08f91dd2b62e6eaa4208a9f3ff6fbb17741cb024f7b6e21"
+    },
+    {
+      "id": "s4_03",
+      "text": "Have you seen this film?",
+      "recording": "4ce20bc1b11747e74c71342c00445250e67a856a5998a58cfb27e9917dd2748b"
+    },
+    {
+      "id": "s4_04",
+      "text": "Has he arrived?",
+      "recording": "fb46ac9cc8bd0ae45d9ca8d9b5bbe9687d99ebaa5dadb2e0e0e8a60abcc42e96"
+    },
+    {
+      "id": "s5_01",
+      "text": "I have just finished.",
+      "recording": "dd5a40efa9798be7cc2e285622e60462c2112c248ef34057c2bff59400d80521"
+    },
+    {
+      "id": "s5_02",
+      "text": "She has already left.",
+      "recording": "b2b0f1b818b93349128b1074e559dc4619eb13ce0bf19af490b23f44291f9c68"
+    },
+    {
+      "id": "s5_03",
+      "text": "We haven’t eaten yet.",
+      "recording": "63a0f65b7b16bd8da7f3f8e50cdf0307aec1f05290e4ea4ebeac2122ff50e5fe"
+    },
+    {
+      "id": "s5_04",
+      "text": "Has the bus arrived yet?",
+      "recording": "9294916ad15a1dd98d5ade74d54e1943d723f83bbfeae35bad1c320513b7ca6e"
+    },
+    {
+      "id": "s6_01",
+      "text": "Have you ever ridden a horse?",
+      "recording": "a38e0b6630f0dc33923c0a6b5cb3fe54fbe6d7f23fa5b30c920f07720b4c990f"
+    },
+    {
+      "id": "s6_02",
+      "text": "I have never tried sushi.",
+      "recording": "eba8d5aa12979eb007638879493bf830c81893efacccc9acda856d50bf3a6ff6"
+    },
+    {
+      "id": "s6_03",
+      "text": "I have seen this movie before.",
+      "recording": "4e8f6f6ba495817200c91f519ce807a29870010059e034e338f62e8447a4520f"
+    },
+    {
+      "id": "s6_04",
+      "text": "Has she ever been to Turkey?",
+      "recording": "494c32da4c06a9172118a97db0a33fbc0653a5bd61696a740b7e71026eb6234b"
+    },
+    {
+      "id": "s7_01",
+      "text": "I have recently started learning English.",
+      "recording": "ee6f581f041ab74ea665a05883a665f8568d2a5fb35467324509521faafcfdf2"
+    },
+    {
+      "id": "s7_02",
+      "text": "I haven’t slept well lately.",
+      "recording": "c9c7b9a366158490d74099854ea279c654db871121c2481b38dea251b184977e"
+    },
+    {
+      "id": "s7_03",
+      "text": "I still haven’t finished my homework.",
+      "recording": "1ebc127f8c9b62545b53ddce58876ed3d4a3db30e5fe4e7ed52871faec8388f1"
+    },
+    {
+      "id": "s7_04",
+      "text": "I have learned ten new words up to now.",
+      "recording": "31493f42cf3e1d868d7af1422d33b1f361edb4e2567fab4e0bb2dd2f66e9cc93"
+    },
+    {
+      "id": "s8_01",
+      "text": "I have lived here for five years.",
+      "recording": "73b888b168205c9a921c712328caac4a58ba48e48e7ec48e8945bf3b7d8f83df"
+    }
+  ],
+  "held": [],
+  "noTrailingSilenceGroups": [
+    3
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
