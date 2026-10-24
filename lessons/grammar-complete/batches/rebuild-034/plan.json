@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_present_continuous_0102",
+      "ttsText": "Noah is bringing his little sister, and the teacher is opening the doors for visitors.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0102.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0102",
+      "audioSelector": "#audio_new_present_continuous_0102",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0103",
+      "ttsText": "These are arranged plans, not a guess about the future.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0103.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0103",
+      "audioSelector": "#audio_new_present_continuous_0103",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0106",
+      "ttsText": "Sara is saying that her tree represents a safe place.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0106.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0106",
+      "audioSelector": "#audio_new_present_continuous_0106",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0107",
+      "ttsText": "She is not claiming that it is perfect; she is sharing what it means to her.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0107.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0107",
+      "audioSelector": "#audio_new_present_continuous_0107",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0108",
+      "ttsText": "At the moment, the class is making the final labels, and everyone is feeling proud of the work.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0108.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0108",
+      "audioSelector": "#audio_new_present_continuous_0108",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0119",
+      "ttsText": "Look! A bird is landing on the fence.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0119.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0119",
+      "audioSelector": "#audio_new_present_continuous_0119",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0120",
+      "ttsText": "They are waiting outside the cinema.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0120.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0120",
+      "audioSelector": "#audio_new_present_continuous_0120",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0121",
+      "ttsText": "I am meeting my cousin tonight.",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0121.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0121",
+      "audioSelector": "#audio_new_present_continuous_0121",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0122",
+      "ttsText": "What is Sara carrying?",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0122.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0122",
+      "audioSelector": "#audio_new_present_continuous_0122",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "listening",
+      "lesson": "present-continuous"
+    }
+  ],
+  [
+    {
+      "audioId": "new_present_continuous_0131",
+      "ttsText": "Which is a fixed arrangement?",
+      "sourceFilePath": "audio/present-continuous/new_present_continuous_0131.mp3",
+      "targetHtmlFile": "present-continuous.html",
+      "audioElementId": "audio_new_present_continuous_0131",
+      "audioSelector": "#audio_new_present_continuous_0131",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "mastery",
+      "lesson": "present-continuous"
+    }
+  ]
+]

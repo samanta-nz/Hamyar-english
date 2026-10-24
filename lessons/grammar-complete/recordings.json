@@ -12022,5 +12022,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "8ebf2be97d2f0ed15601821cf91090bd7cfe85af53d3a16b96a748dd49773612"
+  },
+  "Noah is bringing his little sister, and the teacher is opening the doors for visitors.": {
+    "file": "audio/91599cab14a49298d461679316ee3a120432449e4aa78cc51fd96545e0b72173.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "18cc20d384735131a523b8ef2c303569517c7165fe19ef8ceb18528911cd9018"
+  },
+  "These are arranged plans, not a guess about the future.": {
+    "file": "audio/02875acf5a4ab7ebf5ab9463d679c324b7e36121e8d3bc6848e18b776a6644af.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "1415105cd594a667764a33786e5551dfa9bca4220578bcfd0946f1abc4cce82c"
+  },
+  "Sara is saying that her tree represents a safe place.": {
+    "file": "audio/72a19b95e3b658bc494da7a3eb06b4d90135ce122c05970b1240c9a8d1568644.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "846060b5e6c8d471c4e468e3d40d2cd30e7fc3e862026ce12709a8ec0572e219"
+  },
+  "She is not claiming that it is perfect; she is sharing what it means to her.": {
+    "file": "audio/da3d44832e773082cd209d0f34d51b9f20ebcbafff21f43bd16f230507134708.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2991caab02c75129ca95f049b4ef657b0df802f552a92595671df4ce7bff62ab"
+  },
+  "At the moment, the class is making the final labels, and everyone is feeling proud of the work.": {
+    "file": "audio/0874e5e97d0e4cae76ed07daea11938c7e0c1ecaaefafecf9a5146c0f93fd4a5.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ae363c4abfd80922d2615b6180900028c47bef90e9509be2d3c162f9ae94b295"
+  },
+  "Look! A bird is landing on the fence.": {
+    "file": "audio/7adea4a63a12510613e9e6607b0e722b0363e2ec8a42f5ff8891efd23277f5e3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ff99efc93174e4c11ae11c3a17541dd44c4e9e51059d1bc4552c34a3417cf124"
+  },
+  "They are waiting outside the cinema.": {
+    "file": "audio/e338672a98059f033d0b7cabe5f081152b9353c690c29f6c5b953737f163cb45.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "51c3a3b161d1261ee8ff04212339aa2da6c97055d7a04fa67550f8cf02fe69be"
+  },
+  "I am meeting my cousin tonight.": {
+    "file": "audio/3d14171b51a95254b5ff849fa5451c921b19be60c1a3df671929da92161cf4e4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "d1571f1205b1736515e932c5ce874b1665272a1edd41a071268fc1de26e318e6"
+  },
+  "What is Sara carrying?": {
+    "file": "audio/11ac5854dfc93b071696fb1f43b5b868948e57f3b9f56ff9f0de2f985cb292ce.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "148cc5d76127fb437b2ee95f043a84134f7d5248a34963fc122b7bbf3d605fb1"
+  },
+  "Which is a fixed arrangement?": {
+    "file": "audio/9a4926027da2649fffc894870ad89f8a64c3b6f2455b25c6beaca9993f623328.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-034",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "f3ff14e53ca244a4a0a15f264f295cc832388265f29d2949397c4b910cbfdd5a"
   }
 }

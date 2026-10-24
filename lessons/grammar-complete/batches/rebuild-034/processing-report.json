@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-034",
+  "accepted": [
+    {
+      "id": "new_present_continuous_0102",
+      "text": "Noah is bringing his little sister, and the teacher is opening the doors for visitors.",
+      "recording": "91599cab14a49298d461679316ee3a120432449e4aa78cc51fd96545e0b72173"
+    },
+    {
+      "id": "new_present_continuous_0103",
+      "text": "These are arranged plans, not a guess about the future.",
+      "recording": "02875acf5a4ab7ebf5ab9463d679c324b7e36121e8d3bc6848e18b776a6644af"
+    },
+    {
+      "id": "new_present_continuous_0106",
+      "text": "Sara is saying that her tree represents a safe place.",
+      "recording": "72a19b95e3b658bc494da7a3eb06b4d90135ce122c05970b1240c9a8d1568644"
+    },
+    {
+      "id": "new_present_continuous_0107",
+      "text": "She is not claiming that it is perfect; she is sharing what it means to her.",
+      "recording": "da3d44832e773082cd209d0f34d51b9f20ebcbafff21f43bd16f230507134708"
+    },
+    {
+      "id": "new_present_continuous_0108",
+      "text": "At the moment, the class is making the final labels, and everyone is feeling proud of the work.",
+      "recording": "0874e5e97d0e4cae76ed07daea11938c7e0c1ecaaefafecf9a5146c0f93fd4a5"
+    },
+    {
+      "id": "new_present_continuous_0119",
+      "text": "Look! A bird is landing on the fence.",
+      "recording": "7adea4a63a12510613e9e6607b0e722b0363e2ec8a42f5ff8891efd23277f5e3"
+    },
+    {
+      "id": "new_present_continuous_0120",
+      "text": "They are waiting outside the cinema.",
+      "recording": "e338672a98059f033d0b7cabe5f081152b9353c690c29f6c5b953737f163cb45"
+    },
+    {
+      "id": "new_present_continuous_0121",
+      "text": "I am meeting my cousin tonight.",
+      "recording": "3d14171b51a95254b5ff849fa5451c921b19be60c1a3df671929da92161cf4e4"
+    },
+    {
+      "id": "new_present_continuous_0122",
+      "text": "What is Sara carrying?",
+      "recording": "11ac5854dfc93b071696fb1f43b5b868948e57f3b9f56ff9f0de2f985cb292ce"
+    },
+    {
+      "id": "new_present_continuous_0131",
+      "text": "Which is a fixed arrangement?",
+      "recording": "9a4926027da2649fffc894870ad89f8a64c3b6f2455b25c6beaca9993f623328"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
