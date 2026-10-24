@@ -10915,5 +10915,221 @@
     "start": 0.0,
     "end": null,
     "sha256": "9fc039b07c98c796f59c4a8b711edef0397c225b10decf9d63d8ebb59e37b157"
+  },
+  "Sara is a new student at Green Hill School.": {
+    "file": "audio/f5aa67c91a302b248db25a311adbd68e6ab18576a156d3c21cd16a1875dfcd7f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 0.0,
+    "end": 2.826542,
+    "sha256": "44e0dcb1730d3fd96d393dfa7f0056053f54c26c70721b771ac950b98fca505a"
+  },
+  "A quiet clock is above the door.": {
+    "file": "audio/e173d8da3fb2d6addc908e85be8b4962b0714207b3ce44ded80febb6c82a625d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 2.826542,
+    "end": 5.2299885,
+    "sha256": "f51fd6820a258e1f5be5e25e5dd77fd8e6c4c77c31690dc3c6b270f31c94b3ee"
+  },
+  "Mr.": {
+    "file": "audio/1a24b7688c199c24d87b5984d152b37d1d528911ec852d9cdf98c3ef29b916ea.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 5.2299885,
+    "end": 6.1785485,
+    "sha256": "f559a1cf44c7beb75cfdb3b438142642b02fce1d8c1d8aa0d59dedfa0aa95c18"
+  },
+  "Lee is her science teacher.": {
+    "file": "audio/f5c0f2fbb9b439840433c62325a6a1ad3b47c2bbcfd8b1ad79443fddd9bebc7f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 6.1785485,
+    "end": 8.4389115,
+    "sha256": "fb544b6455410d6b5de1b17efed75f7951766fc7b8a4d637ad908ae329259b99"
+  },
+  "He is kind and patient.": {
+    "file": "audio/09858981d245e2d854563342b0ac9b6ae90b2d60be4f6ec60b8546486b701ae6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 8.4389115,
+    "end": 10.296484999999999,
+    "sha256": "0ec2fd0c24ed8acb0b4454583106a28429a92a0949e9616bacd1a967a390362b"
+  },
+  "“You are in the right room.": {
+    "file": "audio/b0e242ce04fba040f0892135d5afe9a0e4b7c432f90b6ea753a6d273e76a4ec3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 0,
+    "start": 10.296484999999999,
+    "end": null,
+    "sha256": "464636072cd404f0fca913978036039f5af6f52f889bbabf2055f10035d81ae6"
+  },
+  "She has a car.": {
+    "file": "audio/d360896124b044e25d81afe402b3ccccfeff053587fcbf5f6a0d3b5af56293d0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 0.0,
+    "end": 1.3612245,
+    "sha256": "fcbb7e51526d2e8cd8d4ed46ede2891ee7d0243838e7b385c235e6156e34fc11"
+  },
+  "Do you work here?": {
+    "file": "audio/d3b205318cdb4049486b7392aae3dca9d33fc294794976aa6a8dfb959404cac0.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 1.3612245,
+    "end": 2.680374,
+    "sha256": "b16e8faa2a9b39910a0d565c5170fa03ba952ebc39f2fd7a23473ccc43cdbc67"
+  },
+  "Do they play chess?": {
+    "file": "audio/c81fa6c724efc4ca301238db06d5725c39008dbb0c46a21fc8783805bf08a710.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 2.680374,
+    "end": 4.250329000000001,
+    "sha256": "6fd3b7976f7bdd217a0d378f401022ec38b0d02be825cdac1c7f57c325720f7b"
+  },
+  "Does Sara study English?": {
+    "file": "audio/22b036c9d160df16eccbf70d24f7bcfdf5607a0acf833cceb3532f02470b2841.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 4.250329000000001,
+    "end": 6.128118,
+    "sha256": "53f2b6637e2001f73e910d60b4f71143107f2a9c84c22c8efd10936ac93792ab"
+  },
+  "They don't play chess.": {
+    "file": "audio/aeffd9bf8290eb85f8a81d1c1ab87270477ae805c26a17a08a8d797a643eb751.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 6.128118,
+    "end": 7.82068,
+    "sha256": "e522eae18205b6caf9a4d0a25a39f3fb8257b755febf9ab22121d5d0aa3b7b36"
+  },
+  "We don't need help.": {
+    "file": "audio/e2b8f815f44e42f84b50b3476bf9257b3eeef65cfb208ce59b512bed5ae55028.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 3,
+    "start": 7.82068,
+    "end": null,
+    "sha256": "9d343daca213f7718ddf6c3f0a5a4fb440ac51b0a16c971335067ecfcc12916d"
+  },
+  "buy": {
+    "file": "audio/e8197b20f8e71e429645f83cc6f07d9d43ee7a30ef5dc6c02dd16692a7bc9aac.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 0.0,
+    "end": 0.773333,
+    "sha256": "f1d5706a2ce1338b5ac866f9481c22ce39ee72888216ba93db3e165f2a514d0c"
+  },
+  "call": {
+    "file": "audio/7edb360f06acaef2cc80dba16cf563f199d347db4443da04da0c8173e3f9e4ed.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 0.773333,
+    "end": 1.533572,
+    "sha256": "ac215affc7a66ac68f23c5ca3d56745eca722fbc9948992b7e8d6ef901872d6b"
+  },
+  "cancel": {
+    "file": "audio/2374d91794b79f4fb4ec9587d2cf00aecc4f9953fab3ed1dd12ab147a0b721f9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 1.533572,
+    "end": 2.5022565,
+    "sha256": "bcddf02aa2fa8b9d603ec6b1c39b45915573434d1f7b44fdb79729d9190fbc82"
+  },
+  "cancelled": {
+    "file": "audio/8b47045eb7b8ca42aa967f33ee1d014ba89f8d1ac207426b482d34b5c0d90935.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 2.5022565,
+    "end": 3.5935145000000004,
+    "sha256": "d905bd0e59144be30a3049ba12f61d87af2f899205b917cd8967c25686c55c3b"
+  },
+  "care": {
+    "file": "audio/f9ed2b54fd72ac1652579d3726fe310b3984465599a6051909ac4259de8f7aac.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 3.5935145000000004,
+    "end": 4.322959,
+    "sha256": "da57ba2d3dc39d4237e253d4e578b0b082246bd7c26ee8816569901f36cc64b5"
+  },
+  "cared": {
+    "file": "audio/f25d0ff2ea91d45c97e36425d98ca4861b7be453bf64e5eb1789eeed12db759b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 8,
+    "start": 4.322959,
+    "end": null,
+    "sha256": "42269cd6c4bfd7ac4a288ae8a1ea14b83231488502c6b4faefbcc39a9d2906ea"
+  },
+  "Mr Lee teaches science.": {
+    "file": "audio/acce2b9c6e429a00daeb28d2e08721632c150a97ff7259ce8daf02c6fdeae72f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 0.0,
+    "end": 2.341542,
+    "sha256": "7e2a9e0520d874ca3b93225f455b74f2881c08c7a87272b821e65494781ef389"
+  },
+  "I tell my sister a story.": {
+    "file": "audio/3622e31a08c2a37f19c21bede10a8e6737d9e2fcb80bba7063a4a36f26838c68.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 2.341542,
+    "end": 4.306927,
+    "sha256": "572e17c348bf19950374eda5ba4afb627af1bea86e6006010a70f64f21030d08"
+  },
+  "We think about the question.": {
+    "file": "audio/1a3c81f6e075afddce2254391461c040374c9898e81064a769de0ca98e7331a7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 4.306927,
+    "end": 6.1560885,
+    "sha256": "3e631447560cd480900827ead034dc097ddbfcf9233cc6390b34b810fba61844"
+  },
+  "He understands the lesson.": {
+    "file": "audio/3db19a530bf07e156b059244c22f018b1f3599bb8cf5c9121e5c74e85f2d9c31.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 6.1560885,
+    "end": 8.1401815,
+    "sha256": "87e5fcf64869876310c32d961e4d63a68eb6adeaafbefa9cf72e0cdb688f8445"
+  },
+  "She wears a warm coat.": {
+    "file": "audio/5f53556ef971f077649cefe31a1137d3cae2380e25540c61005a3d79d6a2125c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 8.1401815,
+    "end": 10.1246145,
+    "sha256": "02bd00ae9cfcbbeab259414cde43a0514c6e7ad600b6ddf322e78eb857197e57"
+  },
+  "Our team wins the game.": {
+    "file": "audio/3992b2af384a0c8753525055a35c4e8d6c7d8af8da4bd9fed64dad6282fc51e6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-023",
+    "group": 9,
+    "start": 10.1246145,
+    "end": null,
+    "sha256": "45fb9afdba2e4acd71e312bd55b27519b4111eb66a942a035eb7d105956d7996"
   }
 }

@@ -1,0 +1,337 @@
+{
+  "batch": "rebuild-023",
+  "accepted": [
+    {
+      "id": "new_to_be_0085",
+      "text": "Sara is a new student at Green Hill School.",
+      "recording": "f5aa67c91a302b248db25a311adbd68e6ab18576a156d3c21cd16a1875dfcd7f"
+    },
+    {
+      "id": "new_to_be_0088",
+      "text": "A quiet clock is above the door.",
+      "recording": "e173d8da3fb2d6addc908e85be8b4962b0714207b3ce44ded80febb6c82a625d"
+    },
+    {
+      "id": "new_to_be_0091",
+      "text": "Mr.",
+      "recording": "1a24b7688c199c24d87b5984d152b37d1d528911ec852d9cdf98c3ef29b916ea"
+    },
+    {
+      "id": "new_to_be_0092",
+      "text": "Lee is her science teacher.",
+      "recording": "f5c0f2fbb9b439840433c62325a6a1ad3b47c2bbcfd8b1ad79443fddd9bebc7f"
+    },
+    {
+      "id": "new_to_be_0093",
+      "text": "He is kind and patient.",
+      "recording": "09858981d245e2d854563342b0ac9b6ae90b2d60be4f6ec60b8546486b701ae6"
+    },
+    {
+      "id": "new_to_be_0096",
+      "text": "“You are in the right room.",
+      "recording": "b0e242ce04fba040f0892135d5afe9a0e4b7c432f90b6ea753a6d273e76a4ec3"
+    },
+    {
+      "id": "present_simple_sentence_006",
+      "text": "She has a car.",
+      "recording": "d360896124b044e25d81afe402b3ccccfeff053587fcbf5f6a0d3b5af56293d0"
+    },
+    {
+      "id": "present_simple_sentence_007",
+      "text": "Do you work here?",
+      "recording": "d3b205318cdb4049486b7392aae3dca9d33fc294794976aa6a8dfb959404cac0"
+    },
+    {
+      "id": "present_simple_sentence_008",
+      "text": "Do they play chess?",
+      "recording": "c81fa6c724efc4ca301238db06d5725c39008dbb0c46a21fc8783805bf08a710"
+    },
+    {
+      "id": "present_simple_sentence_010",
+      "text": "Does Sara study English?",
+      "recording": "22b036c9d160df16eccbf70d24f7bcfdf5607a0acf833cceb3532f02470b2841"
+    },
+    {
+      "id": "present_simple_sentence_011",
+      "text": "They don't play chess.",
+      "recording": "aeffd9bf8290eb85f8a81d1c1ab87270477ae805c26a17a08a8d797a643eb751"
+    },
+    {
+      "id": "present_simple_sentence_012",
+      "text": "We don't need help.",
+      "recording": "e2b8f815f44e42f84b50b3476bf9257b3eeef65cfb208ce59b512bed5ae55028"
+    },
+    {
+      "id": "word_buy",
+      "text": "buy",
+      "recording": "e8197b20f8e71e429645f83cc6f07d9d43ee7a30ef5dc6c02dd16692a7bc9aac"
+    },
+    {
+      "id": "word_call",
+      "text": "call",
+      "recording": "7edb360f06acaef2cc80dba16cf563f199d347db4443da04da0c8173e3f9e4ed"
+    },
+    {
+      "id": "word_cancel",
+      "text": "cancel",
+      "recording": "2374d91794b79f4fb4ec9587d2cf00aecc4f9953fab3ed1dd12ab147a0b721f9"
+    },
+    {
+      "id": "word_cancelled",
+      "text": "cancelled",
+      "recording": "8b47045eb7b8ca42aa967f33ee1d014ba89f8d1ac207426b482d34b5c0d90935"
+    },
+    {
+      "id": "word_care",
+      "text": "care",
+      "recording": "f9ed2b54fd72ac1652579d3726fe310b3984465599a6051909ac4259de8f7aac"
+    },
+    {
+      "id": "word_cared",
+      "text": "cared",
+      "recording": "f25d0ff2ea91d45c97e36425d98ca4861b7be453bf64e5eb1789eeed12db759b"
+    },
+    {
+      "id": "verb_example_049",
+      "text": "Mr Lee teaches science.",
+      "recording": "acce2b9c6e429a00daeb28d2e08721632c150a97ff7259ce8daf02c6fdeae72f"
+    },
+    {
+      "id": "verb_example_050",
+      "text": "I tell my sister a story.",
+      "recording": "3622e31a08c2a37f19c21bede10a8e6737d9e2fcb80bba7063a4a36f26838c68"
+    },
+    {
+      "id": "verb_example_051",
+      "text": "We think about the question.",
+      "recording": "1a3c81f6e075afddce2254391461c040374c9898e81064a769de0ca98e7331a7"
+    },
+    {
+      "id": "verb_example_052",
+      "text": "He understands the lesson.",
+      "recording": "3db19a530bf07e156b059244c22f018b1f3599bb8cf5c9121e5c74e85f2d9c31"
+    },
+    {
+      "id": "verb_example_053",
+      "text": "She wears a warm coat.",
+      "recording": "5f53556ef971f077649cefe31a1137d3cae2380e25540c61005a3d79d6a2125c"
+    },
+    {
+      "id": "verb_example_054",
+      "text": "Our team wins the game.",
+      "recording": "3992b2af384a0c8753525055a35c4e8d6c7d8af8da4bd9fed64dad6282fc51e6"
+    }
+  ],
+  "held": [
+    {
+      "group": 1,
+      "pauses": [
+        [
+          2.42898,
+          0.439138
+        ],
+        [
+          5.168005,
+          0.482177
+        ],
+        [
+          7.440522,
+          0.300907
+        ],
+        [
+          9.782676,
+          0.366213
+        ],
+        [
+          11.548005,
+          0.416757
+        ],
+        [
+          13.659138,
+          0.476757
+        ],
+        [
+          15.16263,
+          0.275578
+        ]
+      ]
+    },
+    {
+      "group": 2,
+      "pauses": [
+        [
+          2.3,
+          0.386984
+        ],
+        [
+          4.011497,
+          0.239637
+        ],
+        [
+          5.822268,
+          0.280272
+        ],
+        [
+          7.126168,
+          0.439932
+        ],
+        [
+          9.107302,
+          0.403424
+        ],
+        [
+          10.683968,
+          0.430408
+        ],
+        [
+          12.852245,
+          0.271655
+        ]
+      ]
+    },
+    {
+      "group": 4,
+      "pauses": [
+        [
+          2.472789,
+          0.454104
+        ],
+        [
+          4.364626,
+          0.231429
+        ],
+        [
+          5.436032,
+          0.353469
+        ],
+        [
+          9.374717,
+          0.355941
+        ],
+        [
+          13.247596,
+          0.482109
+        ],
+        [
+          15.509184,
+          0.299796
+        ],
+        [
+          17.717302,
+          0.459705
+        ],
+        [
+          22.825215,
+          0.221542
+        ]
+      ]
+    },
+    {
+      "group": 5,
+      "pauses": [
+        [
+          3.150385,
+          0.42542
+        ],
+        [
+          5.651995,
+          0.277234
+        ],
+        [
+          7.536939,
+          0.401156
+        ],
+        [
+          9.80678,
+          0.456803
+        ],
+        [
+          11.634717,
+          0.464989
+        ],
+        [
+          13.52941,
+          0.434286
+        ],
+        [
+          15.812789,
+          0.311995
+        ]
+      ]
+    },
+    {
+      "group": 6,
+      "pauses": [
+        [
+          3.963741,
+          0.453673
+        ],
+        [
+          6.564082,
+          0.366168
+        ],
+        [
+          8.913991,
+          0.41839
+        ],
+        [
+          11.339252,
+          0.451202
+        ],
+        [
+          13.719887,
+          0.430862
+        ],
+        [
+          15.559932,
+          0.432766
+        ],
+        [
+          17.507846,
+          0.259932
+        ]
+      ]
+    },
+    {
+      "group": 7,
+      "pauses": [
+        [
+          3.65644,
+          0.387642
+        ],
+        [
+          5.800703,
+          0.37127
+        ],
+        [
+          10.667143,
+          0.412902
+        ],
+        [
+          14.65034,
+          0.560385
+        ],
+        [
+          16.426395,
+          0.479138
+        ],
+        [
+          18.061542,
+          0.216054
+        ],
+        [
+          20.563719,
+          0.444762
+        ],
+        [
+          22.976145,
+          0.244875
+        ]
+      ]
+    }
+  ],
+  "noTrailingSilenceGroups": [
+    3
+  ],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
