@@ -1,0 +1,22 @@
+{
+  "batch": "rebuild-052",
+  "accepted": [
+    {
+      "id": "present_continuous_story_full",
+      "text": "Right now, Sara is painting a large blue tree for the school art show. She is working in the art room with her friend Noah. The room is busy, but everyone is enjoying the project. Noah is mixing green paint beside her, and Sara is choosing a softer color for the leaves. Their teacher is carrying clean paper from one table to another. This week, the students are learning how to use watercolors. They are trying new techniques, and they are sharing their brushes. Sara is not painting every minute; sometimes she is watching the light near the window and thinking about the next part of the picture. She knows that good art takes patience. Look! A small drop of blue paint is falling onto the table. Sara is laughing, and Noah is bringing a cloth. They are cleaning the table together. The teacher is not getting angry because accidents happen during creative work. Across the room, two students are drawing a quiet street, while another group is building a paper bridge. The art show is tomorrow evening, so the class is also preparing for a future event. Sara is meeting her parents at the gallery at six. Noah is bringing his little sister, and the teacher is opening the doors for visitors. These are arranged plans, not a guess about the future. Listen! The students are talking about their pictures. Sara is saying that her tree represents a safe place. She is not claiming that it is perfect; she is sharing what it means to her. At the moment, the class is making the final labels, and everyone is feeling proud of the work.",
+      "recording": "b2a5ab87a354496948bb9e71a0a1e30df68cedf10e7ca090fed7570ff3e85382"
+    },
+    {
+      "id": "present_perfect_story_full",
+      "text": "Sara has joined the community garden this spring. The group has planted vegetables and flowers in an empty lot behind the library. Sara has worked there since April, and she has learned how to prepare the soil, choose seeds, and water young plants. She has never grown tomatoes before, so she asks the older gardeners many questions. Today, the class has finished its first garden bed. Sara has planted twelve small flowers near the gate, and her friend Noah has labeled the seed trays. The rain has stopped, so the children have gone outside to check the soil. Their teacher has brought a watering can, but the ground is still wet. The group has built a wooden bench beside the path. They have used old boards from the school workshop, and the bench has become a favorite place to rest. Sara has just painted it green. She has already cleaned her brushes, but she has not put them away yet. Sara has been to the tool shed and has returned with a pair of gloves. Noah has gone to the other side of the garden to find a rake; he is not back yet. The children have been in the garden for two hours, and nobody has complained about the work. They have shared snacks and have told stories while they plant. The garden has changed the empty lot. Last month, the ground looked dry and forgotten; now the first leaves have appeared. Sara has taken several photos, but she took the first one on Monday, when the class started the bench. She is proud because the group has made a place that the whole neighborhood can use.",
+      "recording": "3dfbb76789f1ef1b7e5cdd18cada30a3bb018b5de0c49c4040fba29a17a723a6"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
