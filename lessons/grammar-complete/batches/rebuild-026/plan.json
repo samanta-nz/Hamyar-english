@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "audioId": "new_to_be_0097",
+      "ttsText": "Your seat is beside the window.” Sara is glad because the window is near a small garden.",
+      "sourceFilePath": "audio/to-be/new_to_be_0097.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0097",
+      "audioSelector": "#audio_new_to_be_0097",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0098",
+      "ttsText": "A girl walks over and says, “I’m Emma.",
+      "sourceFilePath": "audio/to-be/new_to_be_0098.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0098",
+      "audioSelector": "#audio_new_to_be_0098",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0099",
+      "ttsText": "This is my desk, and that is your desk.",
+      "sourceFilePath": "audio/to-be/new_to_be_0099.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0099",
+      "audioSelector": "#audio_new_to_be_0099",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0100",
+      "ttsText": "These are our science books.",
+      "sourceFilePath": "audio/to-be/new_to_be_0100.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0100",
+      "audioSelector": "#audio_new_to_be_0100",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0101",
+      "ttsText": "Those are the art supplies.” Sara smiles.",
+      "sourceFilePath": "audio/to-be/new_to_be_0101.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0101",
+      "audioSelector": "#audio_new_to_be_0101",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0102",
+      "ttsText": "There is a blue notebook on her chair, and there are two pencils under the desk.",
+      "sourceFilePath": "audio/to-be/new_to_be_0102.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0102",
+      "audioSelector": "#audio_new_to_be_0102",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0103",
+      "ttsText": "The class is friendly, and the students are ready to help.",
+      "sourceFilePath": "audio/to-be/new_to_be_0103.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0103",
+      "audioSelector": "#audio_new_to_be_0103",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0104",
+      "ttsText": "At break time, Sara is not alone.",
+      "sourceFilePath": "audio/to-be/new_to_be_0104.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0104",
+      "audioSelector": "#audio_new_to_be_0104",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0105",
+      "ttsText": "Emma is with her, and two other students are in the garden.",
+      "sourceFilePath": "audio/to-be/new_to_be_0105.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0105",
+      "audioSelector": "#audio_new_to_be_0105",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ],
+  [
+    {
+      "audioId": "new_to_be_0106",
+      "ttsText": "They are happy to show Sara the school.",
+      "sourceFilePath": "audio/to-be/new_to_be_0106.mp3",
+      "targetHtmlFile": "to-be.html",
+      "audioElementId": "audio_new_to_be_0106",
+      "audioSelector": "#audio_new_to_be_0106",
+      "targetAttribute": "src",
+      "embedAs": "data:audio/mpeg;base64,<BASE64_MP3_BYTES>",
+      "kind": "story_sentence",
+      "lesson": "to-be"
+    }
+  ]
+]

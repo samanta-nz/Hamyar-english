@@ -11311,5 +11311,95 @@
     "start": 0.0,
     "end": null,
     "sha256": "a2d0c9bec79689f7690228a206ac8a5b656efb350d5a95ea4d4ab34947c215cd"
+  },
+  "Your seat is beside the window.” Sara is glad because the window is near a small garden.": {
+    "file": "audio/112df84dfa57f81cbd2d5940db8d700f9c3d612da525651ee88c33d148ced3a6.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 0,
+    "start": 0.0,
+    "end": null,
+    "sha256": "2a8505df2523aed83fd76b37c1b469dda8858beab35cce25c33fdd504447f422"
+  },
+  "A girl walks over and says, “I’m Emma.": {
+    "file": "audio/9bbd265fe16c46023784bbd35ae4cd2cb3276654fa95191a17cc921b41ac6890.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 1,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c231bc30a08604fa922df8a56cfdc60507a0ab50d9bd9aee619db106f25f6866"
+  },
+  "This is my desk, and that is your desk.": {
+    "file": "audio/9d3ddec44d8f578d33ebfbebdba84292c8975b001f49dc3b3f781d4408a42a59.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 2,
+    "start": 0.0,
+    "end": null,
+    "sha256": "ad871c821ef3e9916acebc34ce8fc0c11999e980e9f9a2df2f4ff2ffc4e19b59"
+  },
+  "These are our science books.": {
+    "file": "audio/0f4ee612fc8a93372bb657def99025643da3cf7c9bd09c715c750140983ba212.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 3,
+    "start": 0.0,
+    "end": null,
+    "sha256": "40737a60ce19c6265756341c6cdb1ae96c2c0d13ba54381906aa98e7cc2995bf"
+  },
+  "Those are the art supplies.” Sara smiles.": {
+    "file": "audio/3b12ec3a3be761eff04ec6372ea15efff3b986acd1c1f944218de1a5205c917e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 4,
+    "start": 0.0,
+    "end": null,
+    "sha256": "8ed23fbc033a4be2d4598722eeb090f253432782f61dc04964d303213c8d1219"
+  },
+  "There is a blue notebook on her chair, and there are two pencils under the desk.": {
+    "file": "audio/2bc75132fc14a14c5c196d170c29e44afc94941e404f1e1787f02ac31d1eac8b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 5,
+    "start": 0.0,
+    "end": null,
+    "sha256": "74ba2a2bf053a24a1b669ef498fba9606dac3f809a4a0b876bdde27cb723a188"
+  },
+  "The class is friendly, and the students are ready to help.": {
+    "file": "audio/7136931af61574f9a51bdc5f6eef2c588a9f6849741da020052d6119a57f177e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 6,
+    "start": 0.0,
+    "end": null,
+    "sha256": "93e83a2f3b6da7ed3f3cf59f1c80ea70beb26de6bef6c32983661461d606db47"
+  },
+  "At break time, Sara is not alone.": {
+    "file": "audio/d4554be37f539a7b49965c8591aefcc0b5e4c90c763c2583f16adc7c7cb5ca3b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 7,
+    "start": 0.0,
+    "end": null,
+    "sha256": "6a76a9486a50d50a8745db03723a5820473f1189b6ba6e6c7f6fb2078b4dc874"
+  },
+  "Emma is with her, and two other students are in the garden.": {
+    "file": "audio/c44776214a27021a1692ac14ca4113f4f639ef60620571e6a14f9e74d01c6cc9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 8,
+    "start": 0.0,
+    "end": null,
+    "sha256": "0748926f2abc4d8e6d6d3a54e1c05f84f4232b9613535a896c94e57ca9a62ddf"
+  },
+  "They are happy to show Sara the school.": {
+    "file": "audio/b9118bae048bba616f82ebc091b36644ea40c035127d733cb07affaa38b43d57.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-026",
+    "group": 9,
+    "start": 0.0,
+    "end": null,
+    "sha256": "c7cc873efecbd6565f98cf79e65d2c426156067437f0f2120c22fcfbc21326ff"
   }
 }

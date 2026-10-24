@@ -1,8 +1,8 @@
 {
   "status": "IN_PROGRESS",
-  "complete": 1733,
+  "complete": 1743,
   "total": 2006,
-  "uniqueRecordings": 1257,
+  "uniqueRecordings": 1267,
   "lessons": [
     {
       "file": "grammar-exceptions-common-mistakes.html",
@@ -1198,7 +1198,17 @@
         "new_to_be_0093",
         "new_to_be_0094",
         "new_to_be_0095",
-        "new_to_be_0096"
+        "new_to_be_0096",
+        "new_to_be_0097",
+        "new_to_be_0098",
+        "new_to_be_0099",
+        "new_to_be_0100",
+        "new_to_be_0101",
+        "new_to_be_0102",
+        "new_to_be_0103",
+        "new_to_be_0104",
+        "new_to_be_0105",
+        "new_to_be_0106"
       ],
       "pending": [
         "to_be_story_full",
@@ -1216,16 +1226,6 @@
         "new_to_be_0010",
         "new_to_be_0011",
         "new_to_be_0012",
-        "new_to_be_0097",
-        "new_to_be_0098",
-        "new_to_be_0099",
-        "new_to_be_0100",
-        "new_to_be_0101",
-        "new_to_be_0102",
-        "new_to_be_0103",
-        "new_to_be_0104",
-        "new_to_be_0105",
-        "new_to_be_0106",
         "new_to_be_0107",
         "new_to_be_0108",
         "new_to_be_0109",

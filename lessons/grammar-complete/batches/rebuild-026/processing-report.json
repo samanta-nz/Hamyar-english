@@ -1,0 +1,70 @@
+{
+  "batch": "rebuild-026",
+  "accepted": [
+    {
+      "id": "new_to_be_0097",
+      "text": "Your seat is beside the window.” Sara is glad because the window is near a small garden.",
+      "recording": "112df84dfa57f81cbd2d5940db8d700f9c3d612da525651ee88c33d148ced3a6"
+    },
+    {
+      "id": "new_to_be_0098",
+      "text": "A girl walks over and says, “I’m Emma.",
+      "recording": "9bbd265fe16c46023784bbd35ae4cd2cb3276654fa95191a17cc921b41ac6890"
+    },
+    {
+      "id": "new_to_be_0099",
+      "text": "This is my desk, and that is your desk.",
+      "recording": "9d3ddec44d8f578d33ebfbebdba84292c8975b001f49dc3b3f781d4408a42a59"
+    },
+    {
+      "id": "new_to_be_0100",
+      "text": "These are our science books.",
+      "recording": "0f4ee612fc8a93372bb657def99025643da3cf7c9bd09c715c750140983ba212"
+    },
+    {
+      "id": "new_to_be_0101",
+      "text": "Those are the art supplies.” Sara smiles.",
+      "recording": "3b12ec3a3be761eff04ec6372ea15efff3b986acd1c1f944218de1a5205c917e"
+    },
+    {
+      "id": "new_to_be_0102",
+      "text": "There is a blue notebook on her chair, and there are two pencils under the desk.",
+      "recording": "2bc75132fc14a14c5c196d170c29e44afc94941e404f1e1787f02ac31d1eac8b"
+    },
+    {
+      "id": "new_to_be_0103",
+      "text": "The class is friendly, and the students are ready to help.",
+      "recording": "7136931af61574f9a51bdc5f6eef2c588a9f6849741da020052d6119a57f177e"
+    },
+    {
+      "id": "new_to_be_0104",
+      "text": "At break time, Sara is not alone.",
+      "recording": "d4554be37f539a7b49965c8591aefcc0b5e4c90c763c2583f16adc7c7cb5ca3b"
+    },
+    {
+      "id": "new_to_be_0105",
+      "text": "Emma is with her, and two other students are in the garden.",
+      "recording": "c44776214a27021a1692ac14ca4113f4f639ef60620571e6a14f9e74d01c6cc9"
+    },
+    {
+      "id": "new_to_be_0106",
+      "text": "They are happy to show Sara the school.",
+      "recording": "b9118bae048bba616f82ebc091b36644ea40c035127d733cb07affaa38b43d57"
+    }
+  ],
+  "held": [],
+  "wholeRecordingGroups": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "noTrailingSilenceGroups": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
