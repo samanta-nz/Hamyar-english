@@ -1402,5 +1402,545 @@
     "start": 3.9583105,
     "end": null,
     "sha256": "36fdbf3b7338118b15a460b5da1b3cf46d26a9e4294e128d5e33ed2b4f597712"
+  },
+  "read": {
+    "file": "audio/3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 0.0,
+    "end": 0.702109,
+    "sha256": "197062036ce9c1d3e2cffe8f082b8ef0c1964c8528720698dcfede2f04be70e0"
+  },
+  "studied": {
+    "file": "audio/312d4d2ec507f40c50487c914b6e1ed5ffd8ac5a8e015a10739ffa4db477fdcd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 0.702109,
+    "end": 1.7471085,
+    "sha256": "cdd35ed361181c8f1f9124c7444abf55c0bfa8c62bae18ea319b12e983045f81"
+  },
+  "studies": {
+    "file": "audio/48d492d08e9d314c034cc87fc1f8c577590e9283b943103818e7a09e5d636ef7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 1.7471085,
+    "end": 2.813299,
+    "sha256": "eb8f053ca0e436afb0a8213aab718068d015163d9587857d1bb8b94ac9604562"
+  },
+  "study": {
+    "file": "audio/0c87ed818fb90f3f88faa6b362cf1e99025f3c1248f8fe513cdb38d03d9dce65.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 2.813299,
+    "end": 3.7081185,
+    "sha256": "255b6faf369aea8ea7841c020e4cf1a5b2fc719c3939016d4d3ff022f7c7d1cb"
+  },
+  "talk": {
+    "file": "audio/ce7611e7481e75f085f6902050b40918b0e8374634eeb803ad3e340e90267d6a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 3.7081185,
+    "end": 4.529796,
+    "sha256": "5d01d6371dfdf6ab69cb7b4597d19b494e74ad4969cb127cbfcef53dfde3c23b"
+  },
+  "usually": {
+    "file": "audio/ceb1e2514a1f1b4530979dc2beede29a4a1d424e09437d9f2d5dcb0983f5a78d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 0,
+    "start": 4.529796,
+    "end": null,
+    "sha256": "8bf1307fbe5831474e51b6f9b54a32982d5156517c4caea2d1c161ac9e408f6c"
+  },
+  "visit": {
+    "file": "audio/f0e68ac26df2184062ae2a945cd0b5e58466d75d6858359b7127776e9710a364.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 0.0,
+    "end": 0.925011,
+    "sha256": "c941b2c30f884744dff8619efc0de822d781f22dbbf53fe3edd3717271260cf0"
+  },
+  "walk": {
+    "file": "audio/7a6c4fac6c5cd7209ee2eecd9d6ad3673c55315117de1d8daa5aeb3f71bbd7c7.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 0.925011,
+    "end": 1.7462360000000001,
+    "sha256": "c69125ce941d1ecc116210fc8eb9c35c1838d77b5a37d06f05ad358fc17a80bb"
+  },
+  "watch": {
+    "file": "audio/baed831623943be39ebf0ef44ae1e9c8fc3eeab51b5f89c113ca410d76a34c1d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 1.7462360000000001,
+    "end": 2.569592,
+    "sha256": "1aebe8cf67e5903cf4e3b6335877edf4872a7a8020462f8191d409201a571bbb"
+  },
+  "watches": {
+    "file": "audio/e884d6537d639e2efad64154490fe050da190119806cba416fc52ec2288d1437.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 2.569592,
+    "end": 3.5897164999999998,
+    "sha256": "8af0dff59971ed888ae32e47b9baed3a4fb89c2e2d90887968ab1fe60fabc181"
+  },
+  "working": {
+    "file": "audio/dd5ace9e018dbd62336cbe039916ad7c817d0e9bc9934f70d67f3ff75544da88.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 3.5897164999999998,
+    "end": 4.442233,
+    "sha256": "9577e7933c2c6fd712fffc10d56e80cb647fb4f3caf856da1afc0aac928862b5"
+  },
+  "I walk to school every day.": {
+    "file": "audio/573b5abffed4836f1218cbabe775eca2819dd21c41f8d8ed67643cd5f7159460.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 1,
+    "start": 4.442233,
+    "end": null,
+    "sha256": "49f0138e6bf6ffa81a711f1702f749602e57ae3ae0d1659509e7489abf780b8d"
+  },
+  "You read before bed.": {
+    "file": "audio/53eb5b2636d009ced26fe1516cb44a15348aecc7d718b25ddca1321ecdd9d0ab.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 0.0,
+    "end": 1.664614,
+    "sha256": "e6831af0e33a23fe1da1050fdfc701bccb36a3de52d2d69046a97f9c5f10af8c"
+  },
+  "We eat lunch at noon.": {
+    "file": "audio/d92a67f5c044c8288598fef5a4b89160586fa14af0377bcd14f046202faefdf1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 1.664614,
+    "end": 3.6397735,
+    "sha256": "2b9672bc541373186f719a72ced1e1c0d8b7b94d115b16645658135972009fd1"
+  },
+  "They visit their aunt on Fridays.": {
+    "file": "audio/22b7c0a90859614bc21ceedb5b55e7a83c0bfc42851f2716223d5ae7d369afb1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 3.6397735,
+    "end": 6.262041,
+    "sha256": "26a012e652d9b5234198fe23095af0319b48d2cfa7cbef1084080fdbd473ff88"
+  },
+  "He works at a bank.": {
+    "file": "audio/d36e4a920511e23314391b9a004c493d4627ad2c20cb311b585db840f1a55cd9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 6.262041,
+    "end": 7.922199000000001,
+    "sha256": "f9fce2b6ae94ebb2b1752caea114bf7979b310827158748eb0a9dd5292ae4c69"
+  },
+  "Sara studies English after dinner.": {
+    "file": "audio/39c3e529caeebfeefee20673944e09b79bc6803b316ec5afa7c0d30fa986ee72.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 7.922199000000001,
+    "end": 10.505589500000001,
+    "sha256": "917cbd409da9d6e7e97aa4ec138f1bc1988674c68b9670ff6baa205c562c604b"
+  },
+  "Mina plays the piano.": {
+    "file": "audio/ec21586628aab2c1d3a3aa1b4e91e2ba58d8c26d24e80b4a8218f0b3cfa351e1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 2,
+    "start": 10.505589500000001,
+    "end": null,
+    "sha256": "82fed04cb91342dd718d6537b689454c60d4198fd78aba37bffb0c276f4e04bc"
+  },
+  "He watches the news.": {
+    "file": "audio/204609d7a73a047c699ae3cdaa025710fcc7a9dea78b11e9b163a6d55f489736.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 0.0,
+    "end": 1.545771,
+    "sha256": "266c9afcc125bd9802439debdc881f6dd76cb70de919dd0c1293d3b367211e31"
+  },
+  "I have a small desk.": {
+    "file": "audio/ebc6a76f95820eda82a9d0fa36176a7e1be00daefba9ca545fb50514311ed48c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 1.545771,
+    "end": 3.3582655,
+    "sha256": "42f93e9bd1dfa0f3ccd536d0124a7a0b985ac3faaa0caae49de2c6ccd7c1cdb9"
+  },
+  "You have two classes today.": {
+    "file": "audio/0ccdda9272f9902fa8a7f54044e9642b6429d76419f9ee1fd4a8d966062e9f8b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 3.3582655,
+    "end": 5.364626,
+    "sha256": "2fecc1f071bcf9a49d4a0adf56caf2ae19a8c670e9d5914d3f2ca398775c9cc7"
+  },
+  "We have breakfast at home.": {
+    "file": "audio/42cce8d36d243eea655de1ee3f1b545860aaa58cc4c2ffae2165bc8b44c44fed.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 5.364626,
+    "end": 7.203946,
+    "sha256": "376153d70cdceaca1243eb70869789aae8576954c5baf2e8ed9bda3c893139ad"
+  },
+  "They have a garden.": {
+    "file": "audio/6814743019128fab423280c177fcae85117aed5a05840c1391404ab2acdf42f2.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 7.203946,
+    "end": 8.6479365,
+    "sha256": "c67f3d0c9a41c77a7830a37e528b8d178598c6e0d3bb864b9737470cd16eaed6"
+  },
+  "He has a new bicycle.": {
+    "file": "audio/08a53e74f7b5f91919325b8cecd01a8339a4c1a1efcb4fc5f2ea645ad68c1459.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 3,
+    "start": 8.6479365,
+    "end": null,
+    "sha256": "a0d0e7de6c7849aa9ba25be9434d8afd482735b8eb4d160985a7a4da3ca76538"
+  },
+  "Sara has music lessons on Tuesday.": {
+    "file": "audio/2e655c078d46a0ad3c513dca2c86e1f2fdb974c4af46136d797c20aae655dc8c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 0.0,
+    "end": 2.7838884999999998,
+    "sha256": "86dcc7fa8a1a0711a7724f12c901160944c2361fee6872fdada41848a0012c37"
+  },
+  "I always pack my bag at night.": {
+    "file": "audio/4da49d7518f392d36e34c2d498c207b08a7a39b18cd84a37075f4359ebc8fe50.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 2.7838884999999998,
+    "end": 5.24144,
+    "sha256": "e2fc9c12d18e90cc7878e7d194d07cf73ef356191beebb7a6ae70f1cc406f6aa"
+  },
+  "She usually drinks tea in the morning.": {
+    "file": "audio/e925096a38ccb218b3fef0bcbbae2bcc5c0e15ae2d1869aa7d2deac6f9555e64.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 5.24144,
+    "end": 8.161202,
+    "sha256": "4b96ecd591ccb48da861d267e0bd31b971b97361082d5335523c542fa7702a31"
+  },
+  "We often walk after dinner.": {
+    "file": "audio/79e60ceb97d7fc6669a6aaa99ef3899b4b39c8418c1a9eb85fba6626c663226d.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 8.161202,
+    "end": 10.2171545,
+    "sha256": "01b17fd156aa86e740e20c10c3d64eb98bac4f4c43d0707551b7c9173e9c7162"
+  },
+  "He sometimes cooks for his family.": {
+    "file": "audio/ff33d8289ca76f55a68a4640a73f35ade89f85e4ba825ace4ca891e37da7d304.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 10.2171545,
+    "end": 12.581723499999999,
+    "sha256": "e87afc73703633e9eb9ef99036a88d98ebe0b6275eeee0822ebc8e9fde17f279"
+  },
+  "They rarely take a taxi.": {
+    "file": "audio/0c3cb0de553b39082a58f847a4c5ef130232f988bcd7839eac06e78237e74de1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 4,
+    "start": 12.581723499999999,
+    "end": null,
+    "sha256": "fce5ea64fe172b10a8c4904f5f08eebcf98706e30f28c71cbc293e04e25212d6"
+  },
+  "Sara never skips breakfast.": {
+    "file": "audio/4fb62c3c2163523e157509e815f754a486ecfa05b5f923c251b8836504072145.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 0.0,
+    "end": 2.1093539999999997,
+    "sha256": "b1dd592ab6c1ed6edd145c6cd156150e41731d56672dfdc5e3c5c5bbb1606663"
+  },
+  "She works in a shop.": {
+    "file": "audio/b549c3eaace9d6701a0bd42fc024a94459447dbaf232d97354fc0a41517eaca4.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 2.1093539999999997,
+    "end": 3.814796,
+    "sha256": "f0e71e396d09dd33d7429a6ca25ee6eee60cccf8003b4e20bca0e614b7268eec"
+  },
+  "He laughs at the joke.": {
+    "file": "audio/deae7833a923e2b263c13b279c56258516de9fc9f518fd00f41c34f52b726b73.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 3.814796,
+    "end": 5.3719955,
+    "sha256": "d06094125ea67fff1cb6f90a518c7d593ea072c4550b1d6e0197c9f1ff3c0c25"
+  },
+  "Mina plays chess.": {
+    "file": "audio/d20002c8f17877ff6b7e0630376504d15a44487a015cfa5d1dadeb994290393a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 5.3719955,
+    "end": 7.0454535,
+    "sha256": "85691336b932bc869952e15eeebcbe9cca57304b74ba8aadb8c25d160475eb07"
+  },
+  "The dog runs in the yard.": {
+    "file": "audio/0311bd84aacd62be7d38c970365ac6446a5c828691ec0b3a0010dd53159ec93b.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 7.0454535,
+    "end": 8.995216000000001,
+    "sha256": "360b5c141716b73c7a32890109652d577916cc2c6cfa84976a157d2f275915b9"
+  },
+  "She watches a film.": {
+    "file": "audio/8e91fa305c29af9ece55ca06fa48e7fa02188b78035efb781b46628f82d5c503.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 5,
+    "start": 8.995216000000001,
+    "end": null,
+    "sha256": "36a174caf53fead3343d6698ddd1807408db6a6844247bb53a7cf2fe31f3750f"
+  },
+  "He washes the dishes.": {
+    "file": "audio/276da7131a92bfd7199e6ba8b6c7aa5413e615f2d47811d78828edd7dba31d69.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 0.0,
+    "end": 1.7247165,
+    "sha256": "78492a85ad3f6fda39079770cabb7368aea9a8a2cc6673a1a7eb5f665464ad72"
+  },
+  "The sun rises in the east.": {
+    "file": "audio/8b3ce0d8c1cadfb4c7de54acdcef26cfce0249e845bb1434d5d81e2a07ecb278.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 1.7247165,
+    "end": 3.880816,
+    "sha256": "c26010f3f7226e0d1714097e0ced3f36e6f01f9950e8f028ca943121e9784e32"
+  },
+  "Water freezes at zero degrees.": {
+    "file": "audio/83a6d0daa847bbc74bb1ca18085a069be040375c1cf47dc9e3c901d8f918d63e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 3.880816,
+    "end": 6.421497,
+    "sha256": "1cb495eac0653daa93482fb755fc1aa98c26e2ad5bf12dff39d4bf6af9e61e7a"
+  },
+  "I brush my teeth every morning.": {
+    "file": "audio/e8057a77f8e58f6ab07871c84b391e5f5557aca66096f8242ebd2bbf86d4a010.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 6.421497,
+    "end": 8.875556000000001,
+    "sha256": "a3e3c6c67be686b9692a389a28a89c6f2e9e5f5a17a7a3048573c4109206d488"
+  },
+  "Sara takes the same train each day.": {
+    "file": "audio/27283c29b8aa8de3c9a073c169e09917190560563153ebade4090bca8e065304.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 8.875556000000001,
+    "end": 11.6166445,
+    "sha256": "6d87b8d678f0dd383cf213a453105cb0aba28ed44a0dbe4ed28fc23ecbc32ae5"
+  },
+  "Plants need light to grow.": {
+    "file": "audio/5ea6884f9ebff45c81b3e2810cdcf548a0b73a95e1e48c2f0d5504b7c1bdf4d1.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 6,
+    "start": 11.6166445,
+    "end": null,
+    "sha256": "ca9676384b09e0287f4daf1e341a1a398e713b4a77eb6835c55e6de7bba631e3"
+  },
+  "Our class begins at nine.": {
+    "file": "audio/9cb8f84f21eb3d14734049c8c95c6de55def770be6364ea9423ce89fdf0878ed.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 0.0,
+    "end": 2.0529140000000003,
+    "sha256": "7da26a63245e86962da0862eb7f43fe71ca69fff308ef7b994720cf332311670"
+  },
+  "I do not drink coffee.": {
+    "file": "audio/54b78a07cd892acdb3c3fcbab988b216edc59bf7bd4834e1ff3124f5c70e8f25.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 2.0529140000000003,
+    "end": 3.94644,
+    "sha256": "f7c9959963b00bf416dbe9d696eb2a7aab23390501505798183caeca3e7a553c"
+  },
+  "You don't need a ticket.": {
+    "file": "audio/75101fa18b277fb344d309828fa145fe387281c724d20edc3447c62c6dd2ffba.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 3.94644,
+    "end": 5.536451,
+    "sha256": "8c9827c2f7f49abc0696c3a9a94a1cfe9330c5158ac6fc3d97201010d1b3585d"
+  },
+  "We don't work on Fridays.": {
+    "file": "audio/dd5a34de57e68104dde9fe3536a02faec8842823011be47c95a46d1910341a6c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 5.536451,
+    "end": 7.569795999999999,
+    "sha256": "ff775d466a45767342fe35fb8c222aa30b53c1d1de6dd200ddde3adaba628000"
+  },
+  "They don't live nearby.": {
+    "file": "audio/dc984047cfc2c7b0a8b95f540d14b200717f3cbc490794f04e342942ae61e119.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 7.569795999999999,
+    "end": 9.214331,
+    "sha256": "ccba53b60c466198207c8570771402f00728752c53b38516e84d0dddc121db1c"
+  },
+  "He doesn't eat meat.": {
+    "file": "audio/4348dbb46b8d34194350e2adab5b3d47ad8ce814af8f016e800cde854e77587c.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 7,
+    "start": 9.214331,
+    "end": null,
+    "sha256": "caf085f7212225a6d66d91e0447bca7628138f5851a7253d614ffa7554b99bdf"
+  },
+  "Sara doesn't drive to school.": {
+    "file": "audio/650b35c231db9469cb9db3935b92ebac98f1429ca179f62ca13b990031ca6b7a.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 0.0,
+    "end": 1.9287305,
+    "sha256": "dce6dd459e589537b9d7994cc44611b483cc030b6b422ee6a44a78958143b6ff"
+  },
+  "Do you like this song?": {
+    "file": "audio/2afa2f8687b7417e4ee7aae4dfc5147f28588d30dc0c78fb5522c2f79d10d8fd.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 1.9287305,
+    "end": 3.295578,
+    "sha256": "970d83bb458b8e181b31f78c2f5f2fc62eabf571329e3714bb1808370c465e60"
+  },
+  "Do they study together?": {
+    "file": "audio/ae80f530eed403083775e78564d6655ad968d3b41699d0cf31d9cbdd8d22f967.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 3.295578,
+    "end": 5.0277775,
+    "sha256": "2bb1c692c10a68f518e44eee2a6836bf98ecd4cb66575c5ec925ef81206a395d"
+  },
+  "Does he call his mother daily?": {
+    "file": "audio/c917b31f7d49b6bc0dcddb84c7f0562e5961197a4f5c8aba87ff352115d591c3.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 5.0277775,
+    "end": 7.110227,
+    "sha256": "d043cc289a7824aaa2e9683d526dde2d38fb0103ee24c0273d15154f9f187688"
+  },
+  "Does Sara take the bus?": {
+    "file": "audio/6f4e9f9ffdd6a5edcbbf63b46e50314d39e7cff69d1f3f3c76f9d56b8803b49f.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 7.110227,
+    "end": 9.1145125,
+    "sha256": "009e3ed0757f35380ccf73306032d8d0b21edf252434d697c9d1bd0ae40c25ad"
+  },
+  "Do we need more time?": {
+    "file": "audio/51908063d28e09d09f9648424cb421f0c2b33cb9ec8da8837dfa5435f4ab666e.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 8,
+    "start": 9.1145125,
+    "end": null,
+    "sha256": "d26a2731cf363908802b40a949a982b1fa75d6dafc5f57d44ebf8cadaa0f0d08"
+  },
+  "Does the shop open at nine?": {
+    "file": "audio/f551ce868fdeaffbc9ac18c68a9bb213962a169c17fb190fdcbf9cfddc5b6220.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 0.0,
+    "end": 2.085964,
+    "sha256": "2b2ca57c5ffccba778501fe8a1344b0e7034cc6f18c96ca27f04fa0f560ed382"
+  },
+  "When do you start work?": {
+    "file": "audio/df6ab3e7a4638afb480cc63087a9ed87280d8843c294afd3329466976fb4b305.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 2.085964,
+    "end": 3.7517685,
+    "sha256": "b41a8a74cea4f7122cb4483e270cbf4e068272c8d122d3c349f7aa96beb2a7dc"
+  },
+  "Where does Sara study?": {
+    "file": "audio/805951eaf5c98126ce94291c7d668794d1f7fd52a92c8046873b341264cbc714.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 3.7517685,
+    "end": 5.538945,
+    "sha256": "13cb97cc541f8cd62786a0988de2ffeec2a40810610f51ef810d81b945ddf3c3"
+  },
+  "What time do they eat dinner?": {
+    "file": "audio/bf091a5c72a5e311de05d2e2f6cdedf9356386203c9daa5496bbc16b5c5e74b9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 5.538945,
+    "end": 7.349886499999999,
+    "sha256": "e3718e22703f84a0eb45f41741bfd0d5d387db6f9dd65781f2cfb5db603da73f"
+  },
+  "Where does this bus stop?": {
+    "file": "audio/1c698674c28a4dc4cca6380ff490ac65302edd04ca2b141c6cb4442f54ec6ba9.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 7.349886499999999,
+    "end": 9.20644,
+    "sha256": "d95b4a6567d16132fb4b5497124ed5df344b5d6fbb8a47241beba30b84e0b3eb"
+  },
+  "Why do you walk to school?": {
+    "file": "audio/0f43a2da1487c1fd54e0b20c27007b999d0bb9e266cf01f0e5912b6061409a60.weba",
+    "voice": "voice-00",
+    "batch": "rebuild-004",
+    "group": 9,
+    "start": 9.20644,
+    "end": null,
+    "sha256": "73ffa69869ee45663e08a2352a58b465bf13315d3f4fd2a738a263e3f75aed0c"
   }
 }

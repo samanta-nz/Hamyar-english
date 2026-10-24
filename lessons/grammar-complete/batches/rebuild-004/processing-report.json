@@ -1,0 +1,307 @@
+{
+  "batch": "rebuild-004",
+  "accepted": [
+    {
+      "id": "word_read",
+      "text": "read",
+      "recording": "3316348dbadfb7b11c7c2ea235949419e23f9fa898ad2c198f999617912a9925"
+    },
+    {
+      "id": "word_studied",
+      "text": "studied",
+      "recording": "312d4d2ec507f40c50487c914b6e1ed5ffd8ac5a8e015a10739ffa4db477fdcd"
+    },
+    {
+      "id": "word_studies",
+      "text": "studies",
+      "recording": "48d492d08e9d314c034cc87fc1f8c577590e9283b943103818e7a09e5d636ef7"
+    },
+    {
+      "id": "word_study",
+      "text": "study",
+      "recording": "0c87ed818fb90f3f88faa6b362cf1e99025f3c1248f8fe513cdb38d03d9dce65"
+    },
+    {
+      "id": "word_talk",
+      "text": "talk",
+      "recording": "ce7611e7481e75f085f6902050b40918b0e8374634eeb803ad3e340e90267d6a"
+    },
+    {
+      "id": "word_usually",
+      "text": "usually",
+      "recording": "ceb1e2514a1f1b4530979dc2beede29a4a1d424e09437d9f2d5dcb0983f5a78d"
+    },
+    {
+      "id": "word_visit",
+      "text": "visit",
+      "recording": "f0e68ac26df2184062ae2a945cd0b5e58466d75d6858359b7127776e9710a364"
+    },
+    {
+      "id": "word_walk",
+      "text": "walk",
+      "recording": "7a6c4fac6c5cd7209ee2eecd9d6ad3673c55315117de1d8daa5aeb3f71bbd7c7"
+    },
+    {
+      "id": "word_watch",
+      "text": "watch",
+      "recording": "baed831623943be39ebf0ef44ae1e9c8fc3eeab51b5f89c113ca410d76a34c1d"
+    },
+    {
+      "id": "word_watches",
+      "text": "watches",
+      "recording": "e884d6537d639e2efad64154490fe050da190119806cba416fc52ec2288d1437"
+    },
+    {
+      "id": "word_working",
+      "text": "working",
+      "recording": "dd5ace9e018dbd62336cbe039916ad7c817d0e9bc9934f70d67f3ff75544da88"
+    },
+    {
+      "id": "new_present_simple_0001",
+      "text": "I walk to school every day.",
+      "recording": "573b5abffed4836f1218cbabe775eca2819dd21c41f8d8ed67643cd5f7159460"
+    },
+    {
+      "id": "new_present_simple_0002",
+      "text": "You read before bed.",
+      "recording": "53eb5b2636d009ced26fe1516cb44a15348aecc7d718b25ddca1321ecdd9d0ab"
+    },
+    {
+      "id": "new_present_simple_0003",
+      "text": "We eat lunch at noon.",
+      "recording": "d92a67f5c044c8288598fef5a4b89160586fa14af0377bcd14f046202faefdf1"
+    },
+    {
+      "id": "new_present_simple_0004",
+      "text": "They visit their aunt on Fridays.",
+      "recording": "22b7c0a90859614bc21ceedb5b55e7a83c0bfc42851f2716223d5ae7d369afb1"
+    },
+    {
+      "id": "new_present_simple_0005",
+      "text": "He works at a bank.",
+      "recording": "d36e4a920511e23314391b9a004c493d4627ad2c20cb311b585db840f1a55cd9"
+    },
+    {
+      "id": "new_present_simple_0006",
+      "text": "Sara studies English after dinner.",
+      "recording": "39c3e529caeebfeefee20673944e09b79bc6803b316ec5afa7c0d30fa986ee72"
+    },
+    {
+      "id": "new_present_simple_0007",
+      "text": "Mina plays the piano.",
+      "recording": "ec21586628aab2c1d3a3aa1b4e91e2ba58d8c26d24e80b4a8218f0b3cfa351e1"
+    },
+    {
+      "id": "new_present_simple_0008",
+      "text": "He watches the news.",
+      "recording": "204609d7a73a047c699ae3cdaa025710fcc7a9dea78b11e9b163a6d55f489736"
+    },
+    {
+      "id": "new_present_simple_0013",
+      "text": "I have a small desk.",
+      "recording": "ebc6a76f95820eda82a9d0fa36176a7e1be00daefba9ca545fb50514311ed48c"
+    },
+    {
+      "id": "new_present_simple_0014",
+      "text": "You have two classes today.",
+      "recording": "0ccdda9272f9902fa8a7f54044e9642b6429d76419f9ee1fd4a8d966062e9f8b"
+    },
+    {
+      "id": "new_present_simple_0015",
+      "text": "We have breakfast at home.",
+      "recording": "42cce8d36d243eea655de1ee3f1b545860aaa58cc4c2ffae2165bc8b44c44fed"
+    },
+    {
+      "id": "new_present_simple_0016",
+      "text": "They have a garden.",
+      "recording": "6814743019128fab423280c177fcae85117aed5a05840c1391404ab2acdf42f2"
+    },
+    {
+      "id": "new_present_simple_0017",
+      "text": "He has a new bicycle.",
+      "recording": "08a53e74f7b5f91919325b8cecd01a8339a4c1a1efcb4fc5f2ea645ad68c1459"
+    },
+    {
+      "id": "new_present_simple_0018",
+      "text": "Sara has music lessons on Tuesday.",
+      "recording": "2e655c078d46a0ad3c513dca2c86e1f2fdb974c4af46136d797c20aae655dc8c"
+    },
+    {
+      "id": "new_present_simple_0019",
+      "text": "I always pack my bag at night.",
+      "recording": "4da49d7518f392d36e34c2d498c207b08a7a39b18cd84a37075f4359ebc8fe50"
+    },
+    {
+      "id": "new_present_simple_0020",
+      "text": "She usually drinks tea in the morning.",
+      "recording": "e925096a38ccb218b3fef0bcbbae2bcc5c0e15ae2d1869aa7d2deac6f9555e64"
+    },
+    {
+      "id": "new_present_simple_0021",
+      "text": "We often walk after dinner.",
+      "recording": "79e60ceb97d7fc6669a6aaa99ef3899b4b39c8418c1a9eb85fba6626c663226d"
+    },
+    {
+      "id": "new_present_simple_0022",
+      "text": "He sometimes cooks for his family.",
+      "recording": "ff33d8289ca76f55a68a4640a73f35ade89f85e4ba825ace4ca891e37da7d304"
+    },
+    {
+      "id": "new_present_simple_0023",
+      "text": "They rarely take a taxi.",
+      "recording": "0c3cb0de553b39082a58f847a4c5ef130232f988bcd7839eac06e78237e74de1"
+    },
+    {
+      "id": "new_present_simple_0024",
+      "text": "Sara never skips breakfast.",
+      "recording": "4fb62c3c2163523e157509e815f754a486ecfa05b5f923c251b8836504072145"
+    },
+    {
+      "id": "new_present_simple_0031",
+      "text": "She works in a shop.",
+      "recording": "b549c3eaace9d6701a0bd42fc024a94459447dbaf232d97354fc0a41517eaca4"
+    },
+    {
+      "id": "new_present_simple_0032",
+      "text": "He laughs at the joke.",
+      "recording": "deae7833a923e2b263c13b279c56258516de9fc9f518fd00f41c34f52b726b73"
+    },
+    {
+      "id": "new_present_simple_0033",
+      "text": "Mina plays chess.",
+      "recording": "d20002c8f17877ff6b7e0630376504d15a44487a015cfa5d1dadeb994290393a"
+    },
+    {
+      "id": "new_present_simple_0034",
+      "text": "The dog runs in the yard.",
+      "recording": "0311bd84aacd62be7d38c970365ac6446a5c828691ec0b3a0010dd53159ec93b"
+    },
+    {
+      "id": "new_present_simple_0035",
+      "text": "She watches a film.",
+      "recording": "8e91fa305c29af9ece55ca06fa48e7fa02188b78035efb781b46628f82d5c503"
+    },
+    {
+      "id": "new_present_simple_0036",
+      "text": "He washes the dishes.",
+      "recording": "276da7131a92bfd7199e6ba8b6c7aa5413e615f2d47811d78828edd7dba31d69"
+    },
+    {
+      "id": "new_present_simple_0049",
+      "text": "The sun rises in the east.",
+      "recording": "8b3ce0d8c1cadfb4c7de54acdcef26cfce0249e845bb1434d5d81e2a07ecb278"
+    },
+    {
+      "id": "new_present_simple_0050",
+      "text": "Water freezes at zero degrees.",
+      "recording": "83a6d0daa847bbc74bb1ca18085a069be040375c1cf47dc9e3c901d8f918d63e"
+    },
+    {
+      "id": "new_present_simple_0051",
+      "text": "I brush my teeth every morning.",
+      "recording": "e8057a77f8e58f6ab07871c84b391e5f5557aca66096f8242ebd2bbf86d4a010"
+    },
+    {
+      "id": "new_present_simple_0052",
+      "text": "Sara takes the same train each day.",
+      "recording": "27283c29b8aa8de3c9a073c169e09917190560563153ebade4090bca8e065304"
+    },
+    {
+      "id": "new_present_simple_0053",
+      "text": "Plants need light to grow.",
+      "recording": "5ea6884f9ebff45c81b3e2810cdcf548a0b73a95e1e48c2f0d5504b7c1bdf4d1"
+    },
+    {
+      "id": "new_present_simple_0054",
+      "text": "Our class begins at nine.",
+      "recording": "9cb8f84f21eb3d14734049c8c95c6de55def770be6364ea9423ce89fdf0878ed"
+    },
+    {
+      "id": "new_present_simple_0055",
+      "text": "I do not drink coffee.",
+      "recording": "54b78a07cd892acdb3c3fcbab988b216edc59bf7bd4834e1ff3124f5c70e8f25"
+    },
+    {
+      "id": "new_present_simple_0056",
+      "text": "You don't need a ticket.",
+      "recording": "75101fa18b277fb344d309828fa145fe387281c724d20edc3447c62c6dd2ffba"
+    },
+    {
+      "id": "new_present_simple_0057",
+      "text": "We don't work on Fridays.",
+      "recording": "dd5a34de57e68104dde9fe3536a02faec8842823011be47c95a46d1910341a6c"
+    },
+    {
+      "id": "new_present_simple_0058",
+      "text": "They don't live nearby.",
+      "recording": "dc984047cfc2c7b0a8b95f540d14b200717f3cbc490794f04e342942ae61e119"
+    },
+    {
+      "id": "new_present_simple_0059",
+      "text": "He doesn't eat meat.",
+      "recording": "4348dbb46b8d34194350e2adab5b3d47ad8ce814af8f016e800cde854e77587c"
+    },
+    {
+      "id": "new_present_simple_0060",
+      "text": "Sara doesn't drive to school.",
+      "recording": "650b35c231db9469cb9db3935b92ebac98f1429ca179f62ca13b990031ca6b7a"
+    },
+    {
+      "id": "new_present_simple_0061",
+      "text": "Do you like this song?",
+      "recording": "2afa2f8687b7417e4ee7aae4dfc5147f28588d30dc0c78fb5522c2f79d10d8fd"
+    },
+    {
+      "id": "new_present_simple_0062",
+      "text": "Do they study together?",
+      "recording": "ae80f530eed403083775e78564d6655ad968d3b41699d0cf31d9cbdd8d22f967"
+    },
+    {
+      "id": "new_present_simple_0063",
+      "text": "Does he call his mother daily?",
+      "recording": "c917b31f7d49b6bc0dcddb84c7f0562e5961197a4f5c8aba87ff352115d591c3"
+    },
+    {
+      "id": "new_present_simple_0064",
+      "text": "Does Sara take the bus?",
+      "recording": "6f4e9f9ffdd6a5edcbbf63b46e50314d39e7cff69d1f3f3c76f9d56b8803b49f"
+    },
+    {
+      "id": "new_present_simple_0065",
+      "text": "Do we need more time?",
+      "recording": "51908063d28e09d09f9648424cb421f0c2b33cb9ec8da8837dfa5435f4ab666e"
+    },
+    {
+      "id": "new_present_simple_0066",
+      "text": "Does the shop open at nine?",
+      "recording": "f551ce868fdeaffbc9ac18c68a9bb213962a169c17fb190fdcbf9cfddc5b6220"
+    },
+    {
+      "id": "new_present_simple_0073",
+      "text": "When do you start work?",
+      "recording": "df6ab3e7a4638afb480cc63087a9ed87280d8843c294afd3329466976fb4b305"
+    },
+    {
+      "id": "new_present_simple_0074",
+      "text": "Where does Sara study?",
+      "recording": "805951eaf5c98126ce94291c7d668794d1f7fd52a92c8046873b341264cbc714"
+    },
+    {
+      "id": "new_present_simple_0075",
+      "text": "What time do they eat dinner?",
+      "recording": "bf091a5c72a5e311de05d2e2f6cdedf9356386203c9daa5496bbc16b5c5e74b9"
+    },
+    {
+      "id": "new_present_simple_0076",
+      "text": "Where does this bus stop?",
+      "recording": "1c698674c28a4dc4cca6380ff490ac65302edd04ca2b141c6cb4442f54ec6ba9"
+    },
+    {
+      "id": "new_present_simple_0077",
+      "text": "Why do you walk to school?",
+      "recording": "0f43a2da1487c1fd54e0b20c27007b999d0bb9e266cf01f0e5912b6061409a60"
+    }
+  ],
+  "held": [],
+  "alignmentMethod": "reviewed pause boundaries, not ASR or manual listening"
+}
